@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dell Med Events Ticker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --orange:#BF5700;--orange-dark:#8C3E00;--orange-light:#FDF0E6;
+    --cream:#FDFAF6;--charcoal:#1A1A1A;--gray:#6B6B6B;
+    --border:#E5D8CC;--white:#FFFFFF;
+    --internal-accent:#1a73e8;--internal-bg:#F0F7FF;--internal-border:#C5DCEF;
+    --ut-accent:#333f48;--ut-bg:#F4F5F6;--ut-border:#D5D9DC;
+  }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  html,body{height:100%;}
+  body{
+    font-family:'DM Sans',sans-serif;
+    background:var(--cream);
+    color:var(--charcoal);
+    display:flex;
+    flex-direction:column;
+    overflow:hidden;
+  }
+  .site-header{
+    background:var(--orange);
+    position:relative;
+    overflow:hidden;
+    flex-shrink:0;
+  }
+  .site-header::before{
+    content:'';position:absolute;top:-60px;right:-60px;
+    width:300px;height:300px;border-radius:50%;
+    background:rgba(255,255,255,0.06);
+  }
+  .header-inner{
+    max-width:1400px;margin:0 auto;
+    padding:24px 32px 20px;
+    position:relative;z-index:1;
+    display:flex;align-items:center;justify-content:space-between;
+    gap:24px;flex-wrap:wrap;
+  }
+  .header-left{flex:1;min-width:280px;}
+  .header-eyebrow{
+    font-size:0.7rem;font-weight:600;letter-spacing:0.12em;
+    text-transform:uppercase;color:rgba(255,255,255,0.65);
+    margin-bottom:6px;
+  }
+  .header-title{
+    font-family:'Playfair Display',serif;
+    font-size:clamp(1.4rem,3vw,2rem);
+    font-weight:700;color:#fff;line-height:1.15;
+  }
+  .header-sub{
+    font-size:0.82rem;color:rgba(255,255,255,0.75);
+    font-weight:300;margin-top:4px;
+  }
+  .header-controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap;}
+  .header-controls a, .header-controls button{
+    color:rgba(255,255,255,0.9);text-decoration:none;
+    font-size:0.78rem;font-weight:500;
+    padding:8px 14px;border-radius:6px;
+    border:1px solid rgba(255,255,255,0.3);
+    background:rgba(255,255,255,0.08);
+    cursor:pointer;font-family:'DM Sans',sans-serif;
+    transition:background 0.15s;
+  }
+  .header-controls a:hover, .header-controls button:hover{
+    background:rgba(255,255,255,0.2);color:#fff;
+  }
+  .filter-strip{
+    background:var(--orange-dark);
+    padding:10px 32px;
+    display:flex;gap:8px;align-items:center;flex-wrap:wrap;
+    border-bottom:3px solid rgba(0,0,0,0.15);
+    flex-shrink:0;
+  }
+  .filter-strip-label{
+    font-size:0.65rem;font-weight:600;letter-spacing:0.1em;
+    text-transform:uppercase;color:rgba(255,255,255,0.6);
+    margin-right:4px;
+  }
+  .filter-btn{
+    padding:4px 12px;border-radius:20px;
+    border:1px solid rgba(255,255,255,0.25);
+    background:rgba(255,255,255,0.08);
+    font-size:0.7rem;font-weight:500;cursor:pointer;
+    font-family:'DM Sans',sans-serif;
+    color:rgba(255,255,255,0.85);transition:all 0.15s;
+  }
+  .filter-btn.active{background:#fff;color:var(--orange-dark);border-color:#fff;}
+  .filter-btn:hover:not(.active){background:rgba(255,255,255,0.18);}
+  .filter-strip .spacer{flex:1;}
+  .updated-note{
+    font-size:0.65rem;color:rgba(255,255,255,0.55);
+    font-style:italic;
+  }
+
+  /* Ticker stage */
+  .ticker-stage{
+    flex:1;
+    position:relative;
+    overflow:hidden;
+    background:var(--cream);
+    /* fade top + bottom so events appear/disappear smoothly */
+    -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 80px, #000 calc(100% - 80px), transparent 100%);
+            mask-image: linear-gradient(180deg, transparent 0, #000 80px, #000 calc(100% - 80px), transparent 100%);
+  }
+  .ticker-track{
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    width:min(900px, 95vw);
+    will-change:transform;
+    animation: scroll-up 240s linear infinite;
+    /* Start the track BELOW the viewport */
+    top:100%;
+  }
+  .ticker-track.paused{animation-play-state:paused;}
+  @keyframes scroll-up{
+    from { transform: translate(-50%, 0); }
+    to   { transform: translate(-50%, -100%); }
+  }
+
+  /* Event tile — uses the same card design as the calendar */
+  .event-card{
+    display:flex;
+    background:var(--white);
+    border:1px solid var(--border);
+    border-radius:8px;
+    overflow:hidden;
+    margin-bottom:14px;
+    text-decoration:none;
+    color:inherit;
+    transition:box-shadow 0.2s, transform 0.2s;
+  }
+  .event-card.internal{background:var(--internal-bg);border-color:var(--internal-border);}
+  .event-card.ut{background:var(--ut-bg);border-color:var(--ut-border);}
+  .event-card:hover{box-shadow:0 4px 24px rgba(191,87,0,0.18);transform:scale(1.01);}
+  .event-card.internal:hover{box-shadow:0 4px 24px rgba(26,115,232,0.18);}
+  .event-card.ut:hover{box-shadow:0 4px 24px rgba(51,63,72,0.18);}
+
+  .event-date-col{
+    width:80px;flex-shrink:0;
+    background:var(--orange-light);
+    border-right:1px solid var(--border);
+    display:flex;flex-direction:column;align-items:center;justify-content:center;
+    padding:14px 8px;text-align:center;
+  }
+  .event-card.internal .event-date-col{background:#D6EAFF;border-right-color:var(--internal-border);}
+  .event-card.ut .event-date-col{background:#E5E8EB;border-right-color:var(--ut-border);}
+  .event-date-col.today-col{background:var(--orange)!important;}
+
+  .ev-month{font-size:0.7rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--orange);}
+  .event-card.internal .ev-month{color:var(--internal-accent);}
+  .event-card.ut .ev-month{color:var(--ut-accent);}
+  .today-col .ev-month{color:rgba(255,255,255,0.85)!important;}
+
+  .ev-day{
+    font-family:'Playfair Display',serif;
+    font-size:2rem;font-weight:700;line-height:1;
+    color:var(--charcoal);margin:4px 0;
+  }
+  .today-col .ev-day{color:#fff;}
+
+  .ev-dow{font-size:0.62rem;color:var(--gray);text-transform:uppercase;letter-spacing:0.08em;}
+  .today-col .ev-dow{color:rgba(255,255,255,0.75);}
+
+  .event-body{flex:1;padding:16px 20px;min-width:0;display:flex;flex-direction:column;justify-content:center;}
+  .ev-title{
+    font-size:1.05rem;font-weight:600;
+    color:var(--charcoal);line-height:1.35;margin-bottom:6px;
+  }
+  .ev-meta{font-size:0.82rem;color:var(--gray);display:flex;flex-wrap:wrap;gap:14px;}
+  .ev-meta-item{display:flex;align-items:center;gap:5px;}
+
+  .source-badge{
+    display:inline-block;font-size:0.58rem;font-weight:700;
+    letter-spacing:0.08em;text-transform:uppercase;
+    padding:2px 7px;border-radius:3px;margin-left:8px;vertical-align:middle;
+  }
+  .badge-internal{background:var(--internal-accent);color:#fff;}
+  .badge-ut{background:var(--ut-accent);color:#fff;}
+  .badge-today{background:var(--orange);color:#fff;}
+
+  .loading, .no-events{
+    position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+    text-align:center;color:var(--gray);font-size:1rem;font-style:italic;
+  }
+
+  /* Responsive tweaks for narrow / phone screens */
+  @media(max-width:720px){
+    .header-inner{padding:18px 16px 14px;}
+    .filter-strip{padding:8px 16px;}
+    .event-date-col{width:62px;}
+    .ev-day{font-size:1.5rem;}
+    .ev-title{font-size:0.95rem;}
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-left">
+      <div class="header-eyebrow">Department of Medicine · Live Display</div>
+      <h1 class="header-title">Dell Med Events Ticker</h1>
+      <div class="header-sub">Upcoming events scrolling continuously</div>
+    </div>
+    <div class="header-controls">
+      <a href="index.html">📅 Calendar View</a>
+      <button id="pauseBtn">⏸ Pause</button>
+    </div>
+  </div>
+</header>
+
+<div class="filter-strip">
+  <span class="filter-strip-label">Sources:</span>
+  <button class="filter-btn active" onclick="setFilter('all')"      id="filter-all">All</button>
+  <button class="filter-btn active" onclick="setFilter('public')"   id="filter-public">🌐 Public</button>
+  <button class="filter-btn active" onclick="setFilter('internal')" id="filter-internal">🔒 Internal</button>
+  <button class="filter-btn active" onclick="setFilter('ut')"       id="filter-ut">🤘 UT Austin</button>
+  <div class="spacer"></div>
+  <span class="updated-note" id="updated-note">Loading…</span>
+</div>
+
+<div class="ticker-stage" id="tickerStage">
+  <div class="ticker-track" id="tickerTrack">
+    <div class="loading">Loading events…</div>
+  </div>
+</div>
+
+<script>
+const DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const MS   = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+
+let EVENTS = [];
+let activeFilter = 'all';
+
+function pd(s){ const [y,m,d] = s.split('-').map(Number); return new Date(y,m-1,d); }
+
+function getFiltered(){
+  const today = new Date(); today.setHours(0,0,0,0);
+  return EVENTS
+    .map(e => ({...e, dt: pd(e.date || e.start)}))
+    .filter(e => {
+      if (e.dt < today) return false;
+      if (activeFilter === 'public')   return e.source === 'public';
+      if (activeFilter === 'internal') return e.source === 'internal';
+      if (activeFilter === 'ut')       return e.source === 'ut';
+      return true;
+    })
+    .sort((a,b) => a.dt - b.dt);
+}
+
+function setFilter(f){
+  activeFilter = f;
+  document.getElementById('filter-all').classList.toggle('active',      f==='all');
+  document.getElementById('filter-public').classList.toggle('active',   f==='all'||f==='public');
+  document.getElementById('filter-internal').classList.toggle('active', f==='all'||f==='internal');
+  document.getElementById('filter-ut').classList.toggle('active',       f==='all'||f==='ut');
+  render();
+}
+
+function escapeHtml(s){
+  if (s===undefined||s===null) return '';
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+const clockSVG='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>';
+const pinSVG='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
+
+function cardHTML(ev){
+  const today = new Date(); today.setHours(0,0,0,0);
+  const isToday = ev.dt.toDateString() === today.toDateString();
+  const badges = [];
+  if (ev.source==='internal') badges.push('<span class="source-badge badge-internal">Internal</span>');
+  if (ev.source==='ut')       badges.push('<span class="source-badge badge-ut">UT Austin</span>');
+  if (isToday)                badges.push('<span class="source-badge badge-today">Today</span>');
+  const metaItems = [];
+  if (ev.time)     metaItems.push(`<span class="ev-meta-item">${clockSVG} ${escapeHtml(ev.time)}</span>`);
+  if (ev.location) metaItems.push(`<span class="ev-meta-item">${pinSVG} ${escapeHtml(ev.location)}</span>`);
+  return `
+    <a class="event-card ${escapeHtml(ev.source)}" href="${escapeHtml(ev.url)}" target="_blank" rel="noopener">
+      <div class="event-date-col${isToday?' today-col':''}">
+        <span class="ev-month">${MS[ev.dt.getMonth()]}</span>
+        <span class="ev-day">${ev.dt.getDate()}</span>
+        <span class="ev-dow">${DAYS[ev.dt.getDay()]}</span>
+      </div>
+      <div class="event-body">
+        <div class="ev-title">${escapeHtml(ev.title)}${badges.join('')}</div>
+        ${metaItems.length ? `<div class="ev-meta">${metaItems.join('')}</div>` : ''}
+      </div>
+    </a>
+  `;
+}
+
+function render(){
+  const track = document.getElementById('tickerTrack');
+  const events = getFiltered();
+
+  if (!events.length){
+    track.innerHTML = '<div class="no-events">No upcoming events match your filters.</div>';
+    track.style.animation = 'none';
+    return;
+  }
+
+  // De-dupe by title so recurring office hours don't dominate
+  // (keeps each title's next upcoming instance)
+  const seen = new Set();
+  const tickerEvents = [];
+  for (const e of events){
+    const k = e.title.trim().toLowerCase();
+    if (seen.has(k)) continue;
+    seen.add(k);
+    tickerEvents.push(e);
+  }
+
+  // Build content once; we'll duplicate it for seamless infinite loop
+  const html = tickerEvents.map(cardHTML).join('');
+  track.innerHTML = html + html;
+
+  // Calculate animation duration based on number of events
+  // ~6 seconds per event, 60s floor, 600s ceiling
+  const duration = Math.min(600, Math.max(60, tickerEvents.length * 6));
+
+  // Restart animation cleanly so the new duration takes effect
+  track.style.animation = 'none';
+  void track.offsetHeight; // force reflow
+  track.style.animation = `scroll-up ${duration}s linear infinite`;
+}
+
+document.getElementById('pauseBtn').addEventListener('click', (e) => {
+  const track = document.getElementById('tickerTrack');
+  track.classList.toggle('paused');
+  e.target.textContent = track.classList.contains('paused') ? '▶ Resume' : '⏸ Pause';
+});
+
+// Load events from the live data feed
+fetch('data/events.json?ts=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error('Failed to load events.json'); return r.json(); })
+  .then(data => {
+    EVENTS = (data.events || []).map(e => ({
+      date: e.start,
+      time: e.time,
+      title: e.title,
+      location: e.location,
+      url: e.url,
+      source: e.source
+    }));
+    if (data.updated) {
+      const d = new Date(data.updated);
+      const updated = d.toLocaleDateString('en-US', { month:'short', day:'numeric' }) +
+                      ' ' + d.toLocaleTimeString('en-US', { hour:'numeric', minute:'2-digit' });
+      document.getElementById('updated-note').textContent = 'Updated ' + updated;
+    }
+    render();
+  })
+  .catch(err => {
+    console.error(err);
+    document.getElementById('tickerTrack').innerHTML =
+      '<div class="no-events">Could not load events. Check that data/events.json is published.</div>';
+    document.getElementById('updated-note').textContent = 'Update failed';
+  });
+
+// Re-render every 30 min in case the page is left open for a long time
+setInterval(() => {
+  fetch('data/events.json?ts=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      EVENTS = (data.events || []).map(e => ({
+        date: e.start, time: e.time, title: e.title,
+        location: e.location, url: e.url, source: e.source
+      }));
+      render();
+    })
+    .catch(() => {});
+}, 30 * 60 * 1000);
+</script>
+</body>
+</html>
