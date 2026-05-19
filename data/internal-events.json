@@ -1,17 +1,1947 @@
 {
-     "events": [
-       {
-         "title": "Department of Medicine Faculty Meeting",
-         "start": "2026-06-15",
-         "time": "12:00 PM - 1:00 PM",
-         "location": "HDB 1.208",
-         "speaker": "Dr. Jane Smith",
-         "url": "https://intranet.dellmed.utexas.edu/events/some-event-page"
-       },
-       {
-         "title": "Another internal event",
-         "start": "2026-07-01",
-         "url": "https://intranet.dellmed.utexas.edu/events"
-       }
-     ]
-   }
+  "_comment": "Internal Dell Med intranet events, last manually synced from https://intranet.dellmed.utexas.edu/events. Update this file when new internal events are posted.",
+  "_format": "Each event: title, start (YYYY-MM-DD), url. Optional: time, location, speaker, end.",
+  "events": [
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-05-12",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/12"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-05-12",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/05/12"
+    },
+    {
+      "title": "Epic Reporting Training Sessions",
+      "start": "2026-05-13",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1020666/2026/05/13"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-05-13",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/05/13"
+    },
+    {
+      "title": "DSPC Discovery and Investigation Seminar Series",
+      "start": "2026-05-13",
+      "time": "4:00 PM - 5:00 PM",
+      "location": "HDB 6.110 or Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/984968/",
+      "speaker": "Sullivan \"Sully\" Ayuso, M.D. - Individualizing Hernia Care: From Surgical Outcome Prediction to Postoperative Recovery"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-05-14",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/14"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-05-14",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/05/14"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-05-19",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/19"
+    },
+    {
+      "title": "In Conversation Discussion Series: Professional Mentorship, Sponsorship, and Coaching",
+      "start": "2026-05-19",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1002985/"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-05-19",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/05/19"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-05-19",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/05/19"
+    },
+    {
+      "title": "Dell Medical School Spring Town Hall",
+      "start": "2026-05-19",
+      "time": "4:30 PM - 5:30 PM",
+      "location": "Hybrid: Health Learning Building Auditorium and Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018479/"
+    },
+    {
+      "title": "Epic Reporting Training Sessions",
+      "start": "2026-05-20",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1020666/2026/05/20"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-05-20",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/05/20"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-05-21",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/21"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-05-21",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/05/21"
+    },
+    {
+      "title": "UT Health Austin Lunch & Learn",
+      "start": "2026-05-21",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "HTB Boardroom (HTB 10.114) and virtually",
+      "url": "https://intranet.dellmed.utexas.edu/event/1021664/",
+      "speaker": "Dr. Divya Rayapati and Dr. Kristina Tzartzeva"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-05-21",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/05/21"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-05-21",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/05/21"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-05-22",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/05/22"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-05-26",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/26"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-05-26",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/05/26"
+    },
+    {
+      "title": "Epic Reporting Training Sessions",
+      "start": "2026-05-27",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1020666/2026/05/27"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-05-27",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/05/27"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-05-28",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/28"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-05-28",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/05/28"
+    },
+    {
+      "title": "EAP Monthly Mindfulness Workshop",
+      "start": "2026-05-28",
+      "time": "12:15 PM - 12:45 PM",
+      "location": "HDB 1.204",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018375/"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-02",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/02"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-02",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/02"
+    },
+    {
+      "title": "Cybersecurity & Compliance Office Hour",
+      "start": "2026-06-02",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/06/02"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-06-02",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/06/02"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-06-03",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/06/03"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-04",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/04"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-04",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/04"
+    },
+    {
+      "title": "Medical Humanities Reflection Rounds",
+      "start": "2026-06-04",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "HDB 1.204",
+      "url": "https://intranet.dellmed.utexas.edu/event/1021692/"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-06-04",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/06/04"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-06-05",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/06/05"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-09",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/09"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-09",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/09"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-06-10",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/06/10"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-11",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/11"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-11",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/11"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-16",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/16"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-16",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/16"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-06-16",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/06/16"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-06-17",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/06/17"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-18",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/18"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-18",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/18"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-06-18",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/06/18"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-06-18",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/06/18"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-23",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/23"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-23",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/23"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-06-24",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/06/24"
+    },
+    {
+      "title": "Faculty Academic Orientation - Faculty Connect",
+      "start": "2026-06-24",
+      "time": "5:30 PM - 7:30 PM",
+      "location": "HDB 1.108",
+      "url": "https://intranet.dellmed.utexas.edu/event/1021035/"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-25",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/25"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-25",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/25"
+    },
+    {
+      "title": "EAP Monthly Mindfulness Workshop",
+      "start": "2026-06-25",
+      "time": "11:45 AM - 12:15 PM",
+      "location": "HDB 1.204",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018409/"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-06-30",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/30"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-06-30",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/30"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-06-30",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/06/30"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-07-01",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/01"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-02",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/02"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-02",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/02"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-07-02",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/07/02"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-07-03",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/03"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-07",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/07"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-07",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/07"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-07-08",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/07/08"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-09",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/09"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-09",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/09"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-14",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/14"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-14",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/14"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-07-14",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/07/14"
+    },
+    {
+      "title": "Annual Dell Med Resource Fair",
+      "start": "2026-07-15",
+      "time": "7:30 AM - 9:30 AM",
+      "location": "HDB Courtyard, First Floor Atrium, 1.202, 1.204, & 1.208",
+      "url": "https://intranet.dellmed.utexas.edu/event/1004986/"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-07-15",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/15"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-16",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/16"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-16",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/16"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-07-16",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/07/16"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-07-16",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/07/16"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-07-17",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/17"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-21",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/21"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-21",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/21"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-23",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/23"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-23",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/23"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-28",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/28"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-28",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/28"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-07-28",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/07/28"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-07-29",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/29"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-07-30",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/30"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-07-30",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/30"
+    },
+    {
+      "title": "EAP Monthly Mindfulness Workshop",
+      "start": "2026-07-30",
+      "time": "12:15 PM - 12:45 PM",
+      "location": "HDB 1.204",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018407/"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-07-31",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/31"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-04",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/04"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-04",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/04"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-08-05",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/08/05"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-06",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/06"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-06",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/06"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-08-06",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/08/06"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-11",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/11"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-11",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/11"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-08-11",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/08/11"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-08-12",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/08/12"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-13",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/13"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-13",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/13"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-08-14",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/08/14"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-18",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/18"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-18",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/18"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-08-19",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/08/19"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-20",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/20"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-20",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/20"
+    },
+    {
+      "title": "EAP Monthly Mindfulness Workshop",
+      "start": "2026-08-20",
+      "time": "11:45 AM - 12:15 PM",
+      "location": "HDB 1.204",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018408/"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-08-20",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/08/20"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-08-20",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/08/20"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-25",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/25"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-25",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/25"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-08-25",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/08/25"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-08-26",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/08/26"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-08-27",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/27"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-08-27",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/27"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-08-28",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/08/28"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-01",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/01"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-01",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/01"
+    },
+    {
+      "title": "Cybersecurity & Compliance Office Hour",
+      "start": "2026-09-01",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/09/01"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
+      "start": "2026-09-02",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/09/02"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-03",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/03"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-03",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/03"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-09-03",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/09/03"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-08",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/08"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-08",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/08"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-09-08",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/09/08"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-09-09",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/09/09"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-10",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/10"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-10",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/10"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-09-11",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/09/11"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-15",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/15"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-15",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/15"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-17",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/17"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-17",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/17"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-09-17",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/09/17"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-09-17",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/09/17"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-22",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/22"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-22",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/22"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-09-22",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/09/22"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-09-23",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/09/23"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-24",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/24"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-24",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/24"
+    },
+    {
+      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
+      "start": "2026-09-25",
+      "time": "8:00 AM - 9:00 AM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/09/25"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-09-29",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/29"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-09-29",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/29"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-01",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/01"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-01",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/01"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-10-01",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/10/01"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-06",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/06"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-06",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/06"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-10-06",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/10/06"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-10-07",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/10/07"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-08",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/08"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-08",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/08"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-13",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/13"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-13",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/13"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-15",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/15"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-15",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/15"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-10-15",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/10/15"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-10-15",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/10/15"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-20",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/20"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-20",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/20"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-10-20",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/10/20"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-10-21",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/10/21"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-22",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/22"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-22",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/22"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-27",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/27"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-27",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/27"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-10-29",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/29"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-10-29",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/29"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-03",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/03"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-03",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/03"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-11-03",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/11/03"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-11-04",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/11/04"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-05",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/05"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-05",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/05"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-11-05",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/11/05"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-10",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/10"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-10",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/10"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-12",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/12"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-12",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/12"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-17",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/17"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-17",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/17"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-11-17",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/11/17"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-11-18",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/11/18"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-19",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/19"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-19",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-11-19",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/11/19"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-11-19",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/11/19"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-24",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/24"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-24",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-11-26",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/26"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-11-26",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/26"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-01",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/01"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-01",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/01"
+    },
+    {
+      "title": "Cybersecurity & Compliance Office Hour",
+      "start": "2026-12-01",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/12/01"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-12-01",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/12/01"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-12-02",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/02"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-03",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/03"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-03",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/03"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-12-03",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/12/03"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-08",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/08"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-08",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/08"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-10",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/10"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-10",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-15",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/15"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-15",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/15"
+    },
+    {
+      "title": "Cybersecurity Office Hours",
+      "start": "2026-12-15",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "MS Teams",
+      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/12/15"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-12-16",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/16"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-17",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/17"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-17",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2026-12-17",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/12/17"
+    },
+    {
+      "title": "Bi-Monthly Office of Research Office Hours",
+      "start": "2026-12-17",
+      "time": "1:30 PM - 2:30 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/12/17"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-22",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/22"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-22",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/22"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-24",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/24"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-24",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-29",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/29"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-29",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/29"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2026-12-30",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/30"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2026-12-31",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/31"
+    },
+    {
+      "title": "Talent Acquisition Office Hours",
+      "start": "2026-12-31",
+      "time": "11:00 AM - 12:00 PM",
+      "location": "Virtual (Teams)",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-05",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/05"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-07",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/07"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-12",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/12"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-01-13",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/13"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-14",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/14"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-19",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/19"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-21",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/21"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2027-01-21",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/01/21"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-26",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/26"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-01-27",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/27"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-01-28",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/28"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-02",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/02"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-04",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/04"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-09",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/09"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-02-10",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/10"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-11",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/11"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-16",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/16"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-18",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/18"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2027-02-18",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/02/18"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-23",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/23"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-02-24",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/24"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-02-25",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/25"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-02",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/02"
+    },
+    {
+      "title": "Cybersecurity & Compliance Office Hour",
+      "start": "2027-03-02",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/751984/2027/03/02"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-04",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/04"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-09",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/09"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-03-10",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/03/10"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-11",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/11"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-16",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/16"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-18",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/18"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2027-03-18",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/03/18"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-23",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/23"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-03-24",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/03/24"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-25",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/25"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-03-30",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/30"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-01",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/01"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-06",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/06"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-04-07",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/07"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-08",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/08"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-13",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/13"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-15",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/15"
+    },
+    {
+      "title": "Medical Education Research Office Hours",
+      "start": "2027-04-15",
+      "time": "12:00 PM - 1:00 PM",
+      "location": "Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/04/15"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-20",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/20"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-04-21",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/21"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-22",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/22"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-27",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/27"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-04-29",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/29"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-05-04",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/04"
+    },
+    {
+      "title": "IT Office Hour (HDB & Zoom)",
+      "start": "2027-05-05",
+      "time": "3:00 PM - 4:00 PM",
+      "location": "Hybrid: HDB 8.000 & Zoom",
+      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/05"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-05-06",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/06"
+    },
+    {
+      "title": "IT Office Hour (DPRI)",
+      "start": "2027-05-11",
+      "time": "8:00 AM - 12:00 PM",
+      "location": "3.708A",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/11"
+    }
+  ]
+}
