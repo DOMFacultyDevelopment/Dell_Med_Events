@@ -97,6 +97,85 @@
   .site-footer a:hover{text-decoration:underline;}
   .no-events{text-align:center;padding:40px;color:var(--gray);font-size:0.9rem;}
   .loading{text-align:center;padding:40px;color:var(--gray);font-size:0.9rem;font-style:italic;}
+
+  /* ── View switcher ───────────────────────────────────────── */
+  .view-switch{display:flex;gap:4px;background:var(--orange-light);border:1px solid var(--border);border-radius:8px;padding:3px;}
+  .view-switch button{
+    border:none;background:transparent;cursor:pointer;font-family:'DM Sans',sans-serif;
+    font-size:0.72rem;font-weight:600;color:var(--gray);padding:5px 12px;border-radius:6px;
+    transition:all 0.15s;
+  }
+  .view-switch button.active{background:var(--orange);color:#fff;}
+  .view-switch button:hover:not(.active){background:rgba(191,87,0,0.1);color:var(--orange-dark);}
+
+  /* ── Grid navigation header ──────────────────────────────── */
+  .grid-nav{display:flex;align-items:center;gap:12px;margin-bottom:16px;}
+  .grid-nav button{
+    border:1px solid var(--border);background:var(--white);cursor:pointer;
+    font-family:'DM Sans',sans-serif;font-size:0.85rem;color:var(--charcoal);
+    width:32px;height:32px;border-radius:6px;display:flex;align-items:center;justify-content:center;
+    transition:all 0.15s;
+  }
+  .grid-nav button:hover{background:var(--orange-light);border-color:var(--orange);color:var(--orange);}
+  .grid-nav .grid-period{font-family:'Playfair Display',serif;font-size:1.15rem;font-weight:600;min-width:200px;}
+  .grid-nav .today-btn{width:auto;padding:0 12px;font-size:0.72rem;font-weight:600;}
+
+  /* ── Month grid ──────────────────────────────────────────── */
+  .month-grid{border:1px solid var(--border);border-radius:8px;overflow:hidden;background:var(--white);}
+  .month-grid-head{display:grid;grid-template-columns:repeat(7,1fr);background:var(--orange-light);border-bottom:1px solid var(--border);}
+  .month-grid-head div{padding:8px 6px;text-align:center;font-size:0.62rem;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:var(--orange-dark);}
+  .month-grid-body{display:grid;grid-template-columns:repeat(7,1fr);}
+  .month-cell{min-height:96px;border-right:1px solid var(--border);border-bottom:1px solid var(--border);padding:4px 5px;overflow:hidden;}
+  .month-cell:nth-child(7n){border-right:none;}
+  .month-cell.other-month{background:#FBF8F4;}
+  .month-cell.today{background:var(--orange-light);}
+  .month-cell-date{font-size:0.72rem;font-weight:600;color:var(--gray);margin-bottom:3px;}
+  .month-cell.today .month-cell-date{color:var(--orange);font-weight:700;}
+  .month-cell.other-month .month-cell-date{color:#C9BCAE;}
+  .grid-event{
+    display:block;font-size:0.62rem;line-height:1.25;padding:2px 5px;border-radius:3px;
+    margin-bottom:2px;text-decoration:none;cursor:pointer;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+    background:var(--orange-light);color:var(--orange-dark);border-left:2px solid var(--orange);
+  }
+  .grid-event.internal{background:#E8F1FB;color:#1a4a8c;border-left-color:var(--internal-accent);}
+  .grid-event.ut{background:#ECEEF0;color:var(--ut-accent);border-left-color:var(--ut-accent);}
+  .grid-event:hover{filter:brightness(0.94);}
+  .grid-event .ge-time{font-weight:700;}
+  .month-more{font-size:0.6rem;color:var(--gray);font-weight:600;padding:1px 5px;cursor:pointer;}
+  .month-more:hover{color:var(--orange);}
+
+  /* ── Week grid ───────────────────────────────────────────── */
+  .week-grid-wrap{border:1px solid var(--border);border-radius:8px;overflow:hidden;background:var(--white);}
+  .week-head{display:grid;grid-template-columns:52px repeat(7,1fr);background:var(--orange-light);border-bottom:1px solid var(--border);}
+  .week-head div{padding:7px 4px;text-align:center;font-size:0.62rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--orange-dark);}
+  .week-head .week-dow-num{font-family:'Playfair Display',serif;font-size:1rem;display:block;color:var(--charcoal);}
+  .week-head .week-col.today .week-dow-num{color:var(--orange);}
+  .week-allday{display:grid;grid-template-columns:52px repeat(7,1fr);border-bottom:1px solid var(--border);min-height:28px;}
+  .week-allday-label{font-size:0.55rem;color:var(--gray);text-align:right;padding:4px 6px;font-weight:600;text-transform:uppercase;}
+  .week-allday-cell{border-left:1px solid var(--border);padding:3px 4px;}
+  .week-body{display:grid;grid-template-columns:52px repeat(7,1fr);max-height:560px;overflow-y:auto;position:relative;}
+  .week-hours{display:flex;flex-direction:column;}
+  .week-hour-label{height:48px;font-size:0.58rem;color:var(--gray);text-align:right;padding:2px 6px 0 0;border-bottom:1px solid #F0E7DC;}
+  .week-col-body{border-left:1px solid var(--border);position:relative;}
+  .week-hour-cell{height:48px;border-bottom:1px solid #F0E7DC;}
+  .week-col-body.today{background:rgba(191,87,0,0.04);}
+  .week-event{
+    position:absolute;left:2px;right:2px;border-radius:4px;padding:3px 5px;overflow:hidden;
+    font-size:0.6rem;line-height:1.2;text-decoration:none;cursor:pointer;
+    background:var(--orange-light);color:var(--orange-dark);border-left:3px solid var(--orange);
+    box-shadow:0 1px 2px rgba(0,0,0,0.08);
+  }
+  .week-event.internal{background:#E8F1FB;color:#1a4a8c;border-left-color:var(--internal-accent);}
+  .week-event.ut{background:#ECEEF0;color:var(--ut-accent);border-left-color:var(--ut-accent);}
+  .week-event:hover{filter:brightness(0.95);z-index:5;}
+  .week-event .we-title{font-weight:600;}
+  .week-event .we-time{font-size:0.55rem;opacity:0.85;}
+  @media(max-width:720px){
+    .month-cell{min-height:64px;}
+    .week-body{max-height:420px;}
+    .grid-nav .grid-period{min-width:auto;font-size:1rem;}
+  }
 </style>
 </head>
 <body>
@@ -139,7 +218,14 @@
   <div class="events-col">
     <div class="events-header">
       <h2 class="events-title">Upcoming Events</h2>
-      <span class="events-count" id="events-count"></span>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <span class="events-count" id="events-count"></span>
+        <div class="view-switch">
+          <button id="view-list" class="active" onclick="setView('list')">List</button>
+          <button id="view-month" onclick="setView('month')">Month</button>
+          <button id="view-week" onclick="setView('week')">Week</button>
+        </div>
+      </div>
     </div>
     <div class="updated-note" id="updated-note">Loading…</div>
     <div id="events-container"><div class="loading">Loading events…</div></div>
@@ -176,6 +262,9 @@ const ML    = ["January","February","March","April","May","June","July","August"
 
 let EVENTS = [];
 let activeFilter = 'all';
+let activeView = 'list';        // 'list' | 'month' | 'week'
+let gridAnchor = new Date();    // which month/week the grid is showing
+gridAnchor.setHours(0,0,0,0);
 
 document.getElementById('copy-btn').addEventListener('click', function(){
   navigator.clipboard.writeText(document.getElementById('ics-url').textContent).then(()=>{
@@ -193,22 +282,93 @@ function setFilter(f){
   render();
 }
 
+function setView(v){
+  activeView = v;
+  document.getElementById('view-list').classList.toggle('active', v==='list');
+  document.getElementById('view-month').classList.toggle('active', v==='month');
+  document.getElementById('view-week').classList.toggle('active', v==='week');
+  // Reset the grid anchor to today whenever switching into a grid view
+  if (v !== 'list'){ gridAnchor = new Date(); gridAnchor.setHours(0,0,0,0); }
+  render();
+}
+
+/* Parse a free-text time string like "12:00 PM - 1:00 PM" or "7:30-8:30 a.m."
+   Returns {startMin, endMin} in minutes-from-midnight, or null if not parseable. */
+function parseTime(str){
+  if (!str) return null;
+  const s = String(str).toLowerCase().replace(/[–—]/g,'-').replace(/\./g,'');
+  if (s.includes('all day')) return null;
+  // find up to two time tokens
+  const re = /(\d{1,2})(?::(\d{2}))?\s*(am|pm)?/g;
+  const toks = [];
+  let m;
+  while ((m = re.exec(s)) !== null){
+    if (m[0].trim() === '') continue;
+    toks.push({ h:parseInt(m[1],10), min:m[2]?parseInt(m[2],10):0, ap:m[3]||null });
+  }
+  if (!toks.length) return null;
+  // If only the second token has am/pm, apply it to the first too
+  if (toks.length >= 2 && !toks[0].ap && toks[1].ap) toks[0].ap = toks[1].ap;
+  function toMinutes(t){
+    let h = t.h;
+    if (t.ap === 'pm' && h !== 12) h += 12;
+    if (t.ap === 'am' && h === 12) h = 0;
+    if (!t.ap && h < 8) h += 12;  // bare hour <8 assumed afternoon
+    return h*60 + t.min;
+  }
+  const startMin = toMinutes(toks[0]);
+  let endMin = toks.length >= 2 ? toMinutes(toks[1]) : startMin + 60;
+  if (endMin <= startMin) endMin = startMin + 60;
+  return { startMin, endMin };
+}
+
+function minToLabel(min){
+  let h = Math.floor(min/60), m = min%60;
+  const ap = h < 12 ? 'AM' : 'PM';
+  const h12 = h%12 || 12;
+  return m ? `${h12}:${String(m).padStart(2,'0')} ${ap}` : `${h12} ${ap}`;
+}
+
 function pd(s){ const[y,m,d]=s.split('-').map(Number); return new Date(y,m-1,d); }
 
-function render(){
-  const today = new Date(); today.setHours(0,0,0,0);
-  const todayStr = today.toDateString();
+// SVG icons used across views
+const ARROW_SVG='<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>';
+const CLOCK_SVG='<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>';
+const PIN_SVG='<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
 
-  const upcoming = EVENTS
-    .map(e=>( {...e, dt:pd(e.date || e.start)} ))
-    .filter(e=>{
-      if (e.dt < today) return false;
+function escapeHtml(s){
+  if (s===undefined||s===null) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// Apply source filter; used by all three views
+function filteredEvents(){
+  return EVENTS
+    .map(e => ({...e, dt: pd(e.date || e.start)}))
+    .filter(e => {
       if (activeFilter === 'public')   return e.source === 'public';
       if (activeFilter === 'internal') return e.source === 'internal';
       if (activeFilter === 'ut')       return e.source === 'ut';
       return true;
-    })
-    .sort((a,b)=>a.dt-b.dt);
+    });
+}
+
+// ── Dispatcher ───────────────────────────────────────────────
+function render(){
+  if (activeView === 'month')      renderMonth();
+  else if (activeView === 'week')  renderWeek();
+  else                             renderList();
+}
+
+// ── LIST VIEW (original behavior) ────────────────────────────
+function renderList(){
+  const today = new Date(); today.setHours(0,0,0,0);
+  const todayStr = today.toDateString();
+
+  const upcoming = filteredEvents()
+    .filter(e => e.dt >= today)
+    .sort((a,b) => a.dt - b.dt);
 
   document.getElementById('events-count').textContent =
     upcoming.length + ' upcoming event' + (upcoming.length!==1?'s':'');
@@ -223,10 +383,6 @@ function render(){
   const c = document.getElementById('events-container');
   c.innerHTML = '';
   if(!upcoming.length){c.innerHTML='<div class="no-events">No upcoming events match your filters.</div>';return;}
-
-  const arrowSVG='<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>';
-  const clockSVG='<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>';
-  const pinSVG='<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>';
 
   for(const g of Object.values(groups)){
     const ge=document.createElement('div'); ge.className='month-group';
@@ -253,16 +409,196 @@ function render(){
       if(isToday){                const b=document.createElement('span'); b.className='source-badge badge-today';    b.textContent='Today';     title.appendChild(b); }
 
       const meta=document.createElement('div'); meta.className='ev-meta';
-      if(ev.time){    const t=document.createElement('span'); t.className='ev-meta-item'; t.innerHTML=clockSVG+' '+ev.time;     meta.appendChild(t); }
-      if(ev.location){const l=document.createElement('span'); l.className='ev-meta-item'; l.innerHTML=pinSVG+' '+ev.location;  meta.appendChild(l); }
+      if(ev.time){    const t=document.createElement('span'); t.className='ev-meta-item'; t.innerHTML=CLOCK_SVG+' '+escapeHtml(ev.time);     meta.appendChild(t); }
+      if(ev.location){const l=document.createElement('span'); l.className='ev-meta-item'; l.innerHTML=PIN_SVG+' '+escapeHtml(ev.location);  meta.appendChild(l); }
 
       body.append(title, meta);
-      const arrow=document.createElement('div'); arrow.className='ev-arrow'; arrow.innerHTML=arrowSVG;
+      const arrow=document.createElement('div'); arrow.className='ev-arrow'; arrow.innerHTML=ARROW_SVG;
       card.append(dc, body, arrow);
       ge.appendChild(card);
     }
     c.appendChild(ge);
   }
+}
+
+// ── MONTH GRID VIEW ──────────────────────────────────────────
+function renderMonth(){
+  const today = new Date(); today.setHours(0,0,0,0);
+  const year = gridAnchor.getFullYear(), month = gridAnchor.getMonth();
+
+  // Events that fall in this month, indexed by YYYY-M-D
+  const byDay = {};
+  for(const e of filteredEvents()){
+    if(e.dt.getFullYear()===year && e.dt.getMonth()===month){
+      const k = e.dt.getDate();
+      (byDay[k] = byDay[k] || []).push(e);
+    }
+  }
+  // sort each day's events by parsed start time (timed first, then all-day)
+  for(const k in byDay){
+    byDay[k].sort((a,b)=>{
+      const ta=parseTime(a.time), tb=parseTime(b.time);
+      if(ta&&tb) return ta.startMin-tb.startMin;
+      if(ta) return -1; if(tb) return 1;
+      return a.title.localeCompare(b.title);
+    });
+  }
+
+  const monthEventCount = Object.values(byDay).reduce((n,a)=>n+a.length,0);
+  document.getElementById('events-count').textContent =
+    monthEventCount + ' event' + (monthEventCount!==1?'s':'') + ' this month';
+
+  const firstDow = new Date(year,month,1).getDay();
+  const daysInMonth = new Date(year,month+1,0).getDate();
+  const daysInPrev = new Date(year,month,0).getDate();
+
+  let html = `
+    <div class="grid-nav">
+      <button onclick="gridStep(-1)" title="Previous month">‹</button>
+      <button onclick="gridStep(1)" title="Next month">›</button>
+      <button class="today-btn" onclick="gridToday()">Today</button>
+      <span class="grid-period">${ML[month]} ${year}</span>
+    </div>
+    <div class="month-grid">
+      <div class="month-grid-head">
+        ${DAYS.map(d=>`<div>${d}</div>`).join('')}
+      </div>
+      <div class="month-grid-body">`;
+
+  // 6 rows x 7 cols
+  for(let cell=0; cell<42; cell++){
+    const dayNum = cell - firstDow + 1;
+    let cls='month-cell', label='', events=[], inMonth=false;
+    if(dayNum<1){
+      cls+=' other-month'; label = daysInPrev + dayNum;
+    } else if(dayNum>daysInMonth){
+      cls+=' other-month'; label = dayNum - daysInMonth;
+    } else {
+      inMonth=true; label=dayNum;
+      events = byDay[dayNum] || [];
+      const cellDate = new Date(year,month,dayNum);
+      if(cellDate.getTime()===today.getTime()) cls+=' today';
+    }
+    html += `<div class="${cls}"><div class="month-cell-date">${label}</div>`;
+    if(inMonth){
+      const shown = events.slice(0,4);
+      for(const e of shown){
+        const t = parseTime(e.time);
+        const timeLbl = t ? `<span class="ge-time">${minToLabel(t.startMin)}</span> ` : '';
+        html += `<a class="grid-event ${e.source}" href="${escapeHtml(e.url)}" target="_blank" rel="noopener" title="${escapeHtml(e.title)}${e.time?' · '+escapeHtml(e.time):''}">${timeLbl}${escapeHtml(e.title)}</a>`;
+      }
+      if(events.length>4){
+        html += `<div class="month-more" onclick="jumpToWeek(${year},${month},${dayNum})">+${events.length-4} more</div>`;
+      }
+    }
+    html += `</div>`;
+  }
+  html += `</div></div>`;
+  document.getElementById('events-container').innerHTML = html;
+}
+
+// ── WEEK GRID VIEW ───────────────────────────────────────────
+function renderWeek(){
+  const today = new Date(); today.setHours(0,0,0,0);
+
+  // Week starts on Sunday containing gridAnchor
+  const weekStart = new Date(gridAnchor);
+  weekStart.setDate(weekStart.getDate() - weekStart.getDay());
+  weekStart.setHours(0,0,0,0);
+  const weekEnd = new Date(weekStart); weekEnd.setDate(weekEnd.getDate()+6);
+
+  // bucket events by day index 0-6; split timed vs all-day
+  const timed = [[],[],[],[],[],[],[]];
+  const allday = [[],[],[],[],[],[],[]];
+  for(const e of filteredEvents()){
+    const diff = Math.round((e.dt - weekStart)/86400000);
+    if(diff<0 || diff>6) continue;
+    const t = parseTime(e.time);
+    if(t) timed[diff].push({...e, _t:t});
+    else  allday[diff].push(e);
+  }
+
+  const weekCount = timed.reduce((n,a)=>n+a.length,0) + allday.reduce((n,a)=>n+a.length,0);
+  document.getElementById('events-count').textContent =
+    weekCount + ' event' + (weekCount!==1?'s':'') + ' this week';
+
+  // Hour range: find min/max across timed events, clamp to 7am-7pm default
+  let minH=7, maxH=19;
+  for(const day of timed) for(const e of day){
+    minH=Math.min(minH, Math.floor(e._t.startMin/60));
+    maxH=Math.max(maxH, Math.ceil(e._t.endMin/60));
+  }
+  minH=Math.max(0,minH); maxH=Math.min(24,maxH);
+  const HOUR_PX=48;
+
+  const periodLabel = `${MS[weekStart.getMonth()]} ${weekStart.getDate()} – ${MS[weekEnd.getMonth()]} ${weekEnd.getDate()}, ${weekEnd.getFullYear()}`;
+
+  let html = `
+    <div class="grid-nav">
+      <button onclick="gridStep(-1)" title="Previous week">‹</button>
+      <button onclick="gridStep(1)" title="Next week">›</button>
+      <button class="today-btn" onclick="gridToday()">Today</button>
+      <span class="grid-period">${periodLabel}</span>
+    </div>
+    <div class="week-grid-wrap">
+      <div class="week-head"><div></div>`;
+  for(let i=0;i<7;i++){
+    const d=new Date(weekStart); d.setDate(d.getDate()+i);
+    const isToday = d.getTime()===today.getTime();
+    html += `<div class="week-col${isToday?' today':''}">${DAYS[i]}<span class="week-dow-num">${d.getDate()}</span></div>`;
+  }
+  html += `</div>`;
+
+  // all-day row
+  html += `<div class="week-allday"><div class="week-allday-label">All<br>day</div>`;
+  for(let i=0;i<7;i++){
+    html += `<div class="week-allday-cell">`;
+    for(const e of allday[i]){
+      html += `<a class="grid-event ${e.source}" href="${escapeHtml(e.url)}" target="_blank" rel="noopener" title="${escapeHtml(e.title)}">${escapeHtml(e.title)}</a>`;
+    }
+    html += `</div>`;
+  }
+  html += `</div>`;
+
+  // timed body
+  html += `<div class="week-body"><div class="week-hours">`;
+  for(let h=minH;h<maxH;h++){
+    html += `<div class="week-hour-label">${minToLabel(h*60)}</div>`;
+  }
+  html += `</div>`;
+  for(let i=0;i<7;i++){
+    const d=new Date(weekStart); d.setDate(d.getDate()+i);
+    const isToday = d.getTime()===today.getTime();
+    html += `<div class="week-col-body${isToday?' today':''}">`;
+    for(let h=minH;h<maxH;h++) html += `<div class="week-hour-cell"></div>`;
+    // position events absolutely
+    for(const e of timed[i]){
+      const top = (e._t.startMin - minH*60) / 60 * HOUR_PX;
+      const height = Math.max(20, (e._t.endMin - e._t.startMin)/60 * HOUR_PX - 2);
+      html += `<a class="week-event ${e.source}" style="top:${top}px;height:${height}px;" href="${escapeHtml(e.url)}" target="_blank" rel="noopener" title="${escapeHtml(e.title)} · ${escapeHtml(e.time||'')}"><div class="we-title">${escapeHtml(e.title)}</div><div class="we-time">${minToLabel(e._t.startMin)}</div></a>`;
+    }
+    html += `</div>`;
+  }
+  html += `</div></div>`;
+  document.getElementById('events-container').innerHTML = html;
+}
+
+// ── Grid navigation helpers ──────────────────────────────────
+function gridStep(dir){
+  if(activeView==='month'){
+    gridAnchor.setMonth(gridAnchor.getMonth()+dir);
+  } else if(activeView==='week'){
+    gridAnchor.setDate(gridAnchor.getDate()+dir*7);
+  }
+  render();
+}
+function gridToday(){
+  gridAnchor = new Date(); gridAnchor.setHours(0,0,0,0);
+  render();
+}
+function jumpToWeek(y,m,d){
+  gridAnchor = new Date(y,m,d); gridAnchor.setHours(0,0,0,0);
+  setView('week');
 }
 
 // Load events from the live data feed
