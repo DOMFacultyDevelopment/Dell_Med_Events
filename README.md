@@ -6,9 +6,9 @@ Auto-aggregating events feed for Dell Medical School. Two views, one shared data
 
 | Page | URL | Purpose |
 |---|---|---|
-| **Calendar** (home) | https://michael-dean22.github.io/Dell_Med_Events/ | Browseable list grouped by month, with filters and subscribe URL |
-| **Ticker** | https://michael-dean22.github.io/Dell_Med_Events/ticker.html | Continuous vertical scroll for kiosks/wall displays |
-| **iCal feed** | https://michael-dean22.github.io/Dell_Med_Events/dell-med-events.ics | Subscribable .ics for Outlook/etc. |
+| **Calendar** (home) | https://DOMFacultyDevelopment.github.io/Dell_Med_Events/ | Browseable list grouped by month, with filters and subscribe URL |
+| **Ticker** | https://DOMFacultyDevelopment.github.io/Dell_Med_Events/ticker.html | Continuous vertical scroll for kiosks/wall displays |
+| **iCal feed** | https://DOMFacultyDevelopment.github.io/Dell_Med_Events/dell-med-events.ics | Subscribable .ics for Outlook/etc. |
 
 ## How it works
 
@@ -46,7 +46,7 @@ Required: `title`, `start` (YYYY-MM-DD), `url`. Optional: `time`, `location`, `s
 
 The intranet calendar requires a UT login, so this can't be automated. Two paths:
 
-- **If the intranet calendar supports iCal subscriptions** (most modern systems do): paste `https://michael-dean22.github.io/Dell_Med_Events/dell-med-events.ics` into its subscribe field. It will auto-refresh on whatever schedule that calendar uses.
+- **If the intranet calendar supports iCal subscriptions** (most modern systems do): paste `https://DOMFacultyDevelopment.github.io/Dell_Med_Events/dell-med-events.ics` into its subscribe field. It will auto-refresh on whatever schedule that calendar uses.
 - **If only one-time imports are supported**: download the `.ics` periodically and re-upload.
 
 ## Manual refresh
