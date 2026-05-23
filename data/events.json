@@ -1,105 +1,11 @@
 {
-  "updated": "2026-05-22T19:53:30.816650+00:00",
+  "updated": "2026-05-23T08:25:15.465600+00:00",
   "counts": {
     "public": 12,
-    "internal": 258,
-    "ut": 1341
+    "internal": 257,
+    "ut": 1361
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
-      "url": "https://calendar.utexas.edu/event/20-interview-young-adults-emotion-coping-using-ai-chatbots",
-      "start": "2026-05-22",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "ATXplained Live",
-      "url": "https://calendar.utexas.edu/event/atxplained-live-may2026",
-      "start": "2026-05-22",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-05-22",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-05-22",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Farmers  v.  Longhorns",
-      "url": "https://calendar.utexas.edu/event/farmers-v-longhorns",
-      "start": "2026-05-22",
-      "location": "The H.J. Lutcher Stark Center for Physical Culture and Sports\\, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Feasting Together: 20th Century Community Cookbooks from the PCL Collections",
-      "url": "https://calendar.utexas.edu/event/feasting-together-20th-century-community-cookbooks-from-the-pcl-collections",
-      "start": "2026-05-22",
-      "location": "Perry-Casta\u00f1eda Library (PCL)"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-05-22",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-05-22",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/05/22",
-      "start": "2026-05-22",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-05-22",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansastennesseesouth-carolina",
-      "start": "2026-05-22",
-      "location": "Hoover\\, Ala.\\, Hoover Metropolitan Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs NCAA Championship Stroke Play",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-ncaa-championship-stroke-play-1487",
-      "start": "2026-05-22",
-      "location": "Carlsbad\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-05-22",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
     {
       "source": "ut",
       "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
@@ -745,6 +651,34 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-05-29",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
+      "start": "2026-05-29",
+      "location": "NUR - various"
+    },
+    {
+      "source": "ut",
+      "title": "AHA Heartsaver First Aid\\, CPR\\, AED",
+      "url": "https://calendar.utexas.edu/event/aha-heartsaver-first-aid-cpr-aed",
+      "start": "2026-05-29",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA Heartsaver First-Aid Certification",
+      "url": "https://calendar.utexas.edu/event/aha-heartsaver-first-aid-certification-1540",
+      "start": "2026-05-29",
+      "location": "NUR - various"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-05-29",
@@ -1356,6 +1290,13 @@
       "url": "https://calendar.utexas.edu/event/2026-longhorn-nursing-immersion-summer-camp",
       "start": "2026-06-04",
       "location": "The University of Texas School of Nursing"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-04",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -2029,6 +1970,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-11",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1576",
       "start": "2026-06-11",
@@ -2550,6 +2498,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-17",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-06-17",
@@ -2648,6 +2603,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-17",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-18",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -3068,6 +3030,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-24",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-06-24",
@@ -3162,6 +3131,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-24",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-25",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -3262,6 +3238,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-4114",
       "start": "2026-06-26",
       "location": "Nursing School (NUR)\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR) Renewal",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
+      "start": "2026-06-26",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -3462,6 +3445,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-29",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-29",
@@ -3529,6 +3519,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-29",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-06-30",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -3643,6 +3640,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-30",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-01",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -4017,6 +4021,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-08",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-07-08",
@@ -4090,6 +4101,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-09",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-5622",
       "start": "2026-07-09",
@@ -4156,6 +4174,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-5669",
       "start": "2026-07-10",
       "location": "Nursing School (NUR)\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR) Renewal",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
+      "start": "2026-07-10",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -4320,6 +4345,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-14",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-8125",
       "start": "2026-07-14",
@@ -4424,6 +4456,13 @@
       "url": "https://calendar.utexas.edu/event/juliet",
       "start": "2026-07-15",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-15",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -4840,6 +4879,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR) Renewal",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
+      "start": "2026-07-21",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "Annual Enrollment",
       "url": "https://calendar.utexas.edu/event/annual-enrollment",
       "start": "2026-07-21",
@@ -4944,6 +4990,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-22",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-07-22",
@@ -5011,6 +5064,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-07-22",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-23",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -5508,6 +5568,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
+      "start": "2026-07-30",
+      "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-8326",
       "start": "2026-07-30",
@@ -5848,6 +5915,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-05",
+      "location": "NUR - various"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-08-05",
@@ -5918,6 +5992,13 @@
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-05",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-06",
+      "location": "NUR - various"
     },
     {
       "source": "ut",
@@ -6011,6 +6092,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-8208",
       "start": "2026-08-07",
       "location": "Nursing School (NUR)\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR) Renewal",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
+      "start": "2026-08-07",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -6299,6 +6387,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-12",
+      "location": "NUR - various"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-08-12",
@@ -6362,6 +6457,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-08-12",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-13",
+      "location": "NUR - various"
     },
     {
       "source": "ut",
@@ -6535,6 +6637,13 @@
     },
     {
       "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-18",
+      "location": "NUR - various"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-795",
       "start": "2026-08-18",
@@ -6601,6 +6710,13 @@
       "url": "https://calendar.utexas.edu/event/web-content-management-office-hours-august-18-2026",
       "start": "2026-08-18",
       "location": "Microsoft Teams"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-19",
+      "location": "NUR - various"
     },
     {
       "source": "ut",
@@ -6752,6 +6868,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-3787",
       "start": "2026-08-21",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR) Renewal",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
+      "start": "2026-08-21",
+      "location": "NUR 1.106"
     },
     {
       "source": "ut",
@@ -7009,6 +7132,13 @@
       "location": "Virtual (Teams)",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
+      "start": "2026-08-28",
+      "location": "NUR - various"
     },
     {
       "source": "ut",
