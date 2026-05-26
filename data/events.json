@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-26T10:03:53.763470+00:00",
+  "updated": "2026-05-26T20:13:32.825287+00:00",
   "counts": {
-    "public": 12,
+    "public": 11,
     "internal": 257,
     "ut": 1430
   },
@@ -939,7 +939,7 @@
       "start": "2026-06-02",
       "time": "7:30\u20138:30 a.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
-      "speaker": "Toossi Shahed, M.D."
+      "speaker": "Shahed Toossi, M.D."
     },
     {
       "source": "ut",
@@ -1681,15 +1681,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "public",
-      "title": "Neurology Grand Rounds: Benign Behavior of Big Lesions",
-      "url": "https://dellmed.utexas.edu/events/neurology-grand-rounds-benign-behavior-of-big-lesions-06092026",
-      "start": "2026-06-09",
-      "time": "8\u201311 a.m.",
-      "location": "Hybrid: Health Learning Building (HTB 1.208)  &amp; Zoom",
-      "speaker": "Mahboobeh Fereidan Esfahani, M.D."
-    },
-    {
       "source": "ut",
       "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
       "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
@@ -2049,7 +2040,7 @@
       "title": "Pediatric Grand Rounds: Pediatric Jeopardy",
       "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-pediatric-jeopardy-061226",
       "start": "2026-06-12",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "8\u201311 a.m.",
       "location": "Dell Children\u2019s Medical Center Signe Auditorium",
       "speaker": "Isaih Favela, M.D., Matthew Owens, D.O., Joel Rose-Kamprath, M.D., Vikram Siberry, M.D."
     },
