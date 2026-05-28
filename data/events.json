@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-28T10:11:31.718725+00:00",
+  "updated": "2026-05-28T20:29:41.629627+00:00",
   "counts": {
-    "public": 9,
+    "public": 8,
     "internal": 253,
     "ut": 1392
   },
@@ -12,15 +12,6 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal",
       "start": "2026-05-28",
       "location": "NUR - various"
-    },
-    {
-      "source": "public",
-      "title": "Best Practices in Medical Education Grand Rounds: From Patient to Population",
-      "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-patient-to-population052826",
-      "start": "2026-05-28",
-      "time": "7:30\u20138:30 a.m.",
-      "location": "Zoom",
-      "speaker": "Mrinalini Kulkarni-Date, M.D."
     },
     {
       "source": "ut",
