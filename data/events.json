@@ -1,152 +1,11 @@
 {
-  "updated": "2026-05-27T20:27:04.609746+00:00",
+  "updated": "2026-05-28T10:11:31.718725+00:00",
   "counts": {
-    "public": 10,
-    "internal": 255,
-    "ut": 1423
+    "public": 9,
+    "internal": 253,
+    "ut": 1392
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
-      "url": "https://calendar.utexas.edu/event/20-interview-young-adults-emotion-coping-using-ai-chatbots",
-      "start": "2026-05-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
-      "start": "2026-05-27",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-05-27",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-05-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-05-27",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "internal",
-      "title": "Epic Reporting Training Sessions",
-      "url": "https://intranet.dellmed.utexas.edu/event/1020666/2026/05/27",
-      "start": "2026-05-27",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Farmers  v.  Longhorns",
-      "url": "https://calendar.utexas.edu/event/farmers-v-longhorns",
-      "start": "2026-05-27",
-      "location": "The H.J. Lutcher Stark Center for Physical Culture and Sports\\, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Feasting Together: 20th Century Community Cookbooks from the PCL Collections",
-      "url": "https://calendar.utexas.edu/event/feasting-together-20th-century-community-cookbooks-from-the-pcl-collections",
-      "start": "2026-05-27",
-      "location": "Perry-Casta\u00f1eda Library (PCL)"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-05-27",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "public",
-      "title": "Internal Medicine Grand Rounds: Chief Residents Presentations",
-      "url": "https://dellmed.utexas.edu/events/internal-medicine-grand-rounds-chief-residents-052726",
-      "start": "2026-05-27",
-      "time": "12\u20131 p.m.",
-      "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
-      "speaker": "Priyanka Jagannathan, M.D., MBA, Huynh Pham, M.D."
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-05-27",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/05/27",
-      "start": "2026-05-27",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-05-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-05-27",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-05-27",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Track & Field / Cross Country at NCAA West Preliminaries",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-at-ncaa-west-preliminaries-5346",
-      "start": "2026-05-27",
-      "location": "Fayetteville\\, Ark."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs NCAA Championship Match Play Finals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-ncaa-championship-match-play-8922",
-      "start": "2026-05-27",
-      "location": "Carlsbad\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-05-27",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
-      "url": "https://calendar.utexas.edu/event/20-interview-young-adults-emotion-coping-using-ai-chatbots",
-      "start": "2026-05-28",
-      "location": null
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Renewal",
@@ -159,7 +18,7 @@
       "title": "Best Practices in Medical Education Grand Rounds: From Patient to Population",
       "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-patient-to-population052826",
       "start": "2026-05-28",
-      "time": "12\u20131 p.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Zoom",
       "speaker": "Mrinalini Kulkarni-Date, M.D."
     },
@@ -227,13 +86,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-05-28",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-05-28",
@@ -258,7 +110,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Softball vs Tennessee",
+      "title": "University of Texas Softball vs #8 Tennessee",
       "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-tennessee-8731",
       "start": "2026-05-28",
       "location": "Oklahoma City\\, Okla.\\, Devon Park"
@@ -276,13 +128,6 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-05-28",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
-      "url": "https://calendar.utexas.edu/event/20-interview-young-adults-emotion-coping-using-ai-chatbots",
-      "start": "2026-05-29",
-      "location": null
     },
     {
       "source": "ut",
@@ -364,13 +209,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-05-29",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-05-29",
@@ -417,13 +255,6 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-05-29",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
-      "url": "https://calendar.utexas.edu/event/20-interview-young-adults-emotion-coping-using-ai-chatbots",
-      "start": "2026-05-30",
-      "location": null
     },
     {
       "source": "ut",
@@ -483,13 +314,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-05-30",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-05-30",
@@ -522,13 +346,6 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-05-30",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "$20 Interview- Young adults\u2019 emotion coping using AI chatbots",
-      "url": "https://calendar.utexas.edu/event/20-interview-young-adults-emotion-coping-using-ai-chatbots",
-      "start": "2026-05-31",
-      "location": null
     },
     {
       "source": "ut",
@@ -571,13 +388,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-05-31",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-05-31",
-      "location": null
     },
     {
       "source": "ut",
@@ -665,13 +475,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-01",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-01",
@@ -680,7 +483,7 @@
     {
       "source": "ut",
       "title": "University of Texas Men's Golf vs NCAA Championship Stroke Play",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-ncaa-championship-stroke-play-9596",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-ncaa-championship-stroke-play-8362",
       "start": "2026-06-01",
       "location": "Carlsbad\\, Calif."
     },
@@ -708,9 +511,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-06-02",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -792,13 +595,6 @@
       "time": "7:30\u20138:30 a.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
       "speaker": "Shahed Toossi, M.D."
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-02",
-      "location": null
     },
     {
       "source": "ut",
@@ -916,6 +712,13 @@
       "location": "Perry-Casta\u00f1eda Library (PCL)"
     },
     {
+      "source": "ut",
+      "title": "How to Research the Academic Job Market",
+      "url": "https://calendar.utexas.edu/event/how-to-research-the-academic-job-market",
+      "start": "2026-06-03",
+      "location": "Virtual"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/06/03",
@@ -938,13 +741,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-03",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-03",
-      "location": null
     },
     {
       "source": "ut",
@@ -1029,6 +825,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-06-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-04",
@@ -1098,17 +901,17 @@
     },
     {
       "source": "ut",
+      "title": "Mosaic of Minds",
+      "url": "https://calendar.utexas.edu/event/mosaic-of-minds",
+      "start": "2026-06-04",
+      "location": "Austin ISD Performing Arts Center\\, Outdoor patio in front of main entrance"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-04",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-04",
-      "location": null
     },
     {
       "source": "ut",
@@ -1147,6 +950,13 @@
       "url": "https://calendar.utexas.edu/event/2026-longhorn-nursing-immersion-summer-camp",
       "start": "2026-06-05",
       "location": "The University of Texas School of Nursing"
+    },
+    {
+      "source": "ut",
+      "title": "Alienware 15 Gaming Laptop Hands-On Demo",
+      "url": "https://calendar.utexas.edu/event/alienware-15-gaming-laptop-hands-on-demo",
+      "start": "2026-06-05",
+      "location": "Alienware Longhorn Esports Lounge and Arena"
     },
     {
       "source": "ut",
@@ -1216,10 +1026,10 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
+      "title": "Presenting Research Within and Beyond Academia",
+      "url": "https://calendar.utexas.edu/event/presenting-research-within-and-beyond-academia",
       "start": "2026-06-05",
-      "location": null
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -1227,6 +1037,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-05",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-06-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1300,13 +1117,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-06",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-06",
@@ -1374,13 +1184,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-07",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-07",
-      "location": null
     },
     {
       "source": "ut",
@@ -1461,13 +1264,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-08",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-08",
@@ -1490,9 +1286,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-06-09",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1552,13 +1348,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-09",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-09",
-      "location": null
     },
     {
       "source": "ut",
@@ -1694,13 +1483,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-10",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-10",
@@ -1747,6 +1529,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1576",
       "start": "2026-06-11",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-06-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1806,13 +1595,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-11",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-11",
-      "location": null
     },
     {
       "source": "ut",
@@ -1919,17 +1701,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-12",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-06-12",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1979,13 +1761,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-13",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-13",
-      "location": null
     },
     {
       "source": "ut",
@@ -2080,13 +1855,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-14",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-14",
@@ -2150,13 +1918,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-15",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-15",
@@ -2179,9 +1940,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-06-16",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -2244,13 +2005,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-16",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-16",
-      "location": null
     },
     {
       "source": "ut",
@@ -2393,13 +2147,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-17",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-17",
@@ -2449,6 +2196,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-06-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -2507,10 +2261,10 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
+      "title": "Pipe with You Have Wings and Dickie Lee Erwin Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/pipe-with-you-have-wings-and-dickie-lee-erwin-live-at-the-cactus-cafe",
       "start": "2026-06-18",
-      "location": null
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2587,13 +2341,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-19",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Retro Cowgirl Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/retro-cowgirl-live-at-the-cactus-cafe",
       "start": "2026-06-19",
@@ -2605,6 +2352,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-19",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-06-19",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -2647,13 +2401,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-20",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-20",
-      "location": null
     },
     {
       "source": "ut",
@@ -2720,13 +2467,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-21",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-21",
@@ -2783,13 +2523,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-22",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-22",
@@ -2805,9 +2538,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-06-23",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -2853,13 +2586,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-23",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-23",
-      "location": null
     },
     {
       "source": "ut",
@@ -2984,13 +2710,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-24",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-24",
@@ -3023,6 +2742,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1576",
       "start": "2026-06-25",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-06-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3078,13 +2804,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-25",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-25",
-      "location": null
     },
     {
       "source": "ut",
@@ -3190,13 +2909,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-26",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-26",
@@ -3208,6 +2920,13 @@
       "url": "https://calendar.utexas.edu/event/running-away-from-home-the-phenomenon-of-parentadult-child-estrangement-and-repair-possibilities",
       "start": "2026-06-26",
       "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-06-26",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3257,13 +2976,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-27",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-27",
-      "location": null
     },
     {
       "source": "ut",
@@ -3327,13 +3039,6 @@
       "url": "https://calendar.utexas.edu/event/other-voices-a-tribute-to-the-songs-of-nanci-griffith",
       "start": "2026-06-28",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-28",
-      "location": null
     },
     {
       "source": "ut",
@@ -3421,13 +3126,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-29",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-29",
@@ -3457,9 +3155,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-06-30",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3522,13 +3220,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-06-30",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-06-30",
-      "location": null
     },
     {
       "source": "ut",
@@ -3636,13 +3327,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-01",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-01",
@@ -3671,6 +3355,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-07-02",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3716,13 +3407,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-02",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-02",
-      "location": null
     },
     {
       "source": "ut",
@@ -3781,17 +3465,24 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-03",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-03",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-07-03",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "The Magnolia Brothers Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/the-magnolia-brothers-live-at-the-cactus-cafe",
+      "start": "2026-07-03",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3823,13 +3514,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-04",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-04",
@@ -3862,13 +3546,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-05",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-05",
-      "location": null
     },
     {
       "source": "ut",
@@ -3914,13 +3591,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-06",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-06",
@@ -3929,9 +3599,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-07-07",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3970,13 +3640,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-07",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-07",
-      "location": null
     },
     {
       "source": "ut",
@@ -4070,13 +3733,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-08",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-08",
@@ -4102,6 +3758,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-5622",
       "start": "2026-07-09",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-07-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4140,13 +3803,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-09",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-09",
-      "location": null
     },
     {
       "source": "ut",
@@ -4216,17 +3872,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-10",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-10",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-07-10",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4262,13 +3918,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-11",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-11",
-      "location": null
     },
     {
       "source": "ut",
@@ -4314,13 +3963,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-12",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-12",
@@ -4363,13 +4005,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-13",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-13",
@@ -4392,9 +4027,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-07-14",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4450,13 +4085,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-14",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-14",
-      "location": null
     },
     {
       "source": "ut",
@@ -4581,13 +4209,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-15",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-15",
@@ -4630,6 +4251,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-07-16",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4678,13 +4306,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-16",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-16",
-      "location": null
     },
     {
       "source": "ut",
@@ -4757,17 +4378,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-17",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-17",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-07-17",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4827,13 +4448,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-18",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-18",
@@ -4880,13 +4494,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-19",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-19",
-      "location": null
     },
     {
       "source": "ut",
@@ -4946,13 +4553,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-20",
@@ -4982,9 +4582,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-07-21",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5023,13 +4623,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-21",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-21",
-      "location": null
     },
     {
       "source": "ut",
@@ -5148,13 +4741,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-22",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-22",
@@ -5187,6 +4773,13 @@
       "url": "https://calendar.utexas.edu/event/annual-enrollment",
       "start": "2026-07-23",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-07-23",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5225,13 +4818,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-23",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-23",
-      "location": null
     },
     {
       "source": "ut",
@@ -5315,17 +4901,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-24",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-24",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-07-24",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5368,13 +4954,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-25",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-25",
-      "location": null
     },
     {
       "source": "ut",
@@ -5431,13 +5010,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-26",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-26",
-      "location": null
     },
     {
       "source": "ut",
@@ -5504,13 +5076,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-27",
@@ -5533,9 +5098,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-07-28",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5584,13 +5149,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-28",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-28",
-      "location": null
     },
     {
       "source": "ut",
@@ -5705,13 +5263,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-29",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-29",
@@ -5744,6 +5295,13 @@
       "url": "https://calendar.utexas.edu/event/annual-enrollment",
       "start": "2026-07-30",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-07-30",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5792,13 +5350,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-30",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-30",
-      "location": null
     },
     {
       "source": "ut",
@@ -5871,17 +5422,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-07-31",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-31",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-07-31",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5910,13 +5461,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-01",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-01",
-      "location": null
     },
     {
       "source": "ut",
@@ -5959,13 +5503,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-02",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-02",
-      "location": null
     },
     {
       "source": "ut",
@@ -6018,13 +5555,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-03",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-03",
@@ -6033,9 +5563,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-08-04",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6074,13 +5604,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-04",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-04",
-      "location": null
     },
     {
       "source": "ut",
@@ -6174,13 +5697,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-05",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-05",
@@ -6226,6 +5742,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-08-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-06",
@@ -6261,13 +5784,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-06",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-06",
-      "location": null
     },
     {
       "source": "ut",
@@ -6344,17 +5860,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-07",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-07",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-08-07",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "public",
@@ -6398,13 +5914,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-08",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-08",
-      "location": null
     },
     {
       "source": "ut",
@@ -6454,13 +5963,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-09",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-09",
-      "location": null
     },
     {
       "source": "ut",
@@ -6529,13 +6031,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-10",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-10",
@@ -6551,9 +6046,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-08-11",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6595,13 +6090,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-11",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-11",
-      "location": null
     },
     {
       "source": "ut",
@@ -6695,13 +6183,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-12",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-12",
@@ -6727,6 +6208,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-8326",
       "start": "2026-08-13",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-08-13",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6758,13 +6246,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-13",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-13",
-      "location": null
     },
     {
       "source": "ut",
@@ -6816,17 +6297,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-14",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-14",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-08-14",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6851,13 +6332,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-15",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-15",
@@ -6879,13 +6353,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-16",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-16",
@@ -6904,13 +6371,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-17",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-17",
-      "location": null
     },
     {
       "source": "ut",
@@ -6943,9 +6403,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-08-18",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6970,13 +6430,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-18",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-18",
-      "location": null
     },
     {
       "source": "ut",
@@ -7056,13 +6509,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-19",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-19",
@@ -7098,6 +6544,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-08-20",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7142,13 +6595,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-20",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-20",
-      "location": null
     },
     {
       "source": "ut",
@@ -7204,17 +6650,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-21",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-21",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-08-21",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7229,13 +6675,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-22",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-22",
-      "location": null
     },
     {
       "source": "ut",
@@ -7267,13 +6706,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-23",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-23",
@@ -7295,13 +6727,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-24",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-24",
@@ -7310,9 +6735,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-08-25",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7347,13 +6772,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-25",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-25",
-      "location": null
     },
     {
       "source": "ut",
@@ -7419,13 +6837,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-26",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-26",
@@ -7445,6 +6856,13 @@
       "start": "2026-08-27",
       "time": "12\u20131 p.m.",
       "location": "Zoom"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-08-27",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7469,13 +6887,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-27",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-27",
-      "location": null
     },
     {
       "source": "ut",
@@ -7534,17 +6945,17 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-28",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-28",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-08-28",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7569,13 +6980,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-29",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-29",
@@ -7597,13 +7001,6 @@
     },
     {
       "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-30",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-30",
@@ -7622,13 +7019,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-31",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-08-31",
-      "location": null
     },
     {
       "source": "ut",
@@ -7640,9 +7030,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-09-01",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7677,13 +7067,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-09-01",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Recruiting people who are 60 and over to participate in a study about chatbots",
-      "url": "https://calendar.utexas.edu/event/recruiting-people-who-are-60-and-over-to-participate-in-a-study-about-chatbots",
-      "start": "2026-09-01",
-      "location": null
     },
     {
       "source": "ut",
@@ -7780,6 +7163,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-09-03",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-03",
@@ -7849,6 +7239,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-09-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-05",
@@ -7870,7 +7267,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Football vs Texas State",
+      "title": "University of Texas Football vs Texas State - presented by UFCU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-texas-state",
       "start": "2026-09-05",
       "location": "Austin\\, Texas\\, DKR-Texas Memorial Stadium"
@@ -7906,9 +7303,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-09-08",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8001,6 +7398,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-09-10",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-10",
@@ -8036,9 +7440,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5395",
       "start": "2026-09-11",
-      "location": "AT&T Hotel and Conference Center"
+      "location": "AT&T Hotel & Conference Center Zlotnik Family Ballroom 1900 University Ave\\, Austin\\, TX 78705"
     },
     {
       "source": "ut",
@@ -8070,6 +7474,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-11",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-09-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8137,9 +7548,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-09-15",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8229,6 +7640,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-09-17",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-17",
@@ -8294,6 +7712,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-09-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-19",
@@ -8304,28 +7729,28 @@
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-19",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2026-09-20",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-20",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
       "title": "University of Texas Football vs UTSA - presented by Ford",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-utsa-presented-by-ford",
-      "start": "2026-09-19",
+      "start": "2026-09-20",
       "location": "Austin\\, Texas\\, DKR-Texas Memorial Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-09-20",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -8344,9 +7769,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-09-22",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8446,6 +7871,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-09-24",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-24",
@@ -8508,6 +7940,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-25",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-09-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8575,9 +8014,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-09-29",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8660,6 +8099,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-10-01",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-01",
@@ -8722,6 +8168,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-10-02",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "2026 TEX-E Fall Bootcamp",
       "url": "https://calendar.utexas.edu/event/2026-tex-e-fall-bootcamp",
       "start": "2026-10-03",
@@ -8779,9 +8232,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-10-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8874,6 +8327,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-10-08",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-08",
@@ -8919,6 +8379,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-10-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8979,9 +8446,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-10-13",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9078,6 +8545,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-10-15",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-15",
@@ -9099,6 +8573,13 @@
       "location": "3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Maris Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/maris-live-at-the-cactus-cafe",
+      "start": "2026-10-15",
+      "location": "Cactus Cafe"
     },
     {
       "source": "internal",
@@ -9147,6 +8628,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-16",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-10-16",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9207,9 +8695,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-10-20",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9309,6 +8797,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-10-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-22",
@@ -9354,6 +8849,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-23",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-10-23",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9414,9 +8916,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-10-27",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9485,6 +8987,13 @@
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-28",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-10-29",
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
@@ -9558,6 +9067,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-10-30",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-31",
@@ -9604,6 +9120,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-02",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-11-03",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9713,6 +9236,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-11-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-05",
@@ -9768,6 +9298,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-11-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-07",
@@ -9814,6 +9351,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-11-10",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9914,6 +9458,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-11-12",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-12",
@@ -9966,6 +9517,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-13",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-11-13",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10029,6 +9587,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-16",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-11-17",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10159,6 +9724,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-11-19",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-19",
@@ -10214,6 +9786,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-20",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-11-20",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10277,6 +9856,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-23",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-11-24",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10356,6 +9942,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-11-26",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-26",
@@ -10401,6 +9994,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-11-27",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10457,6 +10057,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-30",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-12-01",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10576,6 +10183,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-12-03",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-03",
@@ -10624,6 +10238,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-12-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-05",
@@ -10663,6 +10284,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-07",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-12-08",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10742,6 +10370,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-12-10",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-10",
@@ -10787,6 +10422,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-11",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-12-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10836,6 +10478,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-14",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-12-15",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10931,6 +10580,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-12-17",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-17",
@@ -10982,6 +10638,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-12-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-19",
@@ -11007,6 +10670,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-21",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-12-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11065,6 +10735,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-12-24",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-24",
@@ -11099,6 +10776,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-12-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-26",
@@ -11124,6 +10808,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-28",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2026-12-29",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11192,6 +10883,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-12-31",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-31",
@@ -11226,6 +10924,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-01",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-02",
@@ -11244,6 +10949,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-04",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-01-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11292,6 +11004,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2027-01-07",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-07",
@@ -11316,6 +11035,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-08",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-09",
@@ -11334,6 +11060,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-11",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-01-12",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11388,6 +11121,13 @@
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-13",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2027-01-14",
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
@@ -12543,6 +12283,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-04-27",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/27",
@@ -12551,6 +12298,13 @@
       "location": "3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-04-28",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
