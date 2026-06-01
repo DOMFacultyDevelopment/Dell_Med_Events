@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-01T11:43:31.253891+00:00",
+  "updated": "2026-06-01T21:37:40.461266+00:00",
   "counts": {
     "public": 8,
     "internal": 250,
-    "ut": 1360
+    "ut": 1352
   },
   "events": [
     {
@@ -825,13 +825,6 @@
     },
     {
       "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-06-08",
-      "location": "Whitaker Courts"
-    },
-    {
-      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-08",
@@ -1507,13 +1500,6 @@
     },
     {
       "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-06-15",
-      "location": "Whitaker Courts"
-    },
-    {
-      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-15",
@@ -2142,13 +2128,6 @@
     },
     {
       "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-06-22",
-      "location": "Whitaker Courts"
-    },
-    {
-      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-22",
@@ -2752,13 +2731,6 @@
     },
     {
       "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-06-29",
-      "location": "Whitaker Courts"
-    },
-    {
-      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-29",
@@ -3259,13 +3231,6 @@
     },
     {
       "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-07-06",
-      "location": "Whitaker Courts"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-06",
@@ -3677,13 +3642,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-07-13",
-      "location": "Whitaker Courts"
     },
     {
       "source": "ut",
@@ -4211,13 +4169,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-19",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-07-20",
-      "location": "Whitaker Courts"
     },
     {
       "source": "ut",
@@ -4755,13 +4706,6 @@
       "url": "https://calendar.utexas.edu/event/2026-best-symposium",
       "start": "2026-07-27",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adaptive Wheelchair Tennis/Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-07-27",
-      "location": "Whitaker Courts"
     },
     {
       "source": "ut",
