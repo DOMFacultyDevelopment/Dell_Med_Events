@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-03T11:08:24.146813+00:00",
+  "updated": "2026-06-03T21:19:52.317662+00:00",
   "counts": {
     "public": 7,
     "internal": 246,
-    "ut": 1378
+    "ut": 1379
   },
   "events": [
     {
@@ -8518,6 +8518,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-21",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "The Chicks:  Taking The Long Way Home: 20 Years",
+      "url": "https://calendar.utexas.edu/event/the-chicks-taking-the-long-way-home-20-years",
+      "start": "2026-10-21",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
