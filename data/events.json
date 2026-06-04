@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-04T10:02:13.084255+00:00",
+  "updated": "2026-06-04T20:10:11.396638+00:00",
   "counts": {
-    "public": 6,
+    "public": 9,
     "internal": 245,
-    "ut": 1367
+    "ut": 1368
   },
   "events": [
     {
@@ -566,6 +566,15 @@
       "url": "https://calendar.utexas.edu/event/academic-job-search-working-group-virtual",
       "start": "2026-06-09",
       "location": "Virtual"
+    },
+    {
+      "source": "public",
+      "title": "CPAN Series: Normal Grief and Loss vs. PTSD",
+      "url": "https://dellmed.utexas.edu/events/cpan-series-normal-grief-loss-ptsd",
+      "start": "2026-06-09",
+      "time": "12\u20131 p.m.",
+      "location": "Virtual",
+      "speaker": "Raja Kiani, M.D."
     },
     {
       "source": "ut",
@@ -2121,6 +2130,15 @@
       "location": "School of Nursing\\, NUR 1.106"
     },
     {
+      "source": "public",
+      "title": "Best Practices in Medical Education Grand Rounds: From Patient to Population",
+      "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-patient-to-population052826",
+      "start": "2026-06-25",
+      "time": "7:30\u20138:30 a.m.",
+      "location": "Zoom",
+      "speaker": "Mrinalini Kulkarni-Date, M.D."
+    },
+    {
       "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
@@ -2267,7 +2285,7 @@
       "title": "IMPRES Conference - Innovative Minds: Pediatric Research in Epilepsy Surgery",
       "url": "https://dellmed.utexas.edu/events/impres-conference-innovative-minds-pediatric-research-in-epilepsy-surgery",
       "start": "2026-06-26",
-      "time": "6\u20131 p.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Hotel Van Zandt"
     },
     {
@@ -3463,6 +3481,15 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-8125",
       "start": "2026-07-14",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "public",
+      "title": "CPAN: ADHD Part 1: Uncomplicated ADHD",
+      "url": "https://dellmed.utexas.edu/events/cpan-adhd-uncomplicated-adhd",
+      "start": "2026-07-14",
+      "time": "6\u20131 p.m.",
+      "location": "Virtual",
+      "speaker": "Andrew Harper, M.D."
     },
     {
       "source": "ut",
@@ -5373,7 +5400,7 @@
       "title": "Suicide Prevention Training for Pediatric Health Clinicians: SAFETY-A Level 2",
       "url": "https://dellmed.utexas.edu/events/suicide-prevention-training-for-pediatric-health-clinicians-safety-a-level-2-080726",
       "start": "2026-08-07",
-      "time": "6\u20131 p.m.",
+      "time": "8\u201311 a.m.",
       "location": "Virtual"
     },
     {
@@ -10163,6 +10190,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-13",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Distant Worlds: music from FINAL FANTASY",
+      "url": "https://calendar.utexas.edu/event/distant-worlds-music-from-final-fantasy",
+      "start": "2026-12-13",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
