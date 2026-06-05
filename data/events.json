@@ -1,191 +1,11 @@
 {
-  "updated": "2026-06-04T20:10:11.396638+00:00",
+  "updated": "2026-06-05T09:59:22.608659+00:00",
   "counts": {
-    "public": 9,
-    "internal": 245,
-    "ut": 1368
+    "public": 10,
+    "internal": 241,
+    "ut": 1366
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "2026 Longhorn Nursing Immersion Summer Camp",
-      "url": "https://calendar.utexas.edu/event/2026-longhorn-nursing-immersion-summer-camp",
-      "start": "2026-06-04",
-      "location": "The University of Texas School of Nursing"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
-      "start": "2026-06-04",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1576",
-      "start": "2026-06-04",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Alienware 15 Gaming Laptop Hands-On Demo",
-      "url": "https://calendar.utexas.edu/event/alienware-15-gaming-laptop-hands-on-demo",
-      "start": "2026-06-04",
-      "location": "Alienware Longhorn Esports Lounge and Arena"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/06/04",
-      "start": "2026-06-04",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-06-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-06-04",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-06-04",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-06-04",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Conrad Keely with Sweet Beast Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/conrad-keely-with-sweet-beast-live-at-the-cactus-cafe",
-      "start": "2026-06-04",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Consulting for Social Impact",
-      "url": "https://calendar.utexas.edu/event/consulting-for-social-impact",
-      "start": "2026-06-04",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "EAP Intro to Mindful Self Compassion",
-      "url": "https://calendar.utexas.edu/event/eap-intro-to-mindful-self-compassion",
-      "start": "2026-06-04",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "EAP Mindful Self Compassion",
-      "url": "https://calendar.utexas.edu/event/eap-mindful-self-compassion",
-      "start": "2026-06-04",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Feasting Together: 20th Century Community Cookbooks from the PCL Collections",
-      "url": "https://calendar.utexas.edu/event/feasting-together-20th-century-community-cookbooks-from-the-pcl-collections",
-      "start": "2026-06-04",
-      "location": "Perry-Casta\u00f1eda Library (PCL)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/06/04",
-      "start": "2026-06-04",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-06-04",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "internal",
-      "title": "Medical Humanities Reflection Rounds",
-      "url": "https://intranet.dellmed.utexas.edu/event/1021692/",
-      "start": "2026-06-04",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "HDB 1.204",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Mosaic of Minds",
-      "url": "https://calendar.utexas.edu/event/mosaic-of-minds",
-      "start": "2026-06-04",
-      "location": "Austin ISD Performing Arts Center\\, Outdoor patio in front of main entrance"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-06-04",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-06-04",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/06/04",
-      "start": "2026-06-04",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UT Staff Toastmasters Meeting - 1st Thursday of the Month (In-Person)",
-      "url": "https://calendar.utexas.edu/event/ut-staff-toastmasters-meeting-1st-thursday-of-the-month-in-person",
-      "start": "2026-06-04",
-      "location": "Peter T. Flawn Academic Center (FAC)\\, Room 328"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs Texas Tech",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-alabama-or-texas-tech",
-      "start": "2026-06-04",
-      "location": "Oklahoma City\\, Okla. \\, Devon Park"
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-06-04",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
     {
       "source": "ut",
       "title": "2026 Longhorn Nursing Immersion Summer Camp",
@@ -3484,7 +3304,7 @@
     },
     {
       "source": "public",
-      "title": "CPAN: ADHD Part 1: Uncomplicated ADHD",
+      "title": "CPAN Series: ADHD Part 1: Uncomplicated ADHD",
       "url": "https://dellmed.utexas.edu/events/cpan-adhd-uncomplicated-adhd",
       "start": "2026-07-14",
       "time": "6\u20131 p.m.",
@@ -4598,6 +4418,15 @@
       "location": null
     },
     {
+      "source": "public",
+      "title": "CPAN Series:  ADHD Behavioral Interventions: Clinical Pearls",
+      "url": "https://dellmed.utexas.edu/events/cpan-series-adhd-behavioral-interventions",
+      "start": "2026-07-28",
+      "time": "12\u20131 p.m.",
+      "location": "Virtual",
+      "speaker": "Mili Khandheria, M.D."
+    },
+    {
       "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
@@ -4966,6 +4795,13 @@
     },
     {
       "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-01",
+      "location": "McDonald Observatory"
+    },
+    {
+      "source": "ut",
       "title": "Elena Diaz\u2019s Global Songbook: Cuba\u2014Songs from Havana\u2019s Golden Age",
       "url": "https://calendar.utexas.edu/event/elena-diazs-global-songbook-cubasongs-from-havanas-golden-age",
       "start": "2026-08-01",
@@ -5103,6 +4939,13 @@
       "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
       "start": "2026-08-04",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-04",
+      "location": "McDonald Observatory"
     },
     {
       "source": "internal",
@@ -5369,6 +5212,13 @@
     },
     {
       "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-07",
+      "location": "McDonald Observatory"
+    },
+    {
+      "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-07",
@@ -5423,6 +5273,13 @@
       "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
       "start": "2026-08-08",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-08",
+      "location": "McDonald Observatory"
     },
     {
       "source": "ut",
@@ -5589,6 +5446,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-11",
+      "location": "McDonald Observatory"
     },
     {
       "source": "internal",
@@ -5796,6 +5660,13 @@
     },
     {
       "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-14",
+      "location": "McDonald Observatory"
+    },
+    {
+      "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-14",
@@ -5838,6 +5709,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-15",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-15",
+      "location": "McDonald Observatory"
     },
     {
       "source": "ut",
@@ -5936,6 +5814,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-18",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-18",
+      "location": "McDonald Observatory"
     },
     {
       "source": "internal",
@@ -6166,6 +6051,13 @@
     },
     {
       "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-21",
+      "location": "McDonald Observatory"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-21",
@@ -6191,6 +6083,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-22",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-22",
+      "location": "McDonald Observatory"
     },
     {
       "source": "ut",
@@ -6292,6 +6191,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-25",
+      "location": "McDonald Observatory"
     },
     {
       "source": "internal",
@@ -6465,6 +6371,13 @@
     },
     {
       "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-28",
+      "location": "McDonald Observatory"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-28",
@@ -6507,6 +6420,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-29",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Educator Nights at McDonald Observatory",
+      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
+      "start": "2026-08-29",
+      "location": "McDonald Observatory"
     },
     {
       "source": "ut",
@@ -8571,6 +8491,13 @@
     },
     {
       "source": "ut",
+      "title": "FIPS \u2019n\u2019 Chips Cryptographic Module Validation Bootcamp",
+      "url": "https://calendar.utexas.edu/event/fips-n-chips-cryptographic-module-validation-bootcamp",
+      "start": "2026-10-26",
+      "location": "Peter O\u2019Donnell Jr Building\\, Avaya Auditorium & POB 2.402"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-26",
@@ -8589,6 +8516,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-27",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "FIPS \u2019n\u2019 Chips Cryptographic Module Validation Bootcamp",
+      "url": "https://calendar.utexas.edu/event/fips-n-chips-cryptographic-module-validation-bootcamp",
+      "start": "2026-10-27",
+      "location": "Peter O\u2019Donnell Jr Building\\, Avaya Auditorium & POB 2.402"
     },
     {
       "source": "internal",
@@ -10931,6 +10865,13 @@
     },
     {
       "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-01-19",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-19",
@@ -12071,6 +12012,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-05-04",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/04",
@@ -12079,6 +12027,13 @@
       "location": "3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-05-05",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
