@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T09:53:15.741308+00:00",
+  "updated": "2026-06-09T20:11:06.427014+00:00",
   "counts": {
     "public": 10,
     "internal": 240,
@@ -7550,6 +7550,13 @@
     },
     {
       "source": "ut",
+      "title": "Sara Bareilles: The Good Grief Tour",
+      "url": "https://calendar.utexas.edu/event/sara-bareilles-the-good-grief-tour",
+      "start": "2026-10-07",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
       "start": "2026-10-08",
@@ -11628,13 +11635,6 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Lindsay Kobayashi\\, Associate Professor\\, University of Michigan",
-      "url": "https://calendar.utexas.edu/event/lindsay-kobayashinbspassociate-professor-university-of-michigan",
-      "start": "2027-04-16",
-      "location": "RLP 1.302 E \u2014 University of Texas at Austin"
     },
     {
       "source": "ut",
