@@ -24,6 +24,7 @@ RSS_URL       = "https://rss.app/feeds/UXQywtXV9kG72UyK.xml"
 ICS_FILE      = "dell-med-events.ics"
 HTML_FILE     = "calendar.html"
 TICKER_FILE   = "index.html"
+JSON_FILE     = "data/events.json"      # consumed by index.html ticker/list view
 OVERRIDE_FILE = "internal-events.json"
 TIMEZONE      = "America/Chicago"
 CALENDAR_NAME = "Dell Med Events"
@@ -391,13 +392,30 @@ def ev_to_html_json(ev):
     month = MONTH_MAP.get(month_name.lower())
     if not month:
         return None
+
+    # Resolve actual start/end datetimes using the same parser as the ICS builder
+    dtstart, dtend, all_day = parse_date_time(ev.get("date_str",""), ev.get("time_str",""))
+
+    date_iso = f"{int(year):04d}-{month:02d}-{int(day):02d}"
+
+    if all_day or dtstart is None:
+        start_iso = date_iso
+        end_iso   = date_iso
+    else:
+        # Store as local ISO strings (no timezone suffix) — calendar renders in local time
+        start_iso = dtstart.strftime("%Y-%m-%dT%H:%M:%S")
+        end_iso   = dtend.strftime("%Y-%m-%dT%H:%M:%S")
+
     return {
-        "date":     f"{int(year):04d}-{month:02d}-{int(day):02d}",
-        "time":     ev.get("time_str",""),
-        "title":    ev["title"],
-        "location": ev.get("location",""),
-        "url":      ev.get("url",""),
-        "source":   ev.get("source","public"),
+        "date":      date_iso,
+        "start":     start_iso,   # ISO datetime (or date-only if all-day)
+        "end":       end_iso,     # ISO datetime (or date-only if all-day)
+        "allDay":    all_day,
+        "time":      ev.get("time_str",""),
+        "title":     ev["title"],
+        "location":  ev.get("location",""),
+        "url":       ev.get("url",""),
+        "source":    ev.get("source","public"),
     }
 
 
@@ -862,6 +880,19 @@ def main():
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(build_calendar_html(combined))
     print(f"✅ Saved {HTML_FILE}")
+
+    # 6. Write data/events.json (consumed by index.html ticker/list view)
+    print("\n📄 Writing data/events.json...")
+    import os
+    os.makedirs("data", exist_ok=True)
+    ev_list_for_json = [d for ev in combined if (d := ev_to_html_json(ev)) is not None]
+    json_payload = {
+        "updated": datetime.now(timezone.utc).isoformat(),
+        "events":  ev_list_for_json,
+    }
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(json_payload, f, indent=2, ensure_ascii=False)
+    print(f"✅ Saved {JSON_FILE} ({len(ev_list_for_json)} events)")
 
     print(f"\n   Live at:")
     print(f"   {GITHUB_BASE}/dell-med-events.ics")
