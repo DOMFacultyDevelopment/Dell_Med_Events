@@ -5,25 +5,25 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <title>Dell Med Events Ticker</title>
 <style>
-:root{--or:#bf5700;--ord:#9a4600;--bg:#1a1a1a;--tx:#fff;--pub:#bf5700;--int:#005f86;--ut:#333f48;--mu:rgba(255,255,255,.5);--bd:rgba(255,255,255,.08);}
+:root{--or:#bf5700;--ord:#9a4600;--bg:#f0f0f0;--tx:#1a1a1a;--pub:#bf5700;--int:#005f86;--ut:#333f48;--mu:#6b6b6b;--bd:#d4d4d4;}
 *{box-sizing:border-box;margin:0;padding:0;}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--tx);height:100vh;display:flex;flex-direction:column;overflow:hidden;}
 header{background:linear-gradient(135deg,var(--or),var(--ord));padding:14px 32px;border-bottom:3px solid var(--ord);}
 header h1{font-size:20px;font-weight:700;color:#fff;}
 header .sub{font-size:11px;margin-top:2px;color:rgba(255,255,255,.75);}
-.bar{background:rgba(255,255,255,.05);padding:10px 32px;border-bottom:1px solid var(--bd);display:flex;flex-wrap:wrap;gap:12px;align-items:center;font-size:13px;}
-.bar label{display:inline-flex;align-items:center;gap:6px;cursor:pointer;color:var(--mu);}
-.bar label:hover{color:var(--tx);}
+.bar{background:#e8e8e8;padding:10px 32px;border-bottom:1px solid var(--bd);display:flex;flex-wrap:wrap;gap:12px;align-items:center;font-size:13px;}
+.bar label{display:inline-flex;align-items:center;gap:6px;cursor:pointer;color:#555;}
+.bar label:hover{color:#1a1a1a;}
 .bar input[type=checkbox]{width:14px;height:14px;accent-color:var(--or);cursor:pointer;}
 .sp{flex:1;}
-.pbtn{background:none;border:1px solid rgba(255,255,255,.25);color:rgba(255,255,255,.7);padding:5px 12px;border-radius:3px;cursor:pointer;font-size:12px;}
-.pbtn:hover{color:#fff;border-color:rgba(255,255,255,.6);}
-.callink{color:rgba(255,255,255,.6);text-decoration:none;font-size:12px;padding:5px 10px;border:1px solid rgba(255,255,255,.2);border-radius:3px;}
-.callink:hover{color:#fff;}
-.meta{font-size:11px;color:var(--mu);}
+.pbtn{background:#fff;border:1px solid #c0c0c0;color:#444;padding:5px 12px;border-radius:3px;cursor:pointer;font-size:12px;}
+.pbtn:hover{color:#1a1a1a;border-color:#888;}
+.callink{color:#444;text-decoration:none;font-size:12px;padding:5px 10px;border:1px solid #c0c0c0;background:#fff;border-radius:3px;}
+.callink:hover{color:#1a1a1a;border-color:#888;}
+.meta{font-size:11px;color:#6b6b6b;}
 .wrap{flex:1;overflow:hidden;position:relative;padding:0 32px;
-  mask-image:linear-gradient(to bottom,transparent 0%,#000 6%,#000 94%,transparent 100%);
-  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 6%,#000 94%,transparent 100%);}
+  mask-image:linear-gradient(to bottom,transparent 0%,#f0f0f0 6%,#f0f0f0 94%,transparent 100%);
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#f0f0f0 6%,#f0f0f0 94%,transparent 100%);}
 .track{display:flex;flex-direction:column;will-change:transform;}
 .track.paused{animation-play-state:paused!important;}
 .item{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid var(--bd);min-height:44px;flex-shrink:0;}
@@ -35,11 +35,11 @@ header .sub{font-size:11px;margin-top:2px;color:rgba(255,255,255,.75);}
 .sbadge.internal{background:var(--int);color:#fff;}
 .sbadge.ut{background:var(--ut);color:#fff;}
 .itime{font-size:11px;color:var(--mu);white-space:nowrap;flex-shrink:0;}
-.item a{color:var(--tx);text-decoration:none;font-size:14px;line-height:1.3;}
-.item a:hover{text-decoration:underline;color:#ffbc6e;}
+.item a{color:#1a1a1a;text-decoration:none;font-size:14px;line-height:1.3;}
+.item a:hover{text-decoration:underline;color:#bf5700;}
 @keyframes scroll-up{0%{transform:translateY(0);}100%{transform:translateY(-50%);}}
-footer{padding:10px 32px;border-top:1px solid var(--bd);background:rgba(255,255,255,.03);font-size:11px;color:var(--mu);text-align:center;}
-footer a{color:rgba(255,255,255,.45);}footer a:hover{color:var(--tx);}
+footer{padding:10px 32px;border-top:1px solid var(--bd);background:#e4e4e4;font-size:11px;color:var(--mu);text-align:center;}
+footer a{color:#5f5f5f;}footer a:hover{color:#1a1a1a;}
 @media(max-width:640px){header,.bar,.wrap,footer{padding-left:16px;padding-right:16px;}header h1{font-size:17px;}}
 </style>
 </head>
@@ -59,7 +59,7 @@ footer a{color:rgba(255,255,255,.45);}footer a:hover{color:var(--tx);}
 </div>
 <div class="wrap">
   <div class="track" id="track">
-    <div class="item"><span class="dbadge">--</span><span style="color:var(--mu)">Loading&hellip;</span></div>
+    <div class="item"><span class="dbadge">--</span><span style="color:#888">Loading&hellip;</span></div>
   </div>
 </div>
 <footer>
@@ -108,7 +108,7 @@ function build(){
   var seen={};var out=[];
   for(var i=0;i<evs.length;i++){var k=evs[i].title.trim().toLowerCase();if(!seen[k]){seen[k]=1;out.push(evs[i]);}}
   if(!out.length){
-    track.innerHTML='<div class="item"><span class="dbadge">--</span><span style="color:var(--mu)">No events.</span></div>';
+    track.innerHTML='<div class="item"><span class="dbadge">--</span><span style="color:#888">No events.</span></div>';
     track.style.animation='none';return;
   }
   var L={public:'Public',internal:'Internal',ut:'UT Austin'};
