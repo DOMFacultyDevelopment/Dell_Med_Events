@@ -294,8 +294,13 @@ def parse_date_time(date_str, time_str):
     date = datetime(int(year), month, int(day))
     ts   = (time_str or "").strip()
 
-    if not ts or ts.lower() in ("all day", "all day"):
-        return date.date(), (date + timedelta(days=1)).date(), True
+    # "All Day" or no time string — use 8 AM–5 PM so Outlook renders as a
+    # timed event rather than a banner/all-day block (VALUE=DATE forces all-day
+    # in every calendar client; TZID-anchored datetimes do not).
+    if not ts or ts.lower() in ("all day", "all-day", "all day"):
+        dtstart = tz.localize(datetime(int(year), month, int(day), 8, 0))
+        dtend   = tz.localize(datetime(int(year), month, int(day), 17, 0))
+        return dtstart, dtend, False
 
     # Normalize time separators and common formats
     ts = ts.replace("\u2013","-").replace("\u2014","-")
@@ -321,7 +326,8 @@ def parse_date_time(date_str, time_str):
         sh, sm = to24(*times[0])
         eh, em = sh+1, sm
     else:
-        sh, sm, eh, em = 0, 0, 1, 0
+        # Completely unparseable — default to 8 AM–5 PM (same as all-day fallback)
+        sh, sm, eh, em = 8, 0, 17, 0
 
     dtstart = tz.localize(datetime(int(year), month, int(day), sh, sm))
     dtend   = tz.localize(datetime(int(year), month, int(day), eh, em))
@@ -362,12 +368,9 @@ def build_ics(events):
         count += 1
         uid = str(uuid.uuid5(uuid.NAMESPACE_URL, ev["url"]))
         lines += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{now}"]
-        if all_day:
-            lines.append(f"DTSTART;VALUE=DATE:{dtstart.strftime('%Y%m%d')}")
-            lines.append(f"DTEND;VALUE=DATE:{dtend.strftime('%Y%m%d')}")
-        else:
-            lines.append(f"DTSTART;TZID=America/Chicago:{dtstart.strftime('%Y%m%dT%H%M%S')}")
-            lines.append(f"DTEND;TZID=America/Chicago:{dtend.strftime('%Y%m%dT%H%M%S')}")
+        # Always write timed events — VALUE=DATE forces all-day in Outlook
+        lines.append(f"DTSTART;TZID=America/Chicago:{dtstart.strftime('%Y%m%dT%H%M%S')}")
+        lines.append(f"DTEND;TZID=America/Chicago:{dtend.strftime('%Y%m%dT%H%M%S')}")
         lines.append(fold_line(f"SUMMARY:{ics_escape(ev['title'])}"))
         if ev.get("location"):
             lines.append(fold_line(f"LOCATION:{ics_escape(ev['location'])}"))
