@@ -455,14 +455,43 @@ def fold_line(line):
 
 def build_ics(events):
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+    # Full VTIMEZONE block for America/Chicago (CDT/CST).
+    # RFC 5545 §3.6.5 requires this when any VEVENT uses TZID=America/Chicago.
+    # Without it Outlook ignores TZID and renders every event as all-day.
+    VTIMEZONE_CHICAGO = (
+        "BEGIN:VTIMEZONE\r\n"
+        "TZID:America/Chicago\r\n"
+        "X-LIC-LOCATION:America/Chicago\r\n"
+        "BEGIN:DAYLIGHT\r\n"
+        "TZOFFSETFROM:-0600\r\n"
+        "TZOFFSETTO:-0500\r\n"
+        "TZNAME:CDT\r\n"
+        "DTSTART:19700308T020000\r\n"
+        "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\n"
+        "END:DAYLIGHT\r\n"
+        "BEGIN:STANDARD\r\n"
+        "TZOFFSETFROM:-0500\r\n"
+        "TZOFFSETTO:-0600\r\n"
+        "TZNAME:CST\r\n"
+        "DTSTART:19701101T020000\r\n"
+        "RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\n"
+        "END:STANDARD\r\n"
+        "END:VTIMEZONE"
+    )
+
     lines = [
-        "BEGIN:VCALENDAR","VERSION:2.0",
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
         "PRODID:-//Dell Medical School//Dell Med Events//EN",
         f"X-WR-CALNAME:{CALENDAR_NAME}",
         f"X-WR-CALDESC:{CALENDAR_DESC}",
         "X-WR-TIMEZONE:America/Chicago",
-        "CALSCALE:GREGORIAN","METHOD:PUBLISH",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        VTIMEZONE_CHICAGO,
     ]
+
     count = 0
     for ev in events:
         dtstart, dtend, all_day = parse_date_time(ev["date_str"], ev["time_str"])
@@ -471,9 +500,12 @@ def build_ics(events):
         count += 1
         uid = str(uuid.uuid5(uuid.NAMESPACE_URL, ev["url"]))
         lines += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{now}"]
-        # Always write timed events — VALUE=DATE forces all-day in Outlook
-        lines.append(f"DTSTART;TZID=America/Chicago:{dtstart.strftime('%Y%m%dT%H%M%S')}")
-        lines.append(f"DTEND;TZID=America/Chicago:{dtend.strftime('%Y%m%dT%H%M%S')}")
+
+        # Emit as UTC (Z-suffix) datetimes — universally understood by every
+        # calendar client including Outlook, no TZID look-up required.
+        lines.append(f"DTSTART:{dtstart.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
+        lines.append(f"DTEND:{dtend.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
+
         lines.append(fold_line(f"SUMMARY:{ics_escape(ev['title'])}"))
         if ev.get("location"):
             lines.append(fold_line(f"LOCATION:{ics_escape(ev['location'])}"))
@@ -481,6 +513,7 @@ def build_ics(events):
             lines.append(fold_line(f"DESCRIPTION:{ics_escape(ev['description'])}"))
         lines.append(fold_line(f"URL:{ev['url']}"))
         lines.append("END:VEVENT")
+
     lines.append("END:VCALENDAR")
     print(f"  → ICS: {count} events written")
     return "\r\n".join(lines) + "\r\n"
