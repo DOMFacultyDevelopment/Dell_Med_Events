@@ -1,1 +1,762 @@
-[]
+[
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/20",
+    "date": "2026-03-20",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/23",
+    "date": "2026-03-23",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Get Ready for Epic: FINAL Clinical Staff Virtual Town Hall & Demo",
+    "url": "https://intranet.dellmed.utexas.edu/event/1011082/",
+    "date": "2026-03-23",
+    "time": "12:00pm – 1:00pm",
+    "location": "MS Teams",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/24",
+    "date": "2026-03-24",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/03/24",
+    "date": "2026-03-24",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Cybersecurity Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/03/24",
+    "date": "2026-03-24",
+    "time": "12:00pm – 1:00pm",
+    "location": "MS Teams",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/25",
+    "date": "2026-03-25",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Office of Faculty Academic Affairs: Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/03/25",
+    "date": "2026-03-25",
+    "time": "3:00pm – 4:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (HDB & Zoom)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/03/25",
+    "date": "2026-03-25",
+    "time": "3:00pm – 4:00pm",
+    "location": "HDB 8.000 & Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/26",
+    "date": "2026-03-26",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Best Practices in Medical Education Grand Rounds",
+    "url": "https://intranet.dellmed.utexas.edu/event/1002380/",
+    "date": "2026-03-26",
+    "time": "7:30am – 8:30am",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/03/26",
+    "date": "2026-03-26",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "EAP Monthly Mindfulness Workshop",
+    "url": "https://intranet.dellmed.utexas.edu/event/986238/",
+    "date": "2026-03-26",
+    "time": "11:30am – 12:00pm",
+    "location": "HDB 1.204",
+    "source": "internal"
+  },
+  {
+    "title": "Supervisor Toolkit: Setting Expectations & Giving Feedback",
+    "url": "https://intranet.dellmed.utexas.edu/event/988821/",
+    "date": "2026-03-26",
+    "time": "3:00pm – 4:00pm",
+    "location": "Virtual (Zoom)",
+    "source": "internal"
+  },
+  {
+    "title": "Promotion Info Session: Promotion Readiness & Areas of Excellence",
+    "url": "https://intranet.dellmed.utexas.edu/event/966501/",
+    "date": "2026-03-26",
+    "time": "4:00pm – 5:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Faculty Spring Mentorship Event",
+    "url": "https://intranet.dellmed.utexas.edu/event/988784/",
+    "date": "2026-03-26",
+    "time": "4:30pm – 6:30pm",
+    "location": "HLB 1.111 Auditorium",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/27",
+    "date": "2026-03-27",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Honoring the Legacy of Paul Rathouz",
+    "url": "https://intranet.dellmed.utexas.edu/event/1000543/",
+    "date": "2026-03-27",
+    "time": "10:30am – 12:00pm",
+    "location": "HDB Auditorium (1.208)",
+    "source": "internal"
+  },
+  {
+    "title": "In Conversation: Academic Career Exploration and Planning",
+    "url": "https://intranet.dellmed.utexas.edu/event/972002/",
+    "date": "2026-03-27",
+    "time": "1:30pm – 2:30pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/30",
+    "date": "2026-03-30",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Distinguished Peter B. Dervan Lecture: 'Regenerative Engineering'",
+    "url": "https://intranet.dellmed.utexas.edu/event/1002941/",
+    "date": "2026-03-30",
+    "time": "3:00pm – 5:00pm",
+    "location": "Engineering Education & Research Center, Mulva Auditorium",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/31",
+    "date": "2026-03-31",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/03/31",
+    "date": "2026-03-31",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/01",
+    "date": "2026-04-01",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "UT Resource Recovery Alkaline Battery Recycling",
+    "url": "https://intranet.dellmed.utexas.edu/event/1008610/",
+    "date": "2026-04-01",
+    "time": "8:00am – 2:00pm",
+    "location": "Multiple Locations",
+    "source": "internal"
+  },
+  {
+    "title": "Office of Faculty Academic Affairs: Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/04/01",
+    "date": "2026-04-01",
+    "time": "3:00pm – 4:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "CHEER Seminar: Heat Exposure to Emergency Care",
+    "url": "https://intranet.dellmed.utexas.edu/event/1004080/",
+    "date": "2026-04-01",
+    "time": "3:30pm – 4:30pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/02",
+    "date": "2026-04-02",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/02",
+    "date": "2026-04-02",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Leadership Starts Here: Faculty Development Workshop — Building a Thriving Team",
+    "url": "https://intranet.dellmed.utexas.edu/event/972411/",
+    "date": "2026-04-02",
+    "time": "1:00pm – 3:00pm",
+    "location": "HDB 1.208 Auditorium",
+    "source": "internal"
+  },
+  {
+    "title": "Bi-Monthly Office of Research Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/04/02",
+    "date": "2026-04-02",
+    "time": "1:30pm – 2:30pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Promotion Info Session: How to Prepare Your Dossier",
+    "url": "https://intranet.dellmed.utexas.edu/event/966502/",
+    "date": "2026-04-02",
+    "time": "4:00pm – 5:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/03",
+    "date": "2026-04-03",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Publishing Quality-Improvement Work: A Conversation with Dr. Alex Kemper",
+    "url": "https://intranet.dellmed.utexas.edu/event/1005437/",
+    "date": "2026-04-03",
+    "time": "2:00pm – 3:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/06",
+    "date": "2026-04-06",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/07",
+    "date": "2026-04-07",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/07",
+    "date": "2026-04-07",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Cybersecurity Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/04/07",
+    "date": "2026-04-07",
+    "time": "12:00pm – 1:00pm",
+    "location": "MS Teams",
+    "source": "internal"
+  },
+  {
+    "title": "Population Health Grand Rounds: Community-Based Interventions for Chronic Disease Prevention",
+    "url": "https://intranet.dellmed.utexas.edu/event/1003924/",
+    "date": "2026-04-07",
+    "time": "1:00pm – 2:00pm",
+    "location": "HLB 1.111 Auditorium",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/08",
+    "date": "2026-04-08",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (HDB & Zoom)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/04/08",
+    "date": "2026-04-08",
+    "time": "3:00pm – 4:00pm",
+    "location": "HDB 8.000 & Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "DSPC Discovery and Investigation Seminar Series",
+    "url": "https://intranet.dellmed.utexas.edu/event/984967/",
+    "date": "2026-04-08",
+    "time": "4:00pm – 5:00pm",
+    "location": "HDB 6.110 or Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/09",
+    "date": "2026-04-09",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/09",
+    "date": "2026-04-09",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/10",
+    "date": "2026-04-10",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/13",
+    "date": "2026-04-13",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/14",
+    "date": "2026-04-14",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/14",
+    "date": "2026-04-14",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/15",
+    "date": "2026-04-15",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Office of Faculty Academic Affairs: Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/04/15",
+    "date": "2026-04-15",
+    "time": "3:00pm – 4:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/16",
+    "date": "2026-04-16",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/16",
+    "date": "2026-04-16",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Medical Education Research Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/04/16",
+    "date": "2026-04-16",
+    "time": "12:00pm – 1:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Bi-Monthly Office of Research Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/04/16",
+    "date": "2026-04-16",
+    "time": "1:30pm – 2:30pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/17",
+    "date": "2026-04-17",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/20",
+    "date": "2026-04-20",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/21",
+    "date": "2026-04-21",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/21",
+    "date": "2026-04-21",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "In Conversation Discussion Series: From Abstract to Publication",
+    "url": "https://intranet.dellmed.utexas.edu/event/993762/",
+    "date": "2026-04-21",
+    "time": "12:00pm – 1:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Cybersecurity Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/04/21",
+    "date": "2026-04-21",
+    "time": "12:00pm – 1:00pm",
+    "location": "MS Teams",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/22",
+    "date": "2026-04-22",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (HDB & Zoom)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/04/22",
+    "date": "2026-04-22",
+    "time": "3:00pm – 4:00pm",
+    "location": "HDB 8.000 & Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "LGBTQIA+ Health Speaker Event",
+    "url": "https://intranet.dellmed.utexas.edu/event/1004190/",
+    "date": "2026-04-22",
+    "time": "3:00pm – 4:30pm",
+    "location": "HDB 1.208 Auditorium",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/23",
+    "date": "2026-04-23",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/23",
+    "date": "2026-04-23",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Post Launch Team Celebration (Epic Go-Live)",
+    "url": "https://intranet.dellmed.utexas.edu/event/1012140/",
+    "date": "2026-04-23",
+    "time": "11:00am – 1:00pm",
+    "location": "HDB First Floor & Courtyard",
+    "source": "internal"
+  },
+  {
+    "title": "UT Health Austin Lunch & Learn",
+    "url": "https://intranet.dellmed.utexas.edu/event/975844/",
+    "date": "2026-04-23",
+    "time": "12:00pm – 1:00pm",
+    "location": "HTB 10.114 or Teams",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/24",
+    "date": "2026-04-24",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Biomedical Writing Workshop",
+    "url": "https://intranet.dellmed.utexas.edu/event/995317/",
+    "date": "2026-04-24",
+    "time": "1:30pm – 5:00pm",
+    "location": "HLB 5.201 Boardroom",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/27",
+    "date": "2026-04-27",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/28",
+    "date": "2026-04-28",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/28",
+    "date": "2026-04-28",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "The Undiagnosed Initiative – Photo Exhibition",
+    "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/29",
+    "date": "2026-04-29",
+    "time": "All Day",
+    "location": "1st floors of HLB & HTB",
+    "source": "internal"
+  },
+  {
+    "title": "Office of Faculty Academic Affairs: Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/04/29",
+    "date": "2026-04-29",
+    "time": "3:00pm – 4:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/30",
+    "date": "2026-04-30",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Longhorns Listen: Suicide Prevention Training",
+    "url": "https://intranet.dellmed.utexas.edu/event/1003108/",
+    "date": "2026-04-30",
+    "time": "12:00pm – 1:30pm",
+    "location": "HDB 1.202",
+    "source": "internal"
+  },
+  {
+    "title": "EAP Monthly Mindfulness Workshop",
+    "url": "https://intranet.dellmed.utexas.edu/event/986239/",
+    "date": "2026-04-30",
+    "time": "4:30pm – 5:00pm",
+    "location": "HDB 1.202",
+    "source": "internal"
+  },
+  {
+    "title": "Arrival to Access: The Intersections of Migration and Healthcare",
+    "url": "https://intranet.dellmed.utexas.edu/event/1011184/",
+    "date": "2026-05-01",
+    "time": "12:00pm – 5:30pm",
+    "location": "HLB 1.111 Auditorium",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/05",
+    "date": "2026-05-05",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Cybersecurity Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/05/05",
+    "date": "2026-05-05",
+    "time": "12:00pm – 1:00pm",
+    "location": "MS Teams",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (HDB & Zoom)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/05/06",
+    "date": "2026-05-06",
+    "time": "3:00pm – 4:00pm",
+    "location": "HDB 8.000 & Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/07",
+    "date": "2026-05-07",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Bi-Monthly Office of Research Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/05/07",
+    "date": "2026-05-07",
+    "time": "1:30pm – 2:30pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/12",
+    "date": "2026-05-12",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Office of Faculty Academic Affairs: Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/05/13",
+    "date": "2026-05-13",
+    "time": "3:00pm – 4:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "DSPC Discovery and Investigation Seminar Series",
+    "url": "https://intranet.dellmed.utexas.edu/event/984968/",
+    "date": "2026-05-13",
+    "time": "4:00pm – 5:00pm",
+    "location": "HDB 6.110 or Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/14",
+    "date": "2026-05-14",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/19",
+    "date": "2026-05-19",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "In Conversation: Professional Mentorship, Sponsorship & Coaching",
+    "url": "https://intranet.dellmed.utexas.edu/event/1002985/",
+    "date": "2026-05-19",
+    "time": "11:00am – 12:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Cybersecurity Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/05/19",
+    "date": "2026-05-19",
+    "time": "12:00pm – 1:00pm",
+    "location": "MS Teams",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (HDB & Zoom)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/05/20",
+    "date": "2026-05-20",
+    "time": "3:00pm – 4:00pm",
+    "location": "HDB 8.000 & Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "IT Office Hour (DPRI)",
+    "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/21",
+    "date": "2026-05-21",
+    "time": "8:00am – 12:00pm",
+    "location": "DPRI 3.708A",
+    "source": "internal"
+  },
+  {
+    "title": "Medical Education Research Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/05/21",
+    "date": "2026-05-21",
+    "time": "12:00pm – 1:00pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Bi-Monthly Office of Research Office Hours",
+    "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/05/21",
+    "date": "2026-05-21",
+    "time": "1:30pm – 2:30pm",
+    "location": "Zoom",
+    "source": "internal"
+  },
+  {
+    "title": "Annual Dell Med Resource Fair",
+    "url": "https://intranet.dellmed.utexas.edu/event/1004986/",
+    "date": "2026-07-15",
+    "time": "7:30am – 9:30am",
+    "location": "HDB Courtyard, First Floor Atrium",
+    "source": "internal"
+  }
+]
