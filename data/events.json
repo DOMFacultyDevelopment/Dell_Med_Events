@@ -1,126 +1,11 @@
 {
-  "updated": "2026-06-10T20:35:42.780229+00:00",
+  "updated": "2026-06-11T10:43:57.433922+00:00",
   "counts": {
     "public": 9,
-    "internal": 238,
-    "ut": 1313
+    "internal": 237,
+    "ut": 1337
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "2026 Longhorn Nursing Immersion Summer Camp",
-      "url": "https://calendar.utexas.edu/event/2026-longhorn-nursing-immersion-summer-camp",
-      "start": "2026-06-10",
-      "location": "The University of Texas School of Nursing"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-06-10",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-06-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-06-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-06-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-06-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Feasting Together: 20th Century Community Cookbooks from the PCL Collections",
-      "url": "https://calendar.utexas.edu/event/feasting-together-20th-century-community-cookbooks-from-the-pcl-collections",
-      "start": "2026-06-10",
-      "location": "Perry-Casta\u00f1eda Library (PCL)"
-    },
-    {
-      "source": "ut",
-      "title": "Health Communication Leadership Institute",
-      "url": "https://calendar.utexas.edu/event/health-communication-leadership-institute",
-      "start": "2026-06-10",
-      "location": "G.B. Dealey Center for new Media\\, DMC 5.208"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-06-10",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Information Session: AE-MSN Prospective Student",
-      "url": "https://calendar.utexas.edu/event/information-session-ae-msn-prospective-student",
-      "start": "2026-06-10",
-      "location": "Zoom"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-06-10",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/06/10",
-      "start": "2026-06-10",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-06-10",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-06-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Track & Field / Cross Country vs NCAA Outdoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-at-ncaa-outdoor-championships-5188",
-      "start": "2026-06-10",
-      "location": "Eugene\\, Ore.\\, Hayward Field"
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-06-10",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
     {
       "source": "ut",
       "title": "2026 Longhorn Nursing Immersion Summer Camp",
@@ -248,6 +133,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-11",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "2026 Longhorn Nursing Immersion Summer Camp",
       "url": "https://calendar.utexas.edu/event/2026-longhorn-nursing-immersion-summer-camp",
       "start": "2026-06-12",
@@ -355,6 +247,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-12",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-13",
@@ -439,6 +338,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-13",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Bonneville County Pine Box Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/bonneville-county-pine-box-live-at-the-cactus-cafe",
       "start": "2026-06-14",
@@ -509,6 +415,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-14",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-15",
@@ -562,6 +475,13 @@
       "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
       "start": "2026-06-15",
       "location": "Whitaker Courts"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-15",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -730,6 +650,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-16",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-06-17",
@@ -856,6 +783,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-17",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-17",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -990,6 +924,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-18",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-19",
@@ -1053,6 +994,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-19",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-20",
@@ -1099,6 +1047,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-20",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-20",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1165,6 +1120,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-21",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-22",
@@ -1218,6 +1180,13 @@
       "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
       "start": "2026-06-22",
       "location": "Whitaker Courts"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-22",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1332,6 +1301,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-23",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-06-24",
@@ -1433,6 +1409,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-24",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-24",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1549,6 +1532,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-25",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-25",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1672,6 +1662,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-26",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
       "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
       "start": "2026-06-27",
@@ -1725,6 +1722,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-27",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-27",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1788,6 +1792,13 @@
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-06-28",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-28",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1872,6 +1883,13 @@
       "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
       "start": "2026-06-29",
       "location": "Whitaker Courts"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-29",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2017,6 +2035,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-06-30",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-07-01",
@@ -2103,6 +2128,13 @@
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
     },
     {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-01",
+      "location": "Cactus Cafe"
+    },
+    {
       "source": "internal",
       "title": "Bi-Monthly Office of Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/07/02",
@@ -2183,6 +2215,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-02",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-03",
@@ -2242,6 +2281,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-03",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-04",
@@ -2277,6 +2323,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-04",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-05",
@@ -2309,6 +2362,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-05",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-05",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2351,6 +2411,13 @@
       "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
       "start": "2026-07-06",
       "location": "Whitaker Courts"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-06",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2427,6 +2494,13 @@
       "location": "Virtual (Teams)",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-07",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2510,6 +2584,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-08",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-07-09",
@@ -2583,6 +2664,13 @@
       "location": "Virtual (Teams)",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-09",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2663,6 +2751,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-10",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-11",
@@ -2712,6 +2807,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-11",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-12",
@@ -2754,6 +2856,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-12",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-13",
@@ -2793,6 +2902,13 @@
       "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
       "start": "2026-07-13",
       "location": "Whitaker Courts"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-13",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2926,6 +3042,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-14",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "& Juliet",
       "url": "https://calendar.utexas.edu/event/juliet",
       "start": "2026-07-15",
@@ -3037,6 +3160,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-15",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "& Juliet",
       "url": "https://calendar.utexas.edu/event/juliet",
       "start": "2026-07-16",
@@ -3133,6 +3263,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-16",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "& Juliet",
       "url": "https://calendar.utexas.edu/event/juliet",
       "start": "2026-07-17",
@@ -3206,6 +3343,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-17",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "& Juliet",
       "url": "https://calendar.utexas.edu/event/juliet",
       "start": "2026-07-18",
@@ -3269,6 +3413,13 @@
     },
     {
       "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-18",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "& Juliet",
       "url": "https://calendar.utexas.edu/event/juliet",
       "start": "2026-07-19",
@@ -3315,6 +3466,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-19",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "World Cup Viewing in the Texas Union",
+      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
+      "start": "2026-07-19",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
