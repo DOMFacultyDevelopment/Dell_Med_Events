@@ -6,20 +6,19 @@
 <title>Dell Med Events Ticker</title>
 <style>
   :root {
-    /* UT Austin official palette */
     --burnt-orange: #bf5700;
     --burnt-orange-dark: #9a4600;
     --bg: #ffffff;
-    --panel-bg: #f8f6f3;       /* warm off-white for panels */
-    --ticker-bg: #faf7f2;      /* slightly warmer for the ticker bar */
+    --panel-bg: #f8f6f3;
+    --ticker-bg: #1a1a1a;
+    --ticker-text: #ffffff;
     --text: #1a1a1a;
     --text-muted: #5f5f5f;
     --border: #d9d6d1;
     --border-light: #ebe8e3;
-    /* source-coded accents */
-    --public: #bf5700;          /* UT burnt orange */
-    --internal: #005f86;        /* UT secondary blue */
-    --ut: #333f48;              /* UT charcoal */
+    --public: #bf5700;
+    --internal: #005f86;
+    --ut: #333f48;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -30,23 +29,18 @@
     display: flex;
     flex-direction: column;
   }
+
+  /* ── Header ── */
   header {
     background: linear-gradient(135deg, var(--burnt-orange) 0%, var(--burnt-orange-dark) 100%);
     padding: 20px 32px;
     border-bottom: 3px solid var(--burnt-orange-dark);
-    box-shadow: 0 2px 8px rgba(191, 87, 0, 0.15);
+    box-shadow: 0 2px 8px rgba(191,87,0,0.15);
   }
-  header h1 {
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-    color: #fff;
-  }
-  header .subtitle {
-    font-size: 13px;
-    margin-top: 4px;
-    color: rgba(255,255,255,0.85);
-  }
+  header h1 { font-size: 24px; font-weight: 700; letter-spacing: 0.5px; color: #fff; }
+  header .subtitle { font-size: 13px; margin-top: 4px; color: rgba(255,255,255,0.85); }
+
+  /* ── Controls bar ── */
   .controls {
     background: var(--panel-bg);
     padding: 14px 32px;
@@ -57,87 +51,139 @@
     align-items: center;
     font-size: 14px;
   }
-  .controls .sources {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-  }
+  .controls .sources { display: flex; gap: 16px; flex-wrap: wrap; }
   .controls label {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    cursor: pointer;
-    user-select: none;
-    color: var(--text-muted);
+    display: inline-flex; align-items: center; gap: 6px;
+    cursor: pointer; user-select: none; color: var(--text-muted);
   }
   .controls label:hover { color: var(--text); }
   .controls input[type="checkbox"] {
     width: 16px; height: 16px;
-    accent-color: var(--burnt-orange);
-    cursor: pointer;
+    accent-color: var(--burnt-orange); cursor: pointer;
   }
   .controls .spacer { flex: 1; }
-  .controls button, .controls a.btn {
-    background: var(--burnt-orange);
-    color: #fff;
-    border: none;
-    padding: 7px 14px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 13px;
-    font-weight: 600;
-    text-decoration: none;
-    transition: background 0.15s;
+  .controls button {
+    background: var(--burnt-orange); color: #fff; border: none;
+    padding: 7px 14px; border-radius: 4px; cursor: pointer;
+    font-size: 13px; font-weight: 600; transition: background 0.15s;
   }
-  .controls button:hover, .controls a.btn:hover { background: var(--burnt-orange-dark); }
-  .controls .meta {
-    font-size: 12px;
-    color: var(--text-muted);
+  .controls button:hover { background: var(--burnt-orange-dark); }
+  .controls .meta { font-size: 12px; color: var(--text-muted); }
+
+  /* ── Outlook subscribe banner ── */
+  .outlook-bar {
+    background: #f0f7ff;
+    border-bottom: 1px solid #c8dff7;
+    padding: 14px 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+  }
+  .outlook-bar .outlook-icon {
+    width: 36px; height: 36px; flex-shrink: 0;
+  }
+  .outlook-bar .outlook-text { flex: 1; min-width: 200px; }
+  .outlook-bar .outlook-text strong {
+    display: block; font-size: 14px; color: #0d47a1; margin-bottom: 2px;
+  }
+  .outlook-bar .outlook-text span { font-size: 12px; color: #444; }
+  .outlook-steps {
+    display: flex; gap: 0; align-items: center; flex-wrap: wrap;
+    font-size: 11px; color: #555;
+  }
+  .outlook-step {
+    display: flex; align-items: center; gap: 5px;
+    padding: 4px 10px; background: #fff;
+    border: 1px solid #c8dff7; border-radius: 3px;
+    white-space: nowrap;
+  }
+  .outlook-step + .outlook-step { border-left: none; border-radius: 0; }
+  .outlook-step:first-child { border-radius: 3px 0 0 3px; }
+  .outlook-step:last-child  { border-radius: 0 3px 3px 0; border-left: none; }
+  .outlook-step .step-num {
+    background: #0d47a1; color: #fff; border-radius: 50%;
+    width: 16px; height: 16px; font-size: 10px; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .outlook-btn {
+    background: #0078d4; color: #fff; border: none;
+    padding: 8px 16px; border-radius: 4px; cursor: pointer;
+    font-size: 13px; font-weight: 600; white-space: nowrap;
+    transition: background 0.15s; display: flex; align-items: center; gap: 6px;
+  }
+  .outlook-btn:hover { background: #005a9e; }
+  .outlook-btn.copied { background: #107c10; }
+
+  /* ── Vertical ticker ── */
+  .ticker-section {
+    background: var(--ticker-bg);
+    padding: 0 32px;
+    border-bottom: 3px solid var(--burnt-orange);
+  }
+  .ticker-label {
+    font-size: 10px; font-weight: 700; letter-spacing: 0.15em;
+    text-transform: uppercase; color: var(--burnt-orange);
+    padding: 8px 0 4px;
   }
   .ticker-wrap {
-    background: var(--ticker-bg);
-    border-bottom: 1px solid var(--border);
     overflow: hidden;
+    height: 140px;   /* shows ~3-4 items */
     position: relative;
-    height: 56px;
+    mask-image: linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%);
   }
   .ticker-track {
-    display: inline-flex;
-    align-items: center;
-    height: 100%;
-    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
     will-change: transform;
-    animation: scroll-left 120s linear infinite;
+    animation: scroll-up 80s linear infinite;
   }
   .ticker-track.paused { animation-play-state: paused; }
   .ticker-item {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     gap: 10px;
-    padding: 0 28px;
-    font-size: 15px;
-    border-right: 1px solid var(--border-light);
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    font-size: 14px;
+    min-height: 36px;
+    flex-shrink: 0;
   }
-  .ticker-item a {
-    color: var(--text);
-    text-decoration: none;
-  }
-  .ticker-item a:hover { text-decoration: underline; color: var(--burnt-orange); }
+  .ticker-item a { color: var(--ticker-text); text-decoration: none; line-height: 1.3; }
+  .ticker-item a:hover { text-decoration: underline; color: #ffbc6e; }
   .ticker-date {
     background: var(--burnt-orange);
     color: #fff;
-    padding: 4px 10px;
+    padding: 3px 8px;
     border-radius: 3px;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 700;
     letter-spacing: 0.3px;
+    white-space: nowrap;
+    flex-shrink: 0;
   }
   .ticker-item[data-source="internal"] .ticker-date { background: var(--internal); }
-  .ticker-item[data-source="ut"] .ticker-date { background: var(--ut); }
-  @keyframes scroll-left {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
+  .ticker-item[data-source="ut"]       .ticker-date { background: var(--ut); }
+  .ticker-time {
+    font-size: 11px; color: rgba(255,255,255,0.5);
+    white-space: nowrap; flex-shrink: 0;
   }
+  .ticker-footer {
+    display: flex; justify-content: flex-end; padding: 4px 0 8px;
+  }
+  .ticker-footer button {
+    background: none; border: none; color: rgba(255,255,255,0.4);
+    font-size: 11px; cursor: pointer; padding: 2px 0;
+  }
+  .ticker-footer button:hover { color: rgba(255,255,255,0.8); }
+
+  @keyframes scroll-up {
+    0%   { transform: translateY(0); }
+    100% { transform: translateY(-50%); }
+  }
+
+  /* ── Main event list ── */
   main {
     flex: 1;
     padding: 28px 32px;
@@ -162,7 +208,7 @@
     padding: 14px 18px;
     margin-bottom: 10px;
     display: grid;
-    grid-template-columns: 140px 1fr auto;
+    grid-template-columns: 160px 1fr auto;
     gap: 16px;
     align-items: start;
     box-shadow: 0 1px 2px rgba(0,0,0,0.04);
@@ -173,46 +219,28 @@
     transform: translateY(-1px);
   }
   .event-card[data-source="internal"] { border-left-color: var(--internal); }
-  .event-card[data-source="ut"] { border-left-color: var(--ut); }
-  .event-card .date {
-    font-size: 13px;
-    color: var(--text-muted);
-    font-weight: 600;
+  .event-card[data-source="ut"]       { border-left-color: var(--ut); }
+  .event-card .date { font-size: 13px; color: var(--text-muted); font-weight: 600; line-height: 1.5; }
+  .event-card .time-display {
+    font-size: 12px; color: var(--burnt-orange); font-weight: 600;
+    margin-top: 2px;
   }
-  .event-card .title {
-    font-size: 15px;
-    font-weight: 600;
-  }
-  .event-card .title a {
-    color: var(--text);
-    text-decoration: none;
-  }
+  .event-card[data-source="internal"] .time-display { color: var(--internal); }
+  .event-card[data-source="ut"]       .time-display { color: var(--ut); }
+  .event-card .title { font-size: 15px; font-weight: 600; }
+  .event-card .title a { color: var(--text); text-decoration: none; }
   .event-card .title a:hover { color: var(--burnt-orange); text-decoration: underline; }
-  .event-card .meta-row {
-    font-size: 12px;
-    color: var(--text-muted);
-    margin-top: 4px;
-  }
+  .event-card .meta-row { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
   .event-card .badge {
-    font-size: 10px;
-    background: #e8e4dd;
-    color: var(--text-muted);
-    padding: 3px 8px;
-    border-radius: 3px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-weight: 700;
-    white-space: nowrap;
+    font-size: 10px; background: #e8e4dd; color: var(--text-muted);
+    padding: 3px 8px; border-radius: 3px; text-transform: uppercase;
+    letter-spacing: 0.5px; font-weight: 700; white-space: nowrap;
   }
-  .event-card[data-source="public"] .badge { background: var(--burnt-orange); color: #fff; }
+  .event-card[data-source="public"]   .badge { background: var(--burnt-orange); color: #fff; }
   .event-card[data-source="internal"] .badge { background: var(--internal); color: #fff; }
-  .event-card[data-source="ut"] .badge { background: var(--ut); color: #fff; }
-  .empty {
-    color: var(--text-muted);
-    font-style: italic;
-    padding: 20px;
-    text-align: center;
-  }
+  .event-card[data-source="ut"]       .badge { background: var(--ut); color: #fff; }
+  .empty { color: var(--text-muted); font-style: italic; padding: 20px; text-align: center; }
+
   footer {
     padding: 18px 32px;
     border-top: 1px solid var(--border);
@@ -223,15 +251,16 @@
   }
   footer a { color: var(--burnt-orange); text-decoration: none; }
   footer a:hover { text-decoration: underline; }
+
   @media (max-width: 640px) {
     header { padding: 14px 16px; }
     header h1 { font-size: 18px; }
     .controls { padding: 10px 16px; }
+    .outlook-bar { padding: 12px 16px; }
+    .ticker-section { padding: 0 16px; }
     main { padding: 18px 16px; }
-    .event-card {
-      grid-template-columns: 1fr;
-      gap: 6px;
-    }
+    .event-card { grid-template-columns: 1fr; gap: 6px; }
+    .outlook-steps { display: none; }
   }
 </style>
 </head>
@@ -242,24 +271,60 @@
   <div class="subtitle">Dell Medical School · Department of Medicine</div>
 </header>
 
+<!-- Controls -->
 <div class="controls">
   <div class="sources">
-    <label><input type="checkbox" data-filter="public" checked> Dell Med Public</label>
+    <label><input type="checkbox" data-filter="public"   checked> Dell Med Public</label>
     <label><input type="checkbox" data-filter="internal" checked> Internal (Dell Med Intranet)</label>
-    <label><input type="checkbox" data-filter="ut" checked> UT Austin Calendar</label>
+    <label><input type="checkbox" data-filter="ut"       checked> UT Austin Calendar</label>
   </div>
   <div class="spacer"></div>
-  <button id="pauseBtn">⏸ Pause</button>
-  <a class="btn" href="dell-med-events.ics" download>📅 Subscribe (.ics)</a>
+  <button id="pauseBtn">⏸ Pause Ticker</button>
   <span class="meta" id="lastUpdated">Loading…</span>
 </div>
 
-<div class="ticker-wrap">
-  <div class="ticker-track" id="tickerTrack">
-    <span class="ticker-item"><span class="ticker-date">--</span> Loading events…</span>
+<!-- Outlook Subscribe Banner -->
+<div class="outlook-bar">
+  <svg class="outlook-icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="48" height="48" rx="6" fill="#0078D4"/>
+    <path d="M8 14h20v20H8z" fill="#fff" opacity=".15"/>
+    <path d="M28 14h12v4H28zM28 20h12v4H28zM28 26h12v4H28z" fill="#fff"/>
+    <circle cx="18" cy="24" r="6" fill="#fff"/>
+    <text x="18" y="27.5" text-anchor="middle" font-size="7" font-weight="bold" fill="#0078D4">O</text>
+  </svg>
+  <div class="outlook-text">
+    <strong>📅 Subscribe in Outlook — events sync automatically every day</strong>
+    <span>Copy the calendar URL below, then follow the steps to add it to Outlook.</span>
+  </div>
+  <div class="outlook-steps">
+    <div class="outlook-step"><span class="step-num">1</span> Click Copy URL</div>
+    <div class="outlook-step"><span class="step-num">2</span> Outlook → File → Account Settings → Account Settings</div>
+    <div class="outlook-step"><span class="step-num">3</span> Internet Calendars tab → New → Paste URL → Add</div>
+    <div class="outlook-step"><span class="step-num">4</span> ✓ Events appear under Other Calendars</div>
+  </div>
+  <button class="outlook-btn" id="copyIcsBtn">
+    <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><path d="M4 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H4zm0 1h8a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/><path d="M6.5 1h3a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/></svg>
+    Copy Calendar URL
+  </button>
+</div>
+
+<!-- Vertical Ticker -->
+<div class="ticker-section">
+  <div class="ticker-label">Upcoming Events</div>
+  <div class="ticker-wrap">
+    <div class="ticker-track" id="tickerTrack">
+      <div class="ticker-item">
+        <span class="ticker-date">--</span>
+        <span style="color:rgba(255,255,255,0.5)">Loading events…</span>
+      </div>
+    </div>
+  </div>
+  <div class="ticker-footer">
+    <button id="pauseTickerBtn">⏸ Pause</button>
   </div>
 </div>
 
+<!-- Event List -->
 <main>
   <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;flex-wrap:wrap;gap:12px;">
     <h2>Upcoming Events</h2>
@@ -281,6 +346,8 @@
 </footer>
 
 <script>
+const ICS_URL = 'https://domfacultydevelopment.github.io/Dell_Med_Events/dell-med-events.ics';
+
 const STATE = {
   events: [],
   filters: { public: true, internal: true, ut: true },
@@ -288,15 +355,13 @@ const STATE = {
 };
 
 function formatDate(iso) {
-  // Works with both "2026-06-15" and "2026-06-15T09:00:00"
   const d = iso.includes('T') ? new Date(iso) : new Date(iso + 'T12:00:00');
   return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 }
 
 function formatDateLong(iso) {
   const d = iso.includes('T') ? new Date(iso) : new Date(iso + 'T12:00:00');
-  const opts = { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' };
-  return d.toLocaleDateString('en-US', opts);
+  return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' });
 }
 
 function formatTimeDisplay(ev) {
@@ -304,9 +369,7 @@ function formatTimeDisplay(ev) {
   if (ev.start && ev.start.includes('T')) {
     const fmt = t => new Date(t).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
     const s = fmt(ev.start);
-    if (ev.end && ev.end.includes('T') && ev.end !== ev.start) {
-      return s + ' – ' + fmt(ev.end);
-    }
+    if (ev.end && ev.end.includes('T') && ev.end !== ev.start) return s + ' – ' + fmt(ev.end);
     return s;
   }
   return ev.time || '';
@@ -320,11 +383,11 @@ function renderTicker() {
   const track = document.getElementById('tickerTrack');
   const events = getFilteredEvents();
   if (events.length === 0) {
-    track.innerHTML = '<span class="ticker-item"><span class="ticker-date">--</span> No events match your filters.</span>';
+    track.innerHTML = '<div class="ticker-item"><span class="ticker-date">--</span><span style="color:rgba(255,255,255,0.5)">No events match your filters.</span></div>';
     return;
   }
-  // Dedupe by title: events are already sorted ascending by start date,
-  // so the first one seen is the next upcoming instance.
+
+  // Dedupe by title — show next upcoming instance of each recurring event
   const seenTitles = new Set();
   const tickerEvents = [];
   for (const e of events) {
@@ -333,61 +396,72 @@ function renderTicker() {
     seenTitles.add(key);
     tickerEvents.push(e);
   }
+
   const items = tickerEvents.map(e => `
-    <span class="ticker-item" data-source="${e.source}">
+    <div class="ticker-item" data-source="${e.source}">
       <span class="ticker-date">${formatDate(e.start)}</span>
+      <span class="ticker-time">${escapeHtml(formatTimeDisplay(e))}</span>
       <a href="${e.url}" target="_blank" rel="noopener">${escapeHtml(e.title)}</a>
-      ${e.location ? `<span style="color:var(--text-muted);font-size:13px;">· ${escapeHtml(e.location)}</span>` : ''}
-    </span>
+    </div>
   `).join('');
+
+  // Duplicate for seamless loop
   track.innerHTML = items + items;
-  // Scale animation speed to content length; ~7s per item, 60s minimum
-  const baseDuration = Math.max(60, tickerEvents.length * 7);
-  // Restart animation cleanly so the new duration takes effect
+
+  // Scale speed: ~3s per item, 60s minimum — slow and readable
+  const totalItems = tickerEvents.length;
+  const itemHeight = 36; // px per item (matches min-height in CSS)
+  const totalHeight = totalItems * itemHeight;
+  // px/s: aim for about 18px/s (very slow)
+  const pxPerSec = 18;
+  const duration = Math.max(60, Math.round(totalHeight / pxPerSec));
+
   track.style.animation = 'none';
   track.offsetHeight; // force reflow
-  track.style.animation = `scroll-left ${baseDuration}s linear infinite`;
+  track.style.animation = `scroll-up ${duration}s linear infinite`;
 }
 
 function renderList() {
   const list = document.getElementById('eventList');
   let events = getFilteredEvents();
-  // Optional 30-day cap on the list view
   if (STATE.compactList) {
     const cutoff = new Date();
     cutoff.setDate(cutoff.getDate() + 30);
     const cutoffStr = cutoff.toISOString().slice(0, 10);
-    events = events.filter(e => e.start <= cutoffStr);
+    events = events.filter(e => (e.start || '').slice(0, 10) <= cutoffStr);
   }
   if (events.length === 0) {
     list.innerHTML = '<li class="empty">No events match your filters.</li>';
     return;
   }
-  list.innerHTML = events.map(e => `
+  list.innerHTML = events.map(e => {
+    const timeLabel = formatTimeDisplay(e);
+    return `
     <li class="event-card" data-source="${e.source}">
-      <div class="date">${formatDateLong(e.start)}${(e.time || (e.start && e.start.includes('T'))) ? '<br>' + escapeHtml(formatTimeDisplay(e)) : ''}</div>
+      <div>
+        <div class="date">${formatDateLong(e.start)}</div>
+        ${timeLabel ? `<div class="time-display">${escapeHtml(timeLabel)}</div>` : ''}
+      </div>
       <div>
         <div class="title"><a href="${e.url}" target="_blank" rel="noopener">${escapeHtml(e.title)}</a></div>
         ${e.location ? `<div class="meta-row">📍 ${escapeHtml(e.location)}</div>` : ''}
-        ${e.speaker ? `<div class="meta-row">👤 ${escapeHtml(e.speaker)}</div>` : ''}
+        ${e.speaker  ? `<div class="meta-row">👤 ${escapeHtml(e.speaker)}</div>`  : ''}
       </div>
       <span class="badge">${e.source}</span>
-    </li>
-  `).join('');
+    </li>`;
+  }).join('');
 }
 
 function escapeHtml(s) {
-  if (s === undefined || s === null) return '';
+  if (!s) return '';
   return String(s)
-    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
-function render() {
-  renderTicker();
-  renderList();
-}
+function render() { renderTicker(); renderList(); }
 
+// Source filter checkboxes
 document.querySelectorAll('.controls input[type="checkbox"]').forEach(cb => {
   cb.addEventListener('change', () => {
     STATE.filters[cb.dataset.filter] = cb.checked;
@@ -395,36 +469,58 @@ document.querySelectorAll('.controls input[type="checkbox"]').forEach(cb => {
   });
 });
 
-document.getElementById('pauseBtn').addEventListener('click', (e) => {
+// Pause/resume buttons
+document.getElementById('pauseBtn').addEventListener('click', e => {
+  const track = document.getElementById('tickerTrack');
+  track.classList.toggle('paused');
+  e.target.textContent = track.classList.contains('paused') ? '▶ Resume Ticker' : '⏸ Pause Ticker';
+});
+document.getElementById('pauseTickerBtn').addEventListener('click', e => {
   const track = document.getElementById('tickerTrack');
   track.classList.toggle('paused');
   e.target.textContent = track.classList.contains('paused') ? '▶ Resume' : '⏸ Pause';
+  document.getElementById('pauseBtn').textContent = track.classList.contains('paused') ? '▶ Resume Ticker' : '⏸ Pause Ticker';
 });
 
-document.getElementById('compactToggle').addEventListener('change', (e) => {
+// Copy calendar URL button
+document.getElementById('copyIcsBtn').addEventListener('click', function() {
+  navigator.clipboard.writeText(ICS_URL).then(() => {
+    this.textContent = '✓ Copied!';
+    this.classList.add('copied');
+    setTimeout(() => {
+      this.innerHTML = '<svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><path d="M4 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H4zm0 1h8a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1z"/><path d="M6.5 1h3a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/></svg> Copy Calendar URL';
+      this.classList.remove('copied');
+    }, 2500);
+  });
+});
+
+// 30-day toggle
+document.getElementById('compactToggle').addEventListener('change', e => {
   STATE.compactList = e.target.checked;
   renderList();
 });
 
+// Load events
 fetch('data/events.json?ts=' + Date.now())
-  .then(r => {
-    if (!r.ok) throw new Error('Failed to load events.json');
-    return r.json();
-  })
+  .then(r => { if (!r.ok) throw new Error('Failed to load events.json'); return r.json(); })
   .then(data => {
     const todayStr = new Date().toISOString().slice(0, 10);
     STATE.events = (data.events || [])
-      .filter(e => e.start >= todayStr)
-      .sort((a, b) => a.start.localeCompare(b.start));
-    const updated = data.updated ? new Date(data.updated).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }) : 'unknown';
+      .filter(e => (e.start || '').slice(0, 10) >= todayStr)
+      .sort((a, b) => (a.start || '').localeCompare(b.start || ''));
+    const updated = data.updated
+      ? new Date(data.updated).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' })
+      : 'unknown';
     document.getElementById('lastUpdated').textContent = `Updated: ${updated}`;
     render();
   })
   .catch(err => {
     console.error(err);
-    document.getElementById('eventList').innerHTML = '<li class="empty">Could not load events. Check that data/events.json exists.</li>';
-    document.getElementById('tickerTrack').innerHTML = '<span class="ticker-item"><span class="ticker-date">!</span> Could not load events.</span>';
-    document.getElementById('lastUpdated').textContent = 'Update failed';
+    document.getElementById('eventList').innerHTML =
+      '<li class="empty">Events loading — please visit the <a href="calendar.html">full calendar</a> or check back shortly.</li>';
+    document.getElementById('tickerTrack').innerHTML =
+      '<div class="ticker-item"><span class="ticker-date">!</span><span style="color:rgba(255,255,255,0.5)">Events loading…</span></div>';
+    document.getElementById('lastUpdated').textContent = 'Loading…';
   });
 </script>
 </body>
