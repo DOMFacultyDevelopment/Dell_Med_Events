@@ -8,7 +8,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1da1c031-9fd8-5d19-aba1-583d11dbd57f
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260728T130000
 DTEND;TZID=America/Chicago:20260728T140000
 SUMMARY:CPAN Series:  ADHD Behavioral Interventions: Clinical Pearls
@@ -38,7 +38,7 @@ URL:https://dellmed.utexas.edu/events/cpan-series-adhd-behavioral-intervent
 END:VEVENT
 BEGIN:VEVENT
 UID:57ed9274-7f21-53ee-aa06-c583d71a6ce2
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260609T130000
 DTEND;TZID=America/Chicago:20260609T140000
 SUMMARY:CPAN Series: Normal Grief and Loss vs. PTSD
@@ -64,7 +64,7 @@ URL:https://dellmed.utexas.edu/events/cpan-series-normal-grief-loss-ptsd
 END:VEVENT
 BEGIN:VEVENT
 UID:0a254c3f-aecb-53ab-ba9c-4c9632310864
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260714T130000
 DTEND;TZID=America/Chicago:20260714T140000
 SUMMARY:CPAN Series: ADHD Part 1: Uncomplicated ADHD
@@ -93,7 +93,7 @@ URL:https://dellmed.utexas.edu/events/cpan-adhd-uncomplicated-adhd
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc200a2-5059-5db4-82a7-e2a48bc300cf
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260616T130000
 DTEND;TZID=America/Chicago:20260616T140000
 SUMMARY:PeriPAN Series: Understanding Trauma and PTSD in the Perinatal Popu
@@ -121,7 +121,7 @@ URL:https://dellmed.utexas.edu/events/peripan-series-understanding-trauma-a
 END:VEVENT
 BEGIN:VEVENT
 UID:f4433220-2c2d-5fd9-b31c-37fc078dac4e
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260612T083000
 DTEND;TZID=America/Chicago:20260612T093000
 SUMMARY:Pediatric Grand Rounds: Pediatric Jeopardy
@@ -136,7 +136,7 @@ URL:https://dellmed.utexas.edu/events/pediatric-grand-rounds-pediatric-jeop
 END:VEVENT
 BEGIN:VEVENT
 UID:b4ffcb6b-99b3-5a31-b326-8779110d3326
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260625T083000
 DTEND;TZID=America/Chicago:20260625T093000
 SUMMARY:Best Practices in Medical Education Grand Rounds: From Patient to P
@@ -157,7 +157,7 @@ URL:https://dellmed.utexas.edu/events/best-practices-in-medical-education-g
 END:VEVENT
 BEGIN:VEVENT
 UID:8a941fcd-f027-5c57-839d-e447ad21111e
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260810T130000
 DTEND;TZID=America/Chicago:20260810T140000
 SUMMARY:Health Social Work Visiting Speaker: Between What’s Right and What’
@@ -177,7 +177,7 @@ URL:https://dellmed.utexas.edu/events/health-social-work-visiting-speaker-b
 END:VEVENT
 BEGIN:VEVENT
 UID:b25d2254-e447-56a8-a685-e7ff9df3c8dd
-DTSTAMP:20260611T185813Z
+DTSTAMP:20260611T190858Z
 DTSTART;TZID=America/Chicago:20260827T193000
 DTEND;TZID=America/Chicago:20260827T203000
 SUMMARY:AMPATH/MAPAS México Monthly Seminar: Gerontology
