@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 
 # ── Config ───────────────────────────────────────────────────────────────────
 RSS_URL       = "https://rss.app/feeds/UXQywtXV9kG72UyK.xml"
+UT_RSS_URL    = "https://calendar.utexas.edu/calendar.rss?school=austin"  # UT Texas Today
 ICS_FILE      = "dell-med-events.ics"
 HTML_FILE     = "calendar.html"
 TICKER_FILE   = "index.html"
@@ -183,22 +184,97 @@ def fetch_public_events():
     return events
 
 
+# ── Source 1b: UT Austin Texas Today calendar ─────────────────────────────
+
+def fetch_ut_events():
+    """Fetch events from the UT Austin Texas Today RSS feed."""
+    MONTH_NAMES = ["","January","February","March","April","May","June",
+                   "July","August","September","October","November","December"]
+    print("\n🤘 Fetching UT Austin Texas Today events...")
+    try:
+        resp = requests.get(UT_RSS_URL, timeout=15)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ⚠ Could not fetch UT RSS: {e}")
+        return []
+
+    soup = BeautifulSoup(resp.content, "xml")
+    events = []
+    for item in soup.find_all("item"):
+        title_tag = item.find("title")
+        link_tag  = item.find("link")
+        pub_tag   = item.find("pubDate") or item.find("dc:date")
+        desc_tag  = item.find("description")
+
+        if not (title_tag and link_tag):
+            continue
+
+        title = title_tag.get_text(strip=True)
+        url   = link_tag.get_text(strip=True)
+
+        # Parse pubDate: "Mon, 15 Jun 2026 09:00:00 +0000"
+        date_str = ""
+        time_str = ""
+        if pub_tag:
+            raw = pub_tag.get_text(strip=True)
+            # Try RFC-2822 format
+            dm = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', raw)
+            if dm:
+                day, mon, year = dm.groups()
+                month = MONTH_NAMES[[m.lower() for m in MONTH_NAMES].index(mon.lower()[:3] if mon.lower()[:3] in [m.lower()[:3] for m in MONTH_NAMES] else mon.lower())] if mon.lower()[:3] in [m.lower()[:3] for m in MONTH_NAMES[1:]] else ""
+                # simpler approach
+                month_abbr = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,
+                               "jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
+                mo_num = month_abbr.get(mon.lower()[:3], 0)
+                if mo_num:
+                    date_str = f"{MONTH_NAMES[mo_num]} {int(day)}, {year}"
+                    # Extract time
+                    tm = re.search(r'(\d{1,2}):(\d{2}):\d{2}', raw)
+                    if tm:
+                        h, mi = int(tm.group(1)), int(tm.group(2))
+                        meridiem = "a.m." if h < 12 else "p.m."
+                        h12 = h % 12 or 12
+                        time_str = f"{h12}:{mi:02d} {meridiem}"
+
+        if not date_str:
+            continue
+
+        # Description
+        desc_text = ""
+        if desc_tag:
+            desc_soup = BeautifulSoup(desc_tag.get_text(), "html.parser")
+            desc_text = desc_soup.get_text(" ", strip=True)[:300]
+
+        events.append({
+            "title":       title,
+            "url":         url,
+            "date_str":    date_str,
+            "time_str":    time_str,
+            "location":    "",
+            "description": desc_text + f"\\n\\nEvent page: {url}",
+            "source":      "ut",
+        })
+
+    print(f"   ✓ {len(events)} UT Austin events fetched")
+    return events
+
+
 # ── Source 2: Internal events from index.html ticker ────────────────────────
 
 def extract_internal_events_from_ticker():
-    """Read RAW_EVENTS from index.html. Uses bracket-depth counting to extract
-    the full array, then regex-parses each event object. Respects the source
-    field so public events in the ticker stay marked as public."""
+    """Read RAW_EVENTS from index.html (legacy path).
+    If index.html has no RAW_EVENTS block, returns [] silently —
+    internal events are now loaded from internal-events.json instead."""
     try:
         with open(TICKER_FILE, "r", encoding="utf-8") as f:
             ticker_content = f.read()
     except FileNotFoundError:
-        print("  ⚠ index.html not found — skipping ticker events")
         return []
 
     m = re.search(r'const RAW_EVENTS\s*=\s*\[', ticker_content)
     if not m:
-        print("  ⚠ RAW_EVENTS not found in index.html")
+        # New index.html fetches from data/events.json — no RAW_EVENTS to read
+        print("  ℹ index.html uses data/events.json (no RAW_EVENTS) — internal events load from internal-events.json")
         return []
 
     # Bracket-depth walk to find the closing ]
@@ -262,17 +338,44 @@ def extract_internal_events_from_ticker():
     return events
 
 def load_manual_overrides():
-    """Load internal-events.json if it exists."""
+    """Load internal-events.json.
+
+    Accepts two formats:
+      • Legacy scraper format: {date_str, time_str, title, url, location, source}
+      • Simple calendar format: {date (YYYY-MM-DD), time, title, url, location, source}
+    Both are normalised to {date_str, time_str, ...} for the rest of the pipeline.
+    """
+    MONTH_NAMES = ["","January","February","March","April","May","June",
+                   "July","August","September","October","November","December"]
     try:
         with open(OVERRIDE_FILE, "r", encoding="utf-8") as f:
             items = json.load(f)
-        print(f"   ✓ {len(items)} manual override events loaded from {OVERRIDE_FILE}")
-        return items
     except FileNotFoundError:
         return []
     except Exception as e:
         print(f"  ⚠ Could not load {OVERRIDE_FILE}: {e}")
         return []
+
+    normalised = []
+    for item in items:
+        ev = dict(item)
+        # Normalise date field: "2026-06-15" → "June 15, 2026"
+        if "date" in ev and "date_str" not in ev:
+            try:
+                y, mo, d = ev["date"].split("-")
+                ev["date_str"] = f"{MONTH_NAMES[int(mo)]} {int(d)}, {y}"
+            except Exception:
+                ev["date_str"] = ev.get("date", "")
+        # Normalise time field
+        if "time" in ev and "time_str" not in ev:
+            ev["time_str"] = ev.pop("time")
+        ev.setdefault("source", "internal")
+        normalised.append(ev)
+
+    n_int = sum(1 for e in normalised if e.get("source") == "internal")
+    n_ut  = sum(1 for e in normalised if e.get("source") == "ut")
+    print(f"   ✓ {len(normalised)} events from {OVERRIDE_FILE} ({n_int} internal, {n_ut} UT Austin)")
+    return normalised
 
 
 # ── Date/Time Parser ─────────────────────────────────────────────────────────
@@ -601,11 +704,13 @@ def build_calendar_html(events):
     <button class="fb on"          id="f-all"      onclick="setFilter('all')">All Events</button>
     <button class="fb on"          id="f-public"   onclick="setFilter('public')">🌐 Public</button>
     <button class="fb blue-btn on" id="f-internal" onclick="setFilter('internal')">🔒 Internal</button>
+    <button class="fb on"          id="f-ut"       onclick="setFilter('ut')" style="background:var(--ut);color:#fff;border-color:var(--ut);">🤘 UT Austin</button>
   </div>
   <div class="right-tools">
     <div class="legend">
       <div class="leg-item"><div class="leg-dot internal"></div> Internal</div>
       <div class="leg-item"><div class="leg-dot public"></div> Public</div>
+      <div class="leg-item"><div class="leg-dot" style="background:var(--ut);"></div> UT Austin</div>
     </div>
     <button class="admin-btn" id="admin-toggle">⚙ Edit Events</button>
     <div class="month-nav">
@@ -676,8 +781,8 @@ const today=new Date();today.setHours(0,0,0,0);
 let currentYear=today.getFullYear(),currentMonth=today.getMonth(),activeFilter='all';
 
 function pd(s){{const[y,m,d]=s.split('-').map(Number);return new Date(y,m-1,d);}}
-function filteredEvents(){{return EVENTS.filter(e=>activeFilter==='all'||(activeFilter==='public'&&e.source==='public')||(activeFilter==='internal'&&e.source==='internal'));}}
-function eventsForDate(y,m,d){{const iso=`${{y}}-${{String(m+1).padStart(2,'0')}}-${{String(d).padStart(2,'0')}}`;return filteredEvents().filter(e=>e.date===iso).sort((a,b)=>a.time.localeCompare(b.time));}}
+function filteredEvents(){{return EVENTS.filter(e=>activeFilter==='all'||(activeFilter==='public'&&e.source==='public')||(activeFilter==='internal'&&e.source==='internal')||(activeFilter==='ut'&&e.source==='ut'));}}
+function eventsForDate(y,m,d){{const iso=`${{y}}-${{String(m+1).padStart(2,'0')}}-${{String(d).padStart(2,'0')}}`;return filteredEvents().filter(e=>e.date===iso).sort((a,b)=>(a.start||a.time).localeCompare(b.start||b.time));}}
 
 document.getElementById('copy-btn').addEventListener('click',function(){{
   navigator.clipboard.writeText(document.getElementById('ics-url').textContent).then(()=>{{
@@ -691,6 +796,7 @@ function setFilter(f){{
   document.getElementById('f-all').classList.toggle('on',f==='all');
   document.getElementById('f-public').classList.toggle('on',f==='all'||f==='public');
   document.getElementById('f-internal').classList.toggle('on',f==='all'||f==='internal');
+  document.getElementById('f-ut').classList.toggle('on',f==='all'||f==='ut');
   renderCalendar();
 }}
 
@@ -848,29 +954,32 @@ def main():
     # 1. Public events from RSS scraping
     public_events = fetch_public_events()
 
-    # 2. Internal events from index.html ticker
+    # 1b. UT Austin Texas Today calendar
+    ut_events = fetch_ut_events()
+
+    # 2. Internal events from index.html ticker (legacy) + internal-events.json
     print("\n📋 Extracting internal events from index.html...")
     internal_events = extract_internal_events_from_ticker()
 
-    # 3. Manual overrides from JSON file
-    print("\n📝 Loading manual overrides...")
+    # 3. Manual overrides / internal events from JSON file
+    print("\n📝 Loading internal events from internal-events.json...")
     manual_events = load_manual_overrides()
-    for ev in manual_events:
-        ev.setdefault("source", "internal")
 
     # Combine all sources — manual overrides take priority (go last, dedup by title+date)
-    all_events = public_events + internal_events + manual_events
+    all_events = public_events + ut_events + internal_events + manual_events
 
-    # Deduplicate by (title, date_str) — keep last occurrence (manual wins)
+    # Deduplicate by (title, date) — keep last occurrence (manual wins)
     seen = {}
     for ev in all_events:
-        key = (ev["title"].strip().lower(), (ev.get("date_str") or "").strip())
+        date_key = (ev.get("date_str") or ev.get("date") or "").strip()
+        key = (ev["title"].strip().lower(), date_key)
         seen[key] = ev
     combined = list(seen.values())
 
     print(f"\n📊 Total combined events: {len(combined)}")
-    print(f"   Public: {sum(1 for e in combined if e.get('source')=='public')}")
+    print(f"   Public:   {sum(1 for e in combined if e.get('source')=='public')}")
     print(f"   Internal: {sum(1 for e in combined if e.get('source')=='internal')}")
+    print(f"   UT Austin:{sum(1 for e in combined if e.get('source')=='ut')}")
 
     # 4. Build ICS
     print("\n📅 Building ICS calendar...")
