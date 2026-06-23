@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-23T09:50:06.452695+00:00",
+  "updated": "2026-06-23T20:10:50.417507+00:00",
   "counts": {
-    "public": 9,
+    "public": 10,
     "internal": 227,
-    "ut": 1553
+    "ut": 1562
   },
   "events": [
     {
@@ -181,6 +181,14 @@
       "location": null
     },
     {
+      "source": "public",
+      "title": "Dell Children\u2019s Rehabilitation Program CARF Designation Reception",
+      "url": "https://dellmed.utexas.edu/events/dell-childrens-rehabilitation-program-carf-designation-reception",
+      "start": "2026-06-24",
+      "time": "3\u20134 p.m.",
+      "location": "Dell Children\u2019s Medical Center Specialty Pavilion Auditorium"
+    },
+    {
       "source": "internal",
       "title": "Faculty Academic Orientation - Faculty Connect",
       "url": "https://intranet.dellmed.utexas.edu/event/1021035/",
@@ -268,7 +276,7 @@
       "title": "Best Practices in Medical Education Grand Rounds: From Patient to Population",
       "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-patient-to-population052826",
       "start": "2026-06-25",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "3\u20134 p.m.",
       "location": "Zoom",
       "speaker": "Mrinalini Kulkarni-Date, M.D."
     },
@@ -6750,6 +6758,13 @@
     },
     {
       "source": "ut",
+      "title": "Scott Silven - The Lost Things: An All-New Magical Experience from Illusionist Scott Silven",
+      "url": "https://calendar.utexas.edu/event/scott-silven-the-lost-things-an-all-new-magical-experience-from-illusionist-scott-silven",
+      "start": "2026-09-26",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football at Tennessee",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-tennessee",
       "start": "2026-09-26",
@@ -6789,6 +6804,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Scott Silven - The Lost Things: An All-New Magical Experience from Illusionist Scott Silven",
+      "url": "https://calendar.utexas.edu/event/scott-silven-the-lost-things-an-all-new-magical-experience-from-illusionist-scott-silven",
+      "start": "2026-09-27",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -7233,6 +7255,13 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-10-07",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Branford Marsalis and Dianne Reeves - Celebrate John Coltrane",
+      "url": "https://calendar.utexas.edu/event/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane",
+      "start": "2026-10-07",
+      "location": "Hogg Memorial Auditorium (HMA)"
     },
     {
       "source": "ut",
@@ -8812,6 +8841,13 @@
     },
     {
       "source": "ut",
+      "title": "Motherhood\\, An Artist Lecture By Suzanne Bocanegra",
+      "url": "https://calendar.utexas.edu/event/motherhood-an-artist-lecture-by-suzanne-bocanegra",
+      "start": "2026-11-07",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-07",
@@ -8844,6 +8880,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Motherhood\\, An Artist Lecture By Suzanne Bocanegra",
+      "url": "https://calendar.utexas.edu/event/motherhood-an-artist-lecture-by-suzanne-bocanegra",
+      "start": "2026-11-08",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -9464,6 +9507,13 @@
     },
     {
       "source": "ut",
+      "title": "Actors From The London Stage - Much Ado About Nothing",
+      "url": "https://calendar.utexas.edu/event/actors-from-the-london-stage-much-ado-about-nothing",
+      "start": "2026-11-20",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-20",
@@ -9503,6 +9553,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-sec-volleyball-tournament-7389",
       "start": "2026-11-20",
       "location": "Savannah\\, Ga.\\, Enmarket Arena"
+    },
+    {
+      "source": "ut",
+      "title": "Actors From The London Stage - Much Ado About Nothing",
+      "url": "https://calendar.utexas.edu/event/actors-from-the-london-stage-much-ado-about-nothing",
+      "start": "2026-11-21",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11552,6 +11609,13 @@
     },
     {
       "source": "ut",
+      "title": "S\u014d Percussion with Caroline Shaw and Ringdown - Who Turns Out The Light",
+      "url": "https://calendar.utexas.edu/event/so-percussion-with-caroline-shaw-and-ringdown-who-turns-out-the-light",
+      "start": "2027-01-16",
+      "location": "Bates Recital Hall\\, Music Building (MRH)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-17",
@@ -11570,6 +11634,13 @@
       "url": "https://calendar.utexas.edu/event/tamales",
       "start": "2027-01-17",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "An Evening with Audra McDonald",
+      "url": "https://calendar.utexas.edu/event/an-evening-with-audra-mcdonald",
+      "start": "2027-01-18",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
