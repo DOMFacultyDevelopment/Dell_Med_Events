@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-24T09:37:56.782501+00:00",
+  "updated": "2026-06-24T19:51:27.227782+00:00",
   "counts": {
     "public": 10,
     "internal": 225,
-    "ut": 1550
+    "ut": 1549
   },
   "events": [
     {
@@ -13159,13 +13159,6 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-05-12",
       "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "5th International Summit on Lasers\\, Optics\\, and Photonics",
-      "url": "https://calendar.utexas.edu/event/5th-international-summit-on-lasers-optics-and-photonics",
-      "start": "2027-05-17",
-      "location": "Florence\\, Italy"
     },
     {
       "source": "ut",
