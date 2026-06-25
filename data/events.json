@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-25T09:28:44.743744+00:00",
+  "updated": "2026-06-25T20:06:06.405596+00:00",
   "counts": {
-    "public": 9,
+    "public": 10,
     "internal": 223,
-    "ut": 1570
+    "ut": 1580
   },
   "events": [
     {
@@ -19,15 +19,6 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1576",
       "start": "2026-06-25",
       "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "public",
-      "title": "Best Practices in Medical Education Grand Rounds: From Patient to Population",
-      "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-patient-to-population052826",
-      "start": "2026-06-25",
-      "time": "7:30\u20138:30 a.m.",
-      "location": "Zoom",
-      "speaker": "Mrinalini Kulkarni-Date, M.D."
     },
     {
       "source": "ut",
@@ -204,7 +195,7 @@
       "title": "IMPRES Conference - Innovative Minds: Pediatric Research in Epilepsy Surgery",
       "url": "https://dellmed.utexas.edu/events/impres-conference-innovative-minds-pediatric-research-in-epilepsy-surgery",
       "start": "2026-06-26",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "6\u20131 p.m.",
       "location": "Hotel Van Zandt"
     },
     {
@@ -3453,6 +3444,14 @@
       "url": "https://calendar.utexas.edu/event/darlin039-live-at-the-cactus-cafe",
       "start": "2026-07-30",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "public",
+      "title": "Department of Surgery & Perioperative Care Combined Grand Rounds with Guest Speaker Alana Beard",
+      "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-guest-speaker-alana-beard",
+      "start": "2026-07-30",
+      "time": "7\u20138 a.m.",
+      "location": "Health Learning Building (HLB 1.111)"
     },
     {
       "source": "internal",
@@ -8387,6 +8386,15 @@
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
     },
     {
+      "source": "public",
+      "title": "Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department with Kevin Bozic, M.D.",
+      "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-state-of-the-department-1029",
+      "start": "2026-10-29",
+      "time": "9 a.m.",
+      "location": "Health Learning Building (HLB 1.111 Auditorium)",
+      "speaker": "Kevin Bozic, M.D."
+    },
+    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -12464,6 +12472,13 @@
     },
     {
       "source": "ut",
+      "title": "KODO - Luminance",
+      "url": "https://calendar.utexas.edu/event/kodo-luminance",
+      "start": "2027-02-19",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-20",
@@ -12606,6 +12621,13 @@
     },
     {
       "source": "ut",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
+      "start": "2027-02-25",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-26",
@@ -12617,6 +12639,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-02-26",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
+      "start": "2027-02-26",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -12634,6 +12663,13 @@
     },
     {
       "source": "ut",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
+      "start": "2027-02-27",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-28",
@@ -12645,6 +12681,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-02-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
+      "start": "2027-02-28",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -12943,6 +12986,13 @@
     },
     {
       "source": "ut",
+      "title": "Lim\u00f3n Dance Company",
+      "url": "https://calendar.utexas.edu/event/limon-dance-company",
+      "start": "2027-03-25",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-03-30",
@@ -12987,6 +13037,13 @@
       "title": "Swan Lake by International Ballet Stars",
       "url": "https://calendar.utexas.edu/event/swan-lake-by-international-ballet-stars",
       "start": "2027-04-04",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Cirque Kalabant\u00e9 - WOW: World of Words",
+      "url": "https://calendar.utexas.edu/event/cirque-kalabante-wow-world-of-words",
+      "start": "2027-04-05",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
@@ -13165,6 +13222,13 @@
     },
     {
       "source": "ut",
+      "title": "All My Relations Collective - Skeleton Canoe",
+      "url": "https://calendar.utexas.edu/event/all-my-relations-collective-skeleton-canoe",
+      "start": "2027-04-24",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)"
+    },
+    {
+      "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-04-27",
@@ -13203,6 +13267,20 @@
       "location": "3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Rosas Dance Company - Il Cimento dell\u2019Armonia e dell\u2019Inventione",
+      "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
+      "start": "2027-04-30",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Rosas Dance Company - Il Cimento dell\u2019Armonia e dell\u2019Inventione",
+      "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
+      "start": "2027-05-01",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
