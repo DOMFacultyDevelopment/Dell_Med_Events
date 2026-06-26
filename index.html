@@ -10,7 +10,8 @@
   --bg:#f3f4f6;--white:#fff;
   --tx:#111827;--mu:#6b7280;--bd:#e5e7eb;--bd2:#d1d5db;
   --pub:#bf5700;--int:#1d4ed8;--ut:#15803d;
-  --cme:#7c3aed;--ops:#0369a1;--res:#0f766e;--fdev:#b45309;--faff:#be185d;--utcat:#166534;
+  --cme:#7c3aed;--ops:#0369a1;--res:#0f766e;
+  --fdev:#b45309;--faff:#be185d;--utcat:#166534;
 }
 *{box-sizing:border-box;margin:0;padding:0;}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
@@ -19,15 +20,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 /* Header */
 .hdr{background:linear-gradient(135deg,var(--or),var(--ord));padding:14px 24px;
      border-bottom:3px solid var(--ord);display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
-.hdr-title h1{font-size:20px;font-weight:700;color:#fff;letter-spacing:.3px;}
-.hdr-title .sub{font-size:11px;color:rgba(255,255,255,.8);margin-top:2px;}
+.hdr h1{font-size:20px;font-weight:700;color:#fff;letter-spacing:.3px;}
+.hdr .sub{font-size:11px;color:rgba(255,255,255,.8);margin-top:2px;}
 .hdr-right{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap;}
 .hbtn{background:rgba(255,255,255,.18);color:#fff;border:1px solid rgba(255,255,255,.35);
       padding:6px 13px;border-radius:5px;cursor:pointer;font-size:12px;font-weight:600;
-      text-decoration:none;display:inline-flex;align-items:center;gap:5px;
-      transition:background .15s;white-space:nowrap;}
+      text-decoration:none;display:inline-flex;align-items:center;gap:5px;white-space:nowrap;}
 .hbtn:hover{background:rgba(255,255,255,.3);}
-.hbtn.ok{background:#d1fae5;color:#065f46;border-color:#6ee7b7;}
+.hbtn.ok{background:#d1fae5;color:#065f46;}
 
 /* Toolbar */
 .toolbar{background:var(--white);border-bottom:1px solid var(--bd);
@@ -41,32 +41,31 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .stog.ut {border-color:var(--ut); color:var(--ut); background:#f0fdf4;}
 .stog.off{opacity:.38;}
 .stog input{display:none;}
-.divider{width:1px;height:26px;background:var(--bd2);align-self:center;}
+.div{width:1px;height:26px;background:var(--bd2);align-self:center;}
 .cat-row{display:flex;gap:4px;flex-wrap:wrap;}
 .cpill{padding:4px 10px;border-radius:16px;border:2px solid;cursor:pointer;
-       font-size:11px;font-weight:700;user-select:none;transition:opacity .15s;letter-spacing:.2px;}
+       font-size:11px;font-weight:700;user-select:none;letter-spacing:.2px;}
 .cpill.All    {border-color:#6b7280;color:#374151;background:#f9fafb;}
 .cpill.CME    {border-color:var(--cme);color:var(--cme);background:#f5f3ff;}
-.cpill.Operations{border-color:var(--ops);color:var(--ops);background:#f0f9ff;}
-.cpill.Research{border-color:var(--res);color:var(--res);background:#f0fdfa;}
+.cpill.Ops    {border-color:var(--ops);color:var(--ops);background:#f0f9ff;}
+.cpill.Res    {border-color:var(--res);color:var(--res);background:#f0fdfa;}
 .cpill.FDev   {border-color:var(--fdev);color:var(--fdev);background:#fffbeb;}
 .cpill.FAff   {border-color:var(--faff);color:var(--faff);background:#fdf2f8;}
 .cpill.UTAus  {border-color:var(--utcat);color:var(--utcat);background:#dcfce7;}
 .cpill.off{opacity:.35;}
-.month-nav{display:flex;align-items:center;gap:6px;margin-left:auto;}
-.nav-btn{background:none;border:1px solid var(--bd2);border-radius:4px;
-         width:28px;height:28px;cursor:pointer;font-size:13px;
-         display:flex;align-items:center;justify-content:center;}
-.nav-btn:hover{background:var(--bg);}
-.month-lbl{font-size:15px;font-weight:700;min-width:152px;text-align:center;}
-.today-btn{background:none;border:1px solid var(--bd2);border-radius:4px;
-           padding:4px 10px;cursor:pointer;font-size:11px;font-weight:600;color:var(--mu);}
-.today-btn:hover{background:var(--bg);color:var(--tx);}
+.mnav{display:flex;align-items:center;gap:6px;margin-left:auto;}
+.nb{background:none;border:1px solid var(--bd2);border-radius:4px;width:28px;height:28px;
+    cursor:pointer;font-size:13px;display:flex;align-items:center;justify-content:center;}
+.nb:hover{background:var(--bg);}
+.mlbl{font-size:15px;font-weight:700;min-width:152px;text-align:center;}
+.tdb{background:none;border:1px solid var(--bd2);border-radius:4px;
+     padding:4px 10px;cursor:pointer;font-size:11px;font-weight:600;color:var(--mu);}
+.tdb:hover{background:var(--bg);color:var(--tx);}
 
 /* Legend */
-.legend{background:var(--white);border-bottom:1px solid var(--bd);
-        padding:5px 20px;display:flex;gap:14px;flex-wrap:wrap;
-        align-items:center;font-size:11px;color:var(--mu);}
+.lgnd{background:var(--white);border-bottom:1px solid var(--bd);
+      padding:5px 20px;display:flex;gap:14px;flex-wrap:wrap;align-items:center;
+      font-size:11px;color:var(--mu);}
 .lg{display:flex;align-items:center;gap:4px;font-weight:600;}
 .ld{width:9px;height:9px;border-radius:2px;}
 .lsep{width:1px;height:12px;background:var(--bd2);}
@@ -74,7 +73,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .ld.cme{background:var(--cme);} .ld.ops{background:var(--ops);} .ld.res{background:var(--res);}
 .ld.fdev{background:var(--fdev);} .ld.faff{background:var(--faff);} .ld.utcat{background:var(--utcat);}
 
-/* Calendar grid */
+/* Calendar */
 .cal-wrap{flex:1;padding:12px 20px;overflow:auto;}
 .cal{background:var(--white);border:1px solid var(--bd2);border-radius:8px;
      overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.07);}
@@ -83,10 +82,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .dow{padding:7px 0;text-align:center;font-size:10px;font-weight:700;
      color:var(--mu);letter-spacing:.5px;text-transform:uppercase;}
 .weeks{display:flex;flex-direction:column;}
-.week{display:grid;grid-template-columns:repeat(7,1fr);
-      border-bottom:1px solid var(--bd);min-height:100px;}
+.week{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid var(--bd);min-height:100px;}
 .week:last-child{border-bottom:none;}
-.day{border-right:1px solid var(--bd);padding:3px 4px;overflow:hidden;position:relative;}
+.day{border-right:1px solid var(--bd);padding:3px 4px;overflow:hidden;}
 .day:last-child{border-right:none;}
 .day.other .dn{color:#d1d5db;}
 .day.weekend{background:rgba(0,0,0,.013);}
@@ -95,21 +93,33 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .dn{font-size:11px;font-weight:600;color:var(--tx);width:22px;height:22px;
     display:flex;align-items:center;justify-content:center;margin-bottom:2px;}
 .ev{display:flex;align-items:center;gap:2px;border-radius:3px;padding:1px 4px;
-    margin-bottom:2px;font-size:10px;line-height:1.35;cursor:pointer;overflow:hidden;
-    transition:filter .12s;}
+    margin-bottom:2px;font-size:10px;line-height:1.35;cursor:pointer;overflow:hidden;}
 .ev:hover{filter:brightness(.88);}
 .ev .et{font-weight:700;white-space:nowrap;flex-shrink:0;font-size:9.5px;opacity:.9;}
 .ev .en{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .ev .sd{width:5px;height:5px;border-radius:50%;flex-shrink:0;}
-.ev.CME         {background:#ede9fe;color:#5b21b6;}
-.ev.Operations  {background:#dbeafe;color:#1e40af;}
-.ev.Research    {background:#ccfbf1;color:#0f766e;}
-.ev.FDev        {background:#fef3c7;color:#92400e;}
-.ev.FAff        {background:#fce7f3;color:#9d174d;}
-.ev.UTAus       {background:#dcfce7;color:#166534;}
-.more{font-size:9.5px;color:var(--mu);padding:1px 4px;cursor:pointer;
-      border-radius:2px;font-weight:600;}
+.ev.CME {background:#ede9fe;color:#5b21b6;}
+.ev.Ops {background:#dbeafe;color:#1e40af;}
+.ev.Res {background:#ccfbf1;color:#0f766e;}
+.ev.FDev{background:#fef3c7;color:#92400e;}
+.ev.FAff{background:#fce7f3;color:#9d174d;}
+.ev.UTAus{background:#dcfce7;color:#166534;}
+.more{font-size:9.5px;color:var(--mu);padding:1px 4px;cursor:pointer;border-radius:2px;font-weight:600;}
 .more:hover{background:var(--bg);color:var(--tx);}
+
+/* Upcoming list (shown when month is empty) */
+.no-evts{display:none;background:#fff;border-top:1px solid var(--bd);padding:16px 20px;}
+.no-evts h3{font-size:13px;color:var(--mu);font-weight:700;text-transform:uppercase;
+             letter-spacing:.5px;margin-bottom:12px;}
+.up-list{list-style:none;}
+.up-item{display:flex;align-items:flex-start;gap:10px;padding:9px 0;
+         border-bottom:1px solid var(--bd);font-size:13px;}
+.up-item:last-child{border-bottom:none;}
+.up-date{min-width:82px;font-size:12px;color:var(--mu);font-weight:600;flex-shrink:0;}
+.up-time{min-width:90px;font-size:11px;color:var(--mu);flex-shrink:0;}
+.up-title a{color:var(--tx);text-decoration:none;font-weight:600;}
+.up-title a:hover{color:var(--or);text-decoration:underline;}
+.up-loc{font-size:11px;color:var(--mu);margin-top:2px;}
 
 /* Popover */
 .overlay{display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,.4);}
@@ -117,15 +127,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .pop{background:#fff;border-radius:10px;box-shadow:0 8px 32px rgba(0,0,0,.22);
      max-width:440px;width:92%;overflow:hidden;}
 .pop-hdr{padding:16px 18px 12px;border-bottom:1px solid var(--bd);}
-.pop-badge{display:inline-flex;align-items:center;gap:5px;font-size:10px;
-           font-weight:700;letter-spacing:.4px;text-transform:uppercase;
-           padding:3px 8px;border-radius:10px;margin-bottom:8px;}
-.pop-badge.CME        {background:#ede9fe;color:#5b21b6;}
-.pop-badge.Operations {background:#dbeafe;color:#1e40af;}
-.pop-badge.Research   {background:#ccfbf1;color:#0f766e;}
-.pop-badge.FDev       {background:#fef3c7;color:#92400e;}
-.pop-badge.FAff       {background:#fce7f3;color:#9d174d;}
-.pop-badge.UTAus      {background:#dcfce7;color:#166534;}
+.pop-badge{display:inline-flex;align-items:center;font-size:10px;font-weight:700;
+           letter-spacing:.4px;text-transform:uppercase;padding:3px 8px;
+           border-radius:10px;margin-bottom:8px;}
+.pop-badge.CME {background:#ede9fe;color:#5b21b6;}
+.pop-badge.Ops {background:#dbeafe;color:#1e40af;}
+.pop-badge.Res {background:#ccfbf1;color:#0f766e;}
+.pop-badge.FDev{background:#fef3c7;color:#92400e;}
+.pop-badge.FAff{background:#fce7f3;color:#9d174d;}
+.pop-badge.UTAus{background:#dcfce7;color:#166534;}
 .pop-title{font-size:16px;font-weight:700;color:var(--tx);line-height:1.3;}
 .pop-body{padding:14px 18px;display:flex;flex-direction:column;gap:8px;}
 .pop-row{display:flex;align-items:flex-start;gap:10px;font-size:13px;}
@@ -139,9 +149,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .pop-close{background:none;border:1px solid var(--bd2);color:var(--mu);
            padding:7px 15px;border-radius:5px;cursor:pointer;font-size:13px;}
 .pop-close:hover{background:var(--bg);}
-.pop-link{background:var(--or);color:#fff;border:none;padding:7px 15px;
-          border-radius:5px;cursor:pointer;font-size:13px;font-weight:600;
-          text-decoration:none;display:inline-flex;align-items:center;gap:4px;}
+.pop-link{background:var(--or);color:#fff;border:none;padding:7px 15px;border-radius:5px;
+          cursor:pointer;font-size:13px;font-weight:600;text-decoration:none;
+          display:inline-flex;align-items:center;gap:4px;}
 .pop-link:hover{background:var(--ord);}
 
 /* Status */
@@ -149,18 +159,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
         font-size:11px;color:var(--mu);display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px;}
 
 @media(max-width:680px){
-  .hdr,.toolbar,.legend,.cal-wrap,.status{padding-left:10px;padding-right:10px;}
-  .hdr h1{font-size:16px;}
-  .week{min-height:70px;}
-  .ev .et{display:none;}
-  .month-lbl{font-size:12px;min-width:110px;}
+  .hdr,.toolbar,.lgnd,.cal-wrap,.no-evts,.status{padding-left:10px;padding-right:10px;}
+  .hdr h1{font-size:17px;} .week{min-height:70px;} .ev .et{display:none;}
+  .mlbl{font-size:12px;min-width:110px;}
 }
 </style>
 </head>
 <body>
 
 <div class="hdr">
-  <div class="hdr-title">
+  <div>
     <h1>Dell Med Events Calendar</h1>
     <div class="sub">Dell Medical School &middot; Department of Medicine</div>
   </div>
@@ -176,32 +184,32 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
     <label class="stog int" id="tint"><input type="checkbox" checked>&#128274; Internal</label>
     <label class="stog ut"  id="tut" ><input type="checkbox" checked>&#129304; UT Austin</label>
   </div>
-  <div class="divider"></div>
+  <div class="div"></div>
   <div class="cat-row">
     <div class="cpill All"  data-c="All">All</div>
     <div class="cpill CME"  data-c="CME">CME</div>
-    <div class="cpill Operations" data-c="Operations">Operations</div>
-    <div class="cpill Research"   data-c="Research">Research</div>
-    <div class="cpill FDev"  data-c="FDev">Faculty Dev</div>
-    <div class="cpill FAff"  data-c="FAff">Faculty Affairs</div>
+    <div class="cpill Ops"  data-c="Ops">Operations</div>
+    <div class="cpill Res"  data-c="Res">Research</div>
+    <div class="cpill FDev" data-c="FDev">Faculty Dev</div>
+    <div class="cpill FAff" data-c="FAff">Faculty Affairs</div>
     <div class="cpill UTAus" data-c="UTAus">UT Austin</div>
   </div>
-  <div class="divider"></div>
-  <div class="month-nav">
-    <button class="today-btn" id="todayBtn">Today</button>
-    <button class="nav-btn" id="prevBtn">&#8592;</button>
-    <div class="month-lbl" id="mLabel"></div>
-    <button class="nav-btn" id="nextBtn">&#8594;</button>
+  <div class="div"></div>
+  <div class="mnav">
+    <button class="tdb" id="todayBtn">Today</button>
+    <button class="nb" id="prevBtn">&#8592;</button>
+    <div class="mlbl" id="mLabel"></div>
+    <button class="nb" id="nextBtn">&#8594;</button>
   </div>
 </div>
 
-<div class="legend">
-  <span style="font-size:11px;font-weight:700;color:var(--tx);">Source:</span>
+<div class="lgnd">
+  <strong style="font-size:11px;">Source:</strong>
   <div class="lg"><div class="ld pub"></div>Public</div>
   <div class="lg"><div class="ld int"></div>Internal</div>
   <div class="lg"><div class="ld ut"></div>UT Austin</div>
   <div class="lsep"></div>
-  <span style="font-size:11px;font-weight:700;color:var(--tx);">Category:</span>
+  <strong style="font-size:11px;">Category:</strong>
   <div class="lg"><div class="ld cme"></div>CME</div>
   <div class="lg"><div class="ld ops"></div>Operations</div>
   <div class="lg"><div class="ld res"></div>Research</div>
@@ -221,15 +229,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
   </div>
 </div>
 
-<div id="upcoming-wrap" style="display:none;background:#fff;border-top:1px solid var(--bd);padding:16px 20px;">
-  <div style="font-size:13px;font-weight:700;color:var(--mu);margin-bottom:10px;text-transform:uppercase;letter-spacing:.5px;">
-    No events this month &mdash; Next upcoming events:
-  </div>
-  <ul id="upcoming-list" style="list-style:none;display:flex;flex-direction:column;gap:8px;"></ul>
+<div class="no-evts" id="noEvts">
+  <h3>No events this month &mdash; Next upcoming</h3>
+  <ul class="up-list" id="upList"></ul>
 </div>
+
 <div class="status">
-  <span id="evCount"></span>
-  <span id="dataStatus">Showing all events (Feb&#8211;Aug 2026) &#8211; navigate months to explore</span>
+  <span id="evCount">Loading&hellip;</span>
+  <span id="dataStatus">Loading&hellip;</span>
 </div>
 
 <div class="overlay" id="overlay">
@@ -239,76 +246,74 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
       <div class="pop-title" id="pTitle"></div>
     </div>
     <div class="pop-body">
-      <div class="pop-row">
-        <div class="pop-icon">&#128197;</div>
-        <div class="pop-val" id="pDate"></div>
-      </div>
-      <div class="pop-row">
-        <div class="pop-icon">&#9202;</div>
-        <div class="pop-val" id="pTime"></div>
-      </div>
-      <div class="pop-row" id="pLocRow">
-        <div class="pop-icon">&#128205;</div>
-        <div class="pop-val" id="pLoc"></div>
-      </div>
-      <div class="pop-row">
-        <div class="pop-icon">&#127968;</div>
-        <div class="pop-val"><span class="src-badge" id="pSrc"></span></div>
-      </div>
+      <div class="pop-row"><div class="pop-icon">&#128197;</div><div class="pop-val" id="pDate"></div></div>
+      <div class="pop-row"><div class="pop-icon">&#9202;</div><div class="pop-val" id="pTime"></div></div>
+      <div class="pop-row" id="pLocRow"><div class="pop-icon">&#128205;</div><div class="pop-val" id="pLoc"></div></div>
+      <div class="pop-row"><div class="pop-icon">&#127968;</div><div class="pop-val"><span class="src-badge" id="pSrc"></span></div></div>
     </div>
     <div class="pop-foot">
       <button class="pop-close" id="popClose">Close</button>
-      <a class="pop-link" id="pLink" href="#" target="_blank" rel="noopener">
-        &#128279; Register / More Info
-      </a>
+      <a class="pop-link" id="pLink" href="#" target="_blank" rel="noopener">&#128279; Register / More Info</a>
     </div>
   </div>
 </div>
 
 <script>
 var ICS_URL='https://domfacultydevelopment.github.io/Dell_Med_Events/dell-med-events.ics';
-var ALL=[{"date": "2026-03-20", "start": "2026-03-20T08:00:00", "end": "2026-03-20T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/20", "source": "internal"}, {"date": "2026-03-23", "start": "2026-03-23T08:00:00", "end": "2026-03-23T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/23", "source": "internal"}, {"date": "2026-03-23", "start": "2026-03-23T12:00:00", "end": "2026-03-23T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Get Ready for Epic: FINAL Clinical Staff Virtual Town Hall & Demo", "location": "MS Teams", "url": "https://intranet.dellmed.utexas.edu/event/1011082/", "source": "internal"}, {"date": "2026-03-24", "start": "2026-03-24T08:00:00", "end": "2026-03-24T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/24", "source": "internal"}, {"date": "2026-03-24", "start": "2026-03-24T08:00:00", "end": "2026-03-24T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/03/24", "source": "internal"}, {"date": "2026-03-24", "start": "2026-03-24T12:00:00", "end": "2026-03-24T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Cybersecurity Office Hours", "location": "MS Teams", "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/03/24", "source": "internal"}, {"date": "2026-03-25", "start": "2026-03-25T08:00:00", "end": "2026-03-25T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/25", "source": "internal"}, {"date": "2026-03-25", "start": "2026-03-25T15:00:00", "end": "2026-03-25T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "Office of Faculty Academic Affairs: Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/03/25", "source": "internal"}, {"date": "2026-03-25", "start": "2026-03-25T15:00:00", "end": "2026-03-25T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "IT Office Hour (HDB & Zoom)", "location": "HDB 8.000 & Zoom", "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/03/25", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T07:30:00", "end": "2026-03-26T08:30:00", "startTime": "7:30 AM", "endTime": "8:30 AM", "time": "7:30am &#8211; 8:30am", "title": "Best Practices in Medical Education Grand Rounds", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/1002380/", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T08:00:00", "end": "2026-03-26T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/26", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T08:00:00", "end": "2026-03-26T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/03/26", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T11:30:00", "end": "2026-03-26T12:00:00", "startTime": "11:30 AM", "endTime": "12 PM", "time": "11:30am &#8211; 12:00pm", "title": "EAP Monthly Mindfulness Workshop", "location": "HDB 1.204", "url": "https://intranet.dellmed.utexas.edu/event/986238/", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T15:00:00", "end": "2026-03-26T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "Supervisor Toolkit: Setting Expectations & Giving Feedback", "location": "Virtual (Zoom)", "url": "https://intranet.dellmed.utexas.edu/event/988821/", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T16:00:00", "end": "2026-03-26T17:00:00", "startTime": "4 PM", "endTime": "5 PM", "time": "4:00pm &#8211; 5:00pm", "title": "Promotion Info Session: Promotion Readiness & Areas of Excellence", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/966501/", "source": "internal"}, {"date": "2026-03-26", "start": "2026-03-26T16:30:00", "end": "2026-03-26T18:30:00", "startTime": "4:30 PM", "endTime": "6:30 PM", "time": "4:30pm &#8211; 6:30pm", "title": "Faculty Spring Mentorship Event", "location": "HLB 1.111 Auditorium", "url": "https://intranet.dellmed.utexas.edu/event/988784/", "source": "internal"}, {"date": "2026-03-27", "start": "2026-03-27T08:00:00", "end": "2026-03-27T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/27", "source": "internal"}, {"date": "2026-03-27", "start": "2026-03-27T10:30:00", "end": "2026-03-27T12:00:00", "startTime": "10:30 AM", "endTime": "12 PM", "time": "10:30am &#8211; 12:00pm", "title": "Honoring the Legacy of Paul Rathouz", "location": "HDB Auditorium (1.208)", "url": "https://intranet.dellmed.utexas.edu/event/1000543/", "source": "internal"}, {"date": "2026-03-27", "start": "2026-03-27T13:30:00", "end": "2026-03-27T14:30:00", "startTime": "1:30 PM", "endTime": "2:30 PM", "time": "1:30pm &#8211; 2:30pm", "title": "In Conversation: Academic Career Exploration and Planning", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/972002/", "source": "internal"}, {"date": "2026-03-30", "start": "2026-03-30T08:00:00", "end": "2026-03-30T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/30", "source": "internal"}, {"date": "2026-03-30", "start": "2026-03-30T15:00:00", "end": "2026-03-30T17:00:00", "startTime": "3 PM", "endTime": "5 PM", "time": "3:00pm &#8211; 5:00pm", "title": "Distinguished Peter B. Dervan Lecture: 'Regenerative Engineering'", "location": "Engineering Education & Research Center, Mulva Auditorium", "url": "https://intranet.dellmed.utexas.edu/event/1002941/", "source": "internal"}, {"date": "2026-03-31", "start": "2026-03-31T08:00:00", "end": "2026-03-31T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/03/31", "source": "internal"}, {"date": "2026-03-31", "start": "2026-03-31T08:00:00", "end": "2026-03-31T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/03/31", "source": "internal"}, {"date": "2026-04-01", "start": "2026-04-01T08:00:00", "end": "2026-04-01T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/01", "source": "internal"}, {"date": "2026-04-01", "start": "2026-04-01T08:00:00", "end": "2026-04-01T14:00:00", "startTime": "8 AM", "endTime": "2 PM", "time": "8:00am &#8211; 2:00pm", "title": "UT Resource Recovery Alkaline Battery Recycling", "location": "Multiple Locations", "url": "https://intranet.dellmed.utexas.edu/event/1008610/", "source": "internal"}, {"date": "2026-04-01", "start": "2026-04-01T15:00:00", "end": "2026-04-01T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "Office of Faculty Academic Affairs: Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/04/01", "source": "internal"}, {"date": "2026-04-01", "start": "2026-04-01T15:30:00", "end": "2026-04-01T16:30:00", "startTime": "3:30 PM", "endTime": "4:30 PM", "time": "3:30pm &#8211; 4:30pm", "title": "CHEER Seminar: Heat Exposure to Emergency Care", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/1004080/", "source": "internal"}, {"date": "2026-04-02", "start": "2026-04-02T08:00:00", "end": "2026-04-02T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/02", "source": "internal"}, {"date": "2026-04-02", "start": "2026-04-02T08:00:00", "end": "2026-04-02T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/02", "source": "internal"}, {"date": "2026-04-02", "start": "2026-04-02T13:00:00", "end": "2026-04-02T15:00:00", "startTime": "1 PM", "endTime": "3 PM", "time": "1:00pm &#8211; 3:00pm", "title": "Leadership Starts Here: Faculty Development Workshop &#8212; Building a Thriving Team", "location": "HDB 1.208 Auditorium", "url": "https://intranet.dellmed.utexas.edu/event/972411/", "source": "internal"}, {"date": "2026-04-02", "start": "2026-04-02T13:30:00", "end": "2026-04-02T14:30:00", "startTime": "1:30 PM", "endTime": "2:30 PM", "time": "1:30pm &#8211; 2:30pm", "title": "Bi-Monthly Office of Research Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/04/02", "source": "internal"}, {"date": "2026-04-02", "start": "2026-04-02T16:00:00", "end": "2026-04-02T17:00:00", "startTime": "4 PM", "endTime": "5 PM", "time": "4:00pm &#8211; 5:00pm", "title": "Promotion Info Session: How to Prepare Your Dossier", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/966502/", "source": "internal"}, {"date": "2026-04-03", "start": "2026-04-03T08:00:00", "end": "2026-04-03T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/03", "source": "internal"}, {"date": "2026-04-03", "start": "2026-04-03T14:00:00", "end": "2026-04-03T15:00:00", "startTime": "2 PM", "endTime": "3 PM", "time": "2:00pm &#8211; 3:00pm", "title": "Publishing Quality-Improvement Work: A Conversation with Dr. Alex Kemper", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/1005437/", "source": "internal"}, {"date": "2026-04-06", "start": "2026-04-06T08:00:00", "end": "2026-04-06T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/06", "source": "internal"}, {"date": "2026-04-07", "start": "2026-04-07T08:00:00", "end": "2026-04-07T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/07", "source": "internal"}, {"date": "2026-04-07", "start": "2026-04-07T08:00:00", "end": "2026-04-07T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/07", "source": "internal"}, {"date": "2026-04-07", "start": "2026-04-07T12:00:00", "end": "2026-04-07T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Cybersecurity Office Hours", "location": "MS Teams", "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/04/07", "source": "internal"}, {"date": "2026-04-07", "start": "2026-04-07T13:00:00", "end": "2026-04-07T14:00:00", "startTime": "1 PM", "endTime": "2 PM", "time": "1:00pm &#8211; 2:00pm", "title": "Population Health Grand Rounds: Community-Based Interventions for Chronic Disease Prevention", "location": "HLB 1.111 Auditorium", "url": "https://intranet.dellmed.utexas.edu/event/1003924/", "source": "internal"}, {"date": "2026-04-08", "start": "2026-04-08T08:00:00", "end": "2026-04-08T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/08", "source": "internal"}, {"date": "2026-04-08", "start": "2026-04-08T15:00:00", "end": "2026-04-08T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "IT Office Hour (HDB & Zoom)", "location": "HDB 8.000 & Zoom", "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/04/08", "source": "internal"}, {"date": "2026-04-08", "start": "2026-04-08T16:00:00", "end": "2026-04-08T17:00:00", "startTime": "4 PM", "endTime": "5 PM", "time": "4:00pm &#8211; 5:00pm", "title": "DSPC Discovery and Investigation Seminar Series", "location": "HDB 6.110 or Zoom", "url": "https://intranet.dellmed.utexas.edu/event/984967/", "source": "internal"}, {"date": "2026-04-09", "start": "2026-04-09T08:00:00", "end": "2026-04-09T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/09", "source": "internal"}, {"date": "2026-04-09", "start": "2026-04-09T08:00:00", "end": "2026-04-09T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/09", "source": "internal"}, {"date": "2026-04-10", "start": "2026-04-10T08:00:00", "end": "2026-04-10T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/10", "source": "internal"}, {"date": "2026-04-13", "start": "2026-04-13T08:00:00", "end": "2026-04-13T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/13", "source": "internal"}, {"date": "2026-04-14", "start": "2026-04-14T08:00:00", "end": "2026-04-14T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/14", "source": "internal"}, {"date": "2026-04-14", "start": "2026-04-14T08:00:00", "end": "2026-04-14T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/14", "source": "internal"}, {"date": "2026-04-15", "start": "2026-04-15T08:00:00", "end": "2026-04-15T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/15", "source": "internal"}, {"date": "2026-04-15", "start": "2026-04-15T15:00:00", "end": "2026-04-15T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "Office of Faculty Academic Affairs: Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/04/15", "source": "internal"}, {"date": "2026-04-16", "start": "2026-04-16T08:00:00", "end": "2026-04-16T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/16", "source": "internal"}, {"date": "2026-04-16", "start": "2026-04-16T08:00:00", "end": "2026-04-16T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/16", "source": "internal"}, {"date": "2026-04-16", "start": "2026-04-16T12:00:00", "end": "2026-04-16T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Medical Education Research Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/04/16", "source": "internal"}, {"date": "2026-04-16", "start": "2026-04-16T13:30:00", "end": "2026-04-16T14:30:00", "startTime": "1:30 PM", "endTime": "2:30 PM", "time": "1:30pm &#8211; 2:30pm", "title": "Bi-Monthly Office of Research Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/04/16", "source": "internal"}, {"date": "2026-04-17", "start": "2026-04-17T08:00:00", "end": "2026-04-17T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/17", "source": "internal"}, {"date": "2026-04-20", "start": "2026-04-20T08:00:00", "end": "2026-04-20T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/20", "source": "internal"}, {"date": "2026-04-21", "start": "2026-04-21T08:00:00", "end": "2026-04-21T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/21", "source": "internal"}, {"date": "2026-04-21", "start": "2026-04-21T08:00:00", "end": "2026-04-21T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/21", "source": "internal"}, {"date": "2026-04-21", "start": "2026-04-21T12:00:00", "end": "2026-04-21T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "In Conversation Discussion Series: From Abstract to Publication", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/993762/", "source": "internal"}, {"date": "2026-04-21", "start": "2026-04-21T12:00:00", "end": "2026-04-21T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Cybersecurity Office Hours", "location": "MS Teams", "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/04/21", "source": "internal"}, {"date": "2026-04-22", "start": "2026-04-22T08:00:00", "end": "2026-04-22T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/22", "source": "internal"}, {"date": "2026-04-22", "start": "2026-04-22T15:00:00", "end": "2026-04-22T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "IT Office Hour (HDB & Zoom)", "location": "HDB 8.000 & Zoom", "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/04/22", "source": "internal"}, {"date": "2026-04-22", "start": "2026-04-22T15:00:00", "end": "2026-04-22T16:30:00", "startTime": "3 PM", "endTime": "4:30 PM", "time": "3:00pm &#8211; 4:30pm", "title": "LGBTQIA+ Health Speaker Event", "location": "HDB 1.208 Auditorium", "url": "https://intranet.dellmed.utexas.edu/event/1004190/", "source": "internal"}, {"date": "2026-04-23", "start": "2026-04-23T08:00:00", "end": "2026-04-23T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/23", "source": "internal"}, {"date": "2026-04-23", "start": "2026-04-23T08:00:00", "end": "2026-04-23T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/23", "source": "internal"}, {"date": "2026-04-23", "start": "2026-04-23T11:00:00", "end": "2026-04-23T13:00:00", "startTime": "11 AM", "endTime": "1 PM", "time": "11:00am &#8211; 1:00pm", "title": "Post Launch Team Celebration (Epic Go-Live)", "location": "HDB First Floor & Courtyard", "url": "https://intranet.dellmed.utexas.edu/event/1012140/", "source": "internal"}, {"date": "2026-04-23", "start": "2026-04-23T12:00:00", "end": "2026-04-23T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "UT Health Austin Lunch & Learn", "location": "HTB 10.114 or Teams", "url": "https://intranet.dellmed.utexas.edu/event/975844/", "source": "internal"}, {"date": "2026-04-24", "start": "2026-04-24T08:00:00", "end": "2026-04-24T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/24", "source": "internal"}, {"date": "2026-04-24", "start": "2026-04-24T13:30:00", "end": "2026-04-24T17:00:00", "startTime": "1:30 PM", "endTime": "5 PM", "time": "1:30pm &#8211; 5:00pm", "title": "Biomedical Writing Workshop", "location": "HLB 5.201 Boardroom", "url": "https://intranet.dellmed.utexas.edu/event/995317/", "source": "internal"}, {"date": "2026-04-27", "start": "2026-04-27T08:00:00", "end": "2026-04-27T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/27", "source": "internal"}, {"date": "2026-04-28", "start": "2026-04-28T08:00:00", "end": "2026-04-28T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/28", "source": "internal"}, {"date": "2026-04-28", "start": "2026-04-28T08:00:00", "end": "2026-04-28T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/28", "source": "internal"}, {"date": "2026-04-29", "start": "2026-04-29T08:00:00", "end": "2026-04-29T17:00:00", "startTime": "8 AM", "endTime": "5 PM", "time": "All Day", "title": "The Undiagnosed Initiative &#8211; Photo Exhibition", "location": "1st floors of HLB & HTB", "url": "https://intranet.dellmed.utexas.edu/event/998437/2026/04/29", "source": "internal"}, {"date": "2026-04-29", "start": "2026-04-29T15:00:00", "end": "2026-04-29T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "Office of Faculty Academic Affairs: Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/04/29", "source": "internal"}, {"date": "2026-04-30", "start": "2026-04-30T08:00:00", "end": "2026-04-30T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/04/30", "source": "internal"}, {"date": "2026-04-30", "start": "2026-04-30T12:00:00", "end": "2026-04-30T13:30:00", "startTime": "12 PM", "endTime": "1:30 PM", "time": "12:00pm &#8211; 1:30pm", "title": "Longhorns Listen: Suicide Prevention Training", "location": "HDB 1.202", "url": "https://intranet.dellmed.utexas.edu/event/1003108/", "source": "internal"}, {"date": "2026-04-30", "start": "2026-04-30T16:30:00", "end": "2026-04-30T17:00:00", "startTime": "4:30 PM", "endTime": "5 PM", "time": "4:30pm &#8211; 5:00pm", "title": "EAP Monthly Mindfulness Workshop", "location": "HDB 1.202", "url": "https://intranet.dellmed.utexas.edu/event/986239/", "source": "internal"}, {"date": "2026-05-01", "start": "2026-05-01T12:00:00", "end": "2026-05-01T17:30:00", "startTime": "12 PM", "endTime": "5:30 PM", "time": "12:00pm &#8211; 5:30pm", "title": "Arrival to Access: The Intersections of Migration and Healthcare", "location": "HLB 1.111 Auditorium", "url": "https://intranet.dellmed.utexas.edu/event/1011184/", "source": "internal"}, {"date": "2026-05-05", "start": "2026-05-05T08:00:00", "end": "2026-05-05T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/05", "source": "internal"}, {"date": "2026-05-05", "start": "2026-05-05T12:00:00", "end": "2026-05-05T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Cybersecurity Office Hours", "location": "MS Teams", "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/05/05", "source": "internal"}, {"date": "2026-05-06", "start": "2026-05-06T15:00:00", "end": "2026-05-06T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "IT Office Hour (HDB & Zoom)", "location": "HDB 8.000 & Zoom", "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/05/06", "source": "internal"}, {"date": "2026-05-07", "start": "2026-05-07T08:00:00", "end": "2026-05-07T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/07", "source": "internal"}, {"date": "2026-05-07", "start": "2026-05-07T13:30:00", "end": "2026-05-07T14:30:00", "startTime": "1:30 PM", "endTime": "2:30 PM", "time": "1:30pm &#8211; 2:30pm", "title": "Bi-Monthly Office of Research Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/05/07", "source": "internal"}, {"date": "2026-05-12", "start": "2026-05-12T08:00:00", "end": "2026-05-12T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/12", "source": "internal"}, {"date": "2026-05-13", "start": "2026-05-13T15:00:00", "end": "2026-05-13T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "Office of Faculty Academic Affairs: Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/05/13", "source": "internal"}, {"date": "2026-05-13", "start": "2026-05-13T16:00:00", "end": "2026-05-13T17:00:00", "startTime": "4 PM", "endTime": "5 PM", "time": "4:00pm &#8211; 5:00pm", "title": "DSPC Discovery and Investigation Seminar Series", "location": "HDB 6.110 or Zoom", "url": "https://intranet.dellmed.utexas.edu/event/984968/", "source": "internal"}, {"date": "2026-05-14", "start": "2026-05-14T08:00:00", "end": "2026-05-14T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/14", "source": "internal"}, {"date": "2026-05-19", "start": "2026-05-19T08:00:00", "end": "2026-05-19T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/19", "source": "internal"}, {"date": "2026-05-19", "start": "2026-05-19T11:00:00", "end": "2026-05-19T12:00:00", "startTime": "11 AM", "endTime": "12 PM", "time": "11:00am &#8211; 12:00pm", "title": "In Conversation: Professional Mentorship, Sponsorship & Coaching", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/1002985/", "source": "internal"}, {"date": "2026-05-19", "start": "2026-05-19T12:00:00", "end": "2026-05-19T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Cybersecurity Office Hours", "location": "MS Teams", "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/05/19", "source": "internal"}, {"date": "2026-05-20", "start": "2026-05-20T15:00:00", "end": "2026-05-20T16:00:00", "startTime": "3 PM", "endTime": "4 PM", "time": "3:00pm &#8211; 4:00pm", "title": "IT Office Hour (HDB & Zoom)", "location": "HDB 8.000 & Zoom", "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/05/20", "source": "internal"}, {"date": "2026-05-21", "start": "2026-05-21T08:00:00", "end": "2026-05-21T12:00:00", "startTime": "8 AM", "endTime": "12 PM", "time": "8:00am &#8211; 12:00pm", "title": "IT Office Hour (DPRI)", "location": "DPRI 3.708A", "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/05/21", "source": "internal"}, {"date": "2026-05-21", "start": "2026-05-21T12:00:00", "end": "2026-05-21T13:00:00", "startTime": "12 PM", "endTime": "1 PM", "time": "12:00pm &#8211; 1:00pm", "title": "Medical Education Research Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/05/21", "source": "internal"}, {"date": "2026-05-21", "start": "2026-05-21T13:30:00", "end": "2026-05-21T14:30:00", "startTime": "1:30 PM", "endTime": "2:30 PM", "time": "1:30pm &#8211; 2:30pm", "title": "Bi-Monthly Office of Research Office Hours", "location": "Zoom", "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/05/21", "source": "internal"}, {"date": "2026-07-14", "start": "2026-07-14T13:00:00", "end": "2026-07-14T14:00:00", "startTime": "1 PM", "endTime": "2 PM", "time": "12&#8211;1 p.m.", "title": "CPAN Series: ADHD Part 1: Uncomplicated ADHD", "location": "Virtual", "url": "https://dellmed.utexas.edu/events/cpan-adhd-uncomplicated-adhd", "source": "public"}, {"date": "2026-07-15", "start": "2026-07-15T07:30:00", "end": "2026-07-15T09:30:00", "startTime": "7:30 AM", "endTime": "9:30 AM", "time": "7:30am &#8211; 9:30am", "title": "Annual Dell Med Resource Fair", "location": "HDB Courtyard, First Floor Atrium", "url": "https://intranet.dellmed.utexas.edu/event/1004986/", "source": "internal"}, {"date": "2026-07-28", "start": "2026-07-28T13:00:00", "end": "2026-07-28T14:00:00", "startTime": "1 PM", "endTime": "2 PM", "time": "12&#8211;1 p.m.", "title": "CPAN Series:  ADHD Behavioral Interventions: Clinical Pearls", "location": "Virtual", "url": "https://dellmed.utexas.edu/events/cpan-series-adhd-behavioral-interventions", "source": "public"}, {"date": "2026-07-30", "start": "2026-07-30T08:00:00", "end": "2026-07-30T09:00:00", "startTime": "8 AM", "endTime": "9 AM", "time": "7&#8211;8 a.m.", "title": "Department of Surgery & Perioperative Care Combined Grand Rounds with Guest Speaker Alana Beard", "location": "Health Learning Building (HLB 1.111)", "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-guest-speaker-alana-beard", "source": "public"}, {"date": "2026-08-10", "start": "2026-08-10T13:00:00", "end": "2026-08-10T14:00:00", "startTime": "1 PM", "endTime": "2 PM", "time": "12&#8211;1 p.m.", "title": "Health Social Work Visiting Speaker: Between What&#8217;s Right and What&#8217;s Possible", "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) & Zoom", "url": "https://dellmed.utexas.edu/events/health-social-work-visiting-speaker-between-whats-right-and-whats-possible", "source": "public"}, {"date": "2026-08-27", "start": "2026-08-27T19:30:00", "end": "2026-08-27T20:30:00", "startTime": "7:30 PM", "endTime": "8:30 PM", "time": "6&#8211;7:30 p.m.", "title": "AMPATH/MAPAS M&#233;xico Monthly Seminar: Gerontology", "location": "Zoom", "url": "https://dellmed.utexas.edu/events/ampath-mapas-m%C3%A9xico-monthly-seminar-gerontology", "source": "public"}, {"date": "2026-10-16", "start": "2026-10-16T08:00:00", "end": "2026-10-16T16:30:00", "startTime": "8 AM", "endTime": "4:30 PM", "time": "8 a.m.&#8211;4:30 p.m.", "title": "Pediatric Quality Improvement Educational Opportunity", "location": "Dell Pediatric Research Institute (DPI 1.102)", "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1016", "source": "public"}, {"date": "2026-10-23", "start": "2026-10-23T09:00:00", "end": "2026-10-23T15:30:00", "startTime": "9 AM", "endTime": "3:30 PM", "time": "9 a.m.&#8211;3:30 p.m.", "title": "Pediatric Quality Improvement Educational Opportunity", "location": "Dell Pediatric Research Institute (DPI 1.102)", "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1023", "source": "public"}, {"date": "2026-10-29", "start": "2026-10-29T08:00:00", "end": "2026-10-29T09:00:00", "startTime": "8 AM", "endTime": "9 AM", "time": "7&#8211;8 a.m.", "title": "Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department with Kevin Bozic, M.D.", "location": "Health Learning Building (HLB 1.111 Auditorium)", "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-state-of-the-department-1029", "source": "public"}];
-
-/* &#9472;&#9472; Category rules &#9472;&#9472; */
-var RULES=[
-  // &#9472;&#9472; Specific Office Hours (checked FIRST so they override generic rules) &#9472;&#9472;
-  [/research.*office.?hour|office.?hour.*research/i,'Research'],
-  [/faculty affairs.*office.?hour|office.?hour.*faculty affairs/i,'FAff'],
-  [/medical education.*office.?hour|office.?hour.*medical education/i,'FDev'],
-  [/it office.?hour|office.?hour.*\bit\b/i,'Operations'],
-
-  [/grand.?rounds|visiting (prof|speaker)|case conference|tumor board|journal club|department lecture|neurology|neurosurgery|infectious disease|cardiology lecture|palliative|hospice|gastro.*lecture/i,'CME'],
-  [/cme\b|cpd\b|continuing (medical|professional)|maintenance of cert|board prep/i,'CME'],
-  [/faculty (development|coaching|mentoring|peer|career|advancement|skills|writing)|dfpd|peer observation/i,'FDev'],
-  [/faculty affairs|tenure|promotion|annual review|cv workshop|dossier|academic affairs|office hour.*faculty|faculty.*office.?hour/i,'FAff'],
-  [/research|seminar|symposium|innovation|grant|pilot|publication|data science|biostat|cpan echo|cancer|oncology.*talk/i,'Research'],
-  [/operations|it office|epic|onboard|orientation|compliance|hipaa|cybersecurity|hr\b|payroll|budget|finance|resource fair|match day|recruitment|interview|applicant|residency fair|town hall|employee/i,'Operations'],
-];
-function cat(title,src){
-  if(src==='ut') return 'UTAus';
-  for(var i=0;i<RULES.length;i++) if(RULES[i][0].test(title)) return RULES[i][1];
-  if(src==='internal') return 'Operations';
-  return 'CME';
-}
-
-/* &#9472;&#9472; State &#9472;&#9472; */
+var ALL=[];
 var srcF={public:true,internal:true,ut:true};
 var catF='All';
 var vY,vM;
 
-/* &#9472;&#9472; Helpers &#9472;&#9472; */
-var MNS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+var MNS=['January','February','March','April','May','June',
+         'July','August','September','October','November','December'];
 var SRCL={public:'Dell Med Public',internal:'Internal (Intranet)',ut:'UT Austin'};
-function esc(s){return s?String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'):''}
+
+/* Category rules — checked in order, first match wins */
+var RULES=[
+  [/research.*office.?hour|office.?hour.*research/i,'Res'],
+  [/faculty affairs.*office.?hour|office.?hour.*faculty affairs/i,'FAff'],
+  [/medical education.*office.?hour|office.?hour.*medical.?ed/i,'FDev'],
+  [/it office.?hour|office.?hour.*\bit\b|cybersecurity/i,'Ops'],
+  [/grand.?rounds|visiting (prof|speaker|physician)|case conference|tumor board|journal club|department lecture|neurology|neurosurgery|palliative|hospice|pediatric.*lecture|infectious disease|cardiology.*(lecture|round)|ophthalmology.*cme|continuing medical/i,'CME'],
+  [/\bcme\b|\bcpd\b|maintenance of cert|board prep/i,'CME'],
+  [/faculty (development|coaching|mentoring|peer|career|advancement|skills|writing)|dfpd|peer observation|leadership.*faculty|biomedical writing/i,'FDev'],
+  [/faculty affairs|tenure|promotion|annual review|cv workshop|dossier|academic affairs|office of faculty/i,'FAff'],
+  [/research|seminar|symposium|symposia|innovation|grant|pilot|publication|data science|biostat|cpan echo|cancer|oncology.*talk|research nuts|in conversation/i,'Res'],
+  [/\bit office|epic|onboard|orientation|compliance|hipaa|payroll|budget|finance|resource fair|match day|recruitment|interview|applicant|residency fair|town hall|employee|talent acquisition|supervisor|eap|mindfulness/i,'Ops'],
+];
+
+function cat(title,src){
+  if(src==='ut') return 'UTAus';
+  for(var i=0;i<RULES.length;i++) if(RULES[i][0].test(title)) return RULES[i][1];
+  if(src==='internal') return 'Ops';
+  return 'CME';
+}
+
+function esc(s){
+  if(!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 function srcDot(s){return s==='public'?'#bf5700':s==='internal'?'#1d4ed8':'#15803d';}
-function fmtLong(d){
-  var p=d.split('-');
+
+function fmtDate(iso){
+  var p=iso.split('-');
   return new Date(+p[0],+p[1]-1,+p[2]).toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
 }
-function fmtShort(d){
-  var p=d.split('-');
+function fmtShort(iso){
+  var p=iso.split('-');
   return new Date(+p[0],+p[1]-1,+p[2]).toLocaleDateString('en-US',{month:'short',day:'numeric'});
 }
+
+/* Parse time string from events.json into display label */
+function fmtTime(ev){
+  var t=ev.time||'';
+  if(!t) return '';
+  /* Normalise various separators */
+  t=t.replace(/[–—]/g,'-');
+  return t;
+}
+
 function filtered(){
   return ALL.filter(function(e){
     if(!srcF[e.source]) return false;
@@ -316,17 +321,19 @@ function filtered(){
     return true;
   });
 }
+
 function onDate(y,m,d){
   var iso=y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
-  return filtered().filter(function(e){return e.date===iso;})
-    .sort(function(a,b){return a.start.localeCompare(b.start);});
+  return filtered().filter(function(e){return e.start===iso;})
+    .sort(function(a,b){return (a.time||'').localeCompare(b.time||'');});
 }
 
-/* &#9472;&#9472; Render grid &#9472;&#9472; */
+/* ── Render calendar grid ── */
 function render(){
   var y=vY,m=vM;
   document.getElementById('mLabel').textContent=MNS[m]+' '+y;
-  var tod=new Date(),ts=tod.getFullYear()+'-'+String(tod.getMonth()+1).padStart(2,'0')+'-'+String(tod.getDate()).padStart(2,'0');
+  var today=new Date();
+  var ts=today.getFullYear()+'-'+String(today.getMonth()+1).padStart(2,'0')+'-'+String(today.getDate()).padStart(2,'0');
   var first=new Date(y,m,1).getDay();
   var dim=new Date(y,m+1,0).getDate();
   var dipm=new Date(y,m,0).getDate();
@@ -336,7 +343,7 @@ function render(){
   var total=Math.ceil((first+dim)/7)*7;
   var vis=filtered();
   var mPfx=y+'-'+String(m+1).padStart(2,'0');
-  var mEvs=vis.filter(function(e){return e.date.startsWith(mPfx);});
+  var mEvs=vis.filter(function(e){return e.start&&e.start.startsWith(mPfx);});
 
   for(var r=0;r<total/7;r++){
     var wr=document.createElement('div');wr.className='week';
@@ -346,9 +353,9 @@ function render(){
       if(day<1){cd=dipm+day;cm=m-1;if(cm<0){cm=11;cy=y-1;}cell.classList.add('other');}
       else if(day>dim){cd=day-dim;cm=m+1;if(cm>11){cm=0;cy=y+1;}cell.classList.add('other');}
       else{cd=day;}
-      if(c===0||c===6)cell.classList.add('weekend');
+      if(c===0||c===6) cell.classList.add('weekend');
       var ciso=cy+'-'+String(cm+1).padStart(2,'0')+'-'+String(cd).padStart(2,'0');
-      if(ciso===ts)cell.classList.add('today');
+      if(ciso===ts) cell.classList.add('today');
 
       var dn=document.createElement('div');dn.className='dn';dn.textContent=cd;cell.appendChild(dn);
 
@@ -358,7 +365,7 @@ function render(){
         var c2=cat(ev.title,ev.source);
         var pill=document.createElement('div');pill.className='ev '+c2;
         var dot=document.createElement('span');dot.className='sd';dot.style.background=srcDot(ev.source);
-        var ti=document.createElement('span');ti.className='et';ti.textContent=ev.startTime;
+        var ti=document.createElement('span');ti.className='et';ti.textContent=fmtTime(ev).split('-')[0].trim().split(' ')[0]||'';
         var ttl=document.createElement('span');ttl.className='en';ttl.textContent=ev.title;
         pill.appendChild(dot);pill.appendChild(ti);pill.appendChild(ttl);
         pill.addEventListener('click',function(e){e.stopPropagation();openPop(ev);});
@@ -374,30 +381,52 @@ function render(){
     }
     weeks.appendChild(wr);
   }
+
+  /* Count and upcoming fallback */
   document.getElementById('evCount').textContent=
     mEvs.length+' event'+(mEvs.length!==1?'s':'')+' in '+MNS[m]+' '+y+
-    ' &#183; '+vis.length+' total across all months';
+    ' · '+vis.length+' total visible';
 
-  // If no events this month, show upcoming list below
-  renderUpcoming(vis);
+  var ne=document.getElementById('noEvts');
+  var ul=document.getElementById('upList');
+  if(mEvs.length===0){
+    var tod=new Date().toISOString().slice(0,10);
+    var upcoming=vis.filter(function(e){return (e.start||'')>=tod;})
+      .sort(function(a,b){return (a.start||'').localeCompare(b.start||'');}).slice(0,12);
+    if(upcoming.length>0){
+      ul.innerHTML=upcoming.map(function(e){
+        var c2=cat(e.title,e.source);
+        return '<li class="up-item">'
+          +'<span class="up-date">'+fmtShort(e.start)+'</span>'
+          +'<span class="up-time">'+esc(fmtTime(e))+'</span>'
+          +'<div><div class="up-title"><a href="'+esc(e.url)+'" target="_blank" rel="noopener">'+esc(e.title)+'</a></div>'
+          +(e.location?'<div class="up-loc">&#128205; '+esc(e.location)+'</div>':'')
+          +'</div>'
+          +'</li>';
+      }).join('');
+      ne.style.display='block';
+    } else {
+      ne.style.display='none';
+    }
+  } else {
+    ne.style.display='none';
+  }
 }
 
-/* &#9472;&#9472; Popover &#9472;&#9472; */
+/* ── Popover ── */
 function openPop(ev){
   var c2=cat(ev.title,ev.source);
   var cb=document.getElementById('pCat');cb.textContent=c2;cb.className='pop-badge '+c2;
   document.getElementById('pTitle').textContent=ev.title;
-  document.getElementById('pDate').textContent=fmtLong(ev.date);
-  var ts=ev.startTime;
-  if(ev.endTime&&ev.endTime!==ev.startTime)ts+='&#8211;'+ev.endTime;
-  document.getElementById('pTime').textContent=ts;
+  document.getElementById('pDate').textContent=fmtDate(ev.start);
+  document.getElementById('pTime').textContent=fmtTime(ev)||'Time not listed';
   var lr=document.getElementById('pLocRow');
   if(ev.location){document.getElementById('pLoc').textContent=ev.location;lr.style.display='flex';}
   else lr.style.display='none';
   var sb=document.getElementById('pSrc');
   sb.textContent=SRCL[ev.source]||ev.source;sb.className='src-badge '+ev.source;
   var lk=document.getElementById('pLink');
-  if(ev.url){lk.href=ev.url;lk.style.display='inline-flex';}else lk.style.display='none';
+  lk.href=ev.url||'#';lk.style.display=ev.url?'inline-flex':'none';
   document.getElementById('overlay').classList.add('show');
 }
 function closePop(){document.getElementById('overlay').classList.remove('show');}
@@ -405,110 +434,59 @@ document.getElementById('popClose').addEventListener('click',closePop);
 document.getElementById('overlay').addEventListener('click',function(e){if(e.target===this)closePop();});
 document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();});
 
-/* &#9472;&#9472; Toggles &#9472;&#9472; */
+/* ── Source toggles ── */
 [['tpub','public'],['tint','internal'],['tut','ut']].forEach(function(p){
   var el=document.getElementById(p[0]);
   el.querySelector('input').addEventListener('change',function(){
     srcF[p[1]]=this.checked;el.classList.toggle('off',!this.checked);render();
   });
 });
+
+/* ── Category pills ── */
 document.querySelectorAll('.cpill').forEach(function(pill){
   pill.addEventListener('click',function(){
     catF=this.dataset.c;
-    document.querySelectorAll('.cpill').forEach(function(p){p.classList.toggle('off',p.dataset.c!==catF&&catF!=='All');});
-    if(catF==='All')document.querySelectorAll('.cpill').forEach(function(p){p.classList.remove('off');});
+    document.querySelectorAll('.cpill').forEach(function(p){
+      p.classList.toggle('off',p.dataset.c!==catF&&catF!=='All');
+    });
+    if(catF==='All') document.querySelectorAll('.cpill').forEach(function(p){p.classList.remove('off');});
     render();
   });
 });
 
-/* &#9472;&#9472; Nav &#9472;&#9472; */
+/* ── Month nav ── */
 document.getElementById('prevBtn').addEventListener('click',function(){vM--;if(vM<0){vM=11;vY--;}render();});
 document.getElementById('nextBtn').addEventListener('click',function(){vM++;if(vM>11){vM=0;vY++;}render();});
-document.getElementById('todayBtn').addEventListener('click',function(){var bm=bestStartMonth();vY=bm.y;vM=bm.m;render();});
+document.getElementById('todayBtn').addEventListener('click',function(){
+  var t=new Date();vY=t.getFullYear();vM=t.getMonth();render();
+});
 
-/* &#9472;&#9472; Copy URL &#9472;&#9472; */
+/* ── Copy ICS URL ── */
 document.getElementById('copyBtn').addEventListener('click',function(){
   var btn=this;
   navigator.clipboard.writeText(ICS_URL).then(function(){
-    btn.textContent='\u2713 Copied!';btn.classList.add('ok');
+    btn.textContent='✓ Copied!';btn.classList.add('ok');
     setTimeout(function(){btn.innerHTML='&#128197; Copy Outlook URL';btn.classList.remove('ok');},2500);
   });
 });
 
-/* -- Boot -- */
-function bestStartMonth(){
-  // Always open on the current month so users see today's events
-  var t=new Date();
-  return {y:t.getFullYear(),m:t.getMonth()};
-};
-  ALL.forEach(function(e){
-    var key=e.date.slice(0,7);
-    counts[key]=(counts[key]||0)+1;
-  });
-  var bestKey=null,bestCount=0;
-  Object.keys(counts).forEach(function(k){
-    // Give a small bonus to upcoming/current months so they win ties
-    var bonus=(k>=todayKey)?2:0;
-    if(counts[k]+bonus>bestCount){
-      bestCount=counts[k]+bonus;
-      bestKey=k;
-    }
-  });
-  if(!bestKey){
-    var t=new Date();
-    return {y:t.getFullYear(),m:t.getMonth()};
-  }
-  var p=bestKey.split('-');
-  return {y:+p[0],m:+p[1]-1};
-}
-
-var _t=new Date();vY=_t.getFullYear();vM=_t.getMonth();
-
-function startCalendar(eventsArray){
-  if(eventsArray&&eventsArray.length>0) ALL=eventsArray;
-  var bm=bestStartMonth();
-  vY=bm.y;vM=bm.m;
-  render();
-}
-
-// Try live data/events.json, fall back to embedded ALL
+/* ── Load data/events.json ── */
 fetch('data/events.json?ts='+Date.now())
-  .then(function(r){if(!r.ok)throw new Error();return r.json();})
+  .then(function(r){if(!r.ok)throw new Error('HTTP '+r.status);return r.json();})
   .then(function(d){
-    var evs=d.events||d||[];
-    var u=d.updated?new Date(d.updated).toLocaleString('en-US',{dateStyle:'medium',timeStyle:'short'}):'';
-    if(u)document.getElementById('dataStatus').textContent='Updated: '+u;
-    startCalendar(evs.length>0?evs:null);
+    var today=new Date().toISOString().slice(0,10);
+    ALL=(d.events||[]).filter(function(e){return e.start>=today;});
+    var upd=d.updated?new Date(d.updated).toLocaleString('en-US',{dateStyle:'medium',timeStyle:'short'}):'';
+    document.getElementById('dataStatus').textContent=
+      upd?'Updated: '+upd:'';
+    var t=new Date();vY=t.getFullYear();vM=t.getMonth();
+    render();
   })
-  .catch(function(){startCalendar(null);});
-
-function renderUpcoming(vis){
-  var wrap=document.getElementById('upcoming-wrap');
-  var list=document.getElementById('upcoming-list');
-  if(!wrap||!list) return;
-  var today=new Date().toISOString().slice(0,10);
-  var upcoming=vis.filter(function(e){return (e.start||e.date||'')>=today;})
-    .sort(function(a,b){return (a.start||a.date||'').localeCompare(b.start||b.date||'');})
-    .slice(0,10);
-  var curMonthPfx=vY+'-'+String(vM+1).padStart(2,'0');
-  var thisMonth=vis.filter(function(e){return (e.date||'').startsWith(curMonthPfx);});
-  if(thisMonth.length>0){wrap.style.display='none';return;}
-  if(upcoming.length===0){wrap.style.display='none';return;}
-  wrap.style.display='block';
-  var L={public:'Public',internal:'Internal',ut:'UT Austin'};
-  list.innerHTML=upcoming.map(function(e){
-    var c2=cat(e.title,e.source);
-    var tm=e.startTime?(e.endTime&&e.endTime!==e.startTime?' &#8211; '+e.endTime:''):'';
-    return '<li style="display:flex;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid var(--bd);">'
-      +'<div style="min-width:90px;font-size:12px;color:var(--mu);font-weight:600;">'+fmtShort(e.date)+'</div>'
-      +'<div style="min-width:80px;font-size:11px;color:var(--mu);">'+(e.startTime||'')+(tm)+'</div>'
-      +'<div style="flex:1;"><a href="'+esc(e.url)+'" target="_blank" rel="noopener" style="color:var(--tx);text-decoration:none;font-size:13px;font-weight:600;">'+esc(e.title)+'</a>'
-      +(e.location?'<div style="font-size:11px;color:var(--mu);margin-top:2px;">&#55357;&#56525; '+esc(e.location)+'</div>':'')
-      +'</div>'
-      +'<span style="font-size:10px;padding:2px 6px;border-radius:10px;white-space:nowrap;font-weight:700;background:#f5f3ff;color:#5b21b6;">'+c2+'</span>'
-      +'</li>';
-  }).join('');
-}
+  .catch(function(err){
+    document.getElementById('evCount').textContent='Could not load events.';
+    document.getElementById('dataStatus').textContent='Error: '+err.message;
+    console.error(err);
+  });
 </script>
 </body>
 </html>
