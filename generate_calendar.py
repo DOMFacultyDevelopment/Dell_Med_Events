@@ -171,15 +171,73 @@ def scrape_event_page(url):
 
 
 def fetch_public_events():
-    print("📡 Fetching RSS feed...")
-    rss_items = fetch_rss_links(RSS_URL)
-    print(f"   Found {len(rss_items)} events in feed")
+    """Scrape events directly from dellmed.utexas.edu/events.
+    Falls back to the RSS.app feed if direct scraping fails.
+    """
+    print("📡 Fetching Dell Med public events (direct scrape)...")
+    HEADERS = {
+        "User-Agent": "Mozilla/5.0 (compatible; DellMedCalendar/1.0)",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+
+    event_links = []
+
+    # Scrape multiple pages of the events listing
+    for page in range(0, 4):  # pages 0-3 covers ~60 upcoming events
+        url = f"https://dellmed.utexas.edu/events?page={page}" if page > 0 else "https://dellmed.utexas.edu/events"
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=15)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"  ⚠ Could not fetch events page {page}: {e}")
+            break
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # Dell Med uses Drupal — event links are /events/<slug>
+        found = set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            # Match event detail page URLs
+            if re.match(r'^/events/[a-z0-9\-]+$', href):
+                full = "https://dellmed.utexas.edu" + href
+                if full not in found:
+                    found.add(full)
+                    title = a.get_text(strip=True)
+                    if title:
+                        event_links.append((title, full))
+
+        if not found:
+            break  # no more pages
+
+    # Deduplicate preserving order
+    seen_urls = set()
+    unique_links = []
+    for title, url in event_links:
+        if url not in seen_urls:
+            seen_urls.add(url)
+            unique_links.append((title, url))
+
+    print(f"   Found {len(unique_links)} event links")
+
+    # Fallback: try RSS.app if we got nothing
+    if not unique_links:
+        print("   Falling back to RSS.app feed...")
+        try:
+            rss_items = fetch_rss_links(RSS_URL)
+            print(f"   RSS returned {len(rss_items)} items")
+            unique_links = rss_items
+        except Exception as e:
+            print(f"  ⚠ RSS fallback failed: {e}")
+
     events = []
-    for i, (title, url) in enumerate(rss_items, 1):
-        print(f"   [{i}/{len(rss_items)}] Scraping: {title[:60]}...")
+    for i, (title, url) in enumerate(unique_links, 1):
+        print(f"   [{i}/{len(unique_links)}] Scraping: {title[:55]}...")
         ev = scrape_event_page(url)
         if ev:
+            ev["source"] = "public"
             events.append(ev)
+
     print(f"   ✓ {len(events)} public events scraped")
     return events
 
@@ -238,67 +296,120 @@ def extract_internal_events_from_ticker():
 
 
 def fetch_ut_events():
-    """Fetch events from the UT Austin Texas Today RSS calendar feed."""
+    """Fetch events from the UT Austin Localist calendar.
+    Tries the ICS feed first (most reliable), falls back to RSS.
+    """
     MONTH_ABBR = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,
                   "jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
     MONTH_NAMES = ["","January","February","March","April","May","June",
                    "July","August","September","October","November","December"]
     print("\n🤘 Fetching UT Austin Texas Today events...")
-    try:
-        resp = requests.get(UT_RSS_URL, timeout=15)
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"  ⚠ Could not fetch UT RSS: {e}")
+
+    # Try multiple UT Austin calendar feed URLs
+    feed_urls = [
+        "https://calendar.utexas.edu/calendar.ics",
+        "https://calendar.utexas.edu/calendar.rss",
+        UT_RSS_URL,
+    ]
+
+    raw_content = None
+    feed_type   = None
+
+    for feed_url in feed_urls:
+        try:
+            resp = requests.get(feed_url, timeout=15,
+                                headers={"User-Agent": "Mozilla/5.0 (compatible; DellMedCalendar/1.0)"})
+            if resp.status_code == 200 and len(resp.content) > 200:
+                raw_content = resp.content
+                feed_type = "ics" if "VCALENDAR" in resp.text[:100] else "rss"
+                print(f"   Got {len(resp.content)} bytes from {feed_url} ({feed_type})")
+                break
+        except Exception as e:
+            print(f"  ⚠ {feed_url}: {e}")
+
+    if not raw_content:
+        print("  ⚠ All UT Austin feeds failed")
         return []
 
-    soup = BeautifulSoup(resp.content, "lxml-xml")
     events = []
 
-    for item in soup.find_all("item"):
-        title_tag = item.find("title")
-        link_tag  = item.find("link")
-        pub_tag   = item.find("pubDate")
-        desc_tag  = item.find("description")
+    if feed_type == "ics":
+        # Parse ICS format
+        text = raw_content.decode("utf-8", errors="replace")
+        blocks = text.split("BEGIN:VEVENT")
+        for block in blocks[1:]:
+            def get(field):
+                m = re.search(rf'^{field}(?:;[^:]+)?:([^\r\n]+)', block, re.M)
+                return m.group(1).strip() if m else ""
 
-        if not (title_tag and link_tag):
-            continue
+            title   = get("SUMMARY")
+            url     = get("URL") or get("ATTACH")
+            loc     = get("LOCATION")
+            dts     = get("DTSTART")
+            dte     = get("DTEND")
+            desc    = get("DESCRIPTION")
 
-        title = title_tag.get_text(strip=True)
-        url   = link_tag.get_text(strip=True)
+            if not title or not dts:
+                continue
 
-        date_str = ""
-        time_str = ""
-        if pub_tag:
-            raw = pub_tag.get_text(strip=True)
-            # RFC-2822: "Mon, 15 Jun 2026 09:00:00 +0000"
-            dm = re.search(r'(\d{1,2})\s+(\w{3})\s+(\d{4})(?:\s+(\d{2}):(\d{2}))?', raw)
-            if dm:
-                day, mon, year = dm.group(1), dm.group(2).lower(), dm.group(3)
-                mo_num = MONTH_ABBR.get(mon, 0)
-                if mo_num:
-                    date_str = f"{MONTH_NAMES[mo_num]} {int(day)}, {year}"
-                    if dm.group(4):
-                        h, mi = int(dm.group(4)), int(dm.group(5))
-                        ap = "a.m." if h < 12 else "p.m."
-                        h12 = h % 12 or 12
-                        time_str = f"{h12}:{mi:02d} {ap}" if mi else f"{h12} {ap}"
+            try:
+                if "T" in dts:
+                    raw = dts.split(":")[-1].rstrip("Z")
+                    dt = datetime.strptime(raw, "%Y%m%dT%H%M%S")
+                else:
+                    dt = datetime.strptime(dts.split(":")[-1], "%Y%m%d")
 
-        if not date_str:
-            continue
+                date_str = f"{MONTH_NAMES[dt.month]} {dt.day}, {dt.year}"
+                if "T" in dts and dt.hour > 0:
+                    ap = "a.m." if dt.hour < 12 else "p.m."
+                    h12 = dt.hour % 12 or 12
+                    mi = f":{dt.minute:02d}" if dt.minute else ""
+                    time_str = f"{h12}{mi} {ap}"
+                else:
+                    time_str = ""
+            except Exception:
+                continue
 
-        desc_text = ""
-        if desc_tag:
-            desc_text = BeautifulSoup(desc_tag.get_text(), "html.parser").get_text(" ", strip=True)[:400]
+            events.append({
+                "title":       title.replace("\\,", ",").replace("\\;", ";"),
+                "url":         url or "https://calendar.utexas.edu/",
+                "date_str":    date_str,
+                "time_str":    time_str,
+                "location":    loc.replace("\\,", ","),
+                "description": desc.replace("\\n", " ")[:300] + f"\\n\\nEvent page: {url}",
+                "source":      "ut",
+            })
 
-        events.append({
-            "title":       title,
-            "url":         url,
-            "date_str":    date_str,
-            "time_str":    time_str,
-            "location":    "",
-            "description": (desc_text + f"\\n\\nEvent page: {url}") if desc_text else f"Event page: {url}",
-            "source":      "ut",
-        })
+    else:
+        # Parse RSS format
+        soup = BeautifulSoup(raw_content, "lxml-xml")
+        for item in soup.find_all("item"):
+            title_tag = item.find("title")
+            link_tag  = item.find("link")
+            pub_tag   = item.find("pubDate")
+            desc_tag  = item.find("description")
+            if not (title_tag and link_tag): continue
+            title = title_tag.get_text(strip=True)
+            url   = link_tag.get_text(strip=True)
+            date_str = time_str = ""
+            if pub_tag:
+                raw = pub_tag.get_text(strip=True)
+                dm = re.search(r'(\d{1,2})\s+(\w{3})\s+(\d{4})(?:\s+(\d{2}):(\d{2}))?', raw)
+                if dm:
+                    day, mon, year = dm.group(1), dm.group(2).lower(), dm.group(3)
+                    mo_num = MONTH_ABBR.get(mon, 0)
+                    if mo_num:
+                        date_str = f"{MONTH_NAMES[mo_num]} {int(day)}, {year}"
+                        if dm.group(4):
+                            h, mi = int(dm.group(4)), int(dm.group(5))
+                            ap = "a.m." if h < 12 else "p.m."
+                            h12 = h % 12 or 12
+                            time_str = f"{h12}:{mi:02d} {ap}" if mi else f"{h12} {ap}"
+            if not date_str: continue
+            events.append({
+                "title": title, "url": url, "date_str": date_str, "time_str": time_str,
+                "location": "", "description": f"Event page: {url}", "source": "ut",
+            })
 
     print(f"   ✓ {len(events)} UT Austin events fetched")
     return events
