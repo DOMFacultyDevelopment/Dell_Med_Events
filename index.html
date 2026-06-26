@@ -82,9 +82,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .dow{padding:7px 0;text-align:center;font-size:10px;font-weight:700;
      color:var(--mu);letter-spacing:.5px;text-transform:uppercase;}
 .weeks{display:flex;flex-direction:column;}
-.week{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid var(--bd);min-height:100px;}
+.week{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid var(--bd);}
 .week:last-child{border-bottom:none;}
-.day{border-right:1px solid var(--bd);padding:3px 4px;overflow:hidden;}
+.day{border-right:1px solid var(--bd);padding:3px 4px;}
 .day:last-child{border-right:none;}
 .day.other .dn{color:#d1d5db;}
 .day.weekend{background:rgba(0,0,0,.013);}
@@ -160,7 +160,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 
 @media(max-width:680px){
   .hdr,.toolbar,.lgnd,.cal-wrap,.no-evts,.status{padding-left:10px;padding-right:10px;}
-  .hdr h1{font-size:17px;} .week{min-height:70px;} .ev .et{display:none;}
+  .hdr h1{font-size:17px;}  .ev .et{display:none;}
   .mlbl{font-size:12px;min-width:110px;}
 }
 </style>
@@ -360,8 +360,7 @@ function render(){
       var dn=document.createElement('div');dn.className='dn';dn.textContent=cd;cell.appendChild(dn);
 
       var devs=onDate(cy,cm,cd);
-      var MAX=4;
-      devs.slice(0,MAX).forEach(function(ev){
+      devs.forEach(function(ev){
         var c2=cat(ev.title,ev.source);
         var pill=document.createElement('div');pill.className='ev '+c2;
         var dot=document.createElement('span');dot.className='sd';dot.style.background=srcDot(ev.source);
@@ -371,12 +370,7 @@ function render(){
         pill.addEventListener('click',function(e){e.stopPropagation();openPop(ev);});
         cell.appendChild(pill);
       });
-      if(devs.length>MAX){
-        var more=document.createElement('div');more.className='more';
-        more.textContent='+'+(devs.length-MAX)+' more';
-        (function(evs){more.addEventListener('click',function(e){e.stopPropagation();openPop(evs[MAX]);});})(devs);
-        cell.appendChild(more);
-      }
+
       wr.appendChild(cell);day++;
     }
     weeks.appendChild(wr);
