@@ -223,7 +223,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 
 <div class="status">
   <span id="evCount"></span>
-  <span id="dataStatus">Embedded data from calendar.html</span>
+  <span id="dataStatus">Showing all events (Feb&#8211;Aug 2026) &#8211; navigate months to explore</span>
 </div>
 
 <div class="overlay" id="overlay">
@@ -415,7 +415,7 @@ document.querySelectorAll('.cpill').forEach(function(pill){
 /* &#9472;&#9472; Nav &#9472;&#9472; */
 document.getElementById('prevBtn').addEventListener('click',function(){vM--;if(vM<0){vM=11;vY--;}render();});
 document.getElementById('nextBtn').addEventListener('click',function(){vM++;if(vM>11){vM=0;vY++;}render();});
-document.getElementById('todayBtn').addEventListener('click',function(){var t=new Date();vY=t.getFullYear();vM=t.getMonth();render();});
+document.getElementById('todayBtn').addEventListener('click',function(){var bm=bestStartMonth();vY=bm.y;vM=bm.m;render();});
 
 /* &#9472;&#9472; Copy URL &#9472;&#9472; */
 document.getElementById('copyBtn').addEventListener('click',function(){
@@ -426,21 +426,53 @@ document.getElementById('copyBtn').addEventListener('click',function(){
   });
 });
 
-/* &#9472;&#9472; Boot &#9472;&#9472; */
-var t=new Date();vY=t.getFullYear();vM=t.getMonth();
+/* -- Boot -- */
+function bestStartMonth(){
+  // Open on the month with the most events.
+  // If there's a tie or close call, prefer upcoming months.
+  var today=new Date();
+  var todayKey=today.getFullYear()+'-'+String(today.getMonth()+1).padStart(2,'0');
+  var counts={};
+  ALL.forEach(function(e){
+    var key=e.date.slice(0,7);
+    counts[key]=(counts[key]||0)+1;
+  });
+  var bestKey=null,bestCount=0;
+  Object.keys(counts).forEach(function(k){
+    // Give a small bonus to upcoming/current months so they win ties
+    var bonus=(k>=todayKey)?2:0;
+    if(counts[k]+bonus>bestCount){
+      bestCount=counts[k]+bonus;
+      bestKey=k;
+    }
+  });
+  if(!bestKey){
+    var t=new Date();
+    return {y:t.getFullYear(),m:t.getMonth()};
+  }
+  var p=bestKey.split('-');
+  return {y:+p[0],m:+p[1]-1};
+}
+
+var _t=new Date();vY=_t.getFullYear();vM=_t.getMonth();
+
+function startCalendar(eventsArray){
+  if(eventsArray&&eventsArray.length>0) ALL=eventsArray;
+  var bm=bestStartMonth();
+  vY=bm.y;vM=bm.m;
+  render();
+}
+
 // Try live data/events.json, fall back to embedded ALL
 fetch('data/events.json?ts='+Date.now())
   .then(function(r){if(!r.ok)throw new Error();return r.json();})
   .then(function(d){
     var evs=d.events||d||[];
-    if(evs.length>0){
-      ALL=evs;
-      var u=d.updated?new Date(d.updated).toLocaleString('en-US',{dateStyle:'medium',timeStyle:'short'}):'';
-      document.getElementById('dataStatus').textContent=u?'Updated: '+u:'Live data loaded';
-    }
-    render();
+    var u=d.updated?new Date(d.updated).toLocaleString('en-US',{dateStyle:'medium',timeStyle:'short'}):'';
+    if(u)document.getElementById('dataStatus').textContent='Updated: '+u;
+    startCalendar(evs.length>0?evs:null);
   })
-  .catch(function(){render();});
+  .catch(function(){startCalendar(null);});
 </script>
 </body>
 </html>
