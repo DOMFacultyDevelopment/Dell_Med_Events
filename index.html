@@ -221,6 +221,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
   </div>
 </div>
 
+<div id="upcoming-wrap" style="display:none;background:#fff;border-top:1px solid var(--bd);padding:16px 20px;">
+  <div style="font-size:13px;font-weight:700;color:var(--mu);margin-bottom:10px;text-transform:uppercase;letter-spacing:.5px;">
+    No events this month &mdash; Next upcoming events:
+  </div>
+  <ul id="upcoming-list" style="list-style:none;display:flex;flex-direction:column;gap:8px;"></ul>
+</div>
 <div class="status">
   <span id="evCount"></span>
   <span id="dataStatus">Showing all events (Feb&#8211;Aug 2026) &#8211; navigate months to explore</span>
@@ -370,7 +376,10 @@ function render(){
   }
   document.getElementById('evCount').textContent=
     mEvs.length+' event'+(mEvs.length!==1?'s':'')+' in '+MNS[m]+' '+y+
-    ' &#183; '+vis.length+' total visible';
+    ' &#183; '+vis.length+' total across all months';
+
+  // If no events this month, show upcoming list below
+  renderUpcoming(vis);
 }
 
 /* &#9472;&#9472; Popover &#9472;&#9472; */
@@ -428,11 +437,10 @@ document.getElementById('copyBtn').addEventListener('click',function(){
 
 /* -- Boot -- */
 function bestStartMonth(){
-  // Open on the month with the most events.
-  // If there's a tie or close call, prefer upcoming months.
-  var today=new Date();
-  var todayKey=today.getFullYear()+'-'+String(today.getMonth()+1).padStart(2,'0');
-  var counts={};
+  // Always open on the current month so users see today's events
+  var t=new Date();
+  return {y:t.getFullYear(),m:t.getMonth()};
+};
   ALL.forEach(function(e){
     var key=e.date.slice(0,7);
     counts[key]=(counts[key]||0)+1;
@@ -473,6 +481,34 @@ fetch('data/events.json?ts='+Date.now())
     startCalendar(evs.length>0?evs:null);
   })
   .catch(function(){startCalendar(null);});
+
+function renderUpcoming(vis){
+  var wrap=document.getElementById('upcoming-wrap');
+  var list=document.getElementById('upcoming-list');
+  if(!wrap||!list) return;
+  var today=new Date().toISOString().slice(0,10);
+  var upcoming=vis.filter(function(e){return (e.start||e.date||'')>=today;})
+    .sort(function(a,b){return (a.start||a.date||'').localeCompare(b.start||b.date||'');})
+    .slice(0,10);
+  var curMonthPfx=vY+'-'+String(vM+1).padStart(2,'0');
+  var thisMonth=vis.filter(function(e){return (e.date||'').startsWith(curMonthPfx);});
+  if(thisMonth.length>0){wrap.style.display='none';return;}
+  if(upcoming.length===0){wrap.style.display='none';return;}
+  wrap.style.display='block';
+  var L={public:'Public',internal:'Internal',ut:'UT Austin'};
+  list.innerHTML=upcoming.map(function(e){
+    var c2=cat(e.title,e.source);
+    var tm=e.startTime?(e.endTime&&e.endTime!==e.startTime?' &#8211; '+e.endTime:''):'';
+    return '<li style="display:flex;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid var(--bd);">'
+      +'<div style="min-width:90px;font-size:12px;color:var(--mu);font-weight:600;">'+fmtShort(e.date)+'</div>'
+      +'<div style="min-width:80px;font-size:11px;color:var(--mu);">'+(e.startTime||'')+(tm)+'</div>'
+      +'<div style="flex:1;"><a href="'+esc(e.url)+'" target="_blank" rel="noopener" style="color:var(--tx);text-decoration:none;font-size:13px;font-weight:600;">'+esc(e.title)+'</a>'
+      +(e.location?'<div style="font-size:11px;color:var(--mu);margin-top:2px;">&#55357;&#56525; '+esc(e.location)+'</div>':'')
+      +'</div>'
+      +'<span style="font-size:10px;padding:2px 6px;border-radius:10px;white-space:nowrap;font-weight:700;background:#f5f3ff;color:#5b21b6;">'+c2+'</span>'
+      +'</li>';
+  }).join('');
+}
 </script>
 </body>
 </html>
