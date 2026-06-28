@@ -1,81 +1,11 @@
 {
-  "updated": "2026-06-27T19:26:19.313822+00:00",
+  "updated": "2026-06-28T09:16:28.466915+00:00",
   "counts": {
     "public": 9,
     "internal": 220,
-    "ut": 1558
+    "ut": 1548
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-06-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-06-27",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-06-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Dav\u00edd Garza Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/david-garza-live-at-the-cactus-cafe",
-      "start": "2026-06-27",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-06-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-06-27",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-06-27",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-06-27",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-06-27",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-06-27",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "Canon Internships/Full-Time Opportunities",
