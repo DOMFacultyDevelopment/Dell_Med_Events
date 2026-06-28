@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-28T09:16:28.466915+00:00",
+  "updated": "2026-06-28T19:26:49.267224+00:00",
   "counts": {
     "public": 9,
     "internal": 220,
-    "ut": 1548
+    "ut": 1549
   },
   "events": [
     {
@@ -265,6 +265,13 @@
       "source": "ut",
       "title": "Fall 2026 LIFT Consulting Application",
       "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
+      "start": "2026-06-30",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Graphic Design Certificate Program Information Session",
+      "url": "https://calendar.utexas.edu/event/graphic-design-certificate-program-information-session",
       "start": "2026-06-30",
       "location": null
     },
