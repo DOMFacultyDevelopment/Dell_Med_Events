@@ -347,6 +347,55 @@ def build_ics(events):
     return "\r\n".join(out) + "\r\n"
 
 
+
+
+# ---------- Rebuild index.html with embedded events ----------
+
+def build_index_html(events, updated):
+    """
+    Reads index.html from the repo root and replaces the embedded ALL=
+    array with fresh event data. This makes the page work in SharePoint
+    iframes and other contexts where fetch() is blocked or uses the wrong
+    base URL.
+    """
+    import json as _json
+    index_path = ROOT / "index.html"
+    if not index_path.exists():
+        print("WARN: index.html not found, skipping embed", file=sys.stderr)
+        return
+
+    html = index_path.read_text(encoding="utf-8")
+
+    # Encode events safely for embedding in a <script> block
+    def clean(o):
+        if isinstance(o, str):
+            return o.replace("</script>", "<\\/script>")
+        if isinstance(o, dict):
+            return {k: clean(v) for k, v in o.items()}
+        if isinstance(o, list):
+            return [clean(i) for i in o]
+        return o
+
+    events_js = _json.dumps(clean(events), ensure_ascii=False, separators=(",", ":"))
+
+    # Replace the var ALL=...;  line (handles both empty [] and previously embedded data)
+    import re as _re
+    # Match var ALL= followed by any JSON array (including large multi-line ones)
+    # Use a non-greedy match anchored at ;
+    new_html = _re.sub(
+        r"var ALL=\[.*?\](?:\s*;|(?=\s*/\*))",
+        f"var ALL={events_js};",
+        html,
+        count=1,
+        flags=_re.DOTALL,
+    )
+
+    if new_html == html:
+        print("WARN: could not find var ALL= in index.html to replace", file=sys.stderr)
+    else:
+        index_path.write_text(new_html, encoding="utf-8")
+        print(f"Updated index.html with {len(events)} embedded events", file=sys.stderr)
+
 # ---------- Main ----------
 
 def main():
@@ -381,6 +430,9 @@ def main():
     ics = build_ics(all_events)
     OUT_ICS.write_text(ics)
     print(f"Wrote {OUT_ICS}", file=sys.stderr)
+
+    # Embed events into index.html so it works in SharePoint iframes
+    build_index_html(all_events, payload["updated"])
 
 
 if __name__ == "__main__":
