@@ -1,88 +1,11 @@
 {
-  "updated": "2026-06-28T19:26:49.267224+00:00",
+  "updated": "2026-06-29T11:07:46.501035+00:00",
   "counts": {
     "public": 9,
     "internal": 220,
-    "ut": 1549
+    "ut": 1538
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-06-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-06-28",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-06-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-06-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "H-E-B Free Fourth Sunday",
-      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
-      "start": "2026-06-28",
-      "location": "Texas Science & Natural History Museum"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-06-28",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-06-28",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Other Voices: A Tribute to the Songs of Nanci Griffith",
-      "url": "https://calendar.utexas.edu/event/other-voices-a-tribute-to-the-songs-of-nanci-griffith",
-      "start": "2026-06-28",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-06-28",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-06-28",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-06-28",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -1548,7 +1471,7 @@
       "title": "CPAN Series: ADHD Part 1: Uncomplicated ADHD",
       "url": "https://dellmed.utexas.edu/events/cpan-adhd-uncomplicated-adhd",
       "start": "2026-07-14",
-      "time": "6\u20131 p.m.",
+      "time": "12\u20131 p.m.",
       "location": "Virtual",
       "speaker": "Andrew Harper, M.D."
     },
