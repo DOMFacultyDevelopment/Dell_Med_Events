@@ -1,116 +1,11 @@
 {
-  "updated": "2026-06-29T22:15:58.056265+00:00",
+  "updated": "2026-06-30T09:45:54.880582+00:00",
   "counts": {
     "public": 9,
     "internal": 220,
-    "ut": 1538
+    "ut": 1588
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
-      "start": "2026-06-29",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Canon Internships/Full-Time Opportunities",
-      "url": "https://calendar.utexas.edu/event/canon-internshipsfull-time-opportunities",
-      "start": "2026-06-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-06-29",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-06-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Concept Integration in Comparative Law Interest Group Meeting",
-      "url": "https://calendar.utexas.edu/event/concept-integration-in-comparative-law-interest-group-meeting",
-      "start": "2026-06-29",
-      "location": "ICON-S Annual Conference\\, Dublin\\, Ireland \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Constitutional Safeguards against Autocratization",
-      "url": "https://calendar.utexas.edu/event/constitutional-safeguards-against-autocratization",
-      "start": "2026-06-29",
-      "location": "ICON-S Annual Conference\\, Dublin\\, Ireland \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-06-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-06-29",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Institutional Independence as a Bulwark against Autocratization",
-      "url": "https://calendar.utexas.edu/event/institutional-independence-as-a-bulwark-against-autocratization",
-      "start": "2026-06-29",
-      "location": "ICON-S Annual Conference\\, Dublin\\, Ireland \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-06-29",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-06-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-06-29",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "What's Cookin'? PCL 5th Floor Display",
-      "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
-      "start": "2026-06-29",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, 5th Floor"
-    },
-    {
-      "source": "ut",
-      "title": "Wheelchair/Adaptive Tennis and Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-06-29",
-      "location": "Whitaker Courts"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-06-29",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -242,6 +137,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-06-30",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-06-30",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -384,6 +286,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-01",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "What's Cookin'? PCL 5th Floor Display",
       "url": "https://calendar.utexas.edu/event/whats-cookin-pcl-5th-floor-display",
       "start": "2026-07-01",
@@ -487,6 +396,13 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-02",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/02",
@@ -578,6 +494,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-03",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "The Magnolia Brothers Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/the-magnolia-brothers-live-at-the-cactus-cafe",
       "start": "2026-07-03",
@@ -655,6 +578,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-04",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-04",
@@ -718,6 +648,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-05",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-05",
@@ -778,6 +715,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-06",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-06",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -872,6 +816,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-07",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-07",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -1007,6 +958,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-08",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-08",
@@ -1105,6 +1063,13 @@
       "url": "https://calendar.utexas.edu/event/secret-service-showcase-presented-by-daily-austin-music",
       "start": "2026-07-09",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-09",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "internal",
@@ -1230,6 +1195,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-10",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer 2026 Information Session: External Transfer",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
       "start": "2026-07-10",
@@ -1307,6 +1279,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-11",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-11",
@@ -1370,6 +1349,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-12",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-12",
@@ -1430,6 +1416,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-13",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-13",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -1571,6 +1564,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-14",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-14",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -1730,6 +1730,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-15",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Wellness and Benefits Fair + UT FIRST",
       "url": "https://calendar.utexas.edu/event/wellness-and-benefits-fair-ut-first",
       "start": "2026-07-15",
@@ -1843,6 +1850,13 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-16",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/16",
@@ -1941,6 +1955,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-17",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "TAMALES",
       "url": "https://calendar.utexas.edu/event/tamales",
       "start": "2026-07-17",
@@ -2018,6 +2039,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-18",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Ukemi Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ukemi-live-at-the-cactus-cafe",
       "start": "2026-07-18",
@@ -2088,6 +2116,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-19",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-19",
@@ -2155,6 +2190,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-20",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-20",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2256,6 +2298,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-21",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-21",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2395,6 +2444,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-22",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-07-23",
@@ -2479,6 +2535,13 @@
       "url": "https://calendar.utexas.edu/event/shrm-certification-prep-program-information-session",
       "start": "2026-07-23",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-23",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2576,6 +2639,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-24",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-07-24",
@@ -2629,6 +2699,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-25",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-25",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2702,6 +2779,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-26",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-07-26",
@@ -2762,6 +2846,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-27",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2875,6 +2966,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-28",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-28",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3003,6 +3101,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-29",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-07-30",
@@ -3108,6 +3213,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-30",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer 2026 Information Session: External Transfer",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
       "start": "2026-07-30",
@@ -3198,6 +3310,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-07-31",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer 2026 Information Session: External Transfer",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
       "start": "2026-07-31",
@@ -3254,6 +3373,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-01",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer Stock Austin 2026 - Newsies",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-01",
@@ -3300,6 +3426,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-02",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-02",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3356,6 +3489,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-03",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-03",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3429,6 +3569,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-04",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-04",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3543,6 +3690,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-05",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer Stock Austin 2026 - Newsies",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-05",
@@ -3630,6 +3784,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-06",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-06",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3733,6 +3894,13 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-07",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
       "source": "public",
       "title": "Suicide Prevention Training for Pediatric Health Clinicians: SAFETY-A Level 2",
       "url": "https://dellmed.utexas.edu/events/suicide-prevention-training-for-pediatric-health-clinicians-safety-a-level-2-080726",
@@ -3791,6 +3959,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-08",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-08-08",
@@ -3837,6 +4012,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-09",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3909,6 +4091,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-10",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-10",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3985,6 +4174,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-11",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-11",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4092,6 +4288,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-12",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
       "start": "2026-08-13",
@@ -4155,6 +4358,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-13",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-13",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "internal",
@@ -4227,6 +4437,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-14",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-15",
@@ -4262,6 +4479,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-15",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-16",
@@ -4280,6 +4504,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-16",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-16",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4308,6 +4539,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-17",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-17",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4374,6 +4612,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-18",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-18",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4474,6 +4719,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-19",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Instructor Candidate Course",
       "url": "https://calendar.utexas.edu/event/aha-bls-instructor-candidate-course-2916",
       "start": "2026-08-20",
@@ -4555,6 +4807,13 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-20",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/20",
@@ -4622,6 +4881,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-21",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-22",
@@ -4647,6 +4913,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-22",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-22",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4699,6 +4972,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-23",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-24",
@@ -4717,6 +4997,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-24",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-24",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4779,6 +5066,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-25",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-25",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "internal",
@@ -4850,6 +5144,20 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-26",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
+      "title": "UT Real Estate Center Open House",
+      "url": "https://calendar.utexas.edu/event/ut-real-estate-center-open-house",
+      "start": "2026-08-26",
+      "location": null
+    },
+    {
       "source": "public",
       "title": "AMPATH/MAPAS M\u00e9xico Monthly Seminar: Gerontology",
       "url": "https://dellmed.utexas.edu/events/ampath-mapas-m\u00e9xico-monthly-seminar-gerontology",
@@ -4894,6 +5202,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-27",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "internal",
@@ -4973,6 +5288,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-28",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "TIW Fab Friday Design Party \u2013 Try It",
       "url": "https://calendar.utexas.edu/event/tiw-fab-friday-design-party-try-it",
       "start": "2026-08-28",
@@ -5005,6 +5327,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-29",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-29",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -5043,6 +5372,13 @@
     },
     {
       "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-30",
+      "location": "L. Theo Bellmont Hall (BEL)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs Nebraska",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-nebraska",
       "start": "2026-08-30",
@@ -5068,6 +5404,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-31",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sleep and Glucose in Diabetes Research Study",
+      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
+      "start": "2026-08-31",
+      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -7517,6 +7860,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-florida",
       "start": "2026-10-18",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
+    },
+    {
+      "source": "ut",
+      "title": "ASES Solar 2026: 55th Annual National Solar Conference",
+      "url": "https://calendar.utexas.edu/event/ases-solar-2026-55th-annual-national-solar-conference",
+      "start": "2026-10-19",
+      "location": "Palmer Events Center\\, n/a"
     },
     {
       "source": "ut",
