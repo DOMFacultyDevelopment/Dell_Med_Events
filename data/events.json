@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-02T09:18:54.030656+00:00",
+  "updated": "2026-07-02T19:36:18.360538+00:00",
   "counts": {
     "public": 9,
     "internal": 216,
-    "ut": 1580
+    "ut": 1583
   },
   "events": [
     {
@@ -3046,6 +3046,13 @@
     },
     {
       "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-6398",
+      "start": "2026-07-31",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-01",
@@ -4101,6 +4108,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-13",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SHRM Certification Prep+ Program",
+      "url": "https://calendar.utexas.edu/event/shrm-certification-prep-program",
+      "start": "2026-08-13",
+      "location": null
     },
     {
       "source": "ut",
@@ -6309,6 +6323,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Energize UT 2026",
+      "url": "https://calendar.utexas.edu/event/energize-ut-2026",
+      "start": "2026-09-22",
+      "location": null
     },
     {
       "source": "ut",
