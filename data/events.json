@@ -1,105 +1,11 @@
 {
-  "updated": "2026-07-03T19:35:03.671434+00:00",
+  "updated": "2026-07-04T08:42:42.716013+00:00",
   "counts": {
     "public": 9,
-    "internal": 213,
-    "ut": 1573
+    "internal": 212,
+    "ut": 1567
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-03",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-07-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-03",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-03",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/03",
-      "start": "2026-07-03",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-03",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-03",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
-      "title": "The Magnolia Brothers Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/the-magnolia-brothers-live-at-the-cactus-cafe",
-      "start": "2026-07-03",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-03",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "Career Storytelling Workshop",
@@ -765,6 +671,13 @@
       "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
       "start": "2026-07-10",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Postdoc Summer Social",
+      "url": "https://calendar.utexas.edu/event/postdoc-summer-social",
+      "start": "2026-07-10",
+      "location": "Texas Union Santa Rita Suite"
     },
     {
       "source": "ut",
@@ -5855,6 +5768,13 @@
     },
     {
       "source": "ut",
+      "title": "UT System Postdoctoral Research Symposium: Success in a Dynamic Research Landscape",
+      "url": "https://calendar.utexas.edu/event/ut-system-postdoctoral-research-symposium-success-in-a-dynamic-research-landscape",
+      "start": "2026-09-14",
+      "location": "Texas Union Santa Rita Suite"
+    },
+    {
+      "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2026-09-15",
@@ -7024,10 +6944,24 @@
     },
     {
       "source": "ut",
+      "title": "Global Solar Power + Energy Storage Forum 2026",
+      "url": "https://calendar.utexas.edu/event/global-solar-power-energy-storage-forum-2026",
+      "start": "2026-10-07",
+      "location": "San Jacinto Hall"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Hydrogen Day 2026",
+      "url": "https://calendar.utexas.edu/event/hydrogen-day-2026",
+      "start": "2026-10-07",
+      "location": null
     },
     {
       "source": "internal",
@@ -7094,6 +7028,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Hydrogen Day 2026",
+      "url": "https://calendar.utexas.edu/event/hydrogen-day-2026",
+      "start": "2026-10-08",
+      "location": null
     },
     {
       "source": "internal",
@@ -12333,6 +12274,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-02-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-02-23",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
