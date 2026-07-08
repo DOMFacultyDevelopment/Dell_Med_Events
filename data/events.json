@@ -1,129 +1,11 @@
 {
-  "updated": "2026-07-07T20:01:17.709396+00:00",
+  "updated": "2026-07-08T08:35:01.508541+00:00",
   "counts": {
     "public": 9,
-    "internal": 212,
-    "ut": 1535
+    "internal": 210,
+    "ut": 1524
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-07",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-07-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Disability in the News",
-      "url": "https://calendar.utexas.edu/event/disability-in-the-news-52",
-      "start": "2026-07-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-07-07",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/07",
-      "start": "2026-07-07",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-07",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-07",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-07",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-07",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer 2026 Information Session: Prospective Freshman",
-      "url": "https://calendar.utexas.edu/event/summer-2026-information-session-prospective-freshman",
-      "start": "2026-07-07",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Storytime 2026",
-      "url": "https://calendar.utexas.edu/event/summer-storytime-2026",
-      "start": "2026-07-07",
-      "location": "Blanton Museum of Art (BMA)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/07",
-      "start": "2026-07-07",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-07",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -5991,6 +5873,13 @@
     },
     {
       "source": "ut",
+      "title": "Finding Your True North: Charting Your Path to Wellness Through Values Alignment",
+      "url": "https://calendar.utexas.edu/event/finding-your-true-north-charting-your-path-to-wellness-through-values-alignment-6739",
+      "start": "2026-09-23",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-23",
@@ -6748,6 +6637,13 @@
       "location": "Hybrid: HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Nourishing Yourself in a Burned Out World",
+      "url": "https://calendar.utexas.edu/event/nourishing-yourself-in-a-burned-out-world",
+      "start": "2026-10-07",
+      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -12133,6 +12029,13 @@
       "url": "https://calendar.utexas.edu/event/talk-bryan-kirschen-on-ladino-in-the-americas",
       "start": "2027-02-24",
       "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2027-02-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
