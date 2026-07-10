@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T09:41:40.134485+00:00",
+  "updated": "2026-07-10T19:38:09.065177+00:00",
   "counts": {
     "public": 9,
     "internal": 207,
@@ -5495,17 +5495,17 @@
     },
     {
       "source": "ut",
-      "title": "On the Altar: A History of Sacrifice from the Sacred to the Secular",
-      "url": "https://calendar.utexas.edu/event/on-the-altar-a-history-of-sacrifice-from-the-sacred-to-the-secular",
-      "start": "2026-09-10",
-      "location": "Eastwoods Room (UNB 2.102\\, Texas Union)\\, UNB 2.102"
-    },
-    {
-      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-10",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sacrifice and the Western Imagination: From the Crucifixion to the Age of Anthropology",
+      "url": "https://calendar.utexas.edu/event/on-the-altar-a-history-of-sacrifice-from-the-sacred-to-the-secular",
+      "start": "2026-09-10",
+      "location": "Eastwoods Room (UNB 2.102\\, Texas Union)\\, UNB 2.102"
     },
     {
       "source": "internal",
