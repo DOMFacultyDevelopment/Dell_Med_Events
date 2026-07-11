@@ -1,151 +1,11 @@
 {
-  "updated": "2026-07-10T19:38:09.065177+00:00",
+  "updated": "2026-07-11T08:02:02.675076+00:00",
   "counts": {
     "public": 9,
     "internal": 207,
-    "ut": 1764
+    "ut": 1747
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-5669",
-      "start": "2026-07-10",
-      "location": "Nursing School (NUR)\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
-      "start": "2026-07-10",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-10",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Goodman Presents: of towns and cities",
-      "url": "https://calendar.utexas.edu/event/ben-goodman-presents-of-towns-and-cities",
-      "start": "2026-07-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Goodman&#039\\;s Extra Special Jazz Extravaganza!",
-      "url": "https://calendar.utexas.edu/event/ben-goodman039s-extra-special-jazz-extravaganza",
-      "start": "2026-07-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-07-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-10",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "McCombs+ Partner Info Session",
-      "url": "https://calendar.utexas.edu/event/mccombs-partner-info-session-1881",
-      "start": "2026-07-10",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-10",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc Summer Social",
-      "url": "https://calendar.utexas.edu/event/postdoc-summer-social",
-      "start": "2026-07-10",
-      "location": "Texas Union Santa Rita Suite"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-10",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Service Dog Meet-Ups",
-      "url": "https://calendar.utexas.edu/event/service-dog-meet-ups-5445",
-      "start": "2026-07-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-10",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer 2026 Information Session: External Transfer",
-      "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
-      "start": "2026-07-10",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-10",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "Career Storytelling Workshop",
@@ -1269,6 +1129,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-21",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "CONNECT: Masters\\, PhD\\, and Postdoc Information Session",
+      "url": "https://calendar.utexas.edu/event/connect-masters-phd-and-postdoc-information-session-6030",
+      "start": "2026-07-21",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -3786,6 +3653,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-15",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Matthew Payne Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/matthew-payne-live-at-the-cactus-cafe",
+      "start": "2026-08-15",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -13724,6 +13598,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-03-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-03-02",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
