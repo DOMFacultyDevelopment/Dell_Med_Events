@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T08:13:36.746888+00:00",
+  "updated": "2026-07-14T19:24:39.373776+00:00",
   "counts": {
     "public": 9,
     "internal": 207,
@@ -7796,13 +7796,6 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
-      "source": "ut",
-      "title": "TBD",
-      "url": "https://calendar.utexas.edu/event/tbd",
-      "start": "2026-10-22",
-      "location": "Eastwoods Room (UNB 2.102\\, Texas Union)\\, UNB 2.102"
-    },
-    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/22",
@@ -7811,6 +7804,13 @@
       "location": "Virtual (Teams)",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "The History of Western Philosophy: Foundations",
+      "url": "https://calendar.utexas.edu/event/tbd",
+      "start": "2026-10-22",
+      "location": "Eastwoods Room (UNB 2.102\\, Texas Union)\\, UNB 2.102"
     },
     {
       "source": "ut",
