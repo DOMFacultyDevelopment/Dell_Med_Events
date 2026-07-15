@@ -174,6 +174,11 @@
     color: var(--text-dark);
     white-space: nowrap;
   }
+  .event-item .ev-loc {
+    font-size: 10px;
+    color: var(--text-mid);
+    white-space: nowrap;
+  }
   .event-item .ev-cat {
     font-size: 9px;
     font-weight: 700;
@@ -286,6 +291,15 @@ function togglePause() {
 }
 
 /* ── Date helpers ── */
+
+// Format ISO date string (YYYY-MM-DD) → "Jul 15"
+function fmtISODate(iso) {
+  if (!iso) return '';
+  const [y, m, d] = iso.split('-').map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+// Format RSS pubDate string → "Jul 15"
 function fmtDate(d) {
   if (!d) return '';
   const dt = new Date(d);
@@ -299,21 +313,36 @@ function fmtTime(d) {
   return dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
 }
 
+// Returns true if ISO date string is today or in the future
+function isFutureOrToday(iso) {
+  if (!iso) return true;
+  const [y, m, d] = iso.split('-').map(Number);
+  const evDate = new Date(y, m - 1, d);
+  const today  = new Date();
+  today.setHours(0, 0, 0, 0);
+  return evDate >= today;
+}
+
 /* ── Render a track with event items ── */
 function renderTrack(trackId, events, speed, fallbackUrl) {
   const track = document.getElementById(trackId);
   if (!events || events.length === 0) {
-    track.innerHTML = `<span class="event-item error"><span class="dot"></span><span class="ev-title">No events found</span></span>`;
+    track.innerHTML = `<span class="event-item error"><span class="dot"></span><span class="ev-title">No upcoming events</span></span>`;
     return;
   }
 
   const makeItem = (ev) => {
-    const href = ev.url || fallbackUrl;
-    return `<a class="event-item" href="${href}" target="_blank" rel="noopener noreferrer">
+    const href     = ev.url || fallbackUrl;
+    const dateStr  = ev.isoDate ? fmtISODate(ev.isoDate) : ev.date;
+    const timeStr  = ev.time || '';
+    const locStr   = ev.location ? ` · ${ev.location}` : '';
+    return `<a class="event-item" href="${href}" target="_blank" rel="noopener noreferrer" title="${ev.title}${locStr}">
       <span class="dot"></span>
-      <span class="ev-date">${ev.date}</span>
-      ${ev.time ? `<span class="ev-time">${ev.time}</span>` : ''}
+      <span class="ev-date">${dateStr}</span>
+      ${timeStr ? `<span class="ev-time">${timeStr}</span>` : ''}
       <span class="ev-title">${ev.title}</span>
+      ${ev.location ? `<span class="ev-loc">📍 ${ev.location}</span>` : ''}
+      ${ev.speaker  ? `<span class="ev-loc">🎤 ${ev.speaker}</span>`  : ''}
       ${ev.category ? `<span class="ev-cat">${ev.category}</span>` : ''}
     </a>`;
   };
@@ -322,12 +351,10 @@ function renderTrack(trackId, events, speed, fallbackUrl) {
   const html = events.map(makeItem).join('') + events.map(makeItem).join('');
   track.innerHTML = html;
 
-  // Measure content width (half of doubled items), set pixel-perfect animation
   requestAnimationFrame(() => {
-    // scrollWidth includes padding-left; the content half-width is what we loop over
-    const labelW = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--label-w'));
+    const labelW   = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--label-w'));
     const contentW = (track.scrollWidth - labelW) / 2;
-    const styleId = `kf-${trackId}`;
+    const styleId  = `kf-${trackId}`;
     let el = document.getElementById(styleId);
     if (!el) { el = document.createElement('style'); el.id = styleId; document.head.appendChild(el); }
     el.textContent = `
@@ -340,23 +367,38 @@ function renderTrack(trackId, events, speed, fallbackUrl) {
   });
 }
 
-/* ── Fetch events via CORS proxy → RSS/iCal ── */
-// We use a CORS-friendly approach: try the existing GitHub Pages
-// data endpoint that the original ticker already uses.
-// The original ticker pulls from calendar.html embedded data;
-// we mirror that approach with a JSON proxy fallback.
+/* ── Load internal events from data/internal-events.json ── */
+// Schema: { "events": [ { title, start (YYYY-MM-DD), time, location, url, ... } ] }
+// File lives at data/internal-events.json in the GitHub repo root.
+async function loadInternalJSON() {
+  try {
+    const res = await fetch('./data/internal-events.json');
+    if (!res.ok) throw new Error('not found');
+    const json = await res.json();
+    const all = json.events || json; // handle both wrapped and bare array
+    // Filter to today-or-future, sort ascending by start date
+    return all
+      .filter(e => isFutureOrToday(e.start || e.date))
+      .sort((a, b) => (a.start || a.date || '').localeCompare(b.start || b.date || ''))
+      .map(e => ({
+        title:    e.title,
+        isoDate:  e.start || e.date,
+        time:     e.time     || '',
+        location: e.location || '',
+        speaker:  e.speaker  || '',
+        category: e.category || '',
+        url:      e.url      || SOURCES.internal.url,
+      }));
+  } catch (_) { return null; }
+}
 
+/* ── Fetch events via CORS proxy → RSS/iCal ── */
 async function loadFromCalendarPage(sourceKey) {
-  // Attempt to fetch the main calendar page's embedded JSON data
-  // which is already being served by the GitHub Pages site.
   const calUrl = 'https://domfacultydevelopment.github.io/Dell_Med_Events/calendar.html';
   try {
     const res = await fetch(calUrl, { mode: 'cors' });
     if (!res.ok) throw new Error('fetch failed');
     const text = await res.text();
-
-    // The calendar page embeds event data in a <script> block or JSON island.
-    // Parse whichever pattern is present.
     const jsonMatch = text.match(/window\.__EVENTS__\s*=\s*(\[[\s\S]*?\]);/) ||
                       text.match(/const events\s*=\s*(\[[\s\S]*?\]);/) ||
                       text.match(/var events\s*=\s*(\[[\s\S]*?\]);/);
@@ -369,41 +411,33 @@ async function loadFromCalendarPage(sourceKey) {
 }
 
 async function loadFromRSS(url) {
-  // Use a public RSS-to-JSON proxy to pull calendar data
   const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url + '/rss')}`;
   try {
-    const res = await fetch(proxyUrl);
+    const res  = await fetch(proxyUrl);
     const data = await res.json();
     if (data.status === 'ok' && data.items?.length) {
       return data.items.slice(0, 20).map(item => ({
-        title: item.title,
-        date:  fmtDate(item.pubDate),
-        time:  fmtTime(item.pubDate),
+        title:    item.title,
+        date:     fmtDate(item.pubDate),
+        time:     fmtTime(item.pubDate),
         category: item.categories?.[0] || '',
+        url:      item.link || '',
       }));
     }
   } catch (e) { /* fall through */ }
   return null;
 }
 
-// Fallback demo events so the ticker always shows something
+// Fallback demo events for public & UT rows only
 const DEMO_EVENTS = {
   public: [
-    { title: 'Grand Rounds: Cardiology Update',                date: 'Jul 16', time: '12:00 PM', category: 'CME',           url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Department of Medicine Town Hall',               date: 'Jul 17', time: '3:00 PM',  category: 'Operations',    url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Research Symposium — Translational Science',     date: 'Jul 18', time: '9:00 AM',  category: 'Research',      url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Clinical Excellence Lecture Series',             date: 'Jul 22', time: '12:00 PM', category: 'CME',           url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Minority Health & Health Equity Conference',     date: 'Jul 24', time: '8:00 AM',  category: 'CME',           url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Patient Safety Symposium',                       date: 'Jul 25', time: '1:00 PM',  category: 'Operations',    url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Dell Med Annual Awards Ceremony',                date: 'Aug 1',  time: '5:00 PM',  category: 'Faculty Dev',   url: 'https://dellmed.utexas.edu/events' },
-  ],
-  internal: [
-    { title: 'DOM Faculty Affairs Meeting',                    date: 'Jul 16', time: '8:00 AM',  category: 'Faculty Affairs', url: 'https://intranet.dellmed.utexas.edu/events' },
-    { title: 'Resident Mentorship Workshop',                   date: 'Jul 17', time: '11:00 AM', category: 'Faculty Dev',     url: 'https://intranet.dellmed.utexas.edu/events' },
-    { title: 'Intranet: Leadership Development Program',       date: 'Jul 19', time: '10:00 AM', category: 'Faculty Dev',     url: 'https://intranet.dellmed.utexas.edu/events' },
-    { title: 'Well-Being & Burnout Prevention Seminar',        date: 'Jul 21', time: '12:00 PM', category: 'Faculty Dev',     url: 'https://intranet.dellmed.utexas.edu/events' },
-    { title: 'DOM Operations Review',                          date: 'Jul 23', time: '2:00 PM',  category: 'Operations',      url: 'https://intranet.dellmed.utexas.edu/events' },
-    { title: 'AI in Medicine: Internal Workshop',              date: 'Jul 28', time: '9:00 AM',  category: 'Research',        url: 'https://intranet.dellmed.utexas.edu/events' },
+    { title: 'Grand Rounds: Cardiology Update',            date: 'Jul 16', time: '12:00 PM', category: 'CME',         url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Department of Medicine Town Hall',           date: 'Jul 17', time: '3:00 PM',  category: 'Operations',  url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Research Symposium — Translational Science', date: 'Jul 18', time: '9:00 AM',  category: 'Research',    url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Clinical Excellence Lecture Series',         date: 'Jul 22', time: '12:00 PM', category: 'CME',         url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Minority Health & Health Equity Conference', date: 'Jul 24', time: '8:00 AM',  category: 'CME',         url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Patient Safety Symposium',                   date: 'Jul 25', time: '1:00 PM',  category: 'Operations',  url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Dell Med Annual Awards Ceremony',            date: 'Aug 1',  time: '5:00 PM',  category: 'Faculty Dev', url: 'https://dellmed.utexas.edu/events' },
   ],
   ut: [
     { title: 'UT Austin: Health & Society Lecture',            date: 'Jul 15', time: '4:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
@@ -417,34 +451,42 @@ const DEMO_EVENTS = {
 
 /* ── Bootstrap ── */
 async function init() {
-  const tasks = [
-    { key: 'public',   trackId: 'track-public',   speed: 90,  fallbackUrl: SOURCES.public.url   },
-    { key: 'internal', trackId: 'track-internal', speed: 80,  fallbackUrl: SOURCES.internal.url },
-    { key: 'ut',       trackId: 'track-ut',       speed: 100, fallbackUrl: SOURCES.ut.url       },
-  ];
-
-  for (const { key, trackId, speed, fallbackUrl } of tasks) {
-    // Try live data first; fall back to demo
-    let events = null;
-
-    // Attempt 1: calendar page embedded data
-    try { events = await loadFromCalendarPage(key); } catch (_) {}
-
-    // Attempt 2: RSS for public and UT (intranet is behind auth)
-    if (!events && key !== 'internal') {
-      const rssUrl = key === 'ut'
-        ? 'https://calendar.utexas.edu/?school=austin'
-        : 'https://dellmed.utexas.edu/events';
-      try { events = await loadFromRSS(rssUrl); } catch (_) {}
-    }
-
-    // Fallback: demo data
-    if (!events || events.length === 0) {
-      events = DEMO_EVENTS[key];
-    }
-
-    renderTrack(trackId, events, speed, fallbackUrl);
+  // ── Public row ──
+  let publicEvents = null;
+  try { publicEvents = await loadFromCalendarPage('public'); } catch (_) {}
+  if (!publicEvents) {
+    try {
+      publicEvents = await loadFromRSS('https://dellmed.utexas.edu/events');
+    } catch (_) {}
   }
+  if (!publicEvents || publicEvents.length === 0) publicEvents = DEMO_EVENTS.public;
+  renderTrack('track-public', publicEvents, 90, SOURCES.public.url);
+
+  // ── Internal row — always loads from internal-events.json ──
+  let internalEvents = await loadInternalJSON();
+  if (!internalEvents || internalEvents.length === 0) {
+    // Last-resort fallback: link to intranet events page
+    internalEvents = [{
+      title:    'Visit the Dell Med Intranet for upcoming internal events',
+      date:     '',
+      time:     '',
+      location: '',
+      category: '',
+      url:      SOURCES.internal.url,
+    }];
+  }
+  renderTrack('track-internal', internalEvents, 80, SOURCES.internal.url);
+
+  // ── UT Austin row ──
+  let utEvents = null;
+  try { utEvents = await loadFromCalendarPage('ut'); } catch (_) {}
+  if (!utEvents) {
+    try {
+      utEvents = await loadFromRSS('https://calendar.utexas.edu/?school=austin');
+    } catch (_) {}
+  }
+  if (!utEvents || utEvents.length === 0) utEvents = DEMO_EVENTS.ut;
+  renderTrack('track-ut', utEvents, 100, SOURCES.ut.url);
 }
 
 init();
