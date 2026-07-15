@@ -1,423 +1,409 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Dell Med Events Ticker</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dell Med Events Calendar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    /* UT Austin official palette */
-    --burnt-orange: #bf5700;
-    --burnt-orange-dark: #9a4600;
-    --bg: #ffffff;
-    --panel-bg: #f8f6f3;       /* warm off-white for panels */
-    --ticker-bg: #faf7f2;      /* slightly warmer for the ticker bar */
-    --text: #1a1a1a;
-    --text-muted: #5f5f5f;
-    --border: #d9d6d1;
-    --border-light: #ebe8e3;
-    /* source-coded accents */
-    --public: #bf5700;          /* UT burnt orange */
-    --internal: #005f86;        /* UT secondary blue */
-    --ut: #333f48;              /* UT charcoal */
+    --orange:#BF5700; --od:#8C3E00; --ol:#FDF0E6;
+    --cream:#FDFAF6; --ch:#1A1A1A; --gray:#6B6B6B;
+    --border:#E5D8CC; --white:#FFFFFF;
+    --blue:#1a73e8; --blue-light:#EBF3FE;
   }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:'DM Sans',sans-serif;background:var(--cream);color:var(--ch);min-height:100vh;}
+
+  /* ── Header ── */
+  .hdr{background:var(--orange);position:relative;overflow:hidden;}
+  .hdr::before{content:'';position:absolute;top:-60px;right:-60px;width:300px;height:300px;border-radius:50%;background:rgba(255,255,255,0.06);}
+  .hi{max-width:1100px;margin:0 auto;padding:32px 24px 28px;position:relative;z-index:1;}
+  .eyebrow{font-size:0.7rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:rgba(255,255,255,0.65);margin-bottom:6px;}
+  .htitle{font-family:'Playfair Display',serif;font-size:clamp(1.6rem,3.5vw,2.4rem);font-weight:700;color:#fff;line-height:1.15;margin-bottom:8px;}
+  .hsub{font-size:0.88rem;color:rgba(255,255,255,0.72);font-weight:300;}
+  .hdr-links{margin-top:14px;display:flex;gap:12px;flex-wrap:wrap;}
+  .hdr-link{font-size:0.75rem;color:rgba(255,255,255,0.85);text-decoration:none;background:rgba(255,255,255,0.12);padding:5px 12px;border-radius:20px;border:1px solid rgba(255,255,255,0.2);transition:background 0.15s;}
+  .hdr-link:hover{background:rgba(255,255,255,0.22);}
+
+  /* ── ICS subscribe bar ── */
+  .sub-bar{background:var(--od);border-bottom:3px solid rgba(0,0,0,0.15);}
+  .sub-inner{max-width:1100px;margin:0 auto;padding:14px 24px;}
+  .sub-row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+  .sub-icon{width:32px;height:32px;background:rgba(255,255,255,0.15);border-radius:7px;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+  .sub-text{flex:1;min-width:180px;}
+  .sub-lbl{font-size:0.67rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:rgba(255,255,255,0.55);margin-bottom:2px;}
+  .sub-url{font-family:monospace;font-size:0.76rem;color:#fff;word-break:break-all;}
+  .copy-btn{background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.3);color:#fff;padding:7px 14px;border-radius:6px;font-size:0.75rem;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif;transition:background 0.2s;white-space:nowrap;}
+  .copy-btn:hover{background:rgba(255,255,255,0.25);}
+  .copy-btn.copied{background:rgba(127,219,138,0.3);border-color:#7FDB8A;}
+
+  /* ── Toolbar ── */
+  .toolbar{max-width:1100px;margin:0 auto;padding:18px 24px 0;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;}
+  .filters{display:flex;gap:6px;flex-wrap:wrap;}
+  .fb{padding:5px 14px;border-radius:20px;border:1px solid var(--border);background:var(--white);font-size:0.72rem;font-weight:500;cursor:pointer;font-family:'DM Sans',sans-serif;color:var(--gray);transition:all 0.15s;}
+  .fb.on{background:var(--orange);color:#fff;border-color:var(--orange);}
+  .fb.blue-btn.on{background:var(--blue);border-color:var(--blue);}
+  .right-tools{display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+  .legend{display:flex;gap:14px;align-items:center;flex-wrap:wrap;}
+  .leg-item{display:flex;align-items:center;gap:5px;font-size:0.7rem;color:var(--gray);}
+  .leg-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0;}
+  .leg-dot.internal{background:var(--ol);border:1px solid #E5C9A8;}
+  .leg-dot.public{background:var(--blue-light);border:1px solid #C5DCEF;}
+  .leg-dot.ut{background:#E8EDF1;border:1px solid #CBD3DA;}
+  .month-nav{display:flex;align-items:center;gap:10px;}
+  .nav-btn{background:none;border:1px solid var(--border);border-radius:6px;padding:5px 11px;cursor:pointer;font-size:0.82rem;color:var(--gray);font-family:'DM Sans',sans-serif;transition:all 0.15s;}
+  .nav-btn:hover{background:var(--ol);border-color:var(--orange);color:var(--orange);}
+  .month-display{font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:600;color:var(--ch);min-width:150px;text-align:center;}
+  .upd-note{max-width:1100px;margin:0 auto;padding:8px 24px 0;font-size:0.65rem;color:var(--gray);font-style:italic;}
+
+  /* ── Calendar grid — 5 equal columns Mon–Fri ── */
+  .cal-wrap{max-width:1100px;margin:0 auto;padding:12px 24px 60px;}
+  .cal-grid{
+    display:grid;
+    grid-template-columns:repeat(5,1fr);   /* 5 perfectly equal columns */
+    border-left:1px solid var(--border);
+    border-top:1px solid var(--border);
+    border-radius:8px;
+    overflow:hidden;
+    background:var(--white);
+    box-shadow:0 2px 12px rgba(0,0,0,0.06);
   }
-  header {
-    background: linear-gradient(135deg, var(--burnt-orange) 0%, var(--burnt-orange-dark) 100%);
-    padding: 20px 32px;
-    border-bottom: 3px solid var(--burnt-orange-dark);
-    box-shadow: 0 2px 8px rgba(191, 87, 0, 0.15);
+  .day-header{
+    background:var(--orange);
+    color:rgba(255,255,255,0.92);
+    font-size:0.67rem;
+    font-weight:700;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    padding:9px 4px;
+    text-align:center;
+    border-right:1px solid rgba(255,255,255,0.15);
+    border-bottom:1px solid var(--border);
   }
-  header h1 {
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: 0.5px;
-    color: #fff;
+  .cal-cell{
+    border-right:1px solid var(--border);
+    border-bottom:1px solid var(--border);
+    min-height:130px;        /* min-height instead of height so text can expand */
+    padding:6px 5px 5px;
+    background:var(--white);
+    position:relative;
+    overflow:hidden;
+    /* all cells same width enforced by grid; no text can blow it out */
   }
-  header .subtitle {
-    font-size: 13px;
-    margin-top: 4px;
-    color: rgba(255,255,255,0.85);
+  .cal-cell.other-month{background:#F9F6F3;}
+  .cal-cell.today{background:#FFF8F4;}
+  .cal-cell.today .cell-num{background:var(--orange);color:#fff;}
+  .cell-num{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;font-size:0.75rem;font-weight:600;color:var(--gray);margin-bottom:3px;}
+  .cal-cell.other-month .cell-num{color:#C8BFB7;}
+
+  /* Event pills — text wraps rather than truncating */
+  .ev-pill{
+    display:block;
+    font-size:0.6rem;
+    font-weight:500;
+    border-radius:3px;
+    padding:2px 5px;
+    margin-bottom:2px;
+    cursor:pointer;
+    /* white-space:nowrap removed — allow wrapping */
+    white-space:normal;
+    word-break:break-word;
+    overflow-wrap:break-word;
+    overflow:hidden;
+    text-decoration:none;
+    transition:opacity 0.15s;
+    line-height:1.35;
   }
-  .controls {
-    background: var(--panel-bg);
-    padding: 14px 32px;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: center;
-    font-size: 14px;
-  }
-  .controls .sources {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-  }
-  .controls label {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    cursor: pointer;
-    user-select: none;
-    color: var(--text-muted);
-  }
-  .controls label:hover { color: var(--text); }
-  .controls input[type="checkbox"] {
-    width: 16px; height: 16px;
-    accent-color: var(--burnt-orange);
-    cursor: pointer;
-  }
-  .controls .spacer { flex: 1; }
-  .controls button, .controls a.btn {
-    background: var(--burnt-orange);
-    color: #fff;
-    border: none;
-    padding: 7px 14px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 13px;
-    font-weight: 600;
-    text-decoration: none;
-    transition: background 0.15s;
-  }
-  .controls button:hover, .controls a.btn:hover { background: var(--burnt-orange-dark); }
-  .controls .meta {
-    font-size: 12px;
-    color: var(--text-muted);
-  }
-  .ticker-wrap {
-    background: var(--ticker-bg);
-    border-bottom: 1px solid var(--border);
-    overflow: hidden;
-    position: relative;
-    height: 56px;
-  }
-  .ticker-track {
-    display: inline-flex;
-    align-items: center;
-    height: 100%;
-    white-space: nowrap;
-    will-change: transform;
-    animation: scroll-left 120s linear infinite;
-  }
-  .ticker-track.paused { animation-play-state: paused; }
-  .ticker-item {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    padding: 0 28px;
-    font-size: 15px;
-    border-right: 1px solid var(--border-light);
-  }
-  .ticker-item a {
-    color: var(--text);
-    text-decoration: none;
-  }
-  .ticker-item a:hover { text-decoration: underline; color: var(--burnt-orange); }
-  .ticker-date {
-    background: var(--burnt-orange);
-    color: #fff;
-    padding: 4px 10px;
-    border-radius: 3px;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 0.3px;
-  }
-  .ticker-item[data-source="internal"] .ticker-date { background: var(--internal); }
-  .ticker-item[data-source="ut"] .ticker-date { background: var(--ut); }
-  @keyframes scroll-left {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
-  }
-  main {
-    flex: 1;
-    padding: 28px 32px;
-    max-width: 1100px;
-    margin: 0 auto;
-    width: 100%;
-  }
-  main h2 {
-    font-size: 20px;
-    margin-bottom: 16px;
-    color: var(--text);
-    border-bottom: 2px solid var(--burnt-orange);
-    padding-bottom: 8px;
-    display: inline-block;
-  }
-  .event-list { list-style: none; margin-top: 8px; }
-  .event-card {
-    background: #ffffff;
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--burnt-orange);
-    border-radius: 5px;
-    padding: 14px 18px;
-    margin-bottom: 10px;
-    display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
-    gap: 16px;
-    align-items: start;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-    transition: box-shadow 0.15s, transform 0.15s;
-  }
-  .event-card:hover {
-    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
-    transform: translateY(-1px);
-  }
-  .event-card[data-source="internal"] { border-left-color: var(--internal); }
-  .event-card[data-source="ut"] { border-left-color: var(--ut); }
-  .event-card .date {
-    font-size: 13px;
-    color: var(--text-muted);
-    font-weight: 600;
-    word-break: break-word;
-    min-width: 0;
-  }
-  .event-card .title {
-    font-size: 15px;
-    font-weight: 600;
-    min-width: 0;
-    word-break: break-word;
-  }
-  .event-card .title a {
-    color: var(--text);
-    text-decoration: none;
-  }
-  .event-card .title a:hover { color: var(--burnt-orange); text-decoration: underline; }
-  .event-card .meta-row {
-    font-size: 12px;
-    color: var(--text-muted);
-    margin-top: 4px;
-  }
-  .event-card .badge {
-    font-size: 10px;
-    background: #e8e4dd;
-    color: var(--text-muted);
-    padding: 3px 8px;
-    border-radius: 3px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-weight: 700;
-    white-space: nowrap;
-    justify-self: start;
-    align-self: start;
-  }
-  .event-card[data-source="public"] .badge { background: var(--burnt-orange); color: #fff; }
-  .event-card[data-source="internal"] .badge { background: var(--internal); color: #fff; }
-  .event-card[data-source="ut"] .badge { background: var(--ut); color: #fff; }
-  .empty {
-    color: var(--text-muted);
-    font-style: italic;
-    padding: 20px;
-    text-align: center;
-  }
-  footer {
-    padding: 18px 32px;
-    border-top: 1px solid var(--border);
-    background: var(--panel-bg);
-    font-size: 12px;
-    color: var(--text-muted);
-    text-align: center;
-  }
-  footer a { color: var(--burnt-orange); text-decoration: none; }
-  footer a:hover { text-decoration: underline; }
-  @media (max-width: 640px) {
-    header { padding: 14px 16px; }
-    header h1 { font-size: 18px; }
-    .controls { padding: 10px 16px; }
-    main { padding: 18px 16px; }
-    .event-card {
-      grid-template-columns: 1fr;
-      gap: 6px;
-    }
-    .event-card .badge { justify-self: start; }
+  .ev-pill:hover{opacity:0.78;}
+  .ev-pill.internal{background:var(--ol);color:var(--od);}
+  .ev-pill.public{background:var(--blue-light);color:#1558c0;}
+  .ev-pill.ut{background:#E8EDF1;color:#333f48;}
+  .ev-pill.more{background:var(--border);color:var(--gray);cursor:pointer;font-style:italic;}
+
+  /* ── Popover ── */
+  .popover{display:none;position:fixed;z-index:999;background:var(--white);border:1px solid var(--border);border-radius:10px;box-shadow:0 8px 32px rgba(0,0,0,0.15);width:310px;overflow:hidden;}
+  .popover.show{display:block;}
+  .pop-header{padding:12px 14px 10px;border-bottom:1px solid var(--border);display:flex;align-items:flex-start;justify-content:space-between;gap:8px;}
+  .pop-date{font-size:0.7rem;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;color:var(--gray);}
+  .pop-close{background:none;border:none;cursor:pointer;color:var(--gray);font-size:1.1rem;line-height:1;padding:0;flex-shrink:0;}
+  .pop-events{padding:10px 14px 14px;max-height:280px;overflow-y:auto;}
+  .pop-ev{display:flex;gap:8px;align-items:flex-start;padding:8px 0;border-bottom:1px solid var(--border);}
+  .pop-ev:last-child{border-bottom:none;}
+  .pop-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-top:4px;}
+  .pop-dot.internal{background:var(--orange);}
+  .pop-dot.public{background:var(--blue);}
+  .pop-dot.ut{background:#333f48;}
+  .pop-info{flex:1;min-width:0;}
+  .pop-title a{font-size:0.82rem;font-weight:600;color:var(--ch);text-decoration:none;line-height:1.3;display:block;margin-bottom:3px;}
+  .pop-title a:hover{color:var(--orange);}
+  .pop-meta{font-size:0.7rem;color:var(--gray);line-height:1.4;}
+  .pop-badge{display:inline-block;font-size:0.55rem;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;padding:1px 5px;border-radius:3px;margin-top:3px;}
+  .pop-badge.internal{background:var(--ol);color:var(--od);}
+  .pop-badge.public{background:var(--blue-light);color:#1558c0;}
+  .pop-badge.ut{background:#E8EDF1;color:#333f48;}
+
+  /* ── Footer ── */
+  footer{border-top:1px solid var(--border);padding:16px 24px;text-align:center;font-size:0.7rem;color:var(--gray);}
+  footer a{color:var(--orange);text-decoration:none;}
+  footer a:hover{text-decoration:underline;}
+
+  /* ── Responsive ── */
+  @media(max-width:640px){
+    .hi{padding:20px 16px;}
+    .sub-inner,.toolbar,.cal-wrap{padding-left:12px;padding-right:12px;}
+    .cal-cell{min-height:80px;}
+    .ev-pill{font-size:0.55rem;}
   }
 </style>
 </head>
 <body>
 
-<header>
-  <h1>Dell Med Events Ticker</h1>
-  <div class="subtitle">Dell Medical School · Department of Medicine</div>
+<header class="hdr">
+  <div class="hi">
+    <div class="eyebrow">Department of Medicine · Dell Medical School</div>
+    <h1 class="htitle">Events Calendar</h1>
+    <p class="hsub">Upcoming public and internal events. Subscribe to add all events to your Outlook calendar.</p>
+    <div class="hdr-links">
+      <a class="hdr-link" href="ticker.html">▶ Live Events Ticker</a>
+      <a class="hdr-link" href="https://dellmed.utexas.edu/events" target="_blank">🌐 Public Events</a>
+      <a class="hdr-link" href="https://intranet.dellmed.utexas.edu/events" target="_blank">🔒 Internal Events</a>
+    </div>
+  </div>
 </header>
 
-<div class="controls">
-  <div class="sources">
-    <label><input type="checkbox" data-filter="public" checked> Dell Med Public</label>
-    <label><input type="checkbox" data-filter="internal" checked> Internal (Dell Med Intranet)</label>
-    <label><input type="checkbox" data-filter="ut" checked> UT Austin Calendar</label>
+<div class="sub-bar">
+  <div class="sub-inner">
+    <div class="sub-row">
+      <div class="sub-icon">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/>
+          <line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+        </svg>
+      </div>
+      <div class="sub-text">
+        <div class="sub-lbl">Subscribe in Outlook — paste this URL under Internet Calendars</div>
+        <div class="sub-url" id="ics-url">https://domfacultydevelopment.github.io/Dell_Med_Events/dell-med-events.ics</div>
+      </div>
+      <button class="copy-btn" id="copy-btn">Copy Link</button>
+    </div>
   </div>
-  <div class="spacer"></div>
-  <button id="pauseBtn">⏸ Pause</button>
-  <a class="btn" href="dell-med-events.ics" download>📅 Subscribe (.ics)</a>
-  <span class="meta" id="lastUpdated">Loading…</span>
 </div>
 
-<div class="ticker-wrap">
-  <div class="ticker-track" id="tickerTrack">
-    <span class="ticker-item"><span class="ticker-date">--</span> Loading events…</span>
+<div class="toolbar">
+  <div class="filters">
+    <button class="fb on"          id="f-all"      onclick="setFilter('all')">All Events</button>
+    <button class="fb on"          id="f-public"   onclick="setFilter('public')">🌐 Public</button>
+    <button class="fb blue-btn on" id="f-internal" onclick="setFilter('internal')">🔒 Internal</button>
+    <button class="fb on"          id="f-ut"       onclick="setFilter('ut')">🤘 UT Austin</button>
+  </div>
+  <div class="right-tools">
+    <div class="legend">
+      <div class="leg-item"><div class="leg-dot internal"></div> Internal</div>
+      <div class="leg-item"><div class="leg-dot public"></div> Public</div>
+      <div class="leg-item"><div class="leg-dot ut"></div> UT Austin</div>
+    </div>
+    <div class="month-nav">
+      <button class="nav-btn" id="prev-btn">&#8592;</button>
+      <div class="month-display" id="month-display"></div>
+      <button class="nav-btn" id="next-btn">&#8594;</button>
+    </div>
+  </div>
+</div>
+<div class="upd-note" id="upd-note">Loading events…</div>
+
+<div class="cal-wrap">
+  <div class="cal-grid" id="cal-grid">
+    <div class="day-header">Mon</div>
+    <div class="day-header">Tue</div>
+    <div class="day-header">Wed</div>
+    <div class="day-header">Thu</div>
+    <div class="day-header">Fri</div>
   </div>
 </div>
 
-<main>
-  <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;flex-wrap:wrap;gap:12px;">
-    <h2>Upcoming Events</h2>
-    <label style="font-size:13px;color:var(--text-muted);cursor:pointer;user-select:none;">
-      <input type="checkbox" id="compactToggle" checked style="margin-right:6px;accent-color:var(--burnt-orange);vertical-align:middle;">
-      Next 30 days only
-    </label>
+<div class="popover" id="popover">
+  <div class="pop-header">
+    <div class="pop-date" id="pop-date"></div>
+    <button class="pop-close" id="pop-close">✕</button>
   </div>
-  <ul class="event-list" id="eventList">
-    <li class="empty">Loading events…</li>
-  </ul>
-</main>
+  <div class="pop-events" id="pop-events"></div>
+</div>
 
 <footer>
-  Sources: <a href="https://dellmed.utexas.edu/events" target="_blank">Dell Med Public Events</a> ·
-  <a href="https://intranet.dellmed.utexas.edu/events" target="_blank">Dell Med Intranet Events</a> ·
-  <a href="https://calendar.utexas.edu/?school=austin" target="_blank">UT Texas Today Calendar</a>
-  <br>Auto-updated daily via GitHub Actions.
+  Department of Medicine · Dell Medical School · UT Austin &nbsp;|&nbsp;
+  <a href="https://dellmed.utexas.edu/events" target="_blank">Public events →</a> &nbsp;|&nbsp;
+  <a href="https://intranet.dellmed.utexas.edu/events" target="_blank">Internal events (login required) →</a> &nbsp;|&nbsp;
+  Auto-updated daily via GitHub Actions.
 </footer>
 
 <script>
-const STATE = {
-  events: [],
-  filters: { public: true, internal: true, ut: true },
-  compactList: true,
-};
+let EVENTS = [];
+const MONTHS_LONG = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const today = new Date(); today.setHours(0,0,0,0);
+let currentYear = today.getFullYear(), currentMonth = today.getMonth(), activeFilter = 'all';
 
-function formatDate(iso) {
-  const d = new Date(iso + 'T12:00:00');
-  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+/* ── Helpers ── */
+function pd(s) { const [y,m,d] = s.split('-').map(Number); return new Date(y,m-1,d); }
+
+function filteredEvents() {
+  return EVENTS.filter(e => {
+    if (activeFilter === 'all') return true;
+    return e.source === activeFilter;
+  });
 }
 
-function formatDateLong(iso) {
-  const d = new Date(iso + 'T12:00:00');
-  const opts = { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' };
-  return d.toLocaleDateString('en-US', opts);
+function eventsForDate(y,m,d) {
+  const iso = `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+  return filteredEvents()
+    .filter(e => e.date === iso || (e.start || '').startsWith(iso))
+    .sort((a,b) => (a.time||'').localeCompare(b.time||''));
 }
 
-function getFilteredEvents() {
-  return STATE.events.filter(e => STATE.filters[e.source]);
-}
-
-function renderTicker() {
-  const track = document.getElementById('tickerTrack');
-  const events = getFilteredEvents();
-  if (events.length === 0) {
-    track.innerHTML = '<span class="ticker-item"><span class="ticker-date">--</span> No events match your filters.</span>';
-    return;
-  }
-  // Dedupe by title: events are already sorted ascending by start date,
-  // so the first one seen is the next upcoming instance.
-  const seenTitles = new Set();
-  const tickerEvents = [];
-  for (const e of events) {
-    const key = e.title.trim().toLowerCase();
-    if (seenTitles.has(key)) continue;
-    seenTitles.add(key);
-    tickerEvents.push(e);
-  }
-  const items = tickerEvents.map(e => `
-    <span class="ticker-item" data-source="${e.source}">
-      <span class="ticker-date">${formatDate(e.start)}</span>
-      <a href="${e.url}" target="_blank" rel="noopener">${escapeHtml(e.title)}</a>
-      ${e.location ? `<span style="color:var(--text-muted);font-size:13px;">· ${escapeHtml(e.location)}</span>` : ''}
-    </span>
-  `).join('');
-  track.innerHTML = items + items;
-  // Scale animation speed to content length; ~7s per item, 60s minimum
-  const baseDuration = Math.max(60, tickerEvents.length * 7);
-  // Restart animation cleanly so the new duration takes effect
-  track.style.animation = 'none';
-  track.offsetHeight; // force reflow
-  track.style.animation = `scroll-left ${baseDuration}s linear infinite`;
-}
-
-function renderList() {
-  const list = document.getElementById('eventList');
-  let events = getFilteredEvents();
-  // Optional 30-day cap on the list view
-  if (STATE.compactList) {
-    const cutoff = new Date();
-    cutoff.setDate(cutoff.getDate() + 30);
-    const cutoffStr = cutoff.toISOString().slice(0, 10);
-    events = events.filter(e => e.start <= cutoffStr);
-  }
-  if (events.length === 0) {
-    list.innerHTML = '<li class="empty">No events match your filters.</li>';
-    return;
-  }
-  list.innerHTML = events.map(e => `
-    <li class="event-card" data-source="${e.source}">
-      <div class="date">${formatDateLong(e.start)}${e.time ? '<br>' + escapeHtml(e.time) : ''}</div>
-      <div>
-        <div class="title"><a href="${e.url}" target="_blank" rel="noopener">${escapeHtml(e.title)}</a></div>
-        ${e.location ? `<div class="meta-row">📍 ${escapeHtml(e.location)}</div>` : ''}
-        ${e.speaker ? `<div class="meta-row">👤 ${escapeHtml(e.speaker)}</div>` : ''}
-      </div>
-      <span class="badge">${e.source}</span>
-    </li>
-  `).join('');
-}
-
-function escapeHtml(s) {
-  if (s === undefined || s === null) return '';
-  return String(s)
-    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
-}
-
-function render() {
-  renderTicker();
-  renderList();
-}
-
-document.querySelectorAll('.controls input[type="checkbox"]').forEach(cb => {
-  cb.addEventListener('change', () => {
-    STATE.filters[cb.dataset.filter] = cb.checked;
-    render();
+/* ── Copy ICS URL ── */
+document.getElementById('copy-btn').addEventListener('click', function() {
+  navigator.clipboard.writeText(document.getElementById('ics-url').textContent).then(() => {
+    this.textContent = '✓ Copied!'; this.classList.add('copied');
+    setTimeout(() => { this.textContent = 'Copy Link'; this.classList.remove('copied'); }, 2500);
   });
 });
 
-document.getElementById('pauseBtn').addEventListener('click', (e) => {
-  const track = document.getElementById('tickerTrack');
-  track.classList.toggle('paused');
-  e.target.textContent = track.classList.contains('paused') ? '▶ Resume' : '⏸ Pause';
+/* ── Filter buttons ── */
+function setFilter(f) {
+  activeFilter = f;
+  ['all','public','internal','ut'].forEach(id => {
+    const el = document.getElementById('f-'+id);
+    if (!el) return;
+    el.classList.toggle('on', f === 'all' || f === id);
+  });
+  renderCalendar();
+}
+
+/* ── Month navigation ── */
+document.getElementById('prev-btn').addEventListener('click', () => {
+  currentMonth--; if (currentMonth < 0) { currentMonth = 11; currentYear--; } renderCalendar();
+});
+document.getElementById('next-btn').addEventListener('click', () => {
+  currentMonth++; if (currentMonth > 11) { currentMonth = 0; currentYear++; } renderCalendar();
 });
 
-document.getElementById('compactToggle').addEventListener('change', (e) => {
-  STATE.compactList = e.target.checked;
-  renderList();
+/* ── Popover ── */
+const popover = document.getElementById('popover');
+document.getElementById('pop-close').addEventListener('click', () => popover.classList.remove('show'));
+document.addEventListener('click', e => {
+  if (!popover.contains(e.target) && !e.target.closest('.cal-cell')) popover.classList.remove('show');
 });
 
+function openPopover(cell, evs, label) {
+  document.getElementById('pop-date').textContent = label;
+  const pe = document.getElementById('pop-events'); pe.innerHTML = '';
+  evs.forEach(ev => {
+    const div = document.createElement('div'); div.className = 'pop-ev';
+    const dot = document.createElement('div'); dot.className = `pop-dot ${ev.source}`;
+    const info = document.createElement('div'); info.className = 'pop-info';
+    const sourceLabel = ev.source === 'internal' ? 'Internal' : ev.source === 'ut' ? 'UT Austin' : 'Public';
+    info.innerHTML = `
+      <div class="pop-title"><a href="${ev.url||'#'}" target="_blank" rel="noopener">${ev.title}</a></div>
+      <div class="pop-meta">${ev.time||''}${ev.location ? ' · '+ev.location : ''}</div>
+      <span class="pop-badge ${ev.source}">${sourceLabel}</span>`;
+    div.append(dot, info); pe.appendChild(div);
+  });
+  popover.classList.add('show');
+  const r = cell.getBoundingClientRect(), pw = popover.offsetWidth, ph = popover.offsetHeight;
+  let left = r.left + window.scrollX, top = r.bottom + window.scrollY + 4;
+  if (left + pw > window.innerWidth - 12) left = window.innerWidth - pw - 12;
+  if (top + ph > window.scrollY + window.innerHeight - 12) top = r.top + window.scrollY - ph - 4;
+  popover.style.left = left + 'px'; popover.style.top = top + 'px';
+}
+
+/* ── Render calendar grid ── */
+function renderCalendar() {
+  const grid = document.getElementById('cal-grid');
+  // Remove all cells (keep the 5 day headers)
+  while (grid.children.length > 5) grid.removeChild(grid.lastChild);
+  document.getElementById('month-display').textContent = MONTHS_LONG[currentMonth] + ' ' + currentYear;
+
+  // Find Mon of the week containing the 1st
+  const firstOfMonth = new Date(currentYear, currentMonth, 1);
+  const dow0 = firstOfMonth.getDay();
+  const offsetToMon = dow0 === 0 ? 6 : dow0 - 1;
+  const gridStart = new Date(firstOfMonth);
+  gridStart.setDate(gridStart.getDate() - offsetToMon);
+
+  // Find Fri of the week containing the last day
+  const lastOfMonth = new Date(currentYear, currentMonth + 1, 0);
+  const dowLast = lastOfMonth.getDay();
+  const offsetToFri = dowLast === 6 ? 6 : dowLast === 0 ? 5 : 5 - dowLast;
+  const gridEnd = new Date(lastOfMonth);
+  gridEnd.setDate(gridEnd.getDate() + offsetToFri);
+
+  const cur = new Date(gridStart);
+  while (cur <= gridEnd) {
+    const dow = cur.getDay();
+    if (dow !== 0 && dow !== 6) { // Mon–Fri only
+      const y = cur.getFullYear(), m = cur.getMonth(), d = cur.getDate();
+      const cell = document.createElement('div'); cell.className = 'cal-cell';
+      if (m !== currentMonth || y !== currentYear) cell.classList.add('other-month');
+      const cd = new Date(y, m, d); cd.setHours(0,0,0,0);
+      if (cd.getTime() === today.getTime()) cell.classList.add('today');
+
+      const numEl = document.createElement('div'); numEl.className = 'cell-num';
+      numEl.textContent = d; cell.appendChild(numEl);
+
+      const dayEvs = eventsForDate(y, m, d);
+      dayEvs.slice(0, 3).forEach(ev => {
+        const pill = document.createElement('a');
+        pill.className = `ev-pill ${ev.source}`;
+        pill.href = ev.url || '#'; pill.target = '_blank'; pill.rel = 'noopener noreferrer';
+        pill.textContent = ev.title;
+        pill.title = ev.title + (ev.time ? '\n' + ev.time : '') + (ev.location ? ' · ' + ev.location : '');
+        pill.addEventListener('click', e => e.stopPropagation());
+        cell.appendChild(pill);
+      });
+
+      if (dayEvs.length > 3) {
+        const more = document.createElement('span'); more.className = 'ev-pill more';
+        more.textContent = `+${dayEvs.length - 3} more`;
+        more.addEventListener('click', e => {
+          e.stopPropagation();
+          const d2 = new Date(y, m, d);
+          const lbl = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][d2.getDay()]
+            + ', ' + MONTHS_LONG[m] + ' ' + d + ', ' + y;
+          openPopover(cell, dayEvs, lbl);
+        });
+        cell.appendChild(more);
+      }
+
+      if (dayEvs.length > 0) {
+        cell.style.cursor = 'pointer';
+        cell.addEventListener('click', () => {
+          const d2 = new Date(y, m, d);
+          const lbl = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][d2.getDay()]
+            + ', ' + MONTHS_LONG[m] + ' ' + d + ', ' + y;
+          openPopover(cell, dayEvs, lbl);
+        });
+      }
+      grid.appendChild(cell);
+    }
+    cur.setDate(cur.getDate() + 1);
+  }
+}
+
+/* ── Load events from data/events.json ── */
 fetch('data/events.json?ts=' + Date.now())
-  .then(r => {
-    if (!r.ok) throw new Error('Failed to load events.json');
-    return r.json();
-  })
+  .then(r => { if (!r.ok) throw new Error('Failed to load'); return r.json(); })
   .then(data => {
-    const todayStr = new Date().toISOString().slice(0, 10);
-    STATE.events = (data.events || [])
-      .filter(e => e.start >= todayStr)
-      .sort((a, b) => a.start.localeCompare(b.start));
-    const updated = data.updated ? new Date(data.updated).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }) : 'unknown';
-    document.getElementById('lastUpdated').textContent = `Updated: ${updated}`;
-    render();
+    EVENTS = (data.events || []).sort((a,b) => (a.start||a.date||'').localeCompare(b.start||b.date||''));
+    const updated = data.updated
+      ? new Date(data.updated).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' })
+      : 'unknown';
+    document.getElementById('upd-note').textContent = `Last updated: ${updated}`;
+    renderCalendar();
   })
-  .catch(err => {
-    console.error(err);
-    document.getElementById('eventList').innerHTML = '<li class="empty">Could not load events. Check that data/events.json exists.</li>';
-    document.getElementById('tickerTrack').innerHTML = '<span class="ticker-item"><span class="ticker-date">!</span> Could not load events.</span>';
-    document.getElementById('lastUpdated').textContent = 'Update failed';
+  .catch(() => {
+    document.getElementById('upd-note').textContent = 'Could not load events — check that data/events.json exists.';
+    renderCalendar();
   });
 </script>
 </body>
