@@ -367,22 +367,24 @@ function renderTrack(trackId, events, speed, fallbackUrl) {
   });
 }
 
-/* ── Load internal events from data/internal-events.json ── */
-// Schema: { "events": [ { title, start (YYYY-MM-DD), time, location, url, ... } ] }
-// File lives at data/internal-events.json in the GitHub repo root.
+/* ── Load internal events from data/events.json ────────────────────────────
+   This is the master feed built daily by generate_calendar.py (GitHub Action).
+   Schema: { "updated": "...", "events": [ { start, time, title, location, url, source } ] }
+   We filter to source="internal" and upcoming dates only.
+─────────────────────────────────────────────────────────────────────────── */
 async function loadInternalJSON() {
   try {
-    const res = await fetch('./data/internal-events.json');
+    const res = await fetch('./data/events.json?ts=' + Date.now());
     if (!res.ok) throw new Error('not found');
     const json = await res.json();
-    const all = json.events || json; // handle both wrapped and bare array
-    // Filter to today-or-future, sort ascending by start date
+    const all  = json.events || json;
+    const today = new Date().toISOString().slice(0, 10);
     return all
-      .filter(e => isFutureOrToday(e.start || e.date))
-      .sort((a, b) => (a.start || a.date || '').localeCompare(b.start || b.date || ''))
+      .filter(e => e.source === 'internal' && (e.start || '') >= today)
+      .sort((a, b) => (a.start || '').localeCompare(b.start || ''))
       .map(e => ({
-        title:    e.title,
-        isoDate:  e.start || e.date,
+        title:    e.title    || '',
+        isoDate:  e.start    || '',
         time:     e.time     || '',
         location: e.location || '',
         speaker:  e.speaker  || '',
