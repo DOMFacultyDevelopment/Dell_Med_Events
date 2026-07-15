@@ -133,12 +133,23 @@
     padding-left: var(--label-w); /* initial offset so events start after label */
   }
 
-  /* Individual event items */
-  .event-item {
+  /* Individual event items — wrapped in <a> for clickability */
+  a.event-item {
     display: inline-flex;
     align-items: center;
     gap: 6px;
     padding: 0 var(--gap) 0 0;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: background 0.15s;
+  }
+  a.event-item:hover {
+    background: rgba(191, 87, 0, 0.08);
+  }
+  a.event-item:hover .ev-title {
+    color: var(--burnt-orange);
+    text-decoration: underline;
   }
   .event-item .dot {
     width: 5px; height: 5px;
@@ -259,9 +270,9 @@
    CONFIG — match the existing ticker's sources
 ═══════════════════════════════════════════════ */
 const SOURCES = {
-  public:   { url: 'https://dellmed.utexas.edu/events',                label: 'Public',   track: 'track-public',   speed: 55 },
-  internal: { url: 'https://intranet.dellmed.utexas.edu/events',       label: 'Internal', track: 'track-internal', speed: 48 },
-  ut:       { url: 'https://calendar.utexas.edu/?school=austin',        label: 'UT Austin',track: 'track-ut',       speed: 62 },
+  public:   { url: 'https://dellmed.utexas.edu/events',           label: 'Public',    track: 'track-public'   },
+  internal: { url: 'https://intranet.dellmed.utexas.edu/events',  label: 'Internal',  track: 'track-internal' },
+  ut:       { url: 'https://calendar.utexas.edu/?school=austin',  label: 'UT Austin', track: 'track-ut'       },
 };
 
 /* ── Pause/Resume ── */
@@ -289,21 +300,23 @@ function fmtTime(d) {
 }
 
 /* ── Render a track with event items ── */
-function renderTrack(trackId, events, speed) {
+function renderTrack(trackId, events, speed, fallbackUrl) {
   const track = document.getElementById(trackId);
   if (!events || events.length === 0) {
     track.innerHTML = `<span class="event-item error"><span class="dot"></span><span class="ev-title">No events found</span></span>`;
     return;
   }
 
-  const makeItem = (ev) => `
-    <span class="event-item">
+  const makeItem = (ev) => {
+    const href = ev.url || fallbackUrl;
+    return `<a class="event-item" href="${href}" target="_blank" rel="noopener noreferrer">
       <span class="dot"></span>
       <span class="ev-date">${ev.date}</span>
       ${ev.time ? `<span class="ev-time">${ev.time}</span>` : ''}
       <span class="ev-title">${ev.title}</span>
       ${ev.category ? `<span class="ev-cat">${ev.category}</span>` : ''}
-    </span>`;
+    </a>`;
+  };
 
   // Double items for seamless loop
   const html = events.map(makeItem).join('') + events.map(makeItem).join('');
@@ -376,41 +389,41 @@ async function loadFromRSS(url) {
 // Fallback demo events so the ticker always shows something
 const DEMO_EVENTS = {
   public: [
-    { title: 'Grand Rounds: Cardiology Update',                date: 'Jul 16', time: '12:00 PM', category: 'CME' },
-    { title: 'Department of Medicine Town Hall',               date: 'Jul 17', time: '3:00 PM',  category: 'Operations' },
-    { title: 'Research Symposium — Translational Science',     date: 'Jul 18', time: '9:00 AM',  category: 'Research' },
-    { title: 'Clinical Excellence Lecture Series',             date: 'Jul 22', time: '12:00 PM', category: 'CME' },
-    { title: 'Minority Health & Health Equity Conference',     date: 'Jul 24', time: '8:00 AM',  category: 'CME' },
-    { title: 'Patient Safety Symposium',                       date: 'Jul 25', time: '1:00 PM',  category: 'Operations' },
-    { title: 'Dell Med Annual Awards Ceremony',                date: 'Aug 1',  time: '5:00 PM',  category: 'Faculty Dev' },
+    { title: 'Grand Rounds: Cardiology Update',                date: 'Jul 16', time: '12:00 PM', category: 'CME',           url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Department of Medicine Town Hall',               date: 'Jul 17', time: '3:00 PM',  category: 'Operations',    url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Research Symposium — Translational Science',     date: 'Jul 18', time: '9:00 AM',  category: 'Research',      url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Clinical Excellence Lecture Series',             date: 'Jul 22', time: '12:00 PM', category: 'CME',           url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Minority Health & Health Equity Conference',     date: 'Jul 24', time: '8:00 AM',  category: 'CME',           url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Patient Safety Symposium',                       date: 'Jul 25', time: '1:00 PM',  category: 'Operations',    url: 'https://dellmed.utexas.edu/events' },
+    { title: 'Dell Med Annual Awards Ceremony',                date: 'Aug 1',  time: '5:00 PM',  category: 'Faculty Dev',   url: 'https://dellmed.utexas.edu/events' },
   ],
   internal: [
-    { title: 'DOM Faculty Affairs Meeting',                    date: 'Jul 16', time: '8:00 AM',  category: 'Faculty Affairs' },
-    { title: 'Resident Mentorship Workshop',                   date: 'Jul 17', time: '11:00 AM', category: 'Faculty Dev' },
-    { title: 'Intranet: Leadership Development Program',       date: 'Jul 19', time: '10:00 AM', category: 'Faculty Dev' },
-    { title: 'Well-Being & Burnout Prevention Seminar',        date: 'Jul 21', time: '12:00 PM', category: 'Faculty Dev' },
-    { title: 'DOM Operations Review',                          date: 'Jul 23', time: '2:00 PM',  category: 'Operations' },
-    { title: 'AI in Medicine: Internal Workshop',              date: 'Jul 28', time: '9:00 AM',  category: 'Research' },
+    { title: 'DOM Faculty Affairs Meeting',                    date: 'Jul 16', time: '8:00 AM',  category: 'Faculty Affairs', url: 'https://intranet.dellmed.utexas.edu/events' },
+    { title: 'Resident Mentorship Workshop',                   date: 'Jul 17', time: '11:00 AM', category: 'Faculty Dev',     url: 'https://intranet.dellmed.utexas.edu/events' },
+    { title: 'Intranet: Leadership Development Program',       date: 'Jul 19', time: '10:00 AM', category: 'Faculty Dev',     url: 'https://intranet.dellmed.utexas.edu/events' },
+    { title: 'Well-Being & Burnout Prevention Seminar',        date: 'Jul 21', time: '12:00 PM', category: 'Faculty Dev',     url: 'https://intranet.dellmed.utexas.edu/events' },
+    { title: 'DOM Operations Review',                          date: 'Jul 23', time: '2:00 PM',  category: 'Operations',      url: 'https://intranet.dellmed.utexas.edu/events' },
+    { title: 'AI in Medicine: Internal Workshop',              date: 'Jul 28', time: '9:00 AM',  category: 'Research',        url: 'https://intranet.dellmed.utexas.edu/events' },
   ],
   ut: [
-    { title: 'UT Austin: Health & Society Lecture',            date: 'Jul 15', time: '4:00 PM',  category: 'UT Austin' },
-    { title: 'Texas Today: College of Natural Sciences Forum', date: 'Jul 17', time: '2:00 PM',  category: 'UT Austin' },
-    { title: 'UT: Graduate Research Showcase',                 date: 'Jul 20', time: '10:00 AM', category: 'UT Austin' },
-    { title: 'Longhorn Athletics Academic Series',             date: 'Jul 22', time: '6:00 PM',  category: 'UT Austin' },
-    { title: 'UT Faculty Governance Assembly',                 date: 'Jul 24', time: '3:00 PM',  category: 'UT Austin' },
-    { title: 'Texas Today: Research & Innovation Summit',      date: 'Jul 29', time: '9:00 AM',  category: 'UT Austin' },
+    { title: 'UT Austin: Health & Society Lecture',            date: 'Jul 15', time: '4:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
+    { title: 'Texas Today: College of Natural Sciences Forum', date: 'Jul 17', time: '2:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
+    { title: 'UT: Graduate Research Showcase',                 date: 'Jul 20', time: '10:00 AM', category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
+    { title: 'Longhorn Athletics Academic Series',             date: 'Jul 22', time: '6:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
+    { title: 'UT Faculty Governance Assembly',                 date: 'Jul 24', time: '3:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
+    { title: 'Texas Today: Research & Innovation Summit',      date: 'Jul 29', time: '9:00 AM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
   ],
 };
 
 /* ── Bootstrap ── */
 async function init() {
   const tasks = [
-    { key: 'public',   trackId: 'track-public',   speed: 55 },
-    { key: 'internal', trackId: 'track-internal', speed: 48 },
-    { key: 'ut',       trackId: 'track-ut',       speed: 62 },
+    { key: 'public',   trackId: 'track-public',   speed: 90,  fallbackUrl: SOURCES.public.url   },
+    { key: 'internal', trackId: 'track-internal', speed: 80,  fallbackUrl: SOURCES.internal.url },
+    { key: 'ut',       trackId: 'track-ut',       speed: 100, fallbackUrl: SOURCES.ut.url       },
   ];
 
-  for (const { key, trackId, speed } of tasks) {
+  for (const { key, trackId, speed, fallbackUrl } of tasks) {
     // Try live data first; fall back to demo
     let events = null;
 
@@ -430,7 +443,7 @@ async function init() {
       events = DEMO_EVENTS[key];
     }
 
-    renderTrack(trackId, events, speed);
+    renderTrack(trackId, events, speed, fallbackUrl);
   }
 }
 
