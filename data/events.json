@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-15T17:41:44.024495+00:00",
+  "updated": "2026-07-15T18:46:14.531297+00:00",
   "counts": {
     "public": 8,
-    "internal": 204,
-    "ut": 1938
+    "internal": 2,
+    "ut": 1890
   },
   "events": [
     {
@@ -26,16 +26,6 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
       "start": "2026-07-15",
       "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "internal",
-      "title": "Annual Dell Med Resource Fair",
-      "url": "https://intranet.dellmed.utexas.edu/event/1004986/",
-      "start": "2026-07-15",
-      "time": "7:30 AM - 9:30 AM",
-      "location": "HDB Courtyard, First Floor Atrium, 1.202, 1.204, & 1.208",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -87,16 +77,6 @@
       "location": null
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/15",
-      "start": "2026-07-15",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -137,13 +117,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-07-15",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-15",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -181,16 +154,6 @@
       "location": "Texas Global (N24)"
     },
     {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/07/16",
-      "start": "2026-07-16",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
@@ -212,31 +175,11 @@
       "location": null
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/16",
-      "start": "2026-07-16",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-07-16",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/07/16",
-      "start": "2026-07-16",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -265,23 +208,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-16",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-16",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/16",
-      "start": "2026-07-16",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -340,16 +266,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/17",
-      "start": "2026-07-17",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
       "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
@@ -376,13 +292,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-07-17",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-17",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -477,13 +386,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-18",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Ukemi + Overgold Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ukemi-overgold-live-at-the-cactus-cafe",
       "start": "2026-07-18",
@@ -575,13 +477,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-19",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "World Cup Viewing in the Texas Union",
       "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
       "start": "2026-07-19",
@@ -666,13 +561,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-20",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Wheelchair/Adaptive Tennis and Pickleball",
       "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
       "start": "2026-07-20",
@@ -749,16 +637,6 @@
       "location": null
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/21",
-      "start": "2026-07-21",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -795,13 +673,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-21",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Stock Austin\u2019s Sneak Peek 2026",
       "url": "https://calendar.utexas.edu/event/summer-stock-austins-sneak-peek-2026",
       "start": "2026-07-21",
@@ -820,16 +691,6 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-07-21",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/21",
-      "start": "2026-07-21",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -952,13 +813,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-22",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
       "start": "2026-07-23",
@@ -1021,16 +875,6 @@
       "location": "Cactus Cafe"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/23",
-      "start": "2026-07-23",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -1067,27 +911,10 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-23",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-07-23",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/23",
-      "start": "2026-07-23",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -1182,13 +1009,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-24",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-07-24",
@@ -1256,13 +1076,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-07-25",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-25",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -1350,13 +1163,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-26",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-07-26",
@@ -1441,13 +1247,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-27",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer 2026 Information Session: Prospective Freshman",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-prospective-freshman",
       "start": "2026-07-27",
@@ -1519,16 +1318,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/07/28",
-      "start": "2026-07-28",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Disability Discussions",
       "url": "https://calendar.utexas.edu/event/disability-discussions-8819",
@@ -1548,16 +1337,6 @@
       "url": "https://calendar.utexas.edu/event/hass-panel-discussion-faculty-insights-into-the-academic-job-search-experience-for-humanities-arts-amp-social-sciences",
       "start": "2026-07-28",
       "location": "Virtual"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/28",
-      "start": "2026-07-28",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -1603,27 +1382,10 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-28",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Storytime 2026",
       "url": "https://calendar.utexas.edu/event/summer-storytime-2026",
       "start": "2026-07-28",
       "location": "Blanton Museum of Art (BMA)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/28",
-      "start": "2026-07-28",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -1717,16 +1479,6 @@
       "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/29",
-      "start": "2026-07-29",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -1760,13 +1512,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-07-29",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-29",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -1840,26 +1585,6 @@
       "location": "Health Learning Building (HLB 1.111)"
     },
     {
-      "source": "internal",
-      "title": "EAP Monthly Mindfulness Workshop",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018407/",
-      "start": "2026-07-30",
-      "time": "12:15 PM - 12:45 PM",
-      "location": "HDB 1.204",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/30",
-      "start": "2026-07-30",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -1896,27 +1621,10 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-30",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer 2026 Information Session: External Transfer",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
       "start": "2026-07-30",
       "location": "Zoom Meeting"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/30",
-      "start": "2026-07-30",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -1975,16 +1683,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/31",
-      "start": "2026-07-31",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
@@ -2004,13 +1702,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-07-31",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-07-31",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2046,6 +1737,16 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-01",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "internal",
+      "title": "Department of Medicine Faculty Meeting",
+      "url": "https://intranet.dellmed.utexas.edu/event/XXXXX/",
+      "start": "2026-08-01",
+      "time": "12:00 PM \u2013 1:00 PM",
+      "location": "HDB 1.208",
+      "speaker": null,
+      "end": null
     },
     {
       "source": "ut",
@@ -2088,13 +1789,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-01",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-01",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2158,13 +1852,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-02",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-02",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2245,13 +1932,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-03",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Fall ESL classes",
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-04",
@@ -2293,16 +1973,6 @@
       "location": "McDonald Observatory"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/04",
-      "start": "2026-08-04",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -2339,13 +2009,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-04",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer 2026 Information Session: External Transfer",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
       "start": "2026-08-04",
@@ -2357,16 +2020,6 @@
       "url": "https://calendar.utexas.edu/event/summer-storytime-2026",
       "start": "2026-08-04",
       "location": "Blanton Museum of Art (BMA)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/04",
-      "start": "2026-08-04",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -2425,6 +2078,16 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
+      "source": "internal",
+      "title": "Grand Rounds: Speaker Name",
+      "url": "https://intranet.dellmed.utexas.edu/event/XXXXX/",
+      "start": "2026-08-05",
+      "time": "7:30am \u2013 8:30am",
+      "location": "Zoom",
+      "speaker": "Dr. Jane Smith",
+      "end": null
+    },
+    {
       "source": "ut",
       "title": "Ice Age in the Wild",
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
@@ -2437,16 +2100,6 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-05",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/08/05",
-      "start": "2026-08-05",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -2468,13 +2121,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-08-05",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-05",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2505,16 +2151,6 @@
       "location": "Texas Global (N24)"
     },
     {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/08/06",
-      "start": "2026-08-06",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
@@ -2541,16 +2177,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-06",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/06",
-      "start": "2026-08-06",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -2582,13 +2208,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-06",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer 2026 Information Session: Prospective Freshman",
       "url": "https://calendar.utexas.edu/event/summer-2026-information-session-prospective-freshman",
       "start": "2026-08-06",
@@ -2607,16 +2226,6 @@
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-06",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/06",
-      "start": "2026-08-06",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -2710,13 +2319,6 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-07",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
       "source": "public",
       "title": "Suicide Prevention Training for Pediatric Health Clinicians: SAFETY-A Level 2",
       "url": "https://dellmed.utexas.edu/events/suicide-prevention-training-for-pediatric-health-clinicians-safety-a-level-2-080726",
@@ -2789,13 +2391,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-08",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Stock Austin 2026 - Cinderella",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
       "start": "2026-08-08",
@@ -2856,13 +2451,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-09",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -2959,13 +2547,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-10",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Stock Austin 2026 - Newsies",
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-10",
@@ -3000,31 +2581,11 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/08/11",
-      "start": "2026-08-11",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Educator Nights at McDonald Observatory",
       "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
       "start": "2026-08-11",
       "location": "McDonald Observatory"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/11",
-      "start": "2026-08-11",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3056,27 +2617,10 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-11",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Summer Storytime 2026",
       "url": "https://calendar.utexas.edu/event/summer-storytime-2026",
       "start": "2026-08-11",
       "location": "Blanton Museum of Art (BMA)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/11",
-      "start": "2026-08-11",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3126,16 +2670,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-12",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/08/12",
-      "start": "2026-08-12",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3188,13 +2722,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-12",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
       "start": "2026-08-13",
@@ -3234,16 +2761,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-13",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/13",
-      "start": "2026-08-13",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3286,23 +2803,6 @@
       "url": "https://calendar.utexas.edu/event/shrm-certification-prep-program",
       "start": "2026-08-13",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-13",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/13",
-      "start": "2026-08-13",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3354,16 +2854,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/08/14",
-      "start": "2026-08-14",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
@@ -3383,13 +2873,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-08-14",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-14",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3456,13 +2939,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-15",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-16",
@@ -3495,13 +2971,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-16",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-16",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3551,13 +3020,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-17",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-17",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -3616,16 +3078,6 @@
       "location": "McDonald Observatory"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/18",
-      "start": "2026-08-18",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
@@ -3648,27 +3100,10 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-18",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "TAMALES - Texas Assistive Technology Makers Alliance",
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-08-18",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/18",
-      "start": "2026-08-18",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3741,16 +3176,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/08/19",
-      "start": "2026-08-19",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
@@ -3773,13 +3198,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-19",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "AHA BLS Instructor Candidate Course",
       "url": "https://calendar.utexas.edu/event/aha-bls-instructor-candidate-course-2916",
       "start": "2026-08-20",
@@ -3791,16 +3209,6 @@
       "url": "https://calendar.utexas.edu/event/american-heart-association-basic-life-support-instructor-candidate-training",
       "start": "2026-08-20",
       "location": "\\, NUR 1.106"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/08/20",
-      "start": "2026-08-20",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3824,41 +3232,11 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "EAP Monthly Mindfulness Workshop",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018408/",
-      "start": "2026-08-20",
-      "time": "11:45 AM - 12:15 PM",
-      "location": "HDB 1.204",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "IPE Facilitation &amp\\; Networking",
       "url": "https://calendar.utexas.edu/event/ipe-facilitation-amp-networking",
       "start": "2026-08-20",
       "location": "Health Learning Building 1.111"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/20",
-      "start": "2026-08-20",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/08/20",
-      "start": "2026-08-20",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3880,23 +3258,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-20",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-20",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/20",
-      "start": "2026-08-20",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -3970,13 +3331,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-21",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Soccer at Arizona State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-arizona-state",
       "start": "2026-08-21",
@@ -4023,13 +3377,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-22",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-22",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4096,13 +3443,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-23",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-24",
@@ -4135,13 +3475,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-24",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-24",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4179,16 +3512,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/08/25",
-      "start": "2026-08-25",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Daunted by Networking? Try the Scientific Method",
       "url": "https://calendar.utexas.edu/event/daunted-by-networking-try-the-scientific-method",
@@ -4201,16 +3524,6 @@
       "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
       "start": "2026-08-25",
       "location": "McDonald Observatory"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/25",
-      "start": "2026-08-25",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -4232,23 +3545,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-25",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-25",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/25",
-      "start": "2026-08-25",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -4277,16 +3573,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-26",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/08/26",
-      "start": "2026-08-26",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -4325,13 +3611,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-26",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "UT Real Estate Center Open House",
       "url": "https://calendar.utexas.edu/event/ut-real-estate-center-open-house",
       "start": "2026-08-26",
@@ -4367,16 +3646,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/27",
-      "start": "2026-08-27",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
@@ -4396,23 +3665,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-27",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/27",
-      "start": "2026-08-27",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -4464,16 +3716,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/08/28",
-      "start": "2026-08-28",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
@@ -4493,13 +3735,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-08-28",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-28",
-      "location": "L. Theo Bellmont Hall (BEL)"
     },
     {
       "source": "ut",
@@ -4552,13 +3787,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-29",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Volleyball vs TCU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-tcu-6449",
       "start": "2026-08-29",
@@ -4601,13 +3829,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-30",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Volleyball vs Nebraska",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-nebraska",
       "start": "2026-08-30",
@@ -4643,13 +3864,6 @@
     },
     {
       "source": "ut",
-      "title": "Sleep and Glucose in Diabetes Research Study",
-      "url": "https://calendar.utexas.edu/event/sleep-and-glucose-in-diabetes-research-study",
-      "start": "2026-08-31",
-      "location": "L. Theo Bellmont Hall (BEL)"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Soccer vs Incarnate Word",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-incarnate-word",
       "start": "2026-08-31",
@@ -4677,26 +3891,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity & Compliance Office Hour",
-      "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/09/01",
-      "start": "2026-09-01",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/01",
-      "start": "2026-09-01",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
@@ -4709,16 +3903,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-01",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/01",
-      "start": "2026-09-01",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -4756,16 +3940,6 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/09/02",
-      "start": "2026-09-02",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
@@ -4801,16 +3975,6 @@
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
     },
     {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/09/03",
-      "start": "2026-09-03",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
@@ -4830,16 +3994,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-03",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/03",
-      "start": "2026-09-03",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -4868,16 +4022,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-03",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/03",
-      "start": "2026-09-03",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5132,16 +4276,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/09/08",
-      "start": "2026-09-08",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -5163,31 +4297,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/08",
-      "start": "2026-09-08",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-08",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/08",
-      "start": "2026-09-08",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5230,16 +4344,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-09-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/09/09",
-      "start": "2026-09-09",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5312,16 +4416,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/10",
-      "start": "2026-09-10",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Information Session: MSN/PhD/APRN DNP Prospective Student",
       "url": "https://calendar.utexas.edu/event/information-session-msnphdaprn-dnp-prospective-student",
@@ -5341,16 +4435,6 @@
       "url": "https://calendar.utexas.edu/event/on-the-altar-a-history-of-sacrifice-from-the-sacred-to-the-secular",
       "start": "2026-09-10",
       "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/10",
-      "start": "2026-09-10",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5407,16 +4491,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-09-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/09/11",
-      "start": "2026-09-11",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5657,16 +4731,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/15",
-      "start": "2026-09-15",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
@@ -5679,16 +4743,6 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-09-15",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/15",
-      "start": "2026-09-15",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5754,16 +4808,6 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/09/17",
-      "start": "2026-09-17",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Cactus Lee Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/cactus-lee-live-at-the-cactus-cafe",
@@ -5813,31 +4857,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/17",
-      "start": "2026-09-17",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Information Session: AE-MSN Prospective Student",
       "url": "https://calendar.utexas.edu/event/information-session-ae-msn-prospective-student",
       "start": "2026-09-17",
       "location": "Zoom"
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/09/17",
-      "start": "2026-09-17",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -5852,16 +4876,6 @@
       "url": "https://calendar.utexas.edu/event/tamales",
       "start": "2026-09-17",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/17",
-      "start": "2026-09-17",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -6095,16 +5109,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/09/22",
-      "start": "2026-09-22",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Energize UT 2026",
       "url": "https://calendar.utexas.edu/event/energize-ut-2026",
@@ -6133,31 +5137,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/22",
-      "start": "2026-09-22",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-22",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/22",
-      "start": "2026-09-22",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -6221,16 +5205,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-09-23",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/09/23",
-      "start": "2026-09-23",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -6310,31 +5284,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/24",
-      "start": "2026-09-24",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-24",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/24",
-      "start": "2026-09-24",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -6391,16 +5345,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-09-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/09/25",
-      "start": "2026-09-25",
-      "time": "8:00 AM - 9:00 AM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -6641,16 +5585,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/29",
-      "start": "2026-09-29",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Patrick Hughes\\, horn &amp\\;amp\\; Colette Valentine\\, piano",
       "url": "https://calendar.utexas.edu/event/patrick-hughes-horn-ampamp-colette-valentine-piano",
@@ -6663,16 +5597,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-29",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/29",
-      "start": "2026-09-29",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -6745,16 +5669,6 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/10/01",
-      "start": "2026-10-01",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Butler Opera International Competition",
       "url": "https://calendar.utexas.edu/event/butler-opera-international-competition-320",
@@ -6804,31 +5718,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/01",
-      "start": "2026-10-01",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-01",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/01",
-      "start": "2026-10-01",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -7083,16 +5977,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/10/06",
-      "start": "2026-10-06",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -7121,16 +6005,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/06",
-      "start": "2026-10-06",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
@@ -7143,16 +6017,6 @@
       "url": "https://calendar.utexas.edu/event/steven-brennfleck-tenor-ampamp-rick-rowley-piano",
       "start": "2026-10-06",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/06",
-      "start": "2026-10-06",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -7216,16 +6080,6 @@
       "url": "https://calendar.utexas.edu/event/hydrogen-day-2026",
       "start": "2026-10-07",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/10/07",
-      "start": "2026-10-07",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -7319,31 +6173,11 @@
       "location": null
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/08",
-      "start": "2026-10-08",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-08",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/08",
-      "start": "2026-10-08",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -7598,31 +6432,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/13",
-      "start": "2026-10-13",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-13",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/13",
-      "start": "2026-10-13",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -7702,16 +6516,6 @@
       "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
     },
     {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/10/15",
-      "start": "2026-10-15",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
@@ -7761,16 +6565,6 @@
       "location": "National Autonomous University of Mexico\\, Mexico City\\, Mexico \u2014 University of Texas at Austin"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/15",
-      "start": "2026-10-15",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Maris Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/maris-live-at-the-cactus-cafe",
@@ -7778,31 +6572,11 @@
       "location": "Cactus Cafe"
     },
     {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/10/15",
-      "start": "2026-10-15",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-15",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/15",
-      "start": "2026-10-15",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -8078,16 +6852,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/10/20",
-      "start": "2026-10-20",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -8109,16 +6873,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/20",
-      "start": "2026-10-20",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
@@ -8131,16 +6885,6 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-10-20",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/20",
-      "start": "2026-10-20",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -8183,16 +6927,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-10-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/10/21",
-      "start": "2026-10-21",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -8265,31 +6999,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/22",
-      "start": "2026-10-22",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-22",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/22",
-      "start": "2026-10-22",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -8572,31 +7286,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/27",
-      "start": "2026-10-27",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/27",
-      "start": "2026-10-27",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -8727,31 +7421,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/29",
-      "start": "2026-10-29",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-29",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/29",
-      "start": "2026-10-29",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -8985,16 +7659,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/11/03",
-      "start": "2026-11-03",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -9016,31 +7680,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/03",
-      "start": "2026-11-03",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-03",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/03",
-      "start": "2026-11-03",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -9092,16 +7736,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/11/04",
-      "start": "2026-11-04",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
@@ -9121,16 +7755,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-04",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/11/05",
-      "start": "2026-11-05",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -9175,31 +7799,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/05",
-      "start": "2026-11-05",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-05",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/05",
-      "start": "2026-11-05",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -9468,31 +8072,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/10",
-      "start": "2026-11-10",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-10",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/10",
-      "start": "2026-11-10",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -9628,31 +8212,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/12",
-      "start": "2026-11-12",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/12",
-      "start": "2026-11-12",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -9893,16 +8457,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/11/17",
-      "start": "2026-11-17",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -9922,16 +8476,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-11-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/17",
-      "start": "2026-11-17",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -9960,16 +8504,6 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-11-17",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/17",
-      "start": "2026-11-17",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -10021,16 +8555,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/11/18",
-      "start": "2026-11-18",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
@@ -10057,16 +8581,6 @@
       "url": "https://calendar.utexas.edu/event/tea-tawla",
       "start": "2026-11-18",
       "location": "Patton Hall (RLP)\\, 1.302D"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/11/19",
-      "start": "2026-11-19",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -10111,26 +8625,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/19",
-      "start": "2026-11-19",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/11/19",
-      "start": "2026-11-19",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
@@ -10143,16 +8637,6 @@
       "url": "https://calendar.utexas.edu/event/tbd-788",
       "start": "2026-11-19",
       "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19",
-      "start": "2026-11-19",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -10435,16 +8919,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/24",
-      "start": "2026-11-24",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Mama\u2019s Broke Reunion\u00a0Album Release Tour at The Cactus Cafe",
       "url": "https://calendar.utexas.edu/event/mamas-broke-reunionalbum-release-tour-at-the-cactus-cafe",
@@ -10457,16 +8931,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-24",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24",
-      "start": "2026-11-24",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -10581,31 +9045,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/26",
-      "start": "2026-11-26",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-26",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/26",
-      "start": "2026-11-26",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -10832,26 +9276,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity & Compliance Office Hour",
-      "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/12/01",
-      "start": "2026-12-01",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/12/01",
-      "start": "2026-12-01",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -10873,31 +9297,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/01",
-      "start": "2026-12-01",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-01",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/01",
-      "start": "2026-12-01",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -10956,16 +9360,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/02",
-      "start": "2026-12-02",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
@@ -10985,16 +9379,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-02",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/12/03",
-      "start": "2026-12-03",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -11039,31 +9423,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/03",
-      "start": "2026-12-03",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-03",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/03",
-      "start": "2026-12-03",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -11283,31 +9647,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/08",
-      "start": "2026-12-08",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-08",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/08",
-      "start": "2026-12-08",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -11422,31 +9766,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/10",
-      "start": "2026-12-10",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-10",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10",
-      "start": "2026-12-10",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -11666,16 +9990,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/12/15",
-      "start": "2026-12-15",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -11697,31 +10011,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/15",
-      "start": "2026-12-15",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "TAMALES - Texas Assistive Technology Makers Alliance",
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-12-15",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/15",
-      "start": "2026-12-15",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -11773,16 +10067,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/16",
-      "start": "2026-12-16",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
@@ -11795,16 +10079,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-memphis",
       "start": "2026-12-16",
       "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/12/17",
-      "start": "2026-12-17",
-      "time": "1:30 PM - 2:30 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -11849,41 +10123,11 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/17",
-      "start": "2026-12-17",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/12/17",
-      "start": "2026-12-17",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "TAMALES",
       "url": "https://calendar.utexas.edu/event/tamales",
       "start": "2026-12-17",
       "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17",
-      "start": "2026-12-17",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -12061,26 +10305,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/22",
-      "start": "2026-12-22",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/22",
-      "start": "2026-12-22",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -12163,26 +10387,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/24",
-      "start": "2026-12-24",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24",
-      "start": "2026-12-24",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -12346,26 +10550,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/29",
-      "start": "2026-12-29",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/29",
-      "start": "2026-12-29",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -12408,16 +10592,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/30",
-      "start": "2026-12-30",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
@@ -12458,26 +10632,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-31",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/31",
-      "start": "2026-12-31",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31",
-      "start": "2026-12-31",
-      "time": "11:00 AM - 12:00 PM",
-      "location": "Virtual (Teams)",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -12634,16 +10788,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/05",
-      "start": "2027-01-05",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -12726,16 +10870,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/07",
-      "start": "2027-01-07",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -12892,16 +11026,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/12",
-      "start": "2027-01-12",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -12944,16 +11068,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/13",
-      "start": "2027-01-13",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
@@ -12994,16 +11108,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/14",
-      "start": "2027-01-14",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -13181,16 +11285,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/19",
-      "start": "2027-01-19",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "TAMALES - Texas Assistive Technology Makers Alliance",
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
@@ -13280,26 +11374,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/21",
-      "start": "2027-01-21",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/01/21",
-      "start": "2027-01-21",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -13456,16 +11530,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/26",
-      "start": "2027-01-26",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -13508,16 +11572,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/27",
-      "start": "2027-01-27",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
@@ -13558,16 +11612,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/28",
-      "start": "2027-01-28",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -13731,16 +11775,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/02",
-      "start": "2027-02-02",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -13830,16 +11864,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/04",
-      "start": "2027-02-04",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -14003,16 +12027,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/09",
-      "start": "2027-02-09",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -14055,16 +12069,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/10",
-      "start": "2027-02-10",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
@@ -14105,16 +12109,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/11",
-      "start": "2027-02-11",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -14271,16 +12265,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/16",
-      "start": "2027-02-16",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "TAMALES - Texas Assistive Technology Makers Alliance",
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
@@ -14370,26 +12354,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/18",
-      "start": "2027-02-18",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/02/18",
-      "start": "2027-02-18",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -14553,16 +12517,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/23",
-      "start": "2027-02-23",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -14603,16 +12557,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/24",
-      "start": "2027-02-24",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -14662,16 +12606,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/25",
-      "start": "2027-02-25",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -14849,16 +12783,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "Cybersecurity & Compliance Office Hour",
-      "url": "https://intranet.dellmed.utexas.edu/event/751984/2027/03/02",
-      "start": "2027-03-02",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
@@ -14871,16 +12795,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-03-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/02",
-      "start": "2027-03-02",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -14967,16 +12881,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/04",
-      "start": "2027-03-04",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Anna Zajacova\\, Professor\\, Sociology\\, University of Western Ontario",
       "url": "https://calendar.utexas.edu/event/anna-zajacova-professor-sociology-university-of-western-ontario",
@@ -15047,16 +12951,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/09",
-      "start": "2027-03-09",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -15078,16 +12972,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/03/10",
-      "start": "2027-03-10",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
@@ -15100,16 +12984,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-11",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/11",
-      "start": "2027-03-11",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15133,16 +13007,6 @@
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/16",
-      "start": "2027-03-16",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "TAMALES - Texas Assistive Technology Makers Alliance",
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
@@ -15164,41 +13028,11 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/18",
-      "start": "2027-03-18",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/03/18",
-      "start": "2027-03-18",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-03-23",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/23",
-      "start": "2027-03-23",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15208,31 +13042,11 @@
       "location": "WCP 2.302"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/03/24",
-      "start": "2027-03-24",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-03-24",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/25",
-      "start": "2027-03-25",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15249,16 +13063,6 @@
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/30",
-      "start": "2027-03-30",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -15271,16 +13075,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-03-31",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/01",
-      "start": "2027-04-01",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15311,31 +13105,11 @@
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/06",
-      "start": "2027-04-06",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-04-07",
       "location": "WCP 2.302"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/07",
-      "start": "2027-04-07",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15345,31 +13119,11 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/08",
-      "start": "2027-04-08",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-04-13",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/13",
-      "start": "2027-04-13",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15393,26 +13147,6 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/15",
-      "start": "2027-04-15",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/04/15",
-      "start": "2027-04-15",
-      "time": "12:00 PM - 1:00 PM",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Lindsay Kobayashi\\, Associate Professor\\, University of Michigan",
       "url": "https://calendar.utexas.edu/event/lindsay-kobayashinbspassociate-professor-university-of-michigan",
@@ -15425,16 +13159,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-04-20",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/20",
-      "start": "2027-04-20",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15451,31 +13175,11 @@
       "location": "WCP 2.302"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/21",
-      "start": "2027-04-21",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-04-21",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/22",
-      "start": "2027-04-22",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15492,16 +13196,6 @@
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/27",
-      "start": "2027-04-27",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
@@ -15514,16 +13208,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-04-28",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/29",
-      "start": "2027-04-29",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15547,31 +13231,11 @@
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/04",
-      "start": "2027-05-04",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-05-05",
       "location": "WCP 2.302"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/05",
-      "start": "2027-05-05",
-      "time": "3:00 PM - 4:00 PM",
-      "location": "Hybrid: HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
@@ -15581,31 +13245,11 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/06",
-      "start": "2027-05-06",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
       "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2027-05-11",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/11",
-      "start": "2027-05-11",
-      "time": "8:00 AM - 12:00 PM",
-      "location": "3.708A",
-      "speaker": null,
-      "end": null
     },
     {
       "source": "ut",
