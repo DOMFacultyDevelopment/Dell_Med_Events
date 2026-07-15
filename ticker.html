@@ -354,6 +354,9 @@ function renderTrack(trackId, events, speed, fallbackUrl) {
   requestAnimationFrame(() => {
     const labelW   = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--label-w'));
     const contentW = (track.scrollWidth - labelW) / 2;
+    // speed is pixels-per-second — duration scales with content width
+    // so a row with 10× more events scrolls for 10× longer at the same pace
+    const duration = contentW / speed;
     const styleId  = `kf-${trackId}`;
     let el = document.getElementById(styleId);
     if (!el) { el = document.createElement('style'); el.id = styleId; document.head.appendChild(el); }
@@ -363,7 +366,7 @@ function renderTrack(trackId, events, speed, fallbackUrl) {
         100% { transform: translateX(-${contentW}px); }
       }
     `;
-    track.style.animation = `scrollLeft-${trackId} ${speed}s linear infinite`;
+    track.style.animation = `scrollLeft-${trackId} ${duration.toFixed(1)}s linear infinite`;
   });
 }
 
@@ -453,6 +456,10 @@ const DEMO_EVENTS = {
 
 /* ── Bootstrap ── */
 async function init() {
+  // Pixels-per-second — all rows scroll at this same visual speed.
+  // Increase to scroll faster, decrease to scroll slower.
+  const PX_PER_SEC = 80;
+
   // ── Public row ──
   let publicEvents = null;
   try { publicEvents = await loadFromCalendarPage('public'); } catch (_) {}
@@ -462,22 +469,18 @@ async function init() {
     } catch (_) {}
   }
   if (!publicEvents || publicEvents.length === 0) publicEvents = DEMO_EVENTS.public;
-  renderTrack('track-public', publicEvents, 90, SOURCES.public.url);
+  renderTrack('track-public', publicEvents, PX_PER_SEC, SOURCES.public.url);
 
-  // ── Internal row — always loads from internal-events.json ──
+  // ── Internal row — loads from data/internal-events.json ──
   let internalEvents = await loadInternalJSON();
   if (!internalEvents || internalEvents.length === 0) {
-    // Last-resort fallback: link to intranet events page
     internalEvents = [{
       title:    'Visit the Dell Med Intranet for upcoming internal events',
-      date:     '',
-      time:     '',
-      location: '',
-      category: '',
+      isoDate:  '', time: '', location: '', category: '',
       url:      SOURCES.internal.url,
     }];
   }
-  renderTrack('track-internal', internalEvents, 80, SOURCES.internal.url);
+  renderTrack('track-internal', internalEvents, PX_PER_SEC, SOURCES.internal.url);
 
   // ── UT Austin row ──
   let utEvents = null;
@@ -488,7 +491,7 @@ async function init() {
     } catch (_) {}
   }
   if (!utEvents || utEvents.length === 0) utEvents = DEMO_EVENTS.ut;
-  renderTrack('track-ut', utEvents, 100, SOURCES.ut.url);
+  renderTrack('track-ut', utEvents, PX_PER_SEC, SOURCES.ut.url);
 }
 
 init();
