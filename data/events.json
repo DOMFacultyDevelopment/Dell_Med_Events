@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-16T08:19:44.519305+00:00",
+  "updated": "2026-07-16T19:17:42.846982+00:00",
   "counts": {
-    "public": 8,
+    "public": 10,
     "internal": 267,
-    "ut": 1876
+    "ut": 1883
   },
   "events": [
     {
@@ -3603,6 +3603,15 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
+      "source": "public",
+      "title": "Pediatric Grand Rounds: From Silos to Systems: Integrating Behavioral Health in Pediatrics",
+      "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-integrating-behavioral-health",
+      "start": "2026-08-21",
+      "time": "12\u20131 p.m.",
+      "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom",
+      "speaker": "Alba Pergjika, M.D., MPH"
+    },
+    {
       "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
@@ -3955,7 +3964,7 @@
       "title": "AMPATH/MAPAS M\u00e9xico Monthly Seminar: Gerontology",
       "url": "https://dellmed.utexas.edu/events/ampath-mapas-m\u00e9xico-monthly-seminar-gerontology",
       "start": "2026-08-27",
-      "time": "12\u20131 p.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Zoom"
     },
     {
@@ -4766,6 +4775,15 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "public",
+      "title": "Neurology Grand Rounds: Neuroimaging in Multiple Sclerosis",
+      "url": "https://dellmed.utexas.edu/events/neurology-grand-rounds-neuroimaging-in-multiple-sclerosis",
+      "start": "2026-09-08",
+      "time": "7:30\u20138:30 a.m.",
+      "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
+      "speaker": "Rohit Bakshi, M.D."
     },
     {
       "source": "ut",
@@ -5866,6 +5884,13 @@
     },
     {
       "source": "ut",
+      "title": "Mrs. Doubtfire",
+      "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
+      "start": "2026-09-23",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-09-23",
@@ -5946,6 +5971,13 @@
     },
     {
       "source": "ut",
+      "title": "Mrs. Doubtfire",
+      "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
+      "start": "2026-09-24",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-24",
@@ -6016,6 +6048,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-09-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Mrs. Doubtfire",
+      "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
+      "start": "2026-09-25",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "internal",
@@ -6092,6 +6131,13 @@
     },
     {
       "source": "ut",
+      "title": "Mrs. Doubtfire",
+      "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
+      "start": "2026-09-26",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-26",
@@ -6152,6 +6198,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-09-27",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Mrs. Doubtfire",
+      "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
+      "start": "2026-09-27",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -9448,6 +9501,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "TBD",
+      "url": "https://calendar.utexas.edu/event/tbd-8576",
+      "start": "2026-11-12",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
     },
     {
       "source": "internal",
@@ -14071,6 +14131,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "The Legend of Korra in Concert",
+      "url": "https://calendar.utexas.edu/event/the-legend-of-korra-in-concert",
+      "start": "2027-02-14",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
