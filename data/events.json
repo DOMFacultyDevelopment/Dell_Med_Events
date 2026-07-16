@@ -1,177 +1,11 @@
 {
-  "updated": "2026-07-15T20:26:06.924128+00:00",
+  "updated": "2026-07-16T08:19:44.519305+00:00",
   "counts": {
     "public": 8,
-    "internal": 271,
-    "ut": 1890
+    "internal": 267,
+    "ut": 1876
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "& Juliet",
-      "url": "https://calendar.utexas.edu/event/juliet",
-      "start": "2026-07-15",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
-      "start": "2026-07-15",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
-      "start": "2026-07-15",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-15",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Annual Wellness & Benefits Fair + UT First at Dell Med",
-      "url": "https://intranet.dellmed.utexas.edu/event/1004986/",
-      "start": "2026-07-15",
-      "time": "7:30am \u2013 9:30am",
-      "location": "HDB Courtyard, First Floor Atrium",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-15",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-07-15",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-07-15",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-15",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-15",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 LIFT Consulting Application",
-      "url": "https://calendar.utexas.edu/event/fall-2026-lift-consulting-application",
-      "start": "2026-07-15",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/15",
-      "start": "2026-07-15",
-      "time": "3:00pm \u2013 4:00pm",
-      "location": "HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-15",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-15",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-15",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-15",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-15",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "Town Hall: Epic Summer Upgrade",
-      "url": "https://intranet.dellmed.utexas.edu/event/1032604/",
-      "start": "2026-07-15",
-      "time": "10:00am \u2013 11:00am",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "Virtual Epic Support Office Hours - Wednesdays at 7AM",
-      "url": "https://intranet.dellmed.utexas.edu/event/1023712/2026/07/15",
-      "start": "2026-07-15",
-      "time": "7:00am \u2013 8:00am",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Wellness and Benefits Fair + UT FIRST",
-      "url": "https://calendar.utexas.edu/event/wellness-and-benefits-fair-ut-first",
-      "start": "2026-07-15",
-      "location": "UTHA/Dell Medical School\\, Health Discovery Building"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-15",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "& Juliet",
@@ -4123,6 +3957,13 @@
       "start": "2026-08-27",
       "time": "12\u20131 p.m.",
       "location": "Zoom"
+    },
+    {
+      "source": "ut",
+      "title": "Beginning and Advanced Case Interview Workshop with Management Consulted",
+      "url": "https://calendar.utexas.edu/event/beginning-and-advanced-case-interview-workshop-with-management-consulted",
+      "start": "2026-08-27",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -15862,6 +15703,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-06-15",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/15",
@@ -15870,6 +15718,20 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
+      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
+      "start": "2027-06-15",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-06-16",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
