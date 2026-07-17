@@ -1,155 +1,11 @@
 {
-  "updated": "2026-07-16T19:17:42.846982+00:00",
+  "updated": "2026-07-17T08:15:54.368277+00:00",
   "counts": {
-    "public": 10,
-    "internal": 267,
-    "ut": 1883
+    "public": 11,
+    "internal": 261,
+    "ut": 1932
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "& Juliet",
-      "url": "https://calendar.utexas.edu/event/juliet",
-      "start": "2026-07-16",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-16",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/07/16",
-      "start": "2026-07-16",
-      "time": "1:30pm \u2013 2:30pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-07-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-16",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/16",
-      "start": "2026-07-16",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-16",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/07/16",
-      "start": "2026-07-16",
-      "time": "12:00pm \u2013 1:00pm",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-16",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-16",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/16",
-      "start": "2026-07-16",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "The Future of Medicine Speaker Series: A Team Science Approach To Build a Learning Health Ecosystem",
-      "url": "https://intranet.dellmed.utexas.edu/event/1029067/",
-      "start": "2026-07-16",
-      "time": "10:30am \u2013 11:30am",
-      "location": "HLB 1.111 Auditorium",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "UT Health Austin July Lunch & Learn",
-      "url": "https://intranet.dellmed.utexas.edu/event/1029289/",
-      "start": "2026-07-16",
-      "time": "12:00pm \u2013 1:00pm",
-      "location": "HTB 10.114 or Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-16",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "& Juliet",
@@ -274,6 +130,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-18",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-18",
@@ -365,6 +228,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-19",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-19",
@@ -439,6 +309,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-20",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-20",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -537,6 +414,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-21",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-21",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -714,6 +598,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-22",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-07-22",
@@ -822,6 +713,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-23",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-23",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -950,6 +848,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-24",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-24",
@@ -1034,6 +939,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-25",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-25",
@@ -1101,6 +1013,13 @@
       "url": "https://calendar.utexas.edu/event/annual-enrollment",
       "start": "2026-07-26",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-26",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1195,6 +1114,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-27",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-27",
@@ -1283,6 +1209,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-28",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-28",
+      "location": "Cactus Cafe"
     },
     {
       "source": "public",
@@ -1472,6 +1405,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-29",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-07-29",
@@ -1594,6 +1534,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-30",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-30",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1726,6 +1673,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-07-31",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-07-31",
@@ -1813,6 +1767,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-01",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-01",
@@ -1880,6 +1841,13 @@
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-01",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-02",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1967,6 +1935,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-03",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-03",
@@ -2020,6 +1995,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-04",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-04",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2162,6 +2144,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-05",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-05",
@@ -2253,6 +2242,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-06",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-06",
+      "location": "Cactus Cafe"
     },
     {
       "source": "internal",
@@ -2391,6 +2387,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-07",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-07",
@@ -2469,6 +2472,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-08",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-08",
@@ -2536,6 +2546,13 @@
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-08",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-09",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2616,6 +2633,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-10",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-10",
@@ -2692,6 +2716,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-11",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-11",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2823,6 +2854,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-12",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-12",
@@ -2914,6 +2952,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-13",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-13",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3017,6 +3062,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-14",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-14",
@@ -3097,6 +3149,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-15",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-15",
@@ -3153,6 +3212,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-16",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-16",
@@ -3199,6 +3265,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-17",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-17",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3262,6 +3335,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates",
       "start": "2026-08-18",
       "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-18",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3369,6 +3449,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-19",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "CPDS Workshop: Open Publishing",
       "url": "https://calendar.utexas.edu/event/cpds-workshop-open-publishing",
       "start": "2026-08-19",
@@ -3453,6 +3540,13 @@
       "url": "https://calendar.utexas.edu/event/american-heart-association-basic-life-support-instructor-candidate-training",
       "start": "2026-08-20",
       "location": "\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-20",
+      "location": "Cactus Cafe"
     },
     {
       "source": "internal",
@@ -3576,6 +3670,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-21",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-21",
@@ -3641,6 +3742,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-22",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-22",
@@ -3687,6 +3795,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-arizona-state-2068",
       "start": "2026-08-22",
       "location": "Milwaukee\\, Wisc.\\, Fiserv Forum"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-23",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3746,6 +3861,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-24",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-24",
@@ -3792,6 +3914,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-marquette",
       "start": "2026-08-24",
       "location": "Milwaukee\\, Wisc.\\, Fiserv Forum"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-25",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3895,6 +4024,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-26",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-26",
@@ -3973,6 +4109,13 @@
       "url": "https://calendar.utexas.edu/event/beginning-and-advanced-case-interview-workshop-with-management-consulted",
       "start": "2026-08-27",
       "location": "Virtual"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-27",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4069,6 +4212,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-28",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-28",
@@ -4142,6 +4292,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-29",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-29",
@@ -4181,6 +4338,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-tcu-6449",
       "start": "2026-08-29",
       "location": "Las Vegas\\, Nev.\\, T-Mobile Arena"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-30",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4226,6 +4390,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-08-31",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-31",
@@ -4258,6 +4429,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-incarnate-word",
       "start": "2026-08-31",
       "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-01",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4340,6 +4518,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-02",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-02",
@@ -4403,6 +4588,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-usc",
       "start": "2026-09-02",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-03",
+      "location": "Cactus Cafe"
     },
     {
       "source": "internal",
@@ -4485,6 +4677,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-04",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-04",
@@ -4527,6 +4726,13 @@
     },
     {
       "source": "ut",
+      "title": "Opening Reception: Experimental Seeing and How to Grow the Cowpea",
+      "url": "https://calendar.utexas.edu/event/opening-reception-experimental-seeing-and-how-to-grow-the-cowpea",
+      "start": "2026-09-04",
+      "location": "Visual Arts Center\\, Art Building (ART)\\, Visual Arts Center"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-04",
@@ -4538,6 +4744,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-04",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-05",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4611,6 +4824,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-06",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-06",
@@ -4667,6 +4887,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-07",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-07",
@@ -4713,6 +4940,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-tcu",
       "start": "2026-09-07",
       "location": "Fort Worth\\, Texas\\, Garvey-Rosenthal Soccer Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-08",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4811,6 +5045,13 @@
     },
     {
       "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-09",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-09",
@@ -4891,6 +5132,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-smu",
       "start": "2026-09-09",
       "location": "Dallas\\, Texas\\, Moody Coliseum"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-10",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -5015,6 +5263,13 @@
     },
     {
       "source": "ut",
+      "title": "Emma Grace Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/emma-grace-live-at-the-cactus-cafe",
+      "start": "2026-09-11",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-09-11",
@@ -5071,6 +5326,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-arkansas",
       "start": "2026-09-11",
       "location": "Fayetteville\\, Ark.\\, Razorback Field"
+    },
+    {
+      "source": "ut",
+      "title": "B-Side Quartet Live at the Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/b-side-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-12",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -7641,6 +7903,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-16",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Tenlons Fort: \u201cDon\u2019t Be Scared\u201d A Tribute to Daniel Johnston and other Cinematic Reflections.",
+      "url": "https://calendar.utexas.edu/event/tenlons-fort-dont-be-scared-a-tribute-to-daniel-johnston-and-other-cinematic-reflections",
+      "start": "2026-10-16",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -11283,6 +11552,14 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-09",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "public",
+      "title": "2026 Pediatric to Adult Cardio A.I. Conference: Digital Twins",
+      "url": "https://dellmed.utexas.edu/events/peds-cardio-ai-conference-2026",
+      "start": "2026-12-10",
+      "time": null,
+      "location": "AT&amp;T Executive Education and Conference Center"
     },
     {
       "source": "ut",
@@ -14955,6 +15232,13 @@
     },
     {
       "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-03-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-03-06",
@@ -15438,6 +15722,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "TBD",
+      "url": "https://calendar.utexas.edu/event/tbd-8667",
+      "start": "2027-04-22",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
     },
     {
       "source": "ut",
