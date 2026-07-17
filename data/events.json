@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-17T08:15:54.368277+00:00",
+  "updated": "2026-07-17T19:15:44.981850+00:00",
   "counts": {
     "public": 11,
     "internal": 261,
-    "ut": 1932
+    "ut": 1931
   },
   "events": [
     {
@@ -344,13 +344,6 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-07-20",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "International Conference on Diabetes and Endocrinology 2026",
-      "url": "https://calendar.utexas.edu/event/international-conference-on-diabetes-and-endocrinology-2026",
-      "start": "2026-07-20",
-      "location": null
     },
     {
       "source": "ut",
