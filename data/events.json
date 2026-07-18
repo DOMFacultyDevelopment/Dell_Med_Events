@@ -1,119 +1,11 @@
 {
-  "updated": "2026-07-17T19:15:44.981850+00:00",
+  "updated": "2026-07-18T07:58:06.555150+00:00",
   "counts": {
     "public": 11,
-    "internal": 261,
-    "ut": 1931
+    "internal": 260,
+    "ut": 1926
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "& Juliet",
-      "url": "https://calendar.utexas.edu/event/juliet",
-      "start": "2026-07-17",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-17",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-17",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-17",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-17",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/07/17",
-      "start": "2026-07-17",
-      "time": "8:00am \u2013 9:00am",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-17",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES",
-      "url": "https://calendar.utexas.edu/event/tamales",
-      "start": "2026-07-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "The JAMBS Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/the-jambs-live-at-the-cactus-cafe",
-      "start": "2026-07-17",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-17",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "& Juliet",
@@ -1607,6 +1499,13 @@
     },
     {
       "source": "ut",
+      "title": "Identify and Prioritize Your Savings Goals",
+      "url": "https://calendar.utexas.edu/event/identify-and-prioritize-your-savings-goals",
+      "start": "2026-07-30",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-07-30",
@@ -2865,6 +2764,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-12",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Fundamentals of Retirement Income Planning",
+      "url": "https://calendar.utexas.edu/event/fundamentals-of-retirement-income-planning",
+      "start": "2026-08-12",
+      "location": "Virtual Event"
     },
     {
       "source": "internal",
@@ -5621,6 +5527,13 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
+      "source": "ut",
+      "title": "Maximize Social Security in Your Retirement Strategy",
+      "url": "https://calendar.utexas.edu/event/maximize-social-security-in-your-retirement-strategy",
+      "start": "2026-09-16",
+      "location": "Virtual Event"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/09/16",
@@ -6351,6 +6264,13 @@
     },
     {
       "source": "ut",
+      "title": "Chamber Orchestra",
+      "url": "https://calendar.utexas.edu/event/chamber-orchestra-5337",
+      "start": "2026-09-26",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "Chris Duarte Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/chris-duarte-live-at-the-cactus-cafe",
       "start": "2026-09-26",
@@ -6488,6 +6408,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-kentucky-2272",
       "start": "2026-09-27",
       "location": "Lexington\\, Ky."
+    },
+    {
+      "source": "ut",
+      "title": "Wind Symphony",
+      "url": "https://calendar.utexas.edu/event/wind-symphony-1633",
+      "start": "2026-09-27",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "internal",
@@ -6970,6 +6897,13 @@
     },
     {
       "source": "ut",
+      "title": "Symphony Band",
+      "url": "https://calendar.utexas.edu/event/symphony-band-4203",
+      "start": "2026-10-04",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Soccer vs Oklahoma",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-oklahoma-6248",
       "start": "2026-10-04",
@@ -7244,6 +7178,13 @@
     },
     {
       "source": "ut",
+      "title": "University Orchestra",
+      "url": "https://calendar.utexas.edu/event/university-orchestra-5685",
+      "start": "2026-10-07",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
       "start": "2026-10-08",
@@ -7425,6 +7366,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-10-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Jazz Band\\, Ensemble &amp\\;amp\\; Orchestra",
+      "url": "https://calendar.utexas.edu/event/jazz-band-ensemble-ampamp-orchestra",
+      "start": "2026-10-10",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -15257,6 +15205,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-08",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-03-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
