@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-18T07:58:06.555150+00:00",
+  "updated": "2026-07-18T19:10:10.755732+00:00",
   "counts": {
     "public": 11,
     "internal": 260,
-    "ut": 1926
+    "ut": 1927
   },
   "events": [
     {
@@ -14553,6 +14553,13 @@
     },
     {
       "source": "ut",
+      "title": "TBD",
+      "url": "https://calendar.utexas.edu/event/tbd-5709",
+      "start": "2027-02-18",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-19",
@@ -15662,6 +15669,13 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
+      "source": "ut",
+      "title": "Envy and History: Demonic Causes of Historical Change in Late Antiquity",
+      "url": "https://calendar.utexas.edu/event/tbd-8667",
+      "start": "2027-04-22",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/22",
@@ -15670,13 +15684,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TBD",
-      "url": "https://calendar.utexas.edu/event/tbd-8667",
-      "start": "2027-04-22",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
     },
     {
       "source": "ut",
