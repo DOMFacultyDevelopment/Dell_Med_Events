@@ -1,95 +1,11 @@
 {
-  "updated": "2026-07-19T19:11:07.929644+00:00",
+  "updated": "2026-07-20T09:21:46.802721+00:00",
   "counts": {
     "public": 11,
     "internal": 260,
-    "ut": 1922
+    "ut": 1911
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "& Juliet",
-      "url": "https://calendar.utexas.edu/event/juliet",
-      "start": "2026-07-19",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-19",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-19",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-19",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Movement Disorder Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/movement-disorder-live-at-the-cactus-cafe",
-      "start": "2026-07-19",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-19",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-19",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "World Cup Viewing in the Texas Union",
-      "url": "https://calendar.utexas.edu/event/world-cup-viewing-in-the-texas-union",
-      "start": "2026-07-19",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "Annual Enrollment",
@@ -11114,6 +11030,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-03",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Richard Topcliffe and John Foxe",
+      "url": "https://calendar.utexas.edu/event/richard-topcliffe-and-john-foxe",
+      "start": "2026-12-03",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
     },
     {
       "source": "internal",
