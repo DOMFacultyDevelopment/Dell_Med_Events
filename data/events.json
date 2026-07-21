@@ -1,102 +1,11 @@
 {
-  "updated": "2026-07-20T19:47:03.090936+00:00",
+  "updated": "2026-07-21T08:34:37.105265+00:00",
   "counts": {
     "public": 11,
     "internal": 260,
-    "ut": 1911
+    "ut": 1901
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-20",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-20",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Christian Faculty and Staff Network hosts UT Women's Prayer Group",
-      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-hosts-ut-womens-prayer-group-6683",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-20",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-20",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-20",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Support Students' Passion for Public Health and Emergency Response Across the UT Austin Community",
-      "url": "https://calendar.utexas.edu/event/support-students-passion-for-public-health-and-emergency-response-across-the-ut-austin-community",
-      "start": "2026-07-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Wheelchair/Adaptive Tennis and Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-07-20",
-      "location": "Whitaker Courts"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification Renewal",
@@ -2821,6 +2730,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Soccer vs HCU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-hcu",
+      "start": "2026-08-13",
+      "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
+    },
+    {
+      "source": "ut",
       "title": "Apply: Fall ESL classes",
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-14",
@@ -2905,13 +2821,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-08-14",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Soccer vs HCU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-hcu",
-      "start": "2026-08-14",
-      "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
     },
     {
       "source": "ut",
@@ -3989,6 +3898,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-08-28",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "College of Education Graduate Student Welcome",
+      "url": "https://calendar.utexas.edu/event/college-of-education-graduate-student-welcome",
+      "start": "2026-08-28",
+      "location": "George I. Sanchez Building (SZB)\\, SZB 3.110"
     },
     {
       "source": "ut",
@@ -7359,6 +7275,20 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Symphony Orchestra",
+      "url": "https://calendar.utexas.edu/event/symphony-orchestra-76",
+      "start": "2026-10-12",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "Anton Nel &amp\\;amp\\; Friends",
+      "url": "https://calendar.utexas.edu/event/anton-nel-ampamp-friends",
+      "start": "2026-10-13",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
