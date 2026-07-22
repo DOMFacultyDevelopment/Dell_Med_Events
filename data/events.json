@@ -1,185 +1,11 @@
 {
-  "updated": "2026-07-21T19:36:32.023961+00:00",
+  "updated": "2026-07-22T08:34:16.070633+00:00",
   "counts": {
     "public": 11,
-    "internal": 260,
-    "ut": 1901
+    "internal": 258,
+    "ut": 1884
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-915",
-      "start": "2026-07-21",
-      "location": "Nursing School (NUR)\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
-      "start": "2026-07-21",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-21",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-21",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "CONNECT: Masters\\, PhD\\, and Postdoc Information Session",
-      "url": "https://calendar.utexas.edu/event/connect-masters-phd-and-postdoc-information-session-6030",
-      "start": "2026-07-21",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-07-21",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-21",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-21",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Disability in the News",
-      "url": "https://calendar.utexas.edu/event/disability-in-the-news-52",
-      "start": "2026-07-21",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/21",
-      "start": "2026-07-21",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-21",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-21",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Opportunity to provide input on Texas HOMES and HEAR Rebate programs",
-      "url": "https://calendar.utexas.edu/event/opportunity-to-provide-input-on-texas-homes-and-hear-rebate-programs",
-      "start": "2026-07-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-21",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Stock Austin\u2019s Sneak Peek 2026",
-      "url": "https://calendar.utexas.edu/event/summer-stock-austins-sneak-peek-2026",
-      "start": "2026-07-21",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Storytime 2026",
-      "url": "https://calendar.utexas.edu/event/summer-storytime-2026",
-      "start": "2026-07-21",
-      "location": "Blanton Museum of Art (BMA)"
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2026-07-21",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/21",
-      "start": "2026-07-21",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Web Content Management Office Hours - July 21\\, 2026",
-      "url": "https://calendar.utexas.edu/event/web-content-management-office-hours-july-21-2026",
-      "start": "2026-07-21",
-      "location": "Microsoft Teams"
-    },
-    {
-      "source": "ut",
-      "title": "Wellness and Benefits Fair + UT FIRST",
-      "url": "https://calendar.utexas.edu/event/wellness-and-benefits-fair-ut-first",
-      "start": "2026-07-21",
-      "location": "UTHA/Dell Medical School\\, Health Discovery Building"
-    },
-    {
-      "source": "ut",
-      "title": "Wellness and Benefits Fair + UT First",
-      "url": "https://calendar.utexas.edu/event/wellness-and-benefits-fair-ut-first-3300",
-      "start": "2026-07-21",
-      "location": "Main Campus\\, Gregory Gym"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -1537,6 +1363,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-02",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Landmarks August Public Tour - The Art of Storytelling",
+      "url": "https://calendar.utexas.edu/event/landmarks-august-public-tour-the-art-of-storytelling",
+      "start": "2026-08-02",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)\\, Bass Concert Hall"
     },
     {
       "source": "ut",
@@ -4814,6 +4647,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-smu",
       "start": "2026-09-09",
       "location": "Dallas\\, Texas\\, Moody Coliseum"
+    },
+    {
+      "source": "ut",
+      "title": "Ben Goodman Quartet Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/ben-goodman-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-10",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -9710,6 +9550,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Baylor",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-baylor",
+      "start": "2026-11-15",
+      "location": "San Antonio\\, Texas"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs LSU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-lsu-9183",
       "start": "2026-11-15",
@@ -12968,6 +12815,13 @@
     },
     {
       "source": "ut",
+      "title": "TBD",
+      "url": "https://calendar.utexas.edu/event/tbd-9339",
+      "start": "2027-01-14",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-15",
@@ -15101,6 +14955,13 @@
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-03-10",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2027-03-11",
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
