@@ -3,7 +3,7 @@ Dell Med Events Calendar Generator
 -----------------------------------
 Combines three event sources:
   1. Public events  — scraped from dellmed.utexas.edu via RSS.app feed
-  2. Internal events — from internal-events.json
+  2. Internal events — extracted from RAW_EVENTS in index.html (ticker)
   3. Manual overrides — from internal-events.json (optional, for additions/edits)
 
 Outputs:
@@ -21,16 +21,15 @@ from bs4 import BeautifulSoup
 
 # ── Config ───────────────────────────────────────────────────────────────────
 RSS_URL       = "https://rss.app/feeds/UXQywtXV9kG72UyK.xml"
-UT_RSS_URL    = "https://calendar.utexas.edu/calendar.rss?school=austin"
 ICS_FILE      = "dell-med-events.ics"
 HTML_FILE     = "calendar.html"
-INDEX_FILE    = "index.html"          # monthly calendar page — rebuilt each run
+TICKER_FILE   = "index.html"
+JSON_FILE     = "data/events.json"      # consumed by index.html ticker/list view
 OVERRIDE_FILE = "internal-events.json"
 TIMEZONE      = "America/Chicago"
 CALENDAR_NAME = "Dell Med Events"
 CALENDAR_DESC = "Events from Dell Medical School at UT Austin"
-GITHUB_BASE   = "https://domfacultydevelopment.github.io/Dell_Med_Events"
-TICKER_URL    = "https://domfacultydevelopment.github.io/Dell_Med_Events/ticker.html"
+GITHUB_BASE   = "https://michael-dean22.github.io/Dell_Med_Events"
 # ─────────────────────────────────────────────────────────────────────────────
 
 MONTH_MAP = {
@@ -171,249 +170,161 @@ def scrape_event_page(url):
 
 
 def fetch_public_events():
-    """Scrape events directly from dellmed.utexas.edu/events.
-    Falls back to the RSS.app feed if direct scraping fails.
-    """
-    print("📡 Fetching Dell Med public events (direct scrape)...")
-    HEADERS = {
-        "User-Agent": "Mozilla/5.0 (compatible; DellMedCalendar/1.0)",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    }
-
-    event_links = []
-
-    # Scrape multiple pages of the events listing
-    for page in range(0, 4):  # pages 0-3 covers ~60 upcoming events
-        url = f"https://dellmed.utexas.edu/events?page={page}" if page > 0 else "https://dellmed.utexas.edu/events"
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=15)
-            resp.raise_for_status()
-        except Exception as e:
-            print(f"  ⚠ Could not fetch events page {page}: {e}")
-            break
-
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        # Dell Med uses Drupal — event links are /events/<slug>
-        found = set()
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            # Match event detail page URLs
-            if re.match(r'^/events/[a-z0-9\-]+$', href):
-                full = "https://dellmed.utexas.edu" + href
-                if full not in found:
-                    found.add(full)
-                    title = a.get_text(strip=True)
-                    if title:
-                        event_links.append((title, full))
-
-        if not found:
-            break  # no more pages
-
-    # Deduplicate preserving order
-    seen_urls = set()
-    unique_links = []
-    for title, url in event_links:
-        if url not in seen_urls:
-            seen_urls.add(url)
-            unique_links.append((title, url))
-
-    print(f"   Found {len(unique_links)} event links")
-
-    # Fallback: try RSS.app if we got nothing
-    if not unique_links:
-        print("   Falling back to RSS.app feed...")
-        try:
-            rss_items = fetch_rss_links(RSS_URL)
-            print(f"   RSS returned {len(rss_items)} items")
-            unique_links = rss_items
-        except Exception as e:
-            print(f"  ⚠ RSS fallback failed: {e}")
-
+    print("📡 Fetching RSS feed...")
+    rss_items = fetch_rss_links(RSS_URL)
+    print(f"   Found {len(rss_items)} events in feed")
     events = []
-    for i, (title, url) in enumerate(unique_links, 1):
-        print(f"   [{i}/{len(unique_links)}] Scraping: {title[:55]}...")
+    for i, (title, url) in enumerate(rss_items, 1):
+        print(f"   [{i}/{len(rss_items)}] Scraping: {title[:60]}...")
         ev = scrape_event_page(url)
         if ev:
-            ev["source"] = "public"
             events.append(ev)
-
     print(f"   ✓ {len(events)} public events scraped")
+    return events
+
+
+# ── Source 1b: UT Austin events via Texas Today RSS ─────────────────────────
+
+UT_RSS_URL = "https://calendar.utexas.edu/calendar.xml"
+
+def fetch_ut_events():
+    """Fetch upcoming UT Austin events from the Texas Today Localist RSS feed."""
+    print("📡 Fetching UT Austin events from Texas Today RSS...")
+    try:
+        resp = requests.get(UT_RSS_URL, timeout=15)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ⚠ Could not fetch UT RSS: {e}")
+        return []
+
+    soup = BeautifulSoup(resp.content, "lxml-xml")
+    events = []
+
+    for item in soup.find_all("item"):
+        title_el = item.find("title")
+        link_el  = item.find("link")
+        pub_el   = item.find("pubDate")
+        desc_el  = item.find("description")
+
+        if not title_el or not link_el:
+            continue
+
+        title = title_el.get_text(strip=True)
+        url   = link_el.get_text(strip=True)
+
+        # Parse date from pubDate (RFC 2822 format)
+        date_str = ""
+        time_str = ""
+        if pub_el:
+            try:
+                from email.utils import parsedate_to_datetime
+                dt = parsedate_to_datetime(pub_el.get_text(strip=True))
+                dt_local = dt.astimezone(tz)
+                date_str = dt_local.strftime("%B %-d, %Y")
+                time_str = dt_local.strftime("%-I:%M %p")
+            except Exception:
+                pass
+
+        # Extract location from description if present
+        location = ""
+        if desc_el:
+            desc_text = desc_el.get_text(" ", strip=True)
+            # Localist often puts location after the event time in the description
+            loc_match = re.search(r'Location:\s*([^\n<]{2,80})', desc_text, re.I)
+            if loc_match:
+                location = loc_match.group(1).strip()
+
+        events.append({
+            "title":       title,
+            "url":         url,
+            "date_str":    date_str,
+            "time_str":    time_str,
+            "location":    location,
+            "description": f"UT Austin event. See full details at: {url}",
+            "source":      "ut",
+        })
+
+    print(f"   ✓ {len(events)} UT Austin events fetched")
     return events
 
 
 # ── Source 2: Internal events from index.html ticker ────────────────────────
 
 def extract_internal_events_from_ticker():
-    """Read internal events from internal-events.json.
-    Reads from internal-events.json."""
-    MONTH_NAMES = ["","January","February","March","April","May","June",
-                   "July","August","September","October","November","December"]
-
-    # ── Primary: internal-events.json ──────────────────────────────────────
+    """Read RAW_EVENTS from index.html. Uses bracket-depth counting to extract
+    the full array, then regex-parses each event object. Respects the source
+    field so public events in the ticker stay marked as public."""
     try:
-        with open(OVERRIDE_FILE, "r", encoding="utf-8") as f:
-            items = json.load(f)
-        if items:
-            events = []
-            for item in items:
-                date_ymd = item.get("date", "")
-                time_str = item.get("time", "")
-                title    = item.get("title", "")
-                url      = item.get("url", "")
-                location = item.get("location", "")
-                source   = item.get("source", "internal")
-                if not date_ymd or not title:
-                    continue
-                try:
-                    y, mo, d = date_ymd.split("-")
-                    date_str = f"{MONTH_NAMES[int(mo)]} {int(d)}, {y}"
-                except Exception:
-                    continue
-                events.append({
-                    "title":       title,
-                    "url":         url,
-                    "date_str":    date_str,
-                    "time_str":    time_str,
-                    "location":    location,
-                    "description": f"Dell Med internal event\\n\\nEvent page: {url}",
-                    "source":      source,
-                })
-            n_int = sum(1 for e in events if e["source"] == "internal")
-            n_pub = sum(1 for e in events if e["source"] == "public")
-            print(f"   ✓ {len(events)} events from {OVERRIDE_FILE} ({n_int} internal, {n_pub} public)")
-            return events
+        with open(TICKER_FILE, "r", encoding="utf-8") as f:
+            ticker_content = f.read()
     except FileNotFoundError:
-        pass
-    except Exception as e:
-        print(f"  ⚠ Could not load {OVERRIDE_FILE}: {e}")
-
-    # ── Fallback: scrape internal events from Cerebrum intranet ────────────
-    # The intranet requires login so we can only scrape what's publicly cached
-    print("  ℹ internal-events.json empty or missing — no internal events loaded")
-    print("    Add events to internal-events.json to include them.")
-    return []
-
-
-def fetch_ut_events():
-    """Fetch events from the UT Austin Localist calendar.
-    Tries the ICS feed first (most reliable), falls back to RSS.
-    """
-    MONTH_ABBR = {"jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,
-                  "jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12}
-    MONTH_NAMES = ["","January","February","March","April","May","June",
-                   "July","August","September","October","November","December"]
-    print("\n🤘 Fetching UT Austin Texas Today events...")
-
-    # Try multiple UT Austin calendar feed URLs
-    feed_urls = [
-        "https://calendar.utexas.edu/calendar.ics",
-        "https://calendar.utexas.edu/calendar.rss",
-        UT_RSS_URL,
-    ]
-
-    raw_content = None
-    feed_type   = None
-
-    for feed_url in feed_urls:
-        try:
-            resp = requests.get(feed_url, timeout=15,
-                                headers={"User-Agent": "Mozilla/5.0 (compatible; DellMedCalendar/1.0)"})
-            if resp.status_code == 200 and len(resp.content) > 200:
-                raw_content = resp.content
-                feed_type = "ics" if "VCALENDAR" in resp.text[:100] else "rss"
-                print(f"   Got {len(resp.content)} bytes from {feed_url} ({feed_type})")
-                break
-        except Exception as e:
-            print(f"  ⚠ {feed_url}: {e}")
-
-    if not raw_content:
-        print("  ⚠ All UT Austin feeds failed")
+        print("  ⚠ index.html not found — skipping ticker events")
         return []
 
+    m = re.search(r'const RAW_EVENTS\s*=\s*\[', ticker_content)
+    if not m:
+        print("  ⚠ RAW_EVENTS not found in index.html")
+        return []
+
+    # Bracket-depth walk to find the closing ]
+    sp = m.end() - 1
+    depth = 0
+    ep = sp
+    for i, ch in enumerate(ticker_content[sp:], sp):
+        if ch == '[':  depth += 1
+        elif ch == ']':
+            depth -= 1
+            if depth == 0:
+                ep = i + 1
+                break
+    raw_array = ticker_content[sp:ep]
+
+    month_names = ["","January","February","March","April","May","June",
+                   "July","August","September","October","November","December"]
+
+    def get_field(field, text):
+        # Match: field: "value"
+        pat = r'["\']?' + field + r'["\']?\s*:\s*"([^"]*)"'
+        hit = re.search(pat, text)
+        if hit: return hit.group(1)
+        # Match: field: 'value'
+        pat2 = r"[\"']?" + field + r"[\"']?\s*:\s*'([^']*)'"
+        hit2 = re.search(pat2, text)
+        if hit2: return hit2.group(1)
+        return ""
+
     events = []
+    for obj_m in re.finditer(r'\{([^{}]+)\}', raw_array, re.DOTALL):
+        obj = obj_m.group(1)
+        date_ymd = get_field("date",     obj)
+        if not date_ymd: continue
+        title    = get_field("title",    obj).replace('\\"', '"')
+        url      = get_field("url",      obj)
+        time_str = get_field("time",     obj)
+        location = get_field("location", obj)
+        source   = get_field("source",   obj) or "internal"
 
-    if feed_type == "ics":
-        # Parse ICS format
-        text = raw_content.decode("utf-8", errors="replace")
-        blocks = text.split("BEGIN:VEVENT")
-        for block in blocks[1:]:
-            def get(field):
-                m = re.search(rf'^{field}(?:;[^:]+)?:([^\r\n]+)', block, re.M)
-                return m.group(1).strip() if m else ""
+        try:
+            y, mo, d = date_ymd.split("-")
+            date_str = f"{month_names[int(mo)]} {int(d)}, {y}"
+        except Exception:
+            continue
 
-            title   = get("SUMMARY")
-            url     = get("URL") or get("ATTACH")
-            loc     = get("LOCATION")
-            dts     = get("DTSTART")
-            dte     = get("DTEND")
-            desc    = get("DESCRIPTION")
+        desc = "Dell Med event\\n\\nEvent page: " + url
+        events.append({
+            "title":       title,
+            "url":         url,
+            "date_str":    date_str,
+            "time_str":    time_str,
+            "location":    location,
+            "description": desc,
+            "source":      source,
+        })
 
-            if not title or not dts:
-                continue
-
-            try:
-                if "T" in dts:
-                    raw = dts.split(":")[-1].rstrip("Z")
-                    dt = datetime.strptime(raw, "%Y%m%dT%H%M%S")
-                else:
-                    dt = datetime.strptime(dts.split(":")[-1], "%Y%m%d")
-
-                date_str = f"{MONTH_NAMES[dt.month]} {dt.day}, {dt.year}"
-                if "T" in dts and dt.hour > 0:
-                    ap = "a.m." if dt.hour < 12 else "p.m."
-                    h12 = dt.hour % 12 or 12
-                    mi = f":{dt.minute:02d}" if dt.minute else ""
-                    time_str = f"{h12}{mi} {ap}"
-                else:
-                    time_str = ""
-            except Exception:
-                continue
-
-            events.append({
-                "title":       title.replace("\\,", ",").replace("\\;", ";"),
-                "url":         url or "https://calendar.utexas.edu/",
-                "date_str":    date_str,
-                "time_str":    time_str,
-                "location":    loc.replace("\\,", ","),
-                "description": desc.replace("\\n", " ")[:300] + f"\\n\\nEvent page: {url}",
-                "source":      "ut",
-            })
-
-    else:
-        # Parse RSS format
-        soup = BeautifulSoup(raw_content, "lxml-xml")
-        for item in soup.find_all("item"):
-            title_tag = item.find("title")
-            link_tag  = item.find("link")
-            pub_tag   = item.find("pubDate")
-            desc_tag  = item.find("description")
-            if not (title_tag and link_tag): continue
-            title = title_tag.get_text(strip=True)
-            url   = link_tag.get_text(strip=True)
-            date_str = time_str = ""
-            if pub_tag:
-                raw = pub_tag.get_text(strip=True)
-                dm = re.search(r'(\d{1,2})\s+(\w{3})\s+(\d{4})(?:\s+(\d{2}):(\d{2}))?', raw)
-                if dm:
-                    day, mon, year = dm.group(1), dm.group(2).lower(), dm.group(3)
-                    mo_num = MONTH_ABBR.get(mon, 0)
-                    if mo_num:
-                        date_str = f"{MONTH_NAMES[mo_num]} {int(day)}, {year}"
-                        if dm.group(4):
-                            h, mi = int(dm.group(4)), int(dm.group(5))
-                            ap = "a.m." if h < 12 else "p.m."
-                            h12 = h % 12 or 12
-                            time_str = f"{h12}:{mi:02d} {ap}" if mi else f"{h12} {ap}"
-            if not date_str: continue
-            events.append({
-                "title": title, "url": url, "date_str": date_str, "time_str": time_str,
-                "location": "", "description": f"Event page: {url}", "source": "ut",
-            })
-
-    print(f"   ✓ {len(events)} UT Austin events fetched")
+    n_int = sum(1 for e in events if e["source"] == "internal")
+    n_pub = sum(1 for e in events if e["source"] == "public")
+    print(f"   ✓ {len(events)} events from index.html ({n_int} internal, {n_pub} public)")
     return events
-
 
 def load_manual_overrides():
     """Load internal-events.json if it exists."""
@@ -500,24 +411,13 @@ def fold_line(line):
 
 def build_ics(events):
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-
-    VTIMEZONE = (
-        "BEGIN:VTIMEZONE\r\nTZID:America/Chicago\r\nX-LIC-LOCATION:America/Chicago\r\n"
-        "BEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0600\r\nTZOFFSETTO:-0500\r\nTZNAME:CDT\r\n"
-        "DTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\n"
-        "BEGIN:STANDARD\r\nTZOFFSETFROM:-0500\r\nTZOFFSETTO:-0600\r\nTZNAME:CST\r\n"
-        "DTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\n"
-        "END:VTIMEZONE"
-    )
-
     lines = [
-        "BEGIN:VCALENDAR", "VERSION:2.0",
+        "BEGIN:VCALENDAR","VERSION:2.0",
         "PRODID:-//Dell Medical School//Dell Med Events//EN",
         f"X-WR-CALNAME:{CALENDAR_NAME}",
         f"X-WR-CALDESC:{CALENDAR_DESC}",
         "X-WR-TIMEZONE:America/Chicago",
-        "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
-        VTIMEZONE,
+        "CALSCALE:GREGORIAN","METHOD:PUBLISH",
     ]
     count = 0
     for ev in events:
@@ -527,23 +427,12 @@ def build_ics(events):
         count += 1
         uid = str(uuid.uuid5(uuid.NAMESPACE_URL, ev["url"]))
         lines += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{now}"]
-
         if all_day:
-            # Use 8am-5pm instead of VALUE=DATE so Outlook shows timed event not all-day banner
-            try:
-                d = dtstart  # date object
-                ds_dt = tz.localize(datetime(d.year, d.month, d.day, 8, 0))
-                de_dt = tz.localize(datetime(d.year, d.month, d.day, 17, 0))
-                lines.append(f"DTSTART:{ds_dt.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
-                lines.append(f"DTEND:{de_dt.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
-            except Exception:
-                lines.append(f"DTSTART;VALUE=DATE:{dtstart.strftime('%Y%m%d')}")
-                lines.append(f"DTEND;VALUE=DATE:{dtstart.strftime('%Y%m%d')}")
+            lines.append(f"DTSTART;VALUE=DATE:{dtstart.strftime('%Y%m%d')}")
+            lines.append(f"DTEND;VALUE=DATE:{dtend.strftime('%Y%m%d')}")
         else:
-            # Emit as UTC so Outlook doesn't need TZID lookup
-            lines.append(f"DTSTART:{dtstart.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
-            lines.append(f"DTEND:{dtend.astimezone(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}")
-
+            lines.append(f"DTSTART;TZID=America/Chicago:{dtstart.strftime('%Y%m%dT%H%M%S')}")
+            lines.append(f"DTEND;TZID=America/Chicago:{dtend.strftime('%Y%m%dT%H%M%S')}")
         lines.append(fold_line(f"SUMMARY:{ics_escape(ev['title'])}"))
         if ev.get("location"):
             lines.append(fold_line(f"LOCATION:{ics_escape(ev['location'])}"))
@@ -559,7 +448,7 @@ def build_ics(events):
 # ── HTML Builder ─────────────────────────────────────────────────────────────
 
 def ev_to_html_json(ev):
-    """Convert a scraped event dict to a JSON-ready dict for index.html."""
+    """Convert a scraped event dict to a JSON-ready dict for calendar.html."""
     ds = re.sub(r'^[A-Za-z]+,\s*', '', (ev.get("date_str") or "").strip())
     m  = re.match(r'([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})', ds)
     if not m:
@@ -569,40 +458,29 @@ def ev_to_html_json(ev):
     if not month:
         return None
 
-    date_iso = f"{int(year):04d}-{month:02d}-{int(day):02d}"
-
-    # Parse actual start/end times
+    # Resolve actual start/end datetimes using the same parser as the ICS builder
     dtstart, dtend, all_day = parse_date_time(ev.get("date_str",""), ev.get("time_str",""))
 
-    if dtstart and not all_day:
-        start_iso = dtstart.strftime("%Y-%m-%dT%H:%M:%S")
-        end_iso   = dtend.strftime("%Y-%m-%dT%H:%M:%S") if dtend else start_iso
+    date_iso = f"{int(year):04d}-{month:02d}-{int(day):02d}"
 
-        def fmt(dt):
-            h  = dt.hour % 12 or 12
-            ap = "AM" if dt.hour < 12 else "PM"
-            mi = f":{dt.minute:02d}" if dt.minute else ""
-            return f"{h}{mi} {ap}"
-
-        start_time = fmt(dtstart)
-        end_time   = fmt(dtend) if dtend else ""
+    if all_day or dtstart is None:
+        start_iso = date_iso
+        end_iso   = date_iso
     else:
-        start_iso  = date_iso + "T08:00:00"
-        end_iso    = date_iso + "T17:00:00"
-        start_time = "8 AM"
-        end_time   = "5 PM"
+        # Store as local ISO strings (no timezone suffix) — calendar renders in local time
+        start_iso = dtstart.strftime("%Y-%m-%dT%H:%M:%S")
+        end_iso   = dtend.strftime("%Y-%m-%dT%H:%M:%S")
 
     return {
         "date":      date_iso,
-        "start":     start_iso,
-        "end":       end_iso,
-        "startTime": start_time,
-        "endTime":   end_time,
-        "time":      ev.get("time_str", ""),
+        "start":     start_iso,   # ISO datetime (or date-only if all-day)
+        "end":       end_iso,     # ISO datetime (or date-only if all-day)
+        "allDay":    all_day,
+        "time":      ev.get("time_str",""),
         "title":     ev["title"],
-        "location":  ev.get("location", ""),
-        "url":       ev.get("url", ""),
-        "source":    ev.get("source", "public"),
+        "location":  ev.get("location",""),
+        "url":       ev.get("url",""),
+        "source":    ev.get("source","public"),
     }
 
 
@@ -1028,147 +906,67 @@ renderCalendar();
 </html>"""
 
 
-
-def build_index_html(events):
-    """Build the Outlook-style monthly calendar index.html with all events embedded."""
-    import os
-
-    # Build ev list with proper ISO start/end times
-    ev_list = []
-    for ev in events:
-        d = ev_to_html_json(ev)
-        if d:
-            ev_list.append(d)
-
-    def clean(o):
-        if isinstance(o, str):
-            return o.encode("ascii", "xmlcharrefreplace").decode("ascii")
-        if isinstance(o, dict):
-            return {k: clean(v) for k, v in o.items()}
-        if isinstance(o, list):
-            return [clean(i) for i in o]
-        return o
-
-    ev_list = clean(ev_list)
-    ev_list.sort(key=lambda x: x.get("start", x.get("date", "")))
-    events_js = json.dumps(ev_list, ensure_ascii=True)
-
-    ICS_URL    = f"{GITHUB_BASE}/dell-med-events.ics"
-    TICKER_LINK = f"{GITHUB_BASE}/ticker.html"
-
-    # Read the existing index.html template (our monthly calendar)
-    # and replace just the embedded ALL= array so styles/logic stay current
-    try:
-        with open(INDEX_FILE, "r", encoding="utf-8", errors="replace") as f:
-            existing = f.read()
-
-        # Replace the ALL= array with fresh data
-        import re as _re
-        m = _re.search(r"var ALL=\[", existing)
-        if m:
-            sp = m.end() - 1
-            depth = 0
-            for i, ch in enumerate(existing[sp:], sp):
-                if ch == "[": depth += 1
-                elif ch == "]":
-                    depth -= 1
-                    if depth == 0:
-                        ep = i + 1
-                        break
-            new_content = existing[:m.start()] + "var ALL=" + events_js + existing[ep:]
-            with open(INDEX_FILE, "w", encoding="ascii", errors="xmlcharrefreplace") as f:
-                f.write(new_content)
-            print(f"   Updated existing {INDEX_FILE} with {len(ev_list)} fresh events")
-            return
-    except FileNotFoundError:
-        pass  # Fall through to build from scratch
-
-    # index.html doesn't exist yet — build it fresh
-    # (This happens on first run; after that we just update the ALL= array above)
-    print(f"   Building {INDEX_FILE} from scratch...")
-
-    CAT_RULES_JS = """
-var RULES=[
-  [/research.*office.?hour|office.?hour.*research/i,'Research'],
-  [/faculty affairs.*office.?hour|office.?hour.*faculty affairs/i,'FAff'],
-  [/medical education.*office.?hour|office.?hour.*medical education/i,'FDev'],
-  [/it office.?hour|office.?hour.*\\bit\\b/i,'Operations'],
-  [/grand.?rounds|visiting (prof|speaker)|case conference|tumor board|journal club|department lecture|neurology|neurosurgery|infectious disease|cardiology lecture|palliative|hospice|pediatric.*lecture/i,'CME'],
-  [/cme\\b|cpd\\b|continuing (medical|professional)|maintenance of cert|board prep/i,'CME'],
-  [/faculty (development|coaching|mentoring|peer|career|advancement|skills|writing)|dfpd|peer observation/i,'FDev'],
-  [/faculty affairs|tenure|promotion|annual review|cv workshop|dossier|academic affairs|office hour.*faculty|faculty.*office.?hour/i,'FAff'],
-  [/research|seminar|symposium|innovation|grant|pilot|publication|data science|biostat|cpan echo|cancer|oncology.*talk/i,'Research'],
-  [/operations|it office|epic|onboard|orientation|compliance|hipaa|cybersecurity|hr\\b|payroll|budget|finance|resource fair|match day|recruitment|interview|applicant|residency fair|town hall|employee/i,'Operations'],
-];
-function cat(title,src){
-  if(src==='ut') return 'UTAus';
-  for(var i=0;i<RULES.length;i++) if(RULES[i][0].test(title)) return RULES[i][1];
-  if(src==='internal') return 'Operations';
-  return 'CME';
-}"""
-
-    html = open(os.path.join(os.path.dirname(__file__), INDEX_FILE), "r",
-                encoding="utf-8", errors="replace").read() if os.path.exists(INDEX_FILE) else ""
-    # If still no file, write a minimal working page — but this path shouldn't normally hit
-    # since index.html should be in the repo already
-    if not html:
-        print(f"   WARNING: {INDEX_FILE} not found in repo. Skipping index.html build.")
-        print(f"   Please commit the index.html from the Claude chat output first.")
-        return
-
-    # Already handled above — shouldn't reach here
-    return
-
-
 def main():
     # 1. Public events from RSS scraping
     public_events = fetch_public_events()
 
-    # 2. UT Austin Texas Today calendar
+    # 1b. UT Austin events from Texas Today RSS
+    print("\n🤘 Fetching UT Austin events...")
     ut_events = fetch_ut_events()
 
-    # 3. Internal events from internal-events.json
-    print("\n📋 Loading internal events...")
+    # 2. Internal events from index.html ticker
+    print("\n📋 Extracting internal events from index.html...")
     internal_events = extract_internal_events_from_ticker()
 
-    # Combine all sources
-    all_events = public_events + ut_events + internal_events
+    # 3. Manual overrides from JSON file
+    print("\n📝 Loading manual overrides...")
+    manual_events = load_manual_overrides()
+    for ev in manual_events:
+        ev.setdefault("source", "internal")
 
-    # Deduplicate by (title, date_str) — keep last occurrence
+    # Combine all sources — manual overrides take priority (go last, dedup by title+date)
+    all_events = public_events + ut_events + internal_events + manual_events
+
+    # Deduplicate by (title, date_str) — keep last occurrence (manual wins)
     seen = {}
     for ev in all_events:
         key = (ev["title"].strip().lower(), (ev.get("date_str") or "").strip())
         seen[key] = ev
     combined = list(seen.values())
 
-    n_pub = sum(1 for e in combined if e.get("source") == "public")
-    n_int = sum(1 for e in combined if e.get("source") == "internal")
-    n_ut  = sum(1 for e in combined if e.get("source") == "ut")
     print(f"\n📊 Total combined events: {len(combined)}")
-    print(f"   Public:    {n_pub}")
-    print(f"   Internal:  {n_int}")
-    print(f"   UT Austin: {n_ut}")
+    print(f"   Public:   {sum(1 for e in combined if e.get('source')=='public')}")
+    print(f"   Internal: {sum(1 for e in combined if e.get('source')=='internal')}")
+    print(f"   UT Austin:{sum(1 for e in combined if e.get('source')=='ut')}")
 
-    # 4. Build ICS (UTC datetimes + VTIMEZONE — correct in Outlook)
+    # 4. Build ICS
     print("\n📅 Building ICS calendar...")
     with open(ICS_FILE, "w", encoding="utf-8") as f:
         f.write(build_ics(combined))
     print(f"✅ Saved {ICS_FILE}")
 
-    # 5. Build calendar.html (existing month/week/list view)
+    # 5. Build calendar.html
     print("\n🌐 Building calendar.html...")
     with open(HTML_FILE, "w", encoding="utf-8") as f:
         f.write(build_calendar_html(combined))
     print(f"✅ Saved {HTML_FILE}")
 
-    # 6. Build index.html (Outlook-style monthly grid with categories)
-    print("\n📆 Building index.html (monthly calendar)...")
-    build_index_html(combined)
-    print(f"✅ Saved {INDEX_FILE}")
+    # 6. Write data/events.json (consumed by index.html ticker/list view)
+    print("\n📄 Writing data/events.json...")
+    import os
+    os.makedirs("data", exist_ok=True)
+    ev_list_for_json = [d for ev in combined if (d := ev_to_html_json(ev)) is not None]
+    json_payload = {
+        "updated": datetime.now(timezone.utc).isoformat(),
+        "events":  ev_list_for_json,
+    }
+    with open(JSON_FILE, "w", encoding="utf-8") as f:
+        json.dump(json_payload, f, indent=2, ensure_ascii=False)
+    print(f"✅ Saved {JSON_FILE} ({len(ev_list_for_json)} events)")
 
     print(f"\n   Live at:")
-    print(f"   {GITHUB_BASE}/")
     print(f"   {GITHUB_BASE}/dell-med-events.ics")
+    print(f"   {GITHUB_BASE}/calendar.html")
 
 
 if __name__ == "__main__":
