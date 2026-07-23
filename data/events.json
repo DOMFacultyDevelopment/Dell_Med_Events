@@ -1,143 +1,11 @@
 {
-  "updated": "2026-07-22T19:25:39.348117+00:00",
+  "updated": "2026-07-23T08:35:41.609941+00:00",
   "counts": {
     "public": 11,
-    "internal": 258,
-    "ut": 1884
+    "internal": 256,
+    "ut": 1876
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
-      "start": "2026-07-22",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
-      "start": "2026-07-22",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-22",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-22",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-07-22",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-22",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-07-22",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-22",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-22",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-22",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "Epic Reporting Training Sessions",
-      "url": "https://intranet.dellmed.utexas.edu/event/1029294/2026/07/22",
-      "start": "2026-07-22",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-22",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "internal",
-      "title": "Lunch and Learn: Critical Appraisal Workshop",
-      "url": "https://intranet.dellmed.utexas.edu/event/1032087/",
-      "start": "2026-07-22",
-      "time": "12:15pm \u2013 1:15pm",
-      "location": "HLB 3.403",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-22",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-22",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-22",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-22",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Support Students' Passion for Public Health and Emergency Response Across the UT Austin Community",
-      "url": "https://calendar.utexas.edu/event/support-students-passion-for-public-health-and-emergency-response-across-the-ut-austin-community",
-      "start": "2026-07-22",
-      "location": null
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -1007,6 +875,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-07-30",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Asset allocation\\, diversification\\, and rebalancing",
+      "url": "https://calendar.utexas.edu/event/asset-allocation-diversification-and-rebalancing",
+      "start": "2026-07-30",
+      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -3229,6 +3104,13 @@
     },
     {
       "source": "ut",
+      "title": "Pretax vs. Roth Contributions",
+      "url": "https://calendar.utexas.edu/event/pretax-vs-roth-contributions",
+      "start": "2026-08-21",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-21",
@@ -5092,6 +4974,13 @@
     },
     {
       "source": "ut",
+      "title": "Successfully Navigating Conflict",
+      "url": "https://calendar.utexas.edu/event/successfully-navigating-conflict",
+      "start": "2026-09-15",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
       "title": "TAMALES - Texas Assistive Technology Makers Alliance",
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2026-09-15",
@@ -5759,6 +5648,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Leadership Skills in Conflict Management",
+      "url": "https://calendar.utexas.edu/event/leadership-skills-in-conflict-management",
+      "start": "2026-09-24",
+      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -7167,6 +7063,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "HR Essentials: Conflict and Communication",
+      "url": "https://calendar.utexas.edu/event/hr-essentials-conflict-and-communication",
+      "start": "2026-10-13",
+      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -11340,6 +11243,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Miami (Fla.)",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-miami-fla",
+      "start": "2026-12-12",
+      "location": "Houston\\, Texas\\, Toyota Center"
     },
     {
       "source": "ut",
@@ -15756,6 +15666,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-06-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/22",
@@ -15764,6 +15681,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-06-23",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
