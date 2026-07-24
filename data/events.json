@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-24T08:31:53.613515+00:00",
+  "updated": "2026-07-24T19:34:26.051161+00:00",
   "counts": {
     "public": 15,
     "internal": 254,
-    "ut": 2000
+    "ut": 2001
   },
   "events": [
     {
@@ -3627,6 +3627,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-tcu-6449",
       "start": "2026-08-29",
       "location": "Las Vegas\\, Nev.\\, T-Mobile Arena"
+    },
+    {
+      "source": "ut",
+      "title": "aUsTinite @ Downtown Farmers' Market",
+      "url": "https://calendar.utexas.edu/event/austinite-downtown-farmers-market",
+      "start": "2026-08-29",
+      "location": "West Mall SB Bus Stop"
     },
     {
       "source": "ut",
@@ -15884,6 +15891,13 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
+      "source": "ut",
+      "title": "Gemeinschaft of the Nonhuman: Spinoza in the Weimar Democratic Crisis",
+      "url": "https://calendar.utexas.edu/event/tbd-5653",
+      "start": "2027-03-11",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/11",
@@ -15892,13 +15906,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TBD",
-      "url": "https://calendar.utexas.edu/event/tbd-5653",
-      "start": "2027-03-11",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
     },
     {
       "source": "ut",
