@@ -1,116 +1,11 @@
 {
-  "updated": "2026-07-24T19:34:26.051161+00:00",
+  "updated": "2026-07-25T08:11:02.433606+00:00",
   "counts": {
     "public": 15,
     "internal": 254,
-    "ut": 2001
+    "ut": 1997
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-24",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-24",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-24",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-24",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-24",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "McCombs+ Partner Info Session",
-      "url": "https://calendar.utexas.edu/event/mccombs-partner-info-session-1881",
-      "start": "2026-07-24",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-24",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-24",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Stock Austin 2026 - Cinderella",
-      "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
-      "start": "2026-07-24",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Support Students' Passion for Public Health and Emergency Response Across the UT Austin Community",
-      "url": "https://calendar.utexas.edu/event/support-students-passion-for-public-health-and-emergency-response-across-the-ut-austin-community",
-      "start": "2026-07-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Texas String Assembly ft. Lia Graham Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/texas-string-assembly-ft-lia-graham-live-at-the-cactus-cafe",
-      "start": "2026-07-24",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "Annual Enrollment",
@@ -15924,9 +15819,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
       "start": "2027-03-16",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -16370,6 +16265,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-05-05",
+      "location": "WCP 2.302"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/05",
@@ -16378,6 +16280,13 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-05-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -16390,6 +16299,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-05-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/11",
@@ -16398,6 +16314,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-05-12",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
@@ -16410,6 +16333,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-05-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/18",
@@ -16418,6 +16348,20 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
+      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
+      "start": "2027-05-18",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-05-19",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
@@ -16450,6 +16394,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-05-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/25",
@@ -16460,6 +16411,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-05-26",
+      "location": "WCP 2.302"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/27",
@@ -16468,6 +16426,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-06-01",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -16488,6 +16453,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-06-02",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
