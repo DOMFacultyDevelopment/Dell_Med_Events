@@ -1,95 +1,11 @@
 {
-  "updated": "2026-07-26T19:17:00.012710+00:00",
+  "updated": "2026-07-27T09:57:58.201518+00:00",
   "counts": {
     "public": 15,
     "internal": 254,
-    "ut": 1994
+    "ut": 1982
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-26",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-26",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-26",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "H-E-B Free Fourth Sunday",
-      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
-      "start": "2026-07-26",
-      "location": "Texas Science & Natural History Museum"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-26",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-26",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-26",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Semiquincentennial 7 Songwriter Salon Ft Philip Gibbs\\,  HalleyAnna Finlay\\, Brandon Hudgeons\\, Hope Irish\\, Jamie Thomas\\, Juliet Goldstein\\, Ace Howell",
-      "url": "https://calendar.utexas.edu/event/semiquincentennial-7-songwriter-salon-ft-philip-gibbs-halleyanna-finlay-brandon-hudgeons-hope-irish-jamie-thomas-juliet-goldstein-ace-howell",
-      "start": "2026-07-26",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Stock Austin 2026 - Cinderella",
-      "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
-      "start": "2026-07-26",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
     {
       "source": "ut",
       "title": "2026 BEST Symposium",
