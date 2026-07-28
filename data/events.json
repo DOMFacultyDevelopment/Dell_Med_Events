@@ -1,116 +1,11 @@
 {
-  "updated": "2026-07-27T19:39:57.320522+00:00",
+  "updated": "2026-07-28T08:40:15.547525+00:00",
   "counts": {
     "public": 15,
     "internal": 254,
-    "ut": 1982
+    "ut": 1986
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "2026 BEST Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-best-symposium",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-27",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-27",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-27",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Christian Faculty and Staff Network hosts UT Women's Prayer Group",
-      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-hosts-ut-womens-prayer-group-6683",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-27",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-27",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-27",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-27",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer 2026 Information Session: Prospective Freshman",
-      "url": "https://calendar.utexas.edu/event/summer-2026-information-session-prospective-freshman",
-      "start": "2026-07-27",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "Support Students' Passion for Public Health and Emergency Response Across the UT Austin Community",
-      "url": "https://calendar.utexas.edu/event/support-students-passion-for-public-health-and-emergency-response-across-the-ut-austin-community",
-      "start": "2026-07-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Wheelchair/Adaptive Tennis and Pickleball",
-      "url": "https://calendar.utexas.edu/event/adaptive-wheelchair-tennispickleball",
-      "start": "2026-07-27",
-      "location": "Whitaker Courts"
-    },
     {
       "source": "ut",
       "title": "2026 BEST Symposium",
@@ -7359,6 +7254,13 @@
     },
     {
       "source": "ut",
+      "title": "Gregory Eaton",
+      "url": "https://calendar.utexas.edu/event/gregory-eaton",
+      "start": "2026-10-20",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-20",
@@ -12568,6 +12470,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
+      "start": "2027-01-02",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-03",
@@ -12687,6 +12596,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
+      "start": "2027-01-05",
+      "location": "Athens\\, Georgia"
     },
     {
       "source": "ut",
@@ -12875,6 +12791,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball at Ole Miss",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-ole-miss-8128",
+      "start": "2027-01-09",
+      "location": "Oxford\\, Mississippi"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-10",
@@ -12994,6 +12917,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
+      "start": "2027-01-12",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -13216,6 +13146,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Oklahoma",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-oklahoma-4269",
+      "start": "2027-01-16",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-17",
@@ -13356,6 +13293,13 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2027-01-19",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-lsu-7444",
+      "start": "2027-01-19",
+      "location": "Baton Rouge\\, Louisiana"
     },
     {
       "source": "ut",
@@ -13554,6 +13498,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-arkansas-2065",
+      "start": "2027-01-23",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-24",
@@ -13673,6 +13624,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at South Carolina",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-south-carolina-1478",
+      "start": "2027-01-26",
+      "location": "Columbia\\, South Carolina"
     },
     {
       "source": "ut",
@@ -13875,6 +13833,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Kentucky",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-kentucky-8394",
+      "start": "2027-01-30",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -14199,6 +14164,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball at Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-florida-28",
+      "start": "2027-02-06",
+      "location": "Gainesville\\, Florida"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-02-07",
@@ -14318,6 +14290,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Alabama",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-alabama-4654",
+      "start": "2027-02-09",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -14516,6 +14495,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball at Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-vanderbilt-6180",
+      "start": "2027-02-13",
+      "location": "Nashville\\, Tennessee"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-02-14",
@@ -14649,6 +14635,13 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2027-02-16",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-texas-am-1156",
+      "start": "2027-02-16",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -14871,6 +14864,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball at Oklahoma",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-oklahoma-4068",
+      "start": "2027-02-20",
+      "location": "Norman\\, Oklahoma"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-02-21",
@@ -14990,6 +14990,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at Mississippi State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-mississippi-state-1911",
+      "start": "2027-02-23",
+      "location": "Starkville\\, Mississippi"
     },
     {
       "source": "ut",
@@ -15223,6 +15230,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-tennessee-7905",
+      "start": "2027-02-27",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-02-28",
@@ -15359,6 +15373,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-missouri-2852",
+      "start": "2027-03-02",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -15530,6 +15551,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-06",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-texas-am-2890",
+      "start": "2027-03-06",
+      "location": "College Station\\, Texas"
     },
     {
       "source": "ut",
