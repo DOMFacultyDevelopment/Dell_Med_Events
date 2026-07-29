@@ -1,183 +1,11 @@
 {
-  "updated": "2026-07-28T19:37:52.527392+00:00",
+  "updated": "2026-07-29T08:46:01.557963+00:00",
   "counts": {
-    "public": 15,
-    "internal": 254,
-    "ut": 1986
+    "public": 14,
+    "internal": 251,
+    "ut": 1969
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "2026 BEST Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-best-symposium",
-      "start": "2026-07-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-28",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-28",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "public",
-      "title": "CPAN Series:  ADHD Behavioral Interventions: Clinical Pearls",
-      "url": "https://dellmed.utexas.edu/events/cpan-series-adhd-behavioral-interventions",
-      "start": "2026-07-28",
-      "time": "12\u20131 p.m.",
-      "location": "Virtual",
-      "speaker": "Mili Khandheria, M.D."
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-07-28",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-28",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-28",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/07/28",
-      "start": "2026-07-28",
-      "time": "12:00pm \u2013 1:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Disability Discussions",
-      "url": "https://calendar.utexas.edu/event/disability-discussions-8819",
-      "start": "2026-07-28",
-      "location": "SSB 2.106C"
-    },
-    {
-      "source": "ut",
-      "title": "HASS Panel Discussion: Faculty Insights into the Academic Job Search Experience (Humanities\\, Arts and Social Sciences)",
-      "url": "https://calendar.utexas.edu/event/hass-panel-discussion-faculty-insights-into-the-academic-job-search-experience-humanities-arts-and-social-sciences",
-      "start": "2026-07-28",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "HASS Panel Discussion: Faculty Insights into the Academic Job Search Experience (for Humanities\\, Arts\\, &amp\\; Social Sciences)",
-      "url": "https://calendar.utexas.edu/event/hass-panel-discussion-faculty-insights-into-the-academic-job-search-experience-for-humanities-arts-amp-social-sciences",
-      "start": "2026-07-28",
-      "location": "Virtual"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/28",
-      "start": "2026-07-28",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-28",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-28",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Navigating the EU: A Postdoc&#039\\;s Journey with a Focus on Germany",
-      "url": "https://calendar.utexas.edu/event/navigating-the-eu-a-postdoc039s-journey-with-a-focus-on-germany",
-      "start": "2026-07-28",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-28",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "STEM Panel Discussion: Faculty insights into the Academic Job Search Experience",
-      "url": "https://calendar.utexas.edu/event/stem-panel-discussion-faculty-insights-into-the-academic-job-search-experience",
-      "start": "2026-07-28",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Storytime 2026",
-      "url": "https://calendar.utexas.edu/event/summer-storytime-2026",
-      "start": "2026-07-28",
-      "location": "Blanton Museum of Art (BMA)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/28",
-      "start": "2026-07-28",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Web Content Management Office Hours - July 28\\, 2026",
-      "url": "https://calendar.utexas.edu/event/web-content-management-office-hours-july-28-2026",
-      "start": "2026-07-28",
-      "location": "Microsoft Teams"
-    },
     {
       "source": "ut",
       "title": "2026 BEST Symposium",
@@ -1995,6 +1823,13 @@
       "url": "https://calendar.utexas.edu/event/immersive-python-workshop-4226",
       "start": "2026-08-14",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab\\, Data Lab (PCL 2.202)"
+    },
+    {
+      "source": "ut",
+      "title": "Llano and Hillcountry Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/llano-and-hillcountry-live-at-the-cactus-cafe",
+      "start": "2026-08-14",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -15726,6 +15561,13 @@
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-03-17",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2027-03-18",
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
