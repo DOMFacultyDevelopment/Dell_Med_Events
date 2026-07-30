@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-30T08:32:55.307886+00:00",
+  "updated": "2026-07-30T19:38:00.798206+00:00",
   "counts": {
-    "public": 14,
+    "public": 17,
     "internal": 249,
     "ut": 2001
   },
@@ -2277,6 +2277,14 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
+      "source": "public",
+      "title": "Fall 2026 Texas Health Catalyst Associate Program Information Session 1",
+      "url": "https://dellmed.utexas.edu/events/texas-health-catalyst-associate-program-information-session-081926",
+      "start": "2026-08-19",
+      "time": "12\u20131 p.m.",
+      "location": "Virtual"
+    },
+    {
       "source": "ut",
       "title": "Health and Wellness Certificate Program Info Session",
       "url": "https://calendar.utexas.edu/event/health-and-wellness-certificate-program-info-session-765",
@@ -2446,6 +2454,14 @@
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
     },
     {
+      "source": "public",
+      "title": "Ophthalmology Case Conference: Retina Insights: Resident Case Challenges",
+      "url": "https://dellmed.utexas.edu/events/ophthalmology-case-conference-retina-insights-082026",
+      "start": "2026-08-20",
+      "time": "4\u20135 p.m.",
+      "speaker": "Jared Moon, M.D., and Kristin Park, M.D."
+    },
+    {
       "source": "ut",
       "title": "Paid MRI research study at UT Austin",
       "url": "https://calendar.utexas.edu/event/paid-mri-research-study-at-ut-austin",
@@ -2551,7 +2567,7 @@
       "title": "Pediatric Grand Rounds: From Silos to Systems: Integrating Behavioral Health in Pediatrics",
       "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-integrating-behavioral-health",
       "start": "2026-08-21",
-      "time": "12\u20131 p.m.",
+      "time": "5:30\u20137 p.m.",
       "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom",
       "speaker": "Alba Pergjika, M.D., MPH"
     },
@@ -2950,6 +2966,14 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
+      "source": "public",
+      "title": "Fall 2026 Texas Health Catalyst Associate Program Information Session 2",
+      "url": "https://dellmed.utexas.edu/events/texas-health-catalyst-associate-program-information-session-082626",
+      "start": "2026-08-26",
+      "time": "7:30\u20138:30 a.m.",
+      "location": "Virtual"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/08/26",
@@ -3042,7 +3066,7 @@
       "title": "Best Practices in Medical Education Grand Rounds: Nutrition in Medical Education",
       "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-nutrition-in-medical-education",
       "start": "2026-08-27",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "4\u20135 p.m.",
       "location": "Zoom",
       "speaker": "Madalyn Rosenthal, Ph.D."
     },
