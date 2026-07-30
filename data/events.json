@@ -1,164 +1,11 @@
 {
-  "updated": "2026-07-29T19:22:04.345234+00:00",
+  "updated": "2026-07-30T08:32:55.307886+00:00",
   "counts": {
     "public": 14,
-    "internal": 251,
-    "ut": 2005
+    "internal": 249,
+    "ut": 2001
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "2026 BEST Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-best-symposium",
-      "start": "2026-07-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-1257",
-      "start": "2026-07-29",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates",
-      "start": "2026-07-29",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-29",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-07-29",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-29",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-07-29",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-29",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-29",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Financial Planning Certificate Program",
-      "url": "https://calendar.utexas.edu/event/financial-planning-certificate-program",
-      "start": "2026-07-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "HASS Academic Job Search Bootcamp (Humanities\\, Arts\\, and Social Sciences)",
-      "url": "https://calendar.utexas.edu/event/hass-academic-job-search-bootcamp-humanities-arts-and-social-sciences",
-      "start": "2026-07-29",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/07/29",
-      "start": "2026-07-29",
-      "time": "3:00pm \u2013 4:00pm",
-      "location": "HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-29",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-29",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-29",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-07-29",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "Staff Mentorship Mixer: Connect, Learn & Grow at Dell Med",
-      "url": "https://intranet.dellmed.utexas.edu/event/1028637/",
-      "start": "2026-07-29",
-      "time": "11:30am \u2013 12:30pm",
-      "location": "HDB 1.204",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Support Students' Passion for Public Health and Emergency Response Across the UT Austin Community",
-      "url": "https://calendar.utexas.edu/event/support-students-passion-for-public-health-and-emergency-response-across-the-ut-austin-community",
-      "start": "2026-07-29",
-      "location": null
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -346,6 +193,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-07-31",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-07-31",
@@ -447,6 +301,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-01",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-01",
@@ -521,6 +382,13 @@
       "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
       "start": "2026-08-01",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-02",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -622,6 +490,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-03",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-03",
@@ -696,6 +571,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-04",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-04",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -852,6 +734,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-05",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-05",
@@ -964,6 +853,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-06",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-06",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1116,6 +1012,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-07",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-07",
@@ -1198,6 +1101,13 @@
       "start": "2026-08-07",
       "time": "8\u201311 a.m.",
       "location": "Virtual"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-08",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1285,6 +1195,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-09",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-09",
@@ -1366,6 +1283,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-10",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-10",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1459,6 +1383,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-11",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-11",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1604,6 +1535,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-12",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-12",
@@ -1723,6 +1661,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-13",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-13",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1847,6 +1792,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-14",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-14",
@@ -1941,6 +1893,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-15",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-15",
@@ -2004,6 +1963,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-16",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-16",
@@ -2057,6 +2023,13 @@
       "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
       "start": "2026-08-17",
       "location": "Texas Global (N24)"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-17",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2134,6 +2107,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates",
       "start": "2026-08-18",
       "location": "NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-18",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2263,6 +2243,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-19",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-19",
@@ -2361,6 +2348,13 @@
       "url": "https://calendar.utexas.edu/event/american-heart-association-basic-life-support-instructor-candidate-training",
       "start": "2026-08-20",
       "location": "\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-20",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2505,6 +2499,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-21",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-21",
@@ -2591,6 +2592,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-22",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-22",
@@ -2644,6 +2652,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-arizona-state-2068",
       "start": "2026-08-22",
       "location": "Milwaukee\\, Wisc.\\, Fiserv Forum"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-23",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2717,6 +2732,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-24",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-24",
@@ -2777,6 +2799,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-marquette",
       "start": "2026-08-24",
       "location": "Milwaukee\\, Wisc.\\, Fiserv Forum"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-25",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2894,6 +2923,13 @@
     },
     {
       "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-26",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-26",
@@ -2979,6 +3015,13 @@
       "start": "2026-08-27",
       "time": "7:30\u20138:30 a.m.",
       "location": "Zoom"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-27",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3102,6 +3145,13 @@
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-738",
       "start": "2026-08-28",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
+      "start": "2026-08-28",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -3554,7 +3604,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs USC",
+      "title": "University of Texas Volleyball vs USC - presented by H-E-B",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-usc",
       "start": "2026-09-02",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
@@ -4318,9 +4368,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel and Conference Center"
     },
     {
       "source": "ut",
@@ -4553,7 +4603,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs Wisconsin",
+      "title": "University of Texas Volleyball vs Wisconsin - presented by State Farm",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-wisconsin-5047",
       "start": "2026-09-13",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -5047,6 +5097,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-09-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Hot Club of Cowtown at Cactus Cafe \u2014 Stay a Little Longer",
+      "url": "https://calendar.utexas.edu/event/hot-club-of-cowtown-at-cactus-cafe-stay-a-little-longer",
+      "start": "2026-09-19",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -6294,6 +6351,13 @@
     },
     {
       "source": "ut",
+      "title": "Very Old Morris Ft. Marley Hale Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/very-old-morris-ft-marley-hale-live-at-the-cactus-cafe",
+      "start": "2026-10-02",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "2026 TEX-E Fall Bootcamp",
       "url": "https://calendar.utexas.edu/event/2026-tex-e-fall-bootcamp",
       "start": "2026-10-03",
@@ -6420,7 +6484,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Soccer vs Oklahoma",
+      "title": "University of Texas Soccer vs Oklahoma - presented by Huntington Bank",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-oklahoma-6248",
       "start": "2026-10-04",
       "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
@@ -6924,6 +6988,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-arkansas",
       "start": "2026-10-09",
       "location": "Fayetteville\\, Ark."
+    },
+    {
+      "source": "ut",
+      "title": "Adi Rao Live at the Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/adi-rao-live-at-the-cactus-cafe-1741",
+      "start": "2026-10-10",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -7587,14 +7658,14 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Soccer vs LSU",
+      "title": "University of Texas Soccer vs LSU - presented by St. David's HealthCare",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-lsu",
       "start": "2026-10-16",
       "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs Auburn",
+      "title": "University of Texas Volleyball vs Auburn - presented by American Airlines",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-auburn",
       "start": "2026-10-16",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
@@ -7748,7 +7819,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs Florida",
+      "title": "University of Texas Volleyball vs Florida - presented by St. David's HealthCare",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-florida",
       "start": "2026-10-18",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
@@ -8186,6 +8257,13 @@
       "url": "https://calendar.utexas.edu/event/waitress-3357",
       "start": "2026-10-22",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Wind Ensemble",
+      "url": "https://calendar.utexas.edu/event/wind-ensemble-7618",
+      "start": "2026-10-22",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -10164,7 +10242,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs Ole Miss",
+      "title": "University of Texas Volleyball vs Ole Miss - presented by Huntington Bank",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-ole-miss-4526",
       "start": "2026-11-13",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
@@ -12458,6 +12536,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Guy Forsyth Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/guy-forsyth-live-at-the-cactus-cafe",
+      "start": "2026-12-12",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -15896,41 +15981,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2027-02-18",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-18",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-18",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/18",
@@ -15949,104 +15999,6 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Misplaced Loyalty: Contesting Citizenship and Allegiance in Seventeenth-century Europe",
-      "url": "https://calendar.utexas.edu/event/tbd-5709",
-      "start": "2027-02-18",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-19",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-19",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "KODO - Luminance",
-      "url": "https://calendar.utexas.edu/event/kodo-luminance",
-      "start": "2027-02-19",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-19",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-20",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-oklahoma-4068",
-      "start": "2027-02-20",
-      "location": "Norman\\, Oklahoma"
     },
     {
       "source": "internal",
