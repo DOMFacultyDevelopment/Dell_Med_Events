@@ -1,182 +1,11 @@
 {
-  "updated": "2026-07-30T19:38:00.798206+00:00",
+  "updated": "2026-07-31T08:54:22.768400+00:00",
   "counts": {
-    "public": 17,
-    "internal": 249,
-    "ut": 2001
+    "public": 16,
+    "internal": 246,
+    "ut": 1982
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr",
-      "start": "2026-07-30",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-8326",
-      "start": "2026-07-30",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Annual Enrollment",
-      "url": "https://calendar.utexas.edu/event/annual-enrollment",
-      "start": "2026-07-30",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-07-30",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Asset allocation\\, diversification\\, and rebalancing",
-      "url": "https://calendar.utexas.edu/event/asset-allocation-diversification-and-rebalancing",
-      "start": "2026-07-30",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-07-30",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-07-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-07-30",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-07-30",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-07-30",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Darlin&#039\\; Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/darlin039-live-at-the-cactus-cafe",
-      "start": "2026-07-30",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "public",
-      "title": "Department of Surgery & Perioperative Care Combined Grand Rounds with Guest Speaker Alana Beard",
-      "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-guest-speaker-alana-beard",
-      "start": "2026-07-30",
-      "time": "7\u20138 a.m.",
-      "location": "Health Learning Building (HLB 1.111)"
-    },
-    {
-      "source": "internal",
-      "title": "EAP Monthly Mindfulness Workshop",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018407/",
-      "start": "2026-07-30",
-      "time": "12:15pm \u2013 12:45pm",
-      "location": "HDB 1.204",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Financial Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/financial-affairs-meeting",
-      "start": "2026-07-30",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/07/30",
-      "start": "2026-07-30",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-07-30",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Identify and Prioritize Your Savings Goals",
-      "url": "https://calendar.utexas.edu/event/identify-and-prioritize-your-savings-goals",
-      "start": "2026-07-30",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-07-30",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-07-30",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-07-30",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "STEM Academic Job Search Bootcamp",
-      "url": "https://calendar.utexas.edu/event/stem-academic-job-search-bootcamp-4746",
-      "start": "2026-07-30",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
-    },
-    {
-      "source": "ut",
-      "title": "Summer 2026 Information Session: External Transfer",
-      "url": "https://calendar.utexas.edu/event/summer-2026-information-session-external-transfer",
-      "start": "2026-07-30",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/07/30",
-      "start": "2026-07-30",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
     {
       "source": "ut",
       "title": "Annual Enrollment",
@@ -232,6 +61,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-07-31",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-07-31",
+      "location": null
     },
     {
       "source": "ut",
@@ -357,6 +193,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-01",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-01",
@@ -424,6 +267,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-02",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-02",
+      "location": null
     },
     {
       "source": "ut",
@@ -532,6 +382,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-03",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-03",
@@ -637,6 +494,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-04",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-04",
+      "location": null
     },
     {
       "source": "ut",
@@ -783,6 +647,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-05",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-05",
@@ -925,6 +796,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-06",
@@ -1061,6 +939,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-07",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-07",
@@ -1160,6 +1045,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-08",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-08",
@@ -1234,6 +1126,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-09",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-09",
+      "location": null
     },
     {
       "source": "ut",
@@ -1341,6 +1240,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-10",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-10",
+      "location": null
     },
     {
       "source": "ut",
@@ -1452,6 +1358,13 @@
       "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
       "start": "2026-08-11",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-11",
+      "location": null
     },
     {
       "source": "ut",
@@ -1608,6 +1521,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-12",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-12",
@@ -1720,6 +1640,13 @@
       "url": "https://calendar.utexas.edu/event/immersive-python-workshop-4226",
       "start": "2026-08-13",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab\\, Data Lab (PCL 2.202)"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-13",
+      "location": null
     },
     {
       "source": "internal",
@@ -1841,6 +1768,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-14",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Llano and Hillcountry Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/llano-and-hillcountry-live-at-the-cactus-cafe",
       "start": "2026-08-14",
@@ -1935,6 +1869,13 @@
     },
     {
       "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-15",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Matthew Payne Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/matthew-payne-live-at-the-cactus-cafe",
       "start": "2026-08-15",
@@ -1988,6 +1929,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-16",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-16",
+      "location": null
     },
     {
       "source": "ut",
@@ -2051,6 +1999,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-17",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Laboratory Research Assistant \u2013 Student Position",
+      "url": "https://calendar.utexas.edu/event/laboratory-research-assistant-student-position",
+      "start": "2026-08-17",
+      "location": null
     },
     {
       "source": "ut",
@@ -2713,6 +2668,13 @@
     },
     {
       "source": "ut",
+      "title": "Gone to Liberal Arts",
+      "url": "https://calendar.utexas.edu/event/gone-to-liberal-arts-4008",
+      "start": "2026-08-23",
+      "location": "Texas Union Building (UNB)\\, Ballroom 3.202"
+    },
+    {
+      "source": "ut",
       "title": "H-E-B Free Fourth Sunday",
       "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
       "start": "2026-08-23",
@@ -2829,6 +2791,13 @@
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-25",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "COLA Student Resource Fair",
+      "url": "https://calendar.utexas.edu/event/cola-student-resource-fair-4280",
+      "start": "2026-08-25",
+      "location": "Texas Union Building (UNB)\\, Ballroom 3.202"
     },
     {
       "source": "ut",
@@ -5166,7 +5135,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Soccer vs Tennessee",
+      "title": "University of Texas Soccer vs Tennessee - presented by H-E-B",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-tennessee",
       "start": "2026-09-19",
       "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
@@ -15839,72 +15808,9 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-15",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-15",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-02-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-16",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
@@ -15918,55 +15824,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-02-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Texas A&M",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-texas-am-1156",
-      "start": "2027-02-16",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-17",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-02-17",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-17",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-17",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
@@ -15975,34 +15832,6 @@
       "location": "HDB 6.110 or Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
