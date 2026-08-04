@@ -1,88 +1,11 @@
 {
-  "updated": "2026-08-03T19:42:35.603949+00:00",
+  "updated": "2026-08-04T08:43:02.679752+00:00",
   "counts": {
     "public": 16,
     "internal": 245,
-    "ut": 1981
+    "ut": 1983
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-08-03",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-03",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-03",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-08-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-08-03",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-03",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-03",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Support Students' Passion for Public Health and Emergency Response Across the UT Austin Community",
-      "url": "https://calendar.utexas.edu/event/support-students-passion-for-public-health-and-emergency-response-across-the-ut-austin-community",
-      "start": "2026-08-03",
-      "location": null
-    },
     {
       "source": "ut",
       "title": "Apply: Fall ESL classes",
@@ -2147,6 +2070,13 @@
     },
     {
       "source": "ut",
+      "title": "Gone to Natural Sciences",
+      "url": "https://calendar.utexas.edu/event/gone-to-natural-sciences-974",
+      "start": "2026-08-23",
+      "location": "Robert A. Welch Hall (WEL)\\, Main Concourse"
+    },
+    {
+      "source": "ut",
       "title": "H-E-B Free Fourth Sunday",
       "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
       "start": "2026-08-23",
@@ -2451,6 +2381,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-26",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SCA Welcome",
+      "url": "https://calendar.utexas.edu/event/sca-welcome",
+      "start": "2026-08-26",
+      "location": "GWB\\, 2nd floor"
     },
     {
       "source": "ut",
@@ -3777,9 +3714,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel and Conference Center"
     },
     {
       "source": "ut",
@@ -6180,6 +6117,13 @@
     },
     {
       "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-08",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-09",
@@ -6243,6 +6187,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-09",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-09",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -6330,6 +6281,13 @@
     },
     {
       "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-10",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football vs Oklahoma - Allstate Red River Rivalry",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-oklahoma-allstate-red-river-rivalry",
       "start": "2026-10-10",
@@ -6383,6 +6341,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-11",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-11",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -6453,6 +6418,13 @@
       "url": "https://calendar.utexas.edu/event/symphony-orchestra-76",
       "start": "2026-10-12",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-12",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -6553,6 +6525,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-13",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -6666,6 +6645,13 @@
       "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
     },
     {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-14",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
       "source": "internal",
       "title": "Bi-Monthly Office of Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/10/15",
@@ -6774,6 +6760,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-15",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -6892,6 +6885,13 @@
     },
     {
       "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-16",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "The State of Nursing Science: Endowed Lectureship Symposium",
       "url": "https://calendar.utexas.edu/event/the-state-of-nursing-science-endowed-lectureship-symposium-8479",
       "start": "2026-10-16",
@@ -6983,6 +6983,13 @@
     },
     {
       "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-17",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football vs Florida - presented by American Airlines",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-florida-presented-by-american-airlines",
       "start": "2026-10-17",
@@ -7057,6 +7064,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-18",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "The Miraculous Journey of Edward Tulane",
+      "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
+      "start": "2026-10-18",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -7658,6 +7672,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-24",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Supporting Every Step: Children&#039\\;s Developmental Screening and Resource Fair",
+      "url": "https://calendar.utexas.edu/event/supporting-every-step-children039s-developmental-screening-and-resource-fair",
+      "start": "2026-10-24",
+      "location": "2901 Read Granberry Trail"
     },
     {
       "source": "ut",
@@ -8409,6 +8430,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Chicago State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-chicago-state-6376",
+      "start": "2026-11-02",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-03",
@@ -8699,6 +8727,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Gardner-Webb",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-gardner-webb",
+      "start": "2026-11-05",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-06",
@@ -8986,6 +9021,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Grambling State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-grambling-state",
+      "start": "2026-11-09",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -9909,6 +9951,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Southern Utah",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-southern-utah",
+      "start": "2026-11-19",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Actors From The London Stage - Much Ado About Nothing",
       "url": "https://calendar.utexas.edu/event/actors-from-the-london-stage-much-ado-about-nothing",
       "start": "2026-11-20",
@@ -10140,6 +10189,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-22",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Southern Indiana",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-southern-indiana",
+      "start": "2026-11-22",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -11301,6 +11357,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Jackson State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-jackson-state",
+      "start": "2026-12-08",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-09",
@@ -12164,6 +12227,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Prairie View A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-prairie-view-am",
+      "start": "2026-12-21",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-22",
@@ -12564,6 +12634,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs East Texas A&M University",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-east-texas-am-university",
+      "start": "2026-12-29",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -15807,13 +15884,6 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-03-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-05",
@@ -15841,55 +15911,6 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-03-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-03-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Texas A&M",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-texas-am-2890",
-      "start": "2027-03-06",
-      "location": "College Station\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-03-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-03-08",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-03-09",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-03-09",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/09",
@@ -15898,13 +15919,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-03-10",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "internal",
