@@ -1,167 +1,11 @@
 {
-  "updated": "2026-08-06T15:43:31.395514+00:00",
+  "updated": "2026-08-07T00:04:59.337776+00:00",
   "counts": {
     "public": 16,
-    "internal": 242,
-    "ut": 1971
+    "internal": 239,
+    "ut": 1952
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
-      "start": "2026-08-06",
-      "location": "NUR - various"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-8326",
-      "start": "2026-08-06",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-08-06",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-06",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-06",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-06",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/08/06",
-      "start": "2026-08-06",
-      "time": "1:30pm \u2013 2:30pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-08-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-08-06",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/06",
-      "start": "2026-08-06",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-08-06",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-06",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-06",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-06",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer 2026 Information Session: Prospective Freshman",
-      "url": "https://calendar.utexas.edu/event/summer-2026-information-session-prospective-freshman",
-      "start": "2026-08-06",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Stock Austin 2026 - Cinderella",
-      "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-cinderella",
-      "start": "2026-08-06",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Stock Austin 2026 - Newsies",
-      "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
-      "start": "2026-08-06",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/06",
-      "start": "2026-08-06",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Soccer at UTSA",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-utsa",
-      "start": "2026-08-06",
-      "location": "San Antonio\\, Texas\\, UTSA Park West Athletics Complex"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification Renewal",
@@ -2298,13 +2142,6 @@
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-26",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Blackout Poetry & Zine Party",
-      "url": "https://calendar.utexas.edu/event/zines-blackout-poetry",
-      "start": "2026-08-26",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, UFCU Room PCL 2.500"
     },
     {
       "source": "ut",
@@ -8979,6 +8816,13 @@
     },
     {
       "source": "ut",
+      "title": "A Beautiful Noise",
+      "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
+      "start": "2026-11-04",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-04",
@@ -9077,6 +8921,13 @@
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-04",
       "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "A Beautiful Noise",
+      "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
+      "start": "2026-11-05",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -9194,6 +9045,13 @@
     },
     {
       "source": "ut",
+      "title": "A Beautiful Noise",
+      "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
+      "start": "2026-11-06",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-06",
@@ -9288,6 +9146,13 @@
     },
     {
       "source": "ut",
+      "title": "A Beautiful Noise",
+      "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
+      "start": "2026-11-07",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-07",
@@ -9372,6 +9237,13 @@
     },
     {
       "source": "ut",
+      "title": "A Beautiful Noise",
+      "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
+      "start": "2026-11-08",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-08",
@@ -9446,6 +9318,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-vanderbilt",
       "start": "2026-11-08",
       "location": "Nashville\\, Tenn.\\, Memorial Gymnasium"
+    },
+    {
+      "source": "ut",
+      "title": "A Beautiful Noise",
+      "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
+      "start": "2026-11-09",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -15665,34 +15544,6 @@
       "location": "Austin\\, Texas\\, Moody Center"
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-17",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-02-17",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-17",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
@@ -15701,20 +15552,6 @@
       "location": "HDB 6.110 or Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
