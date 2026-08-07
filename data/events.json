@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-07T00:04:59.337776+00:00",
+  "updated": "2026-08-07T07:21:08.988835+00:00",
   "counts": {
     "public": 16,
     "internal": 239,
-    "ut": 1952
+    "ut": 1961
   },
   "events": [
     {
@@ -1926,6 +1926,13 @@
     },
     {
       "source": "ut",
+      "title": "Mechanical Engineering Back To School Bash",
+      "url": "https://calendar.utexas.edu/event/mechanical-engineerings-back-to-school-bash",
+      "start": "2026-08-24",
+      "location": "ETC Lawn"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-24",
@@ -2142,6 +2149,13 @@
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-26",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Blackout Poetry & Zine Party",
+      "url": "https://calendar.utexas.edu/event/zines-blackout-poetry",
+      "start": "2026-08-26",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, UFCU Room PCL 2.500"
     },
     {
       "source": "ut",
@@ -3591,6 +3605,13 @@
     },
     {
       "source": "ut",
+      "title": "KBH Energy Expo",
+      "url": "https://calendar.utexas.edu/event/kbh-energy-expo",
+      "start": "2026-09-10",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-10",
@@ -3640,9 +3661,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel and Conference Center"
     },
     {
       "source": "ut",
@@ -15544,6 +15565,34 @@
       "location": "Austin\\, Texas\\, Moody Center"
     },
     {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-02-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-02-17",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-02-17",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-02-17",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
@@ -15552,6 +15601,20 @@
       "location": "HDB 6.110 or Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-02-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-02-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
