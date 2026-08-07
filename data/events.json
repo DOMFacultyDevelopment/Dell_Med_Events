@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-07T07:21:08.988835+00:00",
+  "updated": "2026-08-07T19:02:02.083895+00:00",
   "counts": {
     "public": 16,
     "internal": 239,
-    "ut": 1961
+    "ut": 1962
   },
   "events": [
     {
@@ -1961,13 +1961,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs Marquette",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-marquette",
-      "start": "2026-08-24",
-      "location": "Milwaukee\\, Wisc.\\, Fiserv Forum"
-    },
-    {
-      "source": "ut",
       "title": "Arts & Crafternoon Tea",
       "url": "https://calendar.utexas.edu/event/arts-crafternoon-tea",
       "start": "2026-08-25",
@@ -2047,13 +2040,6 @@
       "location": "McDonald Observatory"
     },
     {
-      "source": "ut",
-      "title": "Global Sustainability Leadership Institute Information Session + Impact Mixer",
-      "url": "https://calendar.utexas.edu/event/global-sustainability-leadership-institute-information-session-impact-mixer",
-      "start": "2026-08-25",
-      "location": null
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/25",
@@ -2107,6 +2093,13 @@
       "url": "https://calendar.utexas.edu/event/transfer-welcome-longhorn-spirit-traditions-8785",
       "start": "2026-08-25",
       "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, Black Box Theater (2nd Floor)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Volleyball vs Marquette",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-marquette",
+      "start": "2026-08-25",
+      "location": "Milwaukee\\, Wisc.\\, Fiserv Forum"
     },
     {
       "source": "ut",
@@ -2254,10 +2247,10 @@
     },
     {
       "source": "ut",
-      "title": "UT Real Estate Center Open House",
-      "url": "https://calendar.utexas.edu/event/ut-real-estate-center-open-house",
+      "title": "Teaching for Impact: Preparing for Your First Day",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-preparing-for-your-first-day",
       "start": "2026-08-26",
-      "location": null
+      "location": "Virtual"
     },
     {
       "source": "public",
@@ -3518,6 +3511,13 @@
     },
     {
       "source": "ut",
+      "title": "Teaching for Impact: Designing Effective Lessons",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-designing-effective-lessons",
+      "start": "2026-09-09",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "UTLA Information Session",
       "url": "https://calendar.utexas.edu/event/utla-information-session-716",
       "start": "2026-09-09",
@@ -3650,6 +3650,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Teaching for Impact: Designing Effective Lessons",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-designing-effective-lessons",
+      "start": "2026-09-10",
+      "location": null
     },
     {
       "source": "ut",
@@ -4091,6 +4098,13 @@
     },
     {
       "source": "ut",
+      "title": "Teaching for Impact: Facilitating Meaningful Discussions",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-facilitating-meaningful-discussions",
+      "start": "2026-09-15",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Golf vs Jackson T. Stephens Cup",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-jackson-t-stephens-cup-463",
       "start": "2026-09-15",
@@ -4397,6 +4411,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-19",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Elana James and Hot Friends Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/elana-james-and-hot-friends-live-at-the-cactus-cafe",
+      "start": "2026-09-19",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4804,6 +4825,13 @@
     },
     {
       "source": "ut",
+      "title": "Teaching for Impact: Facilitating Meaningful Discussions",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-facilitating-meaningful-discussions",
+      "start": "2026-09-23",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "A Habsburg liberal in twentieth-century Europe: the cosmopolitanism of Friedrich Hertz",
       "url": "https://calendar.utexas.edu/event/a-habsburg-liberal-in-twentieth-century-europe-the-cosmopolitanism-of-friedrich-hertz",
       "start": "2026-09-24",
@@ -4999,6 +5027,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-25",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Sam Kendricks Dust Off Your Boots Classic",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sam-kendricks-dust-off-your-boots-classic",
+      "start": "2026-09-25",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -5457,6 +5492,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-30",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Teaching for Impact: Giving Good Feedback",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
+      "start": "2026-09-30",
+      "location": null
     },
     {
       "source": "internal",
@@ -5957,6 +5999,13 @@
     },
     {
       "source": "ut",
+      "title": "Teaching for Impact: Giving Good Feedback",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
+      "start": "2026-10-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-10-07",
@@ -6183,6 +6232,13 @@
     },
     {
       "source": "ut",
+      "title": "Teaching for Impact: Drafting Your Teaching Statement",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-drafting-your-teaching-statement",
+      "start": "2026-10-08",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
+    },
+    {
+      "source": "ut",
       "title": "The Miraculous Journey of Edward Tulane",
       "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
       "start": "2026-10-08",
@@ -6263,17 +6319,17 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving at Indiana & Northwestern",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-indiana-northwestern",
+      "start": "2026-10-09",
+      "location": "Bloomington\\, Indiana"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Soccer at Kentucky",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-kentucky",
       "start": "2026-10-09",
       "location": "Lexington\\, Ky.\\, Wendell & Vickie Bell Complex"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Volleyball at Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-arkansas",
-      "start": "2026-10-09",
-      "location": "Fayetteville\\, Ark.\\, Barnhill Arena"
     },
     {
       "source": "ut",
@@ -6365,6 +6421,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-oklahoma-allstate-red-river-rivalry",
       "start": "2026-10-10",
       "location": "Dallas\\, Texas\\, Cotton Bowl"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Volleyball at Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-arkansas",
+      "start": "2026-10-10",
+      "location": "Fayetteville\\, Ark.\\, Barnhill Arena"
     },
     {
       "source": "ut",
@@ -6619,6 +6682,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Teaching for Impact: Grading with Clarity and Fairness",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-grading-with-clarity-and-fairness",
+      "start": "2026-10-13",
+      "location": null
     },
     {
       "source": "ut",
@@ -7512,6 +7582,13 @@
     },
     {
       "source": "ut",
+      "title": "Teaching for Impact: Grading with Clarity and Fairness",
+      "url": "https://calendar.utexas.edu/event/teaching-for-impact-grading-with-clarity-and-fairness",
+      "start": "2026-10-21",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "The Chicks:  Taking The Long Way Home: 20 Years",
       "url": "https://calendar.utexas.edu/event/the-chicks-taking-the-long-way-home-20-years",
       "start": "2026-10-21",
@@ -8229,6 +8306,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
+      "start": "2026-10-28",
+      "location": "Westmont\\, Illinois"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs Georgia - presented by Dick's Sporting Goods",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-georgia-261",
       "start": "2026-10-28",
@@ -8247,6 +8331,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
       "start": "2026-10-28",
       "location": "Westmont\\, Illinois"
+    },
+    {
+      "source": "ut",
+      "title": "Viva La Vida with AT 2026",
+      "url": "https://calendar.utexas.edu/event/viva-la-vida-with-at-2026",
+      "start": "2026-10-28",
+      "location": null
     },
     {
       "source": "ut",
@@ -8377,10 +8468,24 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
+      "start": "2026-10-29",
+      "location": "Westmont\\, Illinois"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
       "start": "2026-10-29",
       "location": "Westmont\\, Illinois"
+    },
+    {
+      "source": "ut",
+      "title": "Viva La Vida with AT 2026",
+      "url": "https://calendar.utexas.edu/event/viva-la-vida-with-at-2026",
+      "start": "2026-10-29",
+      "location": null
     },
     {
       "source": "ut",
@@ -8458,6 +8563,27 @@
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-10-30",
       "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "Trombone Choir",
+      "url": "https://calendar.utexas.edu/event/trombone-choir-1356",
+      "start": "2026-10-30",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving at South Carolina",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-south-carolina",
+      "start": "2026-10-30",
+      "location": "Columbia\\, South Carolina"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
+      "start": "2026-10-30",
+      "location": "Westmont\\, Illinois"
     },
     {
       "source": "ut",
@@ -9307,6 +9433,13 @@
     },
     {
       "source": "ut",
+      "title": "Malford Milligan and Tin Cadillac Acoustic Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/malford-milligan-and-tin-cadillac-acoustic-live-at-the-cactus-cafe",
+      "start": "2026-11-08",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Motherhood\\, An Artist Lecture By Suzanne Bocanegra",
       "url": "https://calendar.utexas.edu/event/motherhood-an-artist-lecture-by-suzanne-bocanegra",
       "start": "2026-11-08",
@@ -9738,6 +9871,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Texas Diving Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-diving-invitational-7898",
+      "start": "2026-11-12",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs Texas Diving Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-diving-invitational-7722",
       "start": "2026-11-12",
@@ -9812,6 +9952,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-13",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Texas Diving Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-diving-invitational-7898",
+      "start": "2026-11-13",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -10278,6 +10425,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
+      "start": "2026-11-18",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
       "start": "2026-11-18",
@@ -10402,6 +10556,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
+      "start": "2026-11-19",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
       "start": "2026-11-19",
@@ -10486,6 +10647,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-20",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
+      "start": "2026-11-20",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -11461,6 +11629,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs U.S. Open",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-us-open",
+      "start": "2026-12-02",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs U.S. Open",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-us-open",
+      "start": "2026-12-02",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-03",
@@ -11554,6 +11736,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs U.S. Open",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-us-open",
+      "start": "2026-12-03",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs U.S. Open",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-us-open",
+      "start": "2026-12-03",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-04",
@@ -11617,6 +11813,20 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-04",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs U.S. Open",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-us-open",
+      "start": "2026-12-04",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs U.S. Open",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-us-open",
+      "start": "2026-12-04",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -11950,6 +12160,20 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-09",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-09",
+      "location": "Midland\\, Texas"
+    },
+    {
       "source": "public",
       "title": "2026 Pediatric to Adult Cardio A.I. Conference: Digital Twins",
       "url": "https://dellmed.utexas.edu/events/peds-cardio-ai-conference-2026",
@@ -12042,6 +12266,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-10",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-10",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-11",
@@ -12102,6 +12340,20 @@
       "url": "https://calendar.utexas.edu/event/the-basement-yard-live",
       "start": "2026-12-11",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-11",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-11",
+      "location": "Midland\\, Texas"
     },
     {
       "source": "ut",
@@ -12175,6 +12427,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-12",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-12",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-13",
@@ -12238,6 +12504,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-13",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-13",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-14",
@@ -12284,6 +12564,20 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-14",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-14",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-14",
+      "location": "Midland\\, Texas"
     },
     {
       "source": "ut",
@@ -12450,6 +12744,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-memphis",
       "start": "2026-12-16",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-vanderbilt",
+      "start": "2026-12-16",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -13635,6 +13936,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving at SMU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-smu",
+      "start": "2027-01-08",
+      "location": "Dallas\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving at SMU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-at-smu",
+      "start": "2027-01-08",
+      "location": "Dallas\\, Texas"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-09",
@@ -14342,6 +14657,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Eddie Reese Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-eddie-reese-showdown",
+      "start": "2027-01-22",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-23",
@@ -14381,6 +14703,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-arkansas-2065",
       "start": "2027-01-23",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Eddie Reese Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-eddie-reese-showdown",
+      "start": "2027-01-23",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -14680,6 +15009,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-am-2407",
+      "start": "2027-01-29",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-30",
@@ -14719,6 +15055,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-kentucky-8394",
       "start": "2027-01-30",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs The Sterkel Classic",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-the-sterkel-classic-1224",
+      "start": "2027-01-30",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -15221,13 +15564,6 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-10",
@@ -15258,55 +15594,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2027-02-11",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-11",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-11",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/11",
@@ -15315,230 +15602,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-12",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-12",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-12",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-13",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-13",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-vanderbilt-6180",
-      "start": "2027-02-13",
-      "location": "Nashville\\, Tennessee"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Alice and John Wallace Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic",
-      "start": "2027-02-13",
-      "location": "Palm Desert\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-14",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-14",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "The Legend of Korra in Concert",
-      "url": "https://calendar.utexas.edu/event/the-legend-of-korra-in-concert",
-      "start": "2027-02-14",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Alice and John Wallace Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic-2927",
-      "start": "2027-02-14",
-      "location": "Palm Desert\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-15",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-15",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Alice and John Wallace Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic-8824",
-      "start": "2027-02-15",
-      "location": "Palm Desert\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-02-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-16",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -15551,48 +15614,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-02-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Texas A&M",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-texas-am-1156",
-      "start": "2027-02-16",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-17",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-02-17",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-17",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
@@ -15601,20 +15622,6 @@
       "location": "HDB 6.110 or Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
