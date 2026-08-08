@@ -1,124 +1,11 @@
 {
-  "updated": "2026-08-07T19:02:02.083895+00:00",
+  "updated": "2026-08-08T06:59:01.808130+00:00",
   "counts": {
-    "public": 16,
+    "public": 15,
     "internal": 239,
-    "ut": 1962
+    "ut": 1964
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-8208",
-      "start": "2026-08-07",
-      "location": "Nursing School (NUR)\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
-      "start": "2026-08-07",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-08-07",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-07",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-07",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-08-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Educator Nights at McDonald Observatory",
-      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
-      "start": "2026-08-07",
-      "location": "McDonald Observatory"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-08-07",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-07",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-07",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-08-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "public",
-      "title": "Suicide Prevention Training for Pediatric Health Clinicians: SAFETY-A Level 2",
-      "url": "https://dellmed.utexas.edu/events/suicide-prevention-training-for-pediatric-health-clinicians-safety-a-level-2-080726",
-      "start": "2026-08-07",
-      "time": "8\u201311 a.m.",
-      "location": "Virtual"
-    },
     {
       "source": "ut",
       "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
@@ -369,7 +256,7 @@
       "title": "Health Social Work Visiting Speaker: Between What\u2019s Right and What\u2019s Possible",
       "url": "https://dellmed.utexas.edu/events/health-social-work-visiting-speaker-between-whats-right-and-whats-possible",
       "start": "2026-08-10",
-      "time": "8\u201311 a.m.",
+      "time": "12\u20131 p.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
       "speaker": "Fran\u00e7oise Mathieu, M.Ed., RP, CCC"
     },
@@ -2040,6 +1927,13 @@
       "location": "McDonald Observatory"
     },
     {
+      "source": "ut",
+      "title": "Global Sustainability Leadership Institute Information Session + Impact Mixer",
+      "url": "https://calendar.utexas.edu/event/global-sustainability-leadership-institute-information-session-impact-mixer",
+      "start": "2026-08-25",
+      "location": "McCombs School of Business (CBA)\\, CBA 3.302"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/25",
@@ -2253,6 +2147,13 @@
       "location": "Virtual"
     },
     {
+      "source": "ut",
+      "title": "UT Real Estate Center Open House",
+      "url": "https://calendar.utexas.edu/event/ut-real-estate-center-open-house",
+      "start": "2026-08-26",
+      "location": null
+    },
+    {
       "source": "public",
       "title": "AMPATH/MAPAS M\u00e9xico Monthly Seminar: Gerontology",
       "url": "https://dellmed.utexas.edu/events/ampath-mapas-m\u00e9xico-monthly-seminar-gerontology",
@@ -2355,6 +2256,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-27",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Sanger Learning Center Open House",
+      "url": "https://calendar.utexas.edu/event/sanger-learning-center-open-house-8623",
+      "start": "2026-08-27",
+      "location": "Jester Center (JES)\\, Sanger Learning Center: 3rd Floor"
     },
     {
       "source": "internal",
@@ -3903,6 +3811,13 @@
     },
     {
       "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-3718",
+      "start": "2026-09-13",
+      "location": "University Writing Center\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs Wisconsin - presented by State Farm",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-wisconsin-5047",
       "start": "2026-09-13",
@@ -5125,6 +5040,13 @@
       "url": "https://calendar.utexas.edu/event/scott-silven-the-lost-things-an-all-new-magical-experience-from-illusionist-scott-silven",
       "start": "2026-09-26",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-3718",
+      "start": "2026-09-26",
+      "location": "University Writing Center\\, PCL 2.330"
     },
     {
       "source": "ut",
@@ -15564,6 +15486,13 @@
     },
     {
       "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-02-10",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-10",
@@ -15594,6 +15523,55 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-02-10",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-02-11",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2027-02-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-02-11",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-02-11",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-02-11",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-02-11",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/11",
@@ -15602,6 +15580,34 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-02-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-02-12",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-02-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-02-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
