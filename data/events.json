@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T07:01:38.069692+00:00",
+  "updated": "2026-08-09T18:45:54.609350+00:00",
   "counts": {
     "public": 15,
     "internal": 239,
@@ -7234,6 +7234,13 @@
       "url": "https://calendar.utexas.edu/event/i-capuleti-e-i-montecchi",
       "start": "2026-10-18",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)\\, McCullough Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "Jennifer Knapp and Flamy Grant Songs and Stories Tour Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/jennifer-knapp-and-flamy-grant-songs-and-stories-tour-live-at-the-cactus-cafe",
+      "start": "2026-10-18",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -15576,13 +15583,6 @@
       "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-02-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
