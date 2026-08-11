@@ -1,111 +1,11 @@
 {
-  "updated": "2026-08-10T19:01:39.783192+00:00",
+  "updated": "2026-08-11T07:13:24.390270+00:00",
   "counts": {
-    "public": 15,
+    "public": 14,
     "internal": 239,
-    "ut": 1968
+    "ut": 1973
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-08-10",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Center for Autonomy and AEOP Summer 2026 Internship",
-      "url": "https://calendar.utexas.edu/event/center-for-autonomy-and-aeop-summer-2026-internship",
-      "start": "2026-08-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-10",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Health Social Work Speaker Presentation: \"Between What\u2019s Right and What\u2019s Possible: Moral Distress\\, Moral Courage\\, and Integrity in Practice\"",
-      "url": "https://calendar.utexas.edu/event/health-social-work-speaker-presentation-between-whats-right-and-whats-possible-moral-distress-moral-courage-and-integrity-in-practice",
-      "start": "2026-08-10",
-      "location": "Hybrid (HDB 1.208 and Zoom link to follow) \\, Hybrid (HDB 1.208 and Zoom link to follow)"
-    },
-    {
-      "source": "public",
-      "title": "Health Social Work Visiting Speaker: Between What\u2019s Right and What\u2019s Possible",
-      "url": "https://dellmed.utexas.edu/events/health-social-work-visiting-speaker-between-whats-right-and-whats-possible",
-      "start": "2026-08-10",
-      "time": "12\u20131 p.m.",
-      "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
-      "speaker": "Fran\u00e7oise Mathieu, M.Ed., RP, CCC"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-08-10",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-10",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-10",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Summer Stock Austin 2026 - Newsies",
-      "url": "https://calendar.utexas.edu/event/summer-stock-austin-2026-newsies",
-      "start": "2026-08-10",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
     {
       "source": "ut",
       "title": "Apply: Fall ESL classes",
@@ -986,6 +886,13 @@
     },
     {
       "source": "ut",
+      "title": "Texas Health Cataylist Fall Challenge Info Session",
+      "url": "https://calendar.utexas.edu/event/texas-health-cataylist-fall-challenge-info-session",
+      "start": "2026-08-18",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Web Content Management Office Hours - August 18\\, 2026",
       "url": "https://calendar.utexas.edu/event/web-content-management-office-hours-august-18-2026",
       "start": "2026-08-18",
@@ -1512,6 +1419,13 @@
     },
     {
       "source": "ut",
+      "title": "Gone to Civic Leadership",
+      "url": "https://calendar.utexas.edu/event/gone-to-civic-leadership-9325",
+      "start": "2026-08-23",
+      "location": "Littlefield Home (LFH)"
+    },
+    {
+      "source": "ut",
       "title": "Gone to Education",
       "url": "https://calendar.utexas.edu/event/gone-to-education-6645",
       "start": "2026-08-23",
@@ -1910,6 +1824,13 @@
     },
     {
       "source": "ut",
+      "title": "NDatUT Welcome Mixer: Garden Party",
+      "url": "https://calendar.utexas.edu/event/ndatut-welcome-mixer-garden-party",
+      "start": "2026-08-26",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.304"
+    },
+    {
+      "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
       "start": "2026-08-26",
@@ -2136,6 +2057,13 @@
       "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
       "start": "2026-08-28",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Beginner Two Step Lessons followed by Ori Moore & The Lonesome Rangers",
+      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-the-lonesome-rangers",
+      "start": "2026-08-28",
+      "location": "Cactus Cafe (Texas Union)\\, Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2426,6 +2354,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-08-31",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Quick Connections",
+      "url": "https://calendar.utexas.edu/event/quick-connections",
+      "start": "2026-08-31",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.120"
     },
     {
       "source": "ut",
@@ -3428,6 +3363,13 @@
     },
     {
       "source": "ut",
+      "title": "Toy Story 5 \u2014 Sensory-Friendly Movie Screening",
+      "url": "https://calendar.utexas.edu/event/toy-story-5-sensory-friendly-movie-screening",
+      "start": "2026-09-10",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball at SMU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-smu",
       "start": "2026-09-10",
@@ -4009,6 +3951,13 @@
     },
     {
       "source": "ut",
+      "title": "Students on the Spectrum",
+      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
+      "start": "2026-09-16",
+      "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Golf vs Jackson T. Stephens Cup",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-jackson-t-stephens-cup-5808",
       "start": "2026-09-16",
@@ -4172,6 +4121,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-09-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fidget Friday",
+      "url": "https://calendar.utexas.edu/event/fidget-friday-5953",
+      "start": "2026-09-18",
+      "location": "Peter T. Flawn Academic Center (FAC)\\, Patio"
     },
     {
       "source": "ut",
@@ -5308,6 +5264,13 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
+      "source": "ut",
+      "title": "NDatUT Social",
+      "url": "https://calendar.utexas.edu/event/ndatut-social-9488",
+      "start": "2026-09-30",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/09/30",
@@ -5745,6 +5708,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-05",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "Blank Pages: Working with Writer\u2019s Block",
+      "url": "https://calendar.utexas.edu/event/blank-pages-working-with-writers-block",
+      "start": "2026-10-06",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 1"
     },
     {
       "source": "ut",
@@ -6701,6 +6671,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-14",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Students on the Spectrum",
+      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
+      "start": "2026-10-14",
+      "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
       "source": "ut",
@@ -7678,6 +7655,13 @@
     },
     {
       "source": "ut",
+      "title": "Fidget Friday",
+      "url": "https://calendar.utexas.edu/event/fidget-friday-3912",
+      "start": "2026-10-23",
+      "location": "PCL Corner"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-23",
@@ -8342,6 +8326,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "NDatUT Social",
+      "url": "https://calendar.utexas.edu/event/ndatut-social-2842",
+      "start": "2026-10-29",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
     },
     {
       "source": "ut",
@@ -9689,6 +9680,13 @@
     },
     {
       "source": "ut",
+      "title": "Students on the Spectrum",
+      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
+      "start": "2026-11-11",
+      "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Instructor Candidate Course",
       "url": "https://calendar.utexas.edu/event/aha-bls-instructor-candidate-course-2916",
       "start": "2026-11-12",
@@ -10098,6 +10096,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-11-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "NDatUT Social",
+      "url": "https://calendar.utexas.edu/event/ndatut-social-5638",
+      "start": "2026-11-16",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 1.106"
     },
     {
       "source": "ut",
@@ -11990,6 +11995,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-08",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SSB Finals Fest",
+      "url": "https://calendar.utexas.edu/event/ssb-finals-fest-1476",
+      "start": "2026-12-08",
+      "location": "Student Services Building (SSB)\\, Lobby"
     },
     {
       "source": "internal",
@@ -15612,6 +15624,20 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-02-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-02-11",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-02-11",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
       "source": "ut",
