@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-13T07:39:04.371301+00:00",
+  "updated": "2026-08-13T19:06:29.253239+00:00",
   "counts": {
     "public": 14,
     "internal": 235,
-    "ut": 1960
+    "ut": 1958
   },
   "events": [
     {
@@ -2195,6 +2195,13 @@
       "url": "https://calendar.utexas.edu/event/quick-connections",
       "start": "2026-08-31",
       "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.120"
+    },
+    {
+      "source": "ut",
+      "title": "Rahul Subramanian",
+      "url": "https://calendar.utexas.edu/event/rahul-subramanian",
+      "start": "2026-08-31",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11534,6 +11541,13 @@
     },
     {
       "source": "ut",
+      "title": "Buena Vista Social Club",
+      "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
+      "start": "2026-12-02",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-12-02",
@@ -11638,6 +11652,13 @@
     },
     {
       "source": "ut",
+      "title": "Buena Vista Social Club",
+      "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
+      "start": "2026-12-03",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
       "start": "2026-12-03",
@@ -11735,6 +11756,13 @@
     },
     {
       "source": "ut",
+      "title": "Buena Vista Social Club",
+      "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
+      "start": "2026-12-04",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-04",
@@ -11815,6 +11843,13 @@
     },
     {
       "source": "ut",
+      "title": "Buena Vista Social Club",
+      "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
+      "start": "2026-12-05",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-05",
@@ -11861,6 +11896,13 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Buena Vista Social Club",
+      "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
+      "start": "2026-12-06",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11910,6 +11952,13 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Buena Vista Social Club",
+      "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
+      "start": "2026-12-07",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -15437,69 +15486,6 @@
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-02-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-05",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf at Amer Ari Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-6408",
-      "start": "2027-02-05",
-      "location": "Waimea\\, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
