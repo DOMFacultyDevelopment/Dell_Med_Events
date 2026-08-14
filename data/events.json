@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-14T07:37:31.754312+00:00",
+  "updated": "2026-08-14T18:58:45.935932+00:00",
   "counts": {
-    "public": 14,
+    "public": 16,
     "internal": 232,
-    "ut": 1958
+    "ut": 1957
   },
   "events": [
     {
@@ -543,8 +543,8 @@
     },
     {
       "source": "public",
-      "title": "Fall 2026 Texas Health Catalyst Associate Program Information Session 1",
-      "url": "https://dellmed.utexas.edu/events/texas-health-catalyst-associate-program-information-session-081926",
+      "title": "Fall 2026 Health Associates Program: Information Session 1",
+      "url": "https://dellmed.utexas.edu/events/health-associates-program-information-session-081926",
       "start": "2026-08-19",
       "time": "12\u20131 p.m.",
       "location": "Virtual"
@@ -777,13 +777,6 @@
       "url": "https://calendar.utexas.edu/event/texas-area-planetary-sciences-conference",
       "start": "2026-08-20",
       "location": "Commons Conference Center"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-08-20",
-      "location": null
     },
     {
       "source": "ut",
@@ -1442,8 +1435,8 @@
     },
     {
       "source": "public",
-      "title": "Fall 2026 Texas Health Catalyst Associate Program Information Session 2",
-      "url": "https://dellmed.utexas.edu/events/texas-health-catalyst-associate-program-information-session-082626",
+      "title": "Fall 2026 Health Associates Program: Information Session 2",
+      "url": "https://dellmed.utexas.edu/events/health-associate-program-information-session-082626",
       "start": "2026-08-26",
       "time": "7:30\u20138:30 a.m.",
       "location": "Virtual"
@@ -1735,13 +1728,6 @@
       "url": "https://calendar.utexas.edu/event/utla-information-session-6258",
       "start": "2026-08-27",
       "location": "Belo Center for New Media (BMC)\\, 5.102"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-08-27",
-      "location": null
     },
     {
       "source": "ut",
@@ -2116,13 +2102,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-31",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-08-31",
-      "location": null
     },
     {
       "source": "ut",
@@ -2630,13 +2609,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-09-04",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Track & Field / Cross Country vs Floyd Farms Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-floyd-farms-invitational",
       "start": "2026-09-04",
@@ -3040,13 +3012,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-09-08",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Golf vs Folds of Honor Collegiate",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-folds-of-honor-collegiate-8382",
       "start": "2026-09-08",
@@ -3378,9 +3343,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
       "start": "2026-09-11",
-      "location": "AT&T Hotel and Conference Center"
+      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
     },
     {
       "source": "ut",
@@ -4081,13 +4046,6 @@
       "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
       "start": "2026-09-16",
       "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-09-16",
-      "location": null
     },
     {
       "source": "ut",
@@ -5118,13 +5076,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-09-25",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs Sam Kendricks Dust Off Your Boots Classic",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sam-kendricks-dust-off-your-boots-classic",
       "start": "2026-09-25",
@@ -5463,13 +5414,6 @@
       "url": "https://calendar.utexas.edu/event/sharon-milgram-keynote-normalizing-failure",
       "start": "2026-09-28",
       "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-09-28",
-      "location": null
     },
     {
       "source": "ut",
@@ -5858,13 +5802,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-10-01",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "2026 TEX-E Fall Bootcamp",
       "url": "https://calendar.utexas.edu/event/2026-tex-e-fall-bootcamp",
       "start": "2026-10-02",
@@ -6228,6 +6165,14 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
+      "source": "public",
+      "title": "2026 Coalition for Health AI Fall Symposium",
+      "url": "https://dellmed.utexas.edu/events/coalition-for-health-ai-fall-symposium-100626",
+      "start": "2026-10-06",
+      "time": "7 a.m.",
+      "location": "AT&amp;T Executive Education and Conference Center"
+    },
+    {
       "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
@@ -6364,6 +6309,14 @@
       "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
       "start": "2026-10-06",
       "location": null
+    },
+    {
+      "source": "public",
+      "title": "2026 UT REAL Health AI Symposium: Transforming the Health Continuum Through AI",
+      "url": "https://dellmed.utexas.edu/events/2026-ut-real-health-ai-symposium-100726",
+      "start": "2026-10-07",
+      "time": "7 a.m.",
+      "location": "AT&amp;T Executive Education and Conference Center"
     },
     {
       "source": "ut",
@@ -7374,13 +7327,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-10-14",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Golf vs St Andrews Links Collegiate",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-st-andrews-links-collegiate-7256",
       "start": "2026-10-14",
@@ -7634,7 +7580,7 @@
       "title": "Pediatric Quality Improvement Educational Opportunity",
       "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1016",
       "start": "2026-10-16",
-      "time": "8 a.m."
+      "time": "7 a.m."
     },
     {
       "source": "ut",
@@ -8140,13 +8086,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-10-20",
-      "location": null
     },
     {
       "source": "ut",
@@ -9368,13 +9307,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-10-30",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving at South Carolina",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-south-carolina",
       "start": "2026-10-30",
@@ -10078,13 +10010,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-11-05",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Basketball vs Gardner-Webb",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-gardner-webb",
       "start": "2026-11-05",
@@ -10484,13 +10409,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-11-09",
-      "location": null
     },
     {
       "source": "ut",
@@ -11361,13 +11279,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-11-17",
-      "location": null
     },
     {
       "source": "ut",
@@ -12851,13 +12762,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-12-02",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs U.S. Open",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-us-open",
       "start": "2026-12-02",
@@ -13495,13 +13399,6 @@
     },
     {
       "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-12-09",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
       "start": "2026-12-09",
@@ -14047,13 +13944,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-12-15",
-      "location": null
     },
     {
       "source": "ut",
@@ -15313,8 +15203,43 @@
     },
     {
       "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "start": "2027-01-05",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-05",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-05",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -15327,6 +15252,90 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
+      "start": "2027-01-05",
+      "location": "Athens\\, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-01-06",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-01-06",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-06",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-06",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-07",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-07",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
