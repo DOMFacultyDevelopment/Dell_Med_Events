@@ -1,119 +1,11 @@
 {
-  "updated": "2026-08-14T18:58:45.935932+00:00",
+  "updated": "2026-08-15T06:43:26.707452+00:00",
   "counts": {
-    "public": 16,
-    "internal": 232,
-    "ut": 1957
+    "public": 17,
+    "internal": 231,
+    "ut": 1966
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Apply: Fall ESL classes",
-      "url": "https://calendar.utexas.edu/event/apply-fall-esl-classes-9488",
-      "start": "2026-08-14",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-14",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-14",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-14",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-14",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-14",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Educator Nights at McDonald Observatory",
-      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
-      "start": "2026-08-14",
-      "location": "McDonald Observatory"
-    },
-    {
-      "source": "ut",
-      "title": "Ice Age in the Wild",
-      "url": "https://calendar.utexas.edu/event/ice-age-in-the-wild",
-      "start": "2026-08-14",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Immersive Python Workshop",
-      "url": "https://calendar.utexas.edu/event/immersive-python-workshop-4226",
-      "start": "2026-08-14",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab\\, Data Lab (PCL 2.202)"
-    },
-    {
-      "source": "ut",
-      "title": "Llano and Hillcountry Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/llano-and-hillcountry-live-at-the-cactus-cafe",
-      "start": "2026-08-14",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-14",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/08/14",
-      "start": "2026-08-14",
-      "time": "8:00am \u2013 9:00am",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-14",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-14",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-08-14",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
     {
       "source": "ut",
       "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
@@ -780,6 +672,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-08-20",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification Renewal",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-3787",
       "start": "2026-08-21",
@@ -1299,6 +1198,13 @@
     },
     {
       "source": "ut",
+      "title": "SSB Open House",
+      "url": "https://calendar.utexas.edu/event/ssb-open-house",
+      "start": "2026-08-25",
+      "location": "Student Services Building (SSB)"
+    },
+    {
+      "source": "ut",
       "title": "Start Strong with Sanger",
       "url": "https://calendar.utexas.edu/event/start-strong-with-sanger",
       "start": "2026-08-25",
@@ -1731,6 +1637,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-08-27",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Welcome Back to the Chase Library!",
       "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
       "start": "2026-08-27",
@@ -1850,6 +1763,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-08-28",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "SHIFT Operation Naloxone Training",
+      "url": "https://calendar.utexas.edu/event/shift-operation-naloxone-training-4251",
+      "start": "2026-08-28",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.302"
     },
     {
       "source": "ut",
@@ -2105,6 +2025,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-08-31",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Soccer vs Incarnate Word",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-incarnate-word",
       "start": "2026-08-31",
@@ -2223,6 +2150,13 @@
       "url": "https://calendar.utexas.edu/event/utla-information-session-7352",
       "start": "2026-09-01",
       "location": "Belo Center for New Media (BMC)\\, 5.102"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Alumni Panel and Mixer",
+      "url": "https://calendar.utexas.edu/event/utny-alumni-panel-and-mixer",
+      "start": "2026-09-01",
+      "location": "DMC\\, 5.208"
     },
     {
       "source": "ut",
@@ -2348,6 +2282,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Application Walkthrough",
+      "url": "https://calendar.utexas.edu/event/utny-application-walkthrough-5552",
+      "start": "2026-09-02",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-03",
@@ -2442,6 +2383,13 @@
       "url": "https://calendar.utexas.edu/event/medicare-101",
       "start": "2026-09-03",
       "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "Meet the UTNY Faculty",
+      "url": "https://calendar.utexas.edu/event/meet-the-utny-faculty-8197",
+      "start": "2026-09-03",
+      "location": null
     },
     {
       "source": "ut",
@@ -2606,6 +2554,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-04",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-09-04",
+      "location": null
     },
     {
       "source": "ut",
@@ -3012,6 +2967,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-09-08",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Golf vs Folds of Honor Collegiate",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-folds-of-honor-collegiate-8382",
       "start": "2026-09-08",
@@ -3343,9 +3305,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel and Conference Center"
     },
     {
       "source": "ut",
@@ -4049,6 +4011,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-09-16",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Golf vs Jackson T. Stephens Cup",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-jackson-t-stephens-cup-5808",
       "start": "2026-09-16",
@@ -4167,6 +4136,15 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "public",
+      "title": "Ophthalmology CME Series: Primary Angle Closure: New Understanding, New Management",
+      "url": "https://dellmed.utexas.edu/events/ophthalmology-continuing-medical-education-series-primary-angle-closure-091726",
+      "start": "2026-09-17",
+      "time": "7:30\u20138:30 a.m.",
+      "location": "Health Discovery Building Auditorium (HDB 1.208)",
+      "speaker": "Robert Feldman, M.D."
     },
     {
       "source": "ut",
@@ -4968,6 +4946,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Application Walkthrough",
+      "url": "https://calendar.utexas.edu/event/utny-application-walkthrough-5552",
+      "start": "2026-09-24",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Soccer at Florida",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-florida-1750",
       "start": "2026-09-24",
@@ -5073,6 +5058,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-25",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-09-25",
+      "location": null
     },
     {
       "source": "ut",
@@ -5369,7 +5361,7 @@
       "title": "Health Social Work Grand Rounds: Mobilizing the Power of Storytelling",
       "url": "https://dellmed.utexas.edu/events/health-social-work-grand-rounds-mobilizing-the-power-of-storytelling",
       "start": "2026-09-28",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "5:30\u20137 p.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
       "speaker": "Caroline Sharkey, Ph.D., LCSW"
     },
@@ -5414,6 +5406,13 @@
       "url": "https://calendar.utexas.edu/event/sharon-milgram-keynote-normalizing-failure",
       "start": "2026-09-28",
       "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-09-28",
+      "location": null
     },
     {
       "source": "ut",
@@ -5799,6 +5798,20 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-10-01",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Summer '27 Application Deadline",
+      "url": "https://calendar.utexas.edu/event/utny-summer-27-application-deadline",
+      "start": "2026-10-01",
+      "location": null
     },
     {
       "source": "ut",
@@ -6477,6 +6490,13 @@
     },
     {
       "source": "ut",
+      "title": "UT REAL Health AI Symposium",
+      "url": "https://calendar.utexas.edu/event/ut-real-health-ai-symposium",
+      "start": "2026-10-07",
+      "location": "AT&T Executive Education and Conference Center (ATT)"
+    },
+    {
+      "source": "ut",
       "title": "UTLA Information Session",
       "url": "https://calendar.utexas.edu/event/utla-information-session-1483",
       "start": "2026-10-07",
@@ -6613,6 +6633,13 @@
       "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
       "start": "2026-10-08",
       "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "UT REAL Health AI Symposium",
+      "url": "https://calendar.utexas.edu/event/ut-real-health-ai-symposium",
+      "start": "2026-10-08",
+      "location": "AT&T Executive Education and Conference Center (ATT)"
     },
     {
       "source": "ut",
@@ -7324,6 +7351,13 @@
       "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
       "start": "2026-10-14",
       "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-10-14",
+      "location": null
     },
     {
       "source": "ut",
@@ -8086,6 +8120,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-10-20",
+      "location": null
     },
     {
       "source": "ut",
@@ -9307,6 +9348,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-10-30",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving at South Carolina",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-south-carolina",
       "start": "2026-10-30",
@@ -10010,6 +10058,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-11-05",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball vs Gardner-Webb",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-gardner-webb",
       "start": "2026-11-05",
@@ -10409,6 +10464,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-09",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-11-09",
+      "location": null
     },
     {
       "source": "ut",
@@ -11279,6 +11341,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-11-17",
+      "location": null
     },
     {
       "source": "ut",
@@ -12762,6 +12831,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-12-02",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs U.S. Open",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-us-open",
       "start": "2026-12-02",
@@ -13399,6 +13475,13 @@
     },
     {
       "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-12-09",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
       "start": "2026-12-09",
@@ -13944,6 +14027,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Information Session",
+      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
+      "start": "2026-12-15",
+      "location": null
     },
     {
       "source": "ut",
@@ -15269,13 +15359,6 @@
     },
     {
       "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-01-06",
@@ -15287,13 +15370,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-01-06",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
     },
     {
       "source": "ut",
@@ -15322,20 +15398,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-06",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
