@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T07:02:00.235952+00:00",
+  "updated": "2026-08-17T18:43:49.378078+00:00",
   "counts": {
     "public": 17,
     "internal": 231,
@@ -933,13 +933,6 @@
     },
     {
       "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-24",
-      "location": "Battle Hall (BTL)"
-    },
-    {
-      "source": "ut",
       "title": "Arts & Crafternoon Tea",
       "url": "https://calendar.utexas.edu/event/arts-crafternoon-tea",
       "start": "2026-08-25",
@@ -1114,13 +1107,6 @@
       "url": "https://calendar.utexas.edu/event/web-content-management-office-hours-august-25-2026",
       "start": "2026-08-25",
       "location": "Microsoft Teams"
-    },
-    {
-      "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-25",
-      "location": "Battle Hall (BTL)"
     },
     {
       "source": "ut",
@@ -1307,13 +1293,6 @@
       "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
       "start": "2026-08-26",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-26",
-      "location": "Battle Hall (BTL)"
     },
     {
       "source": "ut",
@@ -1504,13 +1483,6 @@
     },
     {
       "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-27",
-      "location": "Battle Hall (BTL)"
-    },
-    {
-      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
       "start": "2026-08-28",
@@ -1665,13 +1637,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-baylor",
       "start": "2026-08-28",
       "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
-    },
-    {
-      "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-28",
-      "location": "Battle Hall (BTL)"
     },
     {
       "source": "ut",
@@ -15443,6 +15408,13 @@
     },
     {
       "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-01-06",
@@ -15454,6 +15426,34 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-01-06",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-06",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
