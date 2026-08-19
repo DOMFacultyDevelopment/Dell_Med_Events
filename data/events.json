@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-19T06:50:06.760079+00:00",
+  "updated": "2026-08-19T18:39:30.978502+00:00",
   "counts": {
     "public": 16,
     "internal": 229,
-    "ut": 1976
+    "ut": 1977
   },
   "events": [
     {
@@ -135,6 +135,13 @@
       "url": "https://calendar.utexas.edu/event/teaching-with-without-and-about-ai-at-ut",
       "start": "2026-08-19",
       "location": "Etter-Harbin Alumni Center (UTX)"
+    },
+    {
+      "source": "ut",
+      "title": "The Texas ADvantage Experience: A webinar for Advanced Degrees",
+      "url": "https://calendar.utexas.edu/event/the-texas-advantage-experience-a-webinar-for-advanced-degrees",
+      "start": "2026-08-19",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -485,6 +492,13 @@
     },
     {
       "source": "ut",
+      "title": "Once you\u2019re moved in\\, Longhorn Welcome continues with Beat The Heat! Join us in the Texas Union for FREE food\\, games\\, giveaways and fun! It's a fantastic way to enjoy yourself before classes start and make new friends!",
+      "url": "https://calendar.utexas.edu/event/once-youre-moved-in-longhorn-welcome-continues-with-beat-the-heat-join-us-in-the-texas-union-for-free-food-games-giveaways-and-fun-its-a-fantastic-way-to-enjoy-yourself-before-classes-start-and-make-new-friends",
+      "start": "2026-08-22",
+      "location": "Texas Union Building (UNB)"
+    },
+    {
+      "source": "ut",
       "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
       "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
       "start": "2026-08-22",
@@ -702,13 +716,6 @@
     },
     {
       "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
-      "start": "2026-08-24",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Soccer at Grand Canyon",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-grand-canyon",
       "start": "2026-08-24",
@@ -879,13 +886,6 @@
     },
     {
       "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
-      "start": "2026-08-25",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Volleyball vs Marquette",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-marquette",
       "start": "2026-08-25",
@@ -974,6 +974,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-08-26",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Dive Into E+E",
+      "url": "https://calendar.utexas.edu/event/dive-into-ee",
+      "start": "2026-08-26",
+      "location": "Gregory Gymnasium (GRE)\\, Pool"
     },
     {
       "source": "ut",
@@ -1086,13 +1093,6 @@
     },
     {
       "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
-      "start": "2026-08-26",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
-    },
-    {
-      "source": "ut",
       "title": "Welcome Back to the Chase Library!",
       "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
       "start": "2026-08-26",
@@ -1197,6 +1197,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Live",
+      "url": "https://calendar.utexas.edu/event/longhorn-live-3122",
+      "start": "2026-08-27",
+      "location": "Gregory Gym Plaza"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-27",
@@ -1263,13 +1270,6 @@
       "location": "HLB 1.111 Auditorium",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
-      "start": "2026-08-27",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
     },
     {
       "source": "ut",
@@ -1444,10 +1444,10 @@
     },
     {
       "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
+      "title": "UTeach to the Core: Crafting with UTeach-Liberal Arts",
+      "url": "https://calendar.utexas.edu/event/uteach-to-the-core-crafting-with-uteach-liberal-art",
       "start": "2026-08-28",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+      "location": "Burdine Hall (BUR)\\, 214"
     },
     {
       "source": "ut",
@@ -2200,6 +2200,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-04",
@@ -2319,6 +2326,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-05",
@@ -2417,6 +2431,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-06",
@@ -2442,6 +2463,13 @@
       "url": "https://calendar.utexas.edu/event/jazzmyn-live-at-the-cactus-cafe",
       "start": "2026-09-06",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Landmarks Tour",
+      "url": "https://calendar.utexas.edu/event/landmarks-tour",
+      "start": "2026-09-06",
+      "location": "Gordon White Building (GWB)"
     },
     {
       "source": "ut",
@@ -2503,6 +2531,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-07",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2609,10 +2644,24 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-08",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "Global Sustainability Leadership (GSL) Minor Info Session",
       "url": "https://calendar.utexas.edu/event/global-sustainability-leadership-gsl-minor-info-session",
       "start": "2026-09-08",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Graduate Job Search Working Group",
+      "url": "https://calendar.utexas.edu/event/graduate-job-search-working-group",
+      "start": "2026-09-08",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
     },
     {
       "source": "ut",
@@ -2708,6 +2757,13 @@
     },
     {
       "source": "ut",
+      "title": "When You Return: Digital Methods for Managing Your Research Archive",
+      "url": "https://calendar.utexas.edu/event/when-you-return-digital-methods-for-managing-your-research-archive-6811",
+      "start": "2026-09-08",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-09",
@@ -2762,6 +2818,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-09",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2912,6 +2975,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-10",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3115,6 +3185,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-11",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-11",
@@ -3246,6 +3323,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-12",
@@ -3318,6 +3402,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3416,6 +3507,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-14",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3528,6 +3626,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-15",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-15",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3707,6 +3812,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-16",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-16",
@@ -3862,6 +3974,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4032,6 +4151,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-18",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-18",
@@ -4104,6 +4230,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-19",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4193,6 +4326,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-20",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-20",
@@ -4272,6 +4412,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-21",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4387,6 +4534,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-22",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4521,6 +4675,13 @@
       "url": "https://calendar.utexas.edu/event/fallnbsp2026-career-amp-internship-fair",
       "start": "2026-09-23",
       "location": "Texas Union Ballroom \u2014 University of Texas at Austin"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4674,6 +4835,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-24",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-24",
@@ -4813,6 +4981,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-25",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-09-25",
@@ -4907,6 +5082,13 @@
     },
     {
       "source": "ut",
+      "title": "Using Python for Qualitative Data Analysis [Data & Donuts Workshop]",
+      "url": "https://calendar.utexas.edu/event/using-python-for-qualitative-data-analysis-data-donuts-workshop",
+      "start": "2026-09-25",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-26",
@@ -4944,6 +5126,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-26",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-26",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5035,6 +5224,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-27",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-27",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5168,6 +5364,13 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-28",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
       "source": "public",
       "title": "Health Social Work Grand Rounds: Mobilizing the Power of Storytelling",
       "url": "https://dellmed.utexas.edu/events/health-social-work-grand-rounds-mobilizing-the-power-of-storytelling",
@@ -5290,6 +5493,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-09-29",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5420,6 +5630,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-09-30",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5564,6 +5781,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-10-01",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "Fueling the Fight: Skills for Mastering Campaign Fundraising",
       "url": "https://calendar.utexas.edu/event/fueling-the-fight-skills-for-mastering-campaign-fundraising",
       "start": "2026-10-01",
@@ -5689,6 +5913,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-10-02",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-02",
@@ -5794,6 +6025,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-10-03",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-03",
@@ -5866,6 +6104,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-10-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5964,6 +6209,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-10-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6085,6 +6337,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-10-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6216,6 +6475,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-10-07",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6392,6 +6658,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-10-08",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "Francis Bacon and the Crisis of the Palatinate",
       "url": "https://calendar.utexas.edu/event/francis-bacon-and-the-crisis-of-the-palatinate",
       "start": "2026-10-08",
@@ -6510,6 +6783,13 @@
     },
     {
       "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
+      "start": "2026-10-09",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-09",
@@ -6620,6 +6900,13 @@
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-10-10",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7426,6 +7713,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-16",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Expedia Site Visit &amp\\; Portfolio Building Workshop",
+      "url": "https://calendar.utexas.edu/event/expedia-site-visit-amp-portfolio-building-workshop",
+      "start": "2026-10-16",
+      "location": "Off-Campus"
     },
     {
       "source": "ut",
@@ -8764,6 +9058,13 @@
     },
     {
       "source": "ut",
+      "title": "Graduate Job Search Working Group",
+      "url": "https://calendar.utexas.edu/event/graduate-job-search-working-group",
+      "start": "2026-10-27",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-27",
@@ -9978,6 +10279,13 @@
       "url": "https://calendar.utexas.edu/event/wind-symphony-7751",
       "start": "2026-11-05",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "World Digital Preservation Day",
+      "url": "https://calendar.utexas.edu/event/world-digital-preservation-day",
+      "start": "2026-11-05",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
     },
     {
       "source": "ut",
@@ -15104,20 +15412,6 @@
     },
     {
       "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-02",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-01-02",
@@ -15145,146 +15439,6 @@
       "location": "Austin\\, Texas\\, Moody Center"
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs South Carolina",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
-      "start": "2027-01-03",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-04",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-04",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-01-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-05",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/05",
@@ -15295,125 +15449,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
-      "start": "2027-01-05",
-      "location": "Athens\\, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-01-06",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-01-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/07",
@@ -15422,34 +15457,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
-      "start": "2027-01-07",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
