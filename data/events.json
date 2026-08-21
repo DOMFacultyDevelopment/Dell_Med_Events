@@ -1,195 +1,11 @@
 {
-  "updated": "2026-08-20T18:43:21.526294+00:00",
+  "updated": "2026-08-21T06:53:17.265414+00:00",
   "counts": {
-    "public": 15,
-    "internal": 228,
-    "ut": 1970
+    "public": 16,
+    "internal": 223,
+    "ut": 1966
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Instructor Candidate Course",
-      "url": "https://calendar.utexas.edu/event/aha-bls-instructor-candidate-course-2916",
-      "start": "2026-08-20",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "American Heart Association Basic Life Support Instructor Candidate Training",
-      "url": "https://calendar.utexas.edu/event/american-heart-association-basic-life-support-instructor-candidate-training",
-      "start": "2026-08-20",
-      "location": "\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-20",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-20",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/08/20",
-      "start": "2026-08-20",
-      "time": "1:30pm \u2013 2:30pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-08-20",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-20",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "EAP Monthly Mindfulness Workshop",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018408/",
-      "start": "2026-08-20",
-      "time": "11:45am \u2013 12:15pm",
-      "location": "HDB 1.204",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Getting Started with UT Sage AI Tutors",
-      "url": "https://calendar.utexas.edu/event/getting-started-with-ut-sage-ai-tutors-3614",
-      "start": "2026-08-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Graphic Design Information Session",
-      "url": "https://calendar.utexas.edu/event/graphic-design-information-session",
-      "start": "2026-08-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "IPE Facilitation &amp\\; Networking",
-      "url": "https://calendar.utexas.edu/event/ipe-facilitation-amp-networking",
-      "start": "2026-08-20",
-      "location": "Health Learning Building 1.111"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/08/20",
-      "start": "2026-08-20",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Introduction to OEF for UT Faculty",
-      "url": "https://calendar.utexas.edu/event/introduction-to-oef-for-ut-faculty",
-      "start": "2026-08-20",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Medical Education Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/08/20",
-      "start": "2026-08-20",
-      "time": "12:00pm \u2013 1:00pm",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-20",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "public",
-      "title": "Ophthalmology Case Conference: Retina Insights: Resident Case Challenges",
-      "url": "https://dellmed.utexas.edu/events/ophthalmology-case-conference-retina-insights-082026",
-      "start": "2026-08-20",
-      "time": "5:30\u20137 p.m.",
-      "speaker": "Jared Moon, M.D., and Kristin Park, M.D."
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-20",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Special Projects Meeting 8/19",
-      "url": "https://calendar.utexas.edu/event/special-projects-meeting-819",
-      "start": "2026-08-20",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/08/20",
-      "start": "2026-08-20",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Texas Area Planetary Sciences Conference",
-      "url": "https://calendar.utexas.edu/event/texas-area-planetary-sciences-conference",
-      "start": "2026-08-20",
-      "location": "Commons Conference Center"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-08-20",
-      "location": null
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification Renewal",
@@ -255,6 +71,13 @@
     },
     {
       "source": "ut",
+      "title": "How To Apply - Spain Exchanges",
+      "url": "https://calendar.utexas.edu/event/how-to-apply-spain-exchanges",
+      "start": "2026-08-21",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-21",
@@ -265,7 +88,7 @@
       "title": "Pediatric Grand Rounds: From Silos to Systems: Integrating Behavioral Health in Pediatrics",
       "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-integrating-behavioral-health",
       "start": "2026-08-21",
-      "time": "5:30\u20137 p.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom",
       "speaker": "Alba Pergjika, M.D., MPH"
     },
@@ -701,6 +524,13 @@
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-08-25",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
+    },
+    {
+      "source": "ut",
+      "title": "Pop into Success!",
+      "url": "https://calendar.utexas.edu/event/pop-into-success",
+      "start": "2026-08-25",
+      "location": "Speedway closer to Engineering Wing"
     },
     {
       "source": "ut",
@@ -2024,6 +1854,15 @@
       "location": "Sid Richardson Hall (SRH)\\, 3.122"
     },
     {
+      "source": "public",
+      "title": "Research Nuts & Bolts: Developing Protocols and Manuals of Procedures (MOPs)",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-developing-protocols-and-mops-090326",
+      "start": "2026-09-03",
+      "time": "10\u201311 a.m.",
+      "location": "Zoom",
+      "speaker": "Heather Jones, MPH, R.D."
+    },
+    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
@@ -2625,7 +2464,7 @@
       "title": "Neurology Grand Rounds: Neuroimaging in Multiple Sclerosis",
       "url": "https://dellmed.utexas.edu/events/neurology-grand-rounds-neuroimaging-in-multiple-sclerosis",
       "start": "2026-09-08",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "10\u201311 a.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
       "speaker": "Rohit Bakshi, M.D."
     },
@@ -3463,6 +3302,13 @@
       "url": "https://calendar.utexas.edu/event/madrigal-auditions",
       "start": "2026-09-14",
       "location": "WCP 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "May Term in Australia: The Politics of Protecting the Great Barrier Reef - Info Session",
+      "url": "https://calendar.utexas.edu/event/may-term-in-australia-the-politics-of-protecting-the-great-barrier-reef-info-session-152",
+      "start": "2026-09-14",
+      "location": "George I. Sanchez Building (SZB)\\, 4.508"
     },
     {
       "source": "ut",
@@ -4753,6 +4599,14 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
+      "source": "public",
+      "title": "Department of Quantitative and Systems Health Sciences: Open House and Mixer",
+      "url": "https://dellmed.utexas.edu/events/quantitative-and-systems-health-sciences-open-house-and-mixer-092426",
+      "start": "2026-09-24",
+      "time": "5:30\u20137 p.m.",
+      "location": "HDB 1.208 Auditorium"
+    },
+    {
       "source": "ut",
       "title": "EndNote Basics for Citation Management",
       "url": "https://calendar.utexas.edu/event/endnote-basics-for-citation-management",
@@ -5315,7 +5169,7 @@
       "title": "Health Social Work Grand Rounds: Mobilizing the Power of Storytelling",
       "url": "https://dellmed.utexas.edu/events/health-social-work-grand-rounds-mobilizing-the-power-of-storytelling",
       "start": "2026-09-28",
-      "time": "5:30\u20137 p.m.",
+      "time": "2\u20135 p.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
       "speaker": "Caroline Sharkey, Ph.D., LCSW"
     },
@@ -6334,6 +6188,13 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
+      "start": "2026-10-06",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "May Term in Australia: The Politics of Protecting the Great Barrier Reef - Info Session",
+      "url": "https://calendar.utexas.edu/event/may-term-in-australia-the-politics-of-protecting-the-great-barrier-reef-info-session-6896",
       "start": "2026-10-06",
       "location": null
     },
@@ -8357,6 +8218,13 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "May Term in Australia: The Politics of Protecting the Great Barrier Reef - Info Session",
+      "url": "https://calendar.utexas.edu/event/may-term-in-australia-the-politics-of-protecting-the-great-barrier-reef-info-session-1588",
+      "start": "2026-10-21",
+      "location": "George I. Sanchez Building (SZB)\\, 4.508"
     },
     {
       "source": "ut",
@@ -15339,6 +15207,34 @@
     },
     {
       "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2026-12-31",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-12-31",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2026-12-31",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2026-12-31",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-12-31",
@@ -15370,6 +15266,41 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-georgia",
+      "start": "2026-12-31",
+      "location": "Athens\\, Ga."
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-01",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-01",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-01",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-01",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
