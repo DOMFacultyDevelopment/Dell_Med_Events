@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-21T06:53:17.265414+00:00",
+  "updated": "2026-08-21T18:40:39.008805+00:00",
   "counts": {
     "public": 16,
     "internal": 223,
-    "ut": 1966
+    "ut": 1987
   },
   "events": [
     {
@@ -6086,6 +6086,13 @@
     },
     {
       "source": "ut",
+      "title": "Activate Information Session",
+      "url": "https://calendar.utexas.edu/event/activate-information-session",
+      "start": "2026-10-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-10-06",
@@ -7124,6 +7131,13 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
+      "source": "ut",
+      "title": "Skills for Winning Campaigns and Elections: A Conservative Viewpoint: Campaigns and Elections",
+      "url": "https://calendar.utexas.edu/event/skills-for-winning-campaigns-and-elections-a-conservative-viewpoint-campaigns-and-elections",
+      "start": "2026-10-13",
+      "location": "LBJ - Bass Lecture Hall"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/13",
@@ -7493,6 +7507,13 @@
       "url": "https://calendar.utexas.edu/event/utla-application-walkthrough-5650",
       "start": "2026-10-15",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting - Adriana Souto Pereira Nuncio (Melamed Lab)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-adriana-souto-pereira-nuncio-melamed-lab",
+      "start": "2026-10-15",
+      "location": "SEAY Library - Room 4.244"
     },
     {
       "source": "ut",
@@ -8839,6 +8860,13 @@
       "url": "https://calendar.utexas.edu/event/ross-margitza-piano",
       "start": "2026-10-26",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "The Longhorn Haunt!",
+      "url": "https://calendar.utexas.edu/event/the-longhorn-haunt",
+      "start": "2026-10-26",
+      "location": null
     },
     {
       "source": "ut",
@@ -13145,6 +13173,13 @@
     },
     {
       "source": "ut",
+      "title": "WCAAR Weekly Meeting -Lisa Wang (Pierce Lab)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-lisa-wang-pierce-lab",
+      "start": "2026-12-03",
+      "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
       "title": "WCAAR Weekly Meeting -TBD",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-tbd",
       "start": "2026-12-03",
@@ -13784,6 +13819,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
       "start": "2026-12-10",
       "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting - David Root (UC Boulder)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-david-root-uc-boulder",
+      "start": "2026-12-10",
+      "location": "SEAY Library - Room 4.244"
     },
     {
       "source": "ut",
@@ -15283,6 +15325,20 @@
     },
     {
       "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-01",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-01",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-01-01",
@@ -15301,6 +15357,97 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-01",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-02",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-02",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-02",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-02",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-02",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-02",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
+      "start": "2027-01-02",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-03",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-03",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-03",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-03",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs South Carolina",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
+      "start": "2027-01-03",
+      "location": "Austin\\, Texas"
     },
     {
       "source": "internal",
