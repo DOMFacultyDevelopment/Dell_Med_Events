@@ -1,132 +1,11 @@
 {
-  "updated": "2026-08-21T18:40:39.008805+00:00",
+  "updated": "2026-08-22T06:45:03.215734+00:00",
   "counts": {
-    "public": 16,
+    "public": 15,
     "internal": 223,
-    "ut": 1987
+    "ut": 1995
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-3787",
-      "start": "2026-08-21",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal-322",
-      "start": "2026-08-21",
-      "location": "NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-21",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-21",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-21",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Career by Design: A Strategic Start to Graduate School",
-      "url": "https://calendar.utexas.edu/event/career-by-design-a-strategic-start-to-graduate-school",
-      "start": "2026-08-21",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-21",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Educator Nights at McDonald Observatory",
-      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
-      "start": "2026-08-21",
-      "location": "McDonald Observatory"
-    },
-    {
-      "source": "ut",
-      "title": "How To Apply - Spain Exchanges",
-      "url": "https://calendar.utexas.edu/event/how-to-apply-spain-exchanges",
-      "start": "2026-08-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-21",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "public",
-      "title": "Pediatric Grand Rounds: From Silos to Systems: Integrating Behavioral Health in Pediatrics",
-      "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-integrating-behavioral-health",
-      "start": "2026-08-21",
-      "time": "7:30\u20138:30 a.m.",
-      "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom",
-      "speaker": "Alba Pergjika, M.D., MPH"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Pretax vs. Roth Contributions",
-      "url": "https://calendar.utexas.edu/event/pretax-vs-roth-contributions",
-      "start": "2026-08-21",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-21",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-08-21",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Soccer at Arizona State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-arizona-state",
-      "start": "2026-08-21",
-      "location": "Tempe\\, Ariz.\\, Sun Devil Soccer Stadium"
-    },
     {
       "source": "ut",
       "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
@@ -701,7 +580,7 @@
       "title": "Fall 2026 Health Associates Program: Information Session 2",
       "url": "https://dellmed.utexas.edu/events/health-associate-program-information-session-082626",
       "start": "2026-08-26",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "4\u20135 p.m.",
       "location": "Virtual"
     },
     {
@@ -1309,6 +1188,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-08-30",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Rahul Subramanian",
+      "url": "https://calendar.utexas.edu/event/rahul-subramanian",
+      "start": "2026-08-30",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -3312,6 +3198,13 @@
     },
     {
       "source": "ut",
+      "title": "National Security Career Fair",
+      "url": "https://calendar.utexas.edu/event/national-security-career-fair",
+      "start": "2026-09-14",
+      "location": "Texas Union Building (UNB)\\, Shirley Bird Perry Ballroom"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-14",
@@ -3810,6 +3703,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-09-17",
+      "location": "SSB 3.214"
     },
     {
       "source": "public",
@@ -4671,6 +4571,13 @@
       "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
       "start": "2026-09-24",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-09-24",
+      "location": "SSB 3.214"
     },
     {
       "source": "ut",
@@ -5627,6 +5534,13 @@
     },
     {
       "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-10-01",
+      "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-01",
@@ -5749,6 +5663,13 @@
     },
     {
       "source": "ut",
+      "title": "Island Science Day Reception",
+      "url": "https://calendar.utexas.edu/event/island-science-day-reception",
+      "start": "2026-10-02",
+      "location": "Patton Center for Marine Science Education 855 E. Cotter Ave. Port Aransas\\, TX 78373\\, The Patton Center (Auditorium Room 104)"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-02",
@@ -5858,6 +5779,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-10-03",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Island Science Day",
+      "url": "https://calendar.utexas.edu/event/island-science-day",
+      "start": "2026-10-03",
+      "location": "Patton Center for Marine Science Education 855 E. Cotter Ave. Port Aransas\\, TX 78373\\, The Patton Center (Auditorium Room 104)"
     },
     {
       "source": "ut",
@@ -6529,6 +6457,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-10-08",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-10-08",
+      "location": "SSB 3.214"
     },
     {
       "source": "ut",
@@ -7465,6 +7400,13 @@
     },
     {
       "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-10-15",
+      "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-15",
@@ -8392,6 +8334,13 @@
     },
     {
       "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-10-22",
+      "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-22",
@@ -9255,6 +9204,13 @@
       "url": "https://calendar.utexas.edu/event/ndatut-social-2842",
       "start": "2026-10-29",
       "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
+    },
+    {
+      "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-10-29",
+      "location": "SSB 3.214"
     },
     {
       "source": "ut",
@@ -10122,6 +10078,13 @@
     },
     {
       "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-11-05",
+      "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-05",
@@ -10969,6 +10932,13 @@
     },
     {
       "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-11-12",
+      "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-12",
@@ -11749,6 +11719,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-11-19",
+      "location": "SSB 3.214"
     },
     {
       "source": "ut",
@@ -13118,6 +13095,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
+      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
+      "start": "2026-12-03",
+      "location": "SSB 3.214"
     },
     {
       "source": "ut",
@@ -15423,6 +15407,20 @@
     },
     {
       "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-03",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-03",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-01-03",
@@ -15448,6 +15446,55 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
       "start": "2027-01-03",
       "location": "Austin\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-04",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-04",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
