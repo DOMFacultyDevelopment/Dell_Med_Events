@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:45:03.215734+00:00",
+  "updated": "2026-08-22T18:35:29.700268+00:00",
   "counts": {
     "public": 15,
     "internal": 223,
@@ -4555,6 +4555,13 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
+      "start": "2026-09-24",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Late Night Film - Interstellar",
+      "url": "https://calendar.utexas.edu/event/late-night-film-interstellar",
       "start": "2026-09-24",
       "location": null
     },
@@ -11068,6 +11075,13 @@
     },
     {
       "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-13",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-13",
@@ -11159,10 +11173,24 @@
     },
     {
       "source": "ut",
+      "title": "Jazz Band\\, Ensemble &amp\\;amp\\; Orchestra",
+      "url": "https://calendar.utexas.edu/event/jazz-band-ensemble-ampamp-orchestra-3571",
+      "start": "2026-11-14",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-14",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-14",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -11247,6 +11275,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-15",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-15",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -11338,6 +11373,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-16",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-16",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -11452,6 +11494,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-17",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-17",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -11591,6 +11640,13 @@
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-11-18",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-18",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -11743,6 +11799,13 @@
     },
     {
       "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-19",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Rethinking Religion\\, Violence\\, and Secularism",
       "url": "https://calendar.utexas.edu/event/tbd-788",
       "start": "2026-11-19",
@@ -11865,6 +11928,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-20",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-20",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -15407,27 +15477,6 @@
     },
     {
       "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-01-03",
@@ -15446,55 +15495,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
       "start": "2027-01-03",
       "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-04",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-04",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
