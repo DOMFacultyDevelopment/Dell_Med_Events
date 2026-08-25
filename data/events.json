@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:53:57.071756+00:00",
+  "updated": "2026-08-25T18:43:15.124784+00:00",
   "counts": {
     "public": 15,
     "internal": 223,
@@ -559,6 +559,13 @@
       "url": "https://calendar.utexas.edu/event/texas-block-party-3144",
       "start": "2026-08-27",
       "location": "Jester Residence Hall\\, Jester Plaza"
+    },
+    {
+      "source": "ut",
+      "title": "Texas Immersive Institute Open House",
+      "url": "https://calendar.utexas.edu/event/texas-immersive-institute-open-house-5837",
+      "start": "2026-08-27",
+      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, 5.102"
     },
     {
       "source": "internal",
@@ -1256,10 +1263,24 @@
     },
     {
       "source": "ut",
+      "title": "Madrigal Info Session",
+      "url": "https://calendar.utexas.edu/event/madrigal-info-session",
+      "start": "2026-09-02",
+      "location": "Texas Union Chicano Culture Room"
+    },
+    {
+      "source": "ut",
       "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
       "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
       "start": "2026-09-02",
       "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
+    },
+    {
+      "source": "ut",
+      "title": "New Postdoc Orientation",
+      "url": "https://calendar.utexas.edu/event/new-postdoc-orientation-1076",
+      "start": "2026-09-02",
+      "location": "Texas Union Eastwoods Room"
     },
     {
       "source": "internal",
@@ -1505,6 +1526,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Texas Immersive Institute Open House",
+      "url": "https://calendar.utexas.edu/event/texas-immersive-institute-open-house-5837",
+      "start": "2026-09-03",
+      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, 5.102"
     },
     {
       "source": "ut",
@@ -2074,6 +2102,13 @@
     },
     {
       "source": "ut",
+      "title": "Madrigal Auditions",
+      "url": "https://calendar.utexas.edu/event/madrigal-auditions-4718",
+      "start": "2026-09-08",
+      "location": "Texas Union Sinclair Suite"
+    },
+    {
+      "source": "ut",
       "title": "Microsoft Panel Discussion &amp\\; Networking Event",
       "url": "https://calendar.utexas.edu/event/microsoft-panel-discussion-amp-networking-event",
       "start": "2026-09-08",
@@ -2236,6 +2271,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-09-09",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Madrigal Auditions",
+      "url": "https://calendar.utexas.edu/event/madrigal-auditions-4718",
+      "start": "2026-09-09",
+      "location": "Texas Union Sinclair Suite"
     },
     {
       "source": "ut",
@@ -2515,9 +2557,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel and Conference Center"
     },
     {
       "source": "ut",
@@ -2999,6 +3041,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-15",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Civic Action and Liberal Education in Narrative of the Life of Frederick Douglass",
+      "url": "https://calendar.utexas.edu/event/civic-action-and-liberal-education-in-narrative-of-the-life-of-frederick-douglass",
+      "start": "2026-09-15",
+      "location": "Avaya Auditorium\\, POB 2.302"
     },
     {
       "source": "ut",
@@ -7707,6 +7756,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Basketball at UConn (Exhibition)",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-uconn-exhibition",
+      "start": "2026-10-19",
+      "location": "TBA"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-20",
@@ -7763,6 +7819,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Emo Night",
+      "url": "https://calendar.utexas.edu/event/emo-night-3595",
+      "start": "2026-10-20",
+      "location": "WCP Ballroom"
     },
     {
       "source": "ut",
@@ -8480,6 +8543,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-south-carolina",
       "start": "2026-10-25",
       "location": "Columbia\\, S.C."
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs UCLA (Exhibition)",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-ucla-exhibition",
+      "start": "2026-10-25",
+      "location": "Cedar Park\\, Texas\\, H-E-B Center"
     },
     {
       "source": "ut",
@@ -10028,13 +10098,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball at Missouri",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-missouri",
-      "start": "2026-11-06",
-      "location": "Columbia\\, Mo.\\, Hearnes Center"
-    },
-    {
-      "source": "ut",
       "title": "A Beautiful Noise",
       "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
       "start": "2026-11-07",
@@ -10137,6 +10200,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-missouri",
       "start": "2026-11-07",
       "location": "Columbia\\, Mo.\\, Faurot Field at Memorial Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Volleyball at Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-missouri",
+      "start": "2026-11-07",
+      "location": "Columbia\\, Mo.\\, Hearnes Center"
     },
     {
       "source": "ut",
@@ -11198,6 +11268,20 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-17",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Conjunto Ensemble",
+      "url": "https://calendar.utexas.edu/event/conjunto-ensemble-8689",
+      "start": "2026-11-17",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "Cozy Concert",
+      "url": "https://calendar.utexas.edu/event/cozy-concert-4075",
+      "start": "2026-11-17",
+      "location": "Cactus Cafe"
     },
     {
       "source": "internal",
@@ -15410,13 +15494,6 @@
     },
     {
       "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-01-06",
@@ -15431,20 +15508,6 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-01-06",
@@ -15455,55 +15518,6 @@
       "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
@@ -15515,20 +15529,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
-      "start": "2027-01-07",
-      "location": "Austin\\, Texas"
     },
     {
       "source": "internal",
