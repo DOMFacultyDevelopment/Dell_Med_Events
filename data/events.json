@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T06:54:47.675980+00:00",
+  "updated": "2026-08-26T19:51:52.954781+00:00",
   "counts": {
     "public": 15,
     "internal": 220,
@@ -1394,7 +1394,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-09-04",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -1426,6 +1433,13 @@
       "url": "https://calendar.utexas.edu/event/job-amp-internship-search-bootcamp",
       "start": "2026-09-04",
       "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-09-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1520,7 +1534,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -1625,7 +1639,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -1737,7 +1751,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -1845,7 +1859,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -1979,7 +1993,7 @@
     },
     {
       "source": "ut",
-      "title": "Why the U.S. should race post-haste to use China\u2019s batteries",
+      "title": "Why the U.S. Should Race Post-Haste to Use China\u2019s Batteries",
       "url": "https://calendar.utexas.edu/event/why-the-us-should-race-post-haste-to-use-chinas-batteries",
       "start": "2026-09-08",
       "location": "Live Stream Online (Zoom and YouTube)"
@@ -2045,7 +2059,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: Prospective Freshman",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
+      "start": "2026-09-09",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2080,6 +2101,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-09-09",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "KUT Public Media Student Open House",
+      "url": "https://calendar.utexas.edu/event/kut-public-media-student-open-house-2924",
+      "start": "2026-09-09",
+      "location": "Dealey Center for New Media\\, DMC 1.108A"
     },
     {
       "source": "ut",
@@ -2122,6 +2150,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-09",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Site Visit Networking Prep",
+      "url": "https://calendar.utexas.edu/event/site-visit-networking-prep",
+      "start": "2026-09-09",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classroom C"
     },
     {
       "source": "ut",
@@ -2209,7 +2244,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2366,9 +2401,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel and Conference Center"
     },
     {
       "source": "ut",
@@ -2407,6 +2442,13 @@
     },
     {
       "source": "ut",
+      "title": "Emma Grace\\, Sami G\\, Emery Gentzel\\, and AB Brown Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/emma-grace-sami-g-emery-gentzel-and-ab-brown-live-at-the-cactus-cafe",
+      "start": "2026-09-11",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-09-11",
@@ -2421,7 +2463,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2463,6 +2505,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-09-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Microsoft Site Visit",
       "url": "https://calendar.utexas.edu/event/microsoft-site-visit",
       "start": "2026-09-11",
@@ -2498,6 +2547,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-11",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Scholarships to Study Abroad in Denmark and Sweden",
+      "url": "https://calendar.utexas.edu/event/scholarships-to-study-abroad-in-denmark-and-sweden",
+      "start": "2026-09-11",
+      "location": "Virtual\\, https://utexas.zoom.us/j/86908518895"
     },
     {
       "source": "public",
@@ -2559,7 +2615,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2643,7 +2699,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2748,7 +2804,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-09-14",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2888,7 +2951,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-15",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -2947,10 +3010,24 @@
     },
     {
       "source": "ut",
+      "title": "Snack and Study",
+      "url": "https://calendar.utexas.edu/event/snack-and-study-3440",
+      "start": "2026-09-15",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Strategic Targeting: Calculating Your Campaign&#039\\;s Path to Victory",
       "url": "https://calendar.utexas.edu/event/strategic-targeting-calculating-your-campaign039s-path-to-victory",
       "start": "2026-09-15",
       "location": "SRH 3.B10"
+    },
+    {
+      "source": "ut",
+      "title": "Study Abroad in Central and Eastern Europe",
+      "url": "https://calendar.utexas.edu/event/study-abroad-in-central-and-eastern-europe",
+      "start": "2026-09-15",
+      "location": "Texas Global\\, Global Lounge"
     },
     {
       "source": "ut",
@@ -3069,7 +3146,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3243,7 +3320,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3429,7 +3506,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3454,6 +3531,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-09-18",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-09-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3513,7 +3597,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-09-19",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3604,7 +3695,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-20",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3695,7 +3786,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3817,7 +3908,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: Prospective Freshman",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
+      "start": "2026-09-22",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -3963,7 +4061,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-23",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4135,7 +4233,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4309,7 +4407,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4334,6 +4432,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-09-25",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-09-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4459,7 +4564,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-26",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4557,7 +4662,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-27",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4693,7 +4798,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4824,7 +4929,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-29",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -4970,7 +5075,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-09-30",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5116,7 +5228,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5262,7 +5374,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5294,6 +5406,13 @@
       "url": "https://calendar.utexas.edu/event/island-science-day-reception",
       "start": "2026-10-02",
       "location": "Patton Center for Marine Science Education 855 E. Cotter Ave. Port Aransas\\, TX 78373\\, The Patton Center (Auditorium Room 104)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-10-02",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5381,7 +5500,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-03",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5472,7 +5591,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5577,7 +5696,14 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-10-05",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5710,7 +5836,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5857,7 +5983,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -5972,6 +6098,13 @@
     },
     {
       "source": "ut",
+      "title": "Snack and Study",
+      "url": "https://calendar.utexas.edu/event/snack-and-study-3440",
+      "start": "2026-10-07",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "UT REAL Health AI Symposium",
       "url": "https://calendar.utexas.edu/event/ut-real-health-ai-symposium",
       "start": "2026-10-07",
@@ -6035,7 +6168,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -6107,6 +6240,13 @@
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2026-10-08",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/08",
@@ -6174,7 +6314,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -6199,6 +6339,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-10-09",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-10-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -6296,7 +6443,7 @@
     },
     {
       "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, Eco",
+      "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
@@ -6496,6 +6643,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fall 2026 Information Session: Prospective Freshman",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
+      "start": "2026-10-12",
+      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -6965,6 +7119,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-10-15",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-15",
@@ -7163,6 +7324,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-10-16",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-16",
@@ -7188,6 +7356,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-10-16",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-10-16",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8117,6 +8292,13 @@
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)\\, McCullough Theatre"
     },
     {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-10-23",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/10/23",
@@ -8425,6 +8607,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-10-26",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-26",
@@ -8540,6 +8729,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Prospective Freshman",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
+      "start": "2026-10-27",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "GSLI Impact Chat - Sustainability & AI",
       "url": "https://calendar.utexas.edu/event/gsli-impact-chat-sustainability-ai",
       "start": "2026-10-27",
@@ -8634,6 +8830,13 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-10-28",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
+      "start": "2026-10-28",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9009,6 +9212,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-10-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-10-30",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9629,6 +9839,13 @@
     },
     {
       "source": "ut",
+      "title": "Snack and Study",
+      "url": "https://calendar.utexas.edu/event/snack-and-study-3440",
+      "start": "2026-11-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "The Visit",
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-04",
@@ -9855,6 +10072,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-11-06",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "Family Weekend \u2013 Fall 2026",
       "url": "https://calendar.utexas.edu/event/family-weekend-fall-2026",
       "start": "2026-11-06",
@@ -9873,6 +10097,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-11-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-11-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -10420,6 +10651,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Prospective Freshman",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
+      "start": "2026-11-11",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-11",
@@ -10660,6 +10898,13 @@
     },
     {
       "source": "ut",
+      "title": "America in the World at 250: A View from a Bloody Borderland",
+      "url": "https://calendar.utexas.edu/event/america-in-the-world-at-250-a-view-from-a-bloody-borderland",
+      "start": "2026-11-13",
+      "location": "LBJ - SRH 3.122"
+    },
+    {
+      "source": "ut",
       "title": "Brandon Hudgeons Ft. Matthew Payne Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/brandon-hudgeons-ft-matthew-payne-live-at-the-cactus-cafe",
       "start": "2026-11-13",
@@ -10706,6 +10951,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-11-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-11-13",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11000,6 +11252,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-11-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-11-16",
+      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -11354,6 +11613,13 @@
     },
     {
       "source": "ut",
+      "title": "University Orchestra",
+      "url": "https://calendar.utexas.edu/event/university-orchestra-6378",
+      "start": "2026-11-18",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
       "start": "2026-11-18",
@@ -11576,6 +11842,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-11-20",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-20",
@@ -11587,6 +11860,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-11-20",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-11-20",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -11870,6 +12150,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-11-23",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fall 2026 Information Session: Prospective Freshman",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
+      "start": "2026-11-23",
+      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -12270,6 +12557,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-11-27",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-27",
@@ -12477,6 +12771,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-11-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-11-30",
+      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -12970,6 +13271,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-12-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -13608,6 +13916,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-12-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-11",
@@ -13850,6 +14165,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fall 2026 Information Session: External Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
+      "start": "2026-12-14",
+      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -14245,6 +14567,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-12-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
@@ -14676,6 +15005,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2026-12-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-25",
@@ -15055,233 +15391,9 @@
     },
     {
       "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-01",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-01-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-02",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-02",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Florida",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
-      "start": "2027-01-02",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs South Carolina",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
-      "start": "2027-01-03",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-04",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-04",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-01-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-05",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
@@ -15295,111 +15407,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
-      "start": "2027-01-05",
-      "location": "Athens\\, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-01-06",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-01-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/07",
@@ -15408,13 +15415,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
-      "start": "2027-01-07",
-      "location": "Austin\\, Texas"
     },
     {
       "source": "internal",
