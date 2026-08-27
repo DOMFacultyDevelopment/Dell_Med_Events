@@ -1,211 +1,11 @@
 {
-  "updated": "2026-08-26T19:51:52.954781+00:00",
+  "updated": "2026-08-27T17:28:17.918779+00:00",
   "counts": {
-    "public": 15,
-    "internal": 220,
-    "ut": 1985
+    "public": 14,
+    "internal": 219,
+    "ut": 1969
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
-      "start": "2026-08-26",
-      "location": "NUR - various"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-08-26",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Back 2 School Bash",
-      "url": "https://calendar.utexas.edu/event/back-2-school-bash",
-      "start": "2026-08-26",
-      "location": "WCP Ballroom"
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-26",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-26",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Blackout Poetry & Zine Party",
-      "url": "https://calendar.utexas.edu/event/zines-blackout-poetry",
-      "start": "2026-08-26",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, UFCU Room PCL 2.500"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-08-26",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-26",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-26",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Dive Into E+E",
-      "url": "https://calendar.utexas.edu/event/dive-into-ee",
-      "start": "2026-08-26",
-      "location": "Gregory Gymnasium (GRE)\\, Pool"
-    },
-    {
-      "source": "ut",
-      "title": "Explore Beyond the Forty Acres with UTLA and UTNY",
-      "url": "https://calendar.utexas.edu/event/explore-beyond-the-forty-acres-with-utla-and-utny",
-      "start": "2026-08-26",
-      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, 3rd Floor Lobby"
-    },
-    {
-      "source": "public",
-      "title": "Fall 2026 Health Associates Program: Information Session 2",
-      "url": "https://dellmed.utexas.edu/events/health-associate-program-information-session-082626",
-      "start": "2026-08-26",
-      "time": "4\u20135 p.m.",
-      "location": "Virtual"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/08/26",
-      "start": "2026-08-26",
-      "time": "3:00pm \u2013 4:00pm",
-      "location": "HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Late Night Pool Event - Mamma Mia",
-      "url": "https://calendar.utexas.edu/event/late-night-pool-event-mamma-mia",
-      "start": "2026-08-26",
-      "location": "Gregory Pool"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-26",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "NDatUT Welcome Mixer: Garden Party",
-      "url": "https://calendar.utexas.edu/event/ndatut-welcome-mixer-garden-party",
-      "start": "2026-08-26",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.304"
-    },
-    {
-      "source": "ut",
-      "title": "On-Campus Job Search Workshop",
-      "url": "https://calendar.utexas.edu/event/on-campus-job-search-workshop",
-      "start": "2026-08-26",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Public Assembly",
-      "url": "https://calendar.utexas.edu/event/public-assembly",
-      "start": "2026-08-26",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Rec@Nite",
-      "url": "https://calendar.utexas.edu/event/recnite",
-      "start": "2026-08-26",
-      "location": "Gregory Gymnasium (GRE)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-26",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SCA Welcome",
-      "url": "https://calendar.utexas.edu/event/sca-welcome",
-      "start": "2026-08-26",
-      "location": "GWB\\, 2nd floor"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-08-26",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Teaching for Impact: Preparing for Your First Day",
-      "url": "https://calendar.utexas.edu/event/teaching-for-impact-preparing-for-your-first-day",
-      "start": "2026-08-26",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "UT Real Estate Center Open House",
-      "url": "https://calendar.utexas.edu/event/ut-real-estate-center-open-house",
-      "start": "2026-08-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
-      "start": "2026-08-26",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-26",
-      "location": "Battle Hall (BTL)"
-    },
     {
       "source": "ut",
       "title": "2026 Civic Org Fest",
@@ -254,7 +54,7 @@
       "title": "Best Practices in Medical Education Grand Rounds: Nutrition in Medical Education",
       "url": "https://dellmed.utexas.edu/events/best-practices-in-medical-education-grand-rounds-nutrition-in-medical-education",
       "start": "2026-08-27",
-      "time": "4\u20135 p.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Zoom",
       "speaker": "Madalyn Rosenthal, Ph.D."
     },
@@ -455,6 +255,13 @@
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-08-28",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Budget Meeting 08/28/2026",
+      "url": "https://calendar.utexas.edu/event/budget-meeting-08282026",
+      "start": "2026-08-28",
+      "location": null
     },
     {
       "source": "ut",
@@ -2401,9 +2208,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5446",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
       "start": "2026-09-11",
-      "location": "AT&T Hotel and Conference Center"
+      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
     },
     {
       "source": "ut",
@@ -4365,6 +4172,13 @@
     },
     {
       "source": "ut",
+      "title": "Wednesday Night Jazz Meeting with Rabbi Neil Blumofe",
+      "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
+      "start": "2026-09-24",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "2026 International Conference Series on Aging in the Americas (ICAA)",
       "url": "https://calendar.utexas.edu/event/2026-international-conference-series-on-aging-in-the-americas-icaa",
       "start": "2026-09-25",
@@ -4540,6 +4354,13 @@
       "url": "https://calendar.utexas.edu/event/chamber-orchestra-5337",
       "start": "2026-09-26",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "Chris Duarte Ft. Beth Lee Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/chris-duarte-ft-beth-lee-live-at-the-cactus-cafe",
+      "start": "2026-09-26",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -6583,6 +6404,13 @@
     },
     {
       "source": "ut",
+      "title": "Symphony Orchestra",
+      "url": "https://calendar.utexas.edu/event/symphony-orchestra-76",
+      "start": "2026-10-11",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "The Miraculous Journey of Edward Tulane",
       "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
       "start": "2026-10-11",
@@ -6685,13 +6513,6 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-12",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Symphony Orchestra",
-      "url": "https://calendar.utexas.edu/event/symphony-orchestra-76",
-      "start": "2026-10-12",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -8220,6 +8041,13 @@
       "url": "https://calendar.utexas.edu/event/waitress-3357",
       "start": "2026-10-22",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Wednesday Night Jazz Meeting with Rabbi Neil Blumofe",
+      "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
+      "start": "2026-10-22",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -11727,6 +11555,13 @@
     },
     {
       "source": "ut",
+      "title": "New Music Ensemble",
+      "url": "https://calendar.utexas.edu/event/new-music-ensemble-3608",
+      "start": "2026-11-19",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "No WCAAR Meeting - SfN",
       "url": "https://calendar.utexas.edu/event/no-wcaar-meeting-sfn",
       "start": "2026-11-19",
@@ -11800,6 +11635,13 @@
     },
     {
       "source": "ut",
+      "title": "Wednesday Night Jazz Meeting with Rabbi Neil Blumofe",
+      "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
+      "start": "2026-11-19",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Actors From The London Stage - Much Ado About Nothing",
       "url": "https://calendar.utexas.edu/event/actors-from-the-london-stage-much-ado-about-nothing",
       "start": "2026-11-20",
@@ -11818,6 +11660,13 @@
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-11-20",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Boomershack &amp\\; Alex Dupree Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/boomershack-amp-alex-dupree-live-at-the-cactus-cafe",
+      "start": "2026-11-20",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -13867,6 +13716,13 @@
     },
     {
       "source": "ut",
+      "title": "Wednesday Night Jazz Meeting with Rabbi Neil Blumofe",
+      "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
+      "start": "2026-12-10",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-11",
@@ -15391,8 +15247,22 @@
     },
     {
       "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-01",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-01",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
