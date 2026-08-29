@@ -1,203 +1,11 @@
 {
-  "updated": "2026-08-28T18:22:13.486954+00:00",
+  "updated": "2026-08-29T12:30:31.281916+00:00",
   "counts": {
     "public": 12,
-    "internal": 216,
-    "ut": 1959
+    "internal": 215,
+    "ut": 1955
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
-      "start": "2026-08-28",
-      "location": "NUR - various"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-738",
-      "start": "2026-08-28",
-      "location": "School of Nursing\\, NUR 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-08-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore & The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-the-lonesome-rangers",
-      "start": "2026-08-28",
-      "location": "Cactus Cafe (Texas Union)\\, Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
-      "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
-      "start": "2026-08-28",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-08-28",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Budget Meeting 08/28/2026",
-      "url": "https://calendar.utexas.edu/event/budget-meeting-08282026",
-      "start": "2026-08-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "CSR Open House",
-      "url": "https://calendar.utexas.edu/event/csr-open-house",
-      "start": "2026-08-28",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-08-28",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "College of Education Graduate Student Welcome",
-      "url": "https://calendar.utexas.edu/event/college-of-education-graduate-student-welcome",
-      "start": "2026-08-28",
-      "location": "George I. Sanchez Building (SZB)\\, SZB 3.110"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-08-28",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Educator Nights at McDonald Observatory",
-      "url": "https://calendar.utexas.edu/event/educator-nights-at-mcdonald-observatory",
-      "start": "2026-08-28",
-      "location": "McDonald Observatory"
-    },
-    {
-      "source": "ut",
-      "title": "Film Screening: A Nice Indian Boy",
-      "url": "https://calendar.utexas.edu/event/film-screening-a-nice-indian-boy",
-      "start": "2026-08-28",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 1 (PCL 2.370)"
-    },
-    {
-      "source": "ut",
-      "title": "LLILAS Benson Digital Scholarship Showcase",
-      "url": "https://calendar.utexas.edu/event/llilas-benson-digital-scholarship-showcase",
-      "start": "2026-08-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Friday",
-      "url": "https://calendar.utexas.edu/event/longhorn-friday-8683",
-      "start": "2026-08-28",
-      "location": "Speedway"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Welcome: Operation Naloxone/CSR Open House",
-      "url": "https://calendar.utexas.edu/event/longhorn-welcome-operation-naloxonecsr-open-house",
-      "start": "2026-08-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-08-28",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Friday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/08/28",
-      "start": "2026-08-28",
-      "time": "8:00am \u2013 9:00am",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Postdoc in Complex Metal Alloys for Hydrogen Storage and Purification",
-      "url": "https://calendar.utexas.edu/event/postdoc-in-complex-metal-alloys-for-hydrogen-storage-and-purification",
-      "start": "2026-08-28",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-08-28",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SHIFT Operation Naloxone Training",
-      "url": "https://calendar.utexas.edu/event/shift-operation-naloxone-training-4251",
-      "start": "2026-08-28",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-08-28",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "TIW Fab Friday Design Party \u2013 Try It",
-      "url": "https://calendar.utexas.edu/event/tiw-fab-friday-design-party-try-it",
-      "start": "2026-08-28",
-      "location": "\u201cHQ\u201d Room\\, Floor 1 North Tower\\, EER Building"
-    },
-    {
-      "source": "ut",
-      "title": "UTL Scavenger Hunt!",
-      "url": "https://calendar.utexas.edu/event/utl-scavenger-hunt",
-      "start": "2026-08-28",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "UTeach to the Core: Crafting with UTeach-Liberal Arts",
-      "url": "https://calendar.utexas.edu/event/uteach-to-the-core-crafting-with-uteach-liberal-art",
-      "start": "2026-08-28",
-      "location": "Burdine Hall (BUR)\\, 214"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Soccer vs Baylor",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-baylor",
-      "start": "2026-08-28",
-      "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
-    },
-    {
-      "source": "ut",
-      "title": "Welcome Back to the Chase Library!",
-      "url": "https://calendar.utexas.edu/event/welcome-back-to-the-chase-library",
-      "start": "2026-08-28",
-      "location": "Battle Hall (BTL)"
-    },
     {
       "source": "ut",
       "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
@@ -452,6 +260,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-08-31",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-01",
@@ -539,6 +354,13 @@
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
       "start": "2026-09-01",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Mindful Sips: The Future of Psychedelics \u2014 Problems & Promises",
+      "url": "https://calendar.utexas.edu/event/mindful-sips-the-future-of-psychedelics-problems-promises",
+      "start": "2026-09-01",
+      "location": "Norman Hackerman Building (NHB)\\, 1.720"
     },
     {
       "source": "ut",
@@ -1231,6 +1053,13 @@
     },
     {
       "source": "ut",
+      "title": "Appropriations Meeting",
+      "url": "https://calendar.utexas.edu/event/appropriations-meeting",
+      "start": "2026-09-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-09-06",
@@ -1798,6 +1627,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-folds-of-honor-collegiate-5951",
       "start": "2026-09-09",
       "location": "Grand Haven\\, Michigan"
+    },
+    {
+      "source": "ut",
+      "title": "Watermark Training for Professional Track Faculty",
+      "url": "https://calendar.utexas.edu/event/watermark-training-for-professional-track-faculty",
+      "start": "2026-09-09",
+      "location": "NUR 5.180"
     },
     {
       "source": "ut",
@@ -2550,6 +2386,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-09-14",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-15",
@@ -2927,6 +2770,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-jackson-t-stephens-cup-7748",
       "start": "2026-09-16",
       "location": "Frisco\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "Watermark Training for Tenured/Tenure-Track Faculty",
+      "url": "https://calendar.utexas.edu/event/watermark-training-for-tenuredtenure-track-faculty",
+      "start": "2026-09-16",
+      "location": "NUR 5.180"
     },
     {
       "source": "ut",
@@ -3532,6 +3382,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-09-21",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-22",
@@ -3741,13 +3598,6 @@
       "url": "https://calendar.utexas.edu/event/creative-coding-digital-methods-for-creative-writing",
       "start": "2026-09-23",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.212"
-    },
-    {
-      "source": "ut",
-      "title": "Dr. Timothy Cheek \"Life of the Party in Xi Jinping\u2019s China\"",
-      "url": "https://calendar.utexas.edu/event/2026-2027-dr-paul-and-mary-ho-distinguished-lecture-in-china-studies-dr-timothy-cheek-life-of-the-party-in-xi-jinpings-china",
-      "start": "2026-09-23",
-      "location": "Robert L. Patton Building (RLP)\\, 1.302E"
     },
     {
       "source": "ut",
@@ -4609,6 +4459,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-09-28",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Ace Your Tech Interviews Led by a Google Product Leader and Exponent",
       "url": "https://calendar.utexas.edu/event/ace-your-tech-interviews-led-by-a-google-product-leader-and-exponent",
       "start": "2026-09-29",
@@ -4762,6 +4619,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-ben-hogan-collegiate-invitational-5659",
       "start": "2026-09-29",
       "location": "Fort Worth\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Murray State College",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-murray-state-college",
+      "start": "2026-09-29",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
     {
       "source": "ut",
@@ -5530,6 +5394,13 @@
       "url": "https://calendar.utexas.edu/event/texas-intelligence-academy-2027-information-session",
       "start": "2026-10-05",
       "location": "Peter T. Flawn Academic Center (FAC)\\, 430"
+    },
+    {
+      "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-10-05",
+      "location": "Cactus Cafe"
     },
     {
       "source": "public",
@@ -6504,6 +6375,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-10-12",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "A Conservative Viewpoint: Campaigns and Elections",
       "url": "https://calendar.utexas.edu/event/a-conservative-viewpoint-campaigns-and-elections",
       "start": "2026-10-13",
@@ -6671,6 +6549,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-st-andrews-links-collegiate-6151",
       "start": "2026-10-13",
       "location": "St. Andrews\\, Scotland"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Texas State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-texas-state-2415",
+      "start": "2026-10-13",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
     {
       "source": "ut",
@@ -7556,6 +7441,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-10-19",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-20",
@@ -7712,6 +7604,13 @@
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-10-20",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Temple CC",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-temple-cc",
+      "start": "2026-10-20",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
     {
       "source": "ut",
@@ -8164,6 +8063,13 @@
     },
     {
       "source": "ut",
+      "title": "Volney And the Late Arrivals with Special Guests Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/volney-and-the-late-arrivals-with-special-guests-live-at-the-cactus-cafe",
+      "start": "2026-10-23",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Waitress",
       "url": "https://calendar.utexas.edu/event/waitress-3357",
       "start": "2026-10-23",
@@ -8486,6 +8392,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-10-26",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-27",
@@ -8625,6 +8538,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs McLennan CC",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mclennan-cc",
+      "start": "2026-10-27",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
     {
       "source": "ut",
@@ -8881,6 +8801,13 @@
     },
     {
       "source": "ut",
+      "title": "Lunch Workshop-From Challenge to Solution (Problem solving and decision making)",
+      "url": "https://calendar.utexas.edu/event/lunch-workshop-from-challenge-to-solution-problem-solving-and-decision-making",
+      "start": "2026-10-29",
+      "location": "Texas Union Quadrangle Room"
+    },
+    {
+      "source": "ut",
       "title": "NDatUT Social",
       "url": "https://calendar.utexas.edu/event/ndatut-social-2842",
       "start": "2026-10-29",
@@ -8958,6 +8885,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
       "start": "2026-10-29",
       "location": "Westmont\\, Illinois"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs UTSA",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-utsa",
+      "start": "2026-10-29",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
     {
       "source": "ut",
@@ -9416,6 +9350,13 @@
     },
     {
       "source": "ut",
+      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
+      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
+      "start": "2026-11-02",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-03",
@@ -9763,6 +9704,13 @@
     },
     {
       "source": "ut",
+      "title": "Fundamentals of AI for Teaching and Learning: AI & Assessment",
+      "url": "https://calendar.utexas.edu/event/fundamentals-of-ai-for-teaching-and-learning-ai-assessment",
+      "start": "2026-11-05",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-05",
@@ -10098,6 +10046,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-missouri",
       "start": "2026-11-07",
       "location": "Columbia\\, Mo.\\, Faurot Field at Memorial Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-texas-am-433",
+      "start": "2026-11-07",
+      "location": "College Station\\, Texas\\, Davis Diamond"
     },
     {
       "source": "ut",
@@ -11600,6 +11555,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Lunch Workshop-Project Management 101 (Organizing\\, planning and prioritizing)",
+      "url": "https://calendar.utexas.edu/event/lunch-workshop-project-management-101-organizing-planning-and-prioritizing",
+      "start": "2026-11-19",
+      "location": "Texas Union Eastwoods Room"
     },
     {
       "source": "internal",
@@ -14463,6 +14425,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Lunch Workshop-Using AI as a Collaborative Tool in Communication (Communications/Information Literacy)",
+      "url": "https://calendar.utexas.edu/event/lunch-workshop-using-ai-as-a-collaborative-tool-in-communication-communicationsinformation-literacy",
+      "start": "2026-12-17",
+      "location": "Texas Union Quadrangle Room"
+    },
+    {
       "source": "internal",
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/12/17",
@@ -15089,13 +15058,6 @@
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-28",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-12-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
