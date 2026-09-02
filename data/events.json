@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-02T10:55:32.090685+00:00",
+  "updated": "2026-09-02T20:47:10.262282+00:00",
   "counts": {
     "public": 18,
     "internal": 212,
-    "ut": 1960
+    "ut": 2001
   },
   "events": [
     {
@@ -19,13 +19,6 @@
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-09-02",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -179,13 +172,6 @@
       "url": "https://calendar.utexas.edu/event/blockbuster-michael-2026",
       "start": "2026-09-03",
       "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -807,9 +793,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-09-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -1003,13 +989,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-09",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-09",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1224,13 +1203,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-10",
@@ -1408,6 +1380,13 @@
     },
     {
       "source": "ut",
+      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers present AI Responsible Pedagogy: Setting New Terms for Assessment",
+      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-present-ai-responsible-pedagogy-setting-new-terms-for-assessment",
+      "start": "2026-09-10",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball at SMU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-smu",
       "start": "2026-09-10",
@@ -1416,9 +1395,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5395",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center Zlotnik Family Ballroom 1900 University Ave\\, Austin\\, TX 78705"
+      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
     },
     {
       "source": "ut",
@@ -1939,9 +1918,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-09-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -2176,13 +2155,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-16",
@@ -2368,13 +2340,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-lee-live-at-the-cactus-cafe",
       "start": "2026-09-17",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -2950,9 +2915,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-09-22",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -3130,13 +3095,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-23",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-23",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3343,13 +3301,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-24",
@@ -3470,6 +3421,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-24",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "ProTrack Faculty Social Hour",
+      "url": "https://calendar.utexas.edu/event/protrack-faculty-social-hour",
+      "start": "2026-09-24",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4088,9 +4046,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-09-29",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -4278,13 +4236,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-09-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-30",
@@ -4458,13 +4409,6 @@
       "url": "https://calendar.utexas.edu/event/butler-opera-international-competition-320",
       "start": "2026-10-01",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5057,9 +5001,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-10-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -5220,13 +5164,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-07",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5412,13 +5349,6 @@
       "url": "https://calendar.utexas.edu/event/blockbuster-the-drama",
       "start": "2026-10-08",
       "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6034,9 +5964,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-10-13",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -6210,13 +6140,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-14",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-14",
@@ -6384,13 +6307,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7065,9 +6981,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-10-20",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -7244,13 +7160,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-21",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-21",
@@ -7391,13 +7300,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-22",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8009,9 +7911,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-10-27",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -8178,13 +8080,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-28",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-28",
@@ -8318,13 +8213,6 @@
       "url": "https://calendar.utexas.edu/event/behind-the-scream-a-live-conversation-with-david-arquette-following-a-30th-anniversary-screening-of-scream",
       "start": "2026-10-29",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-10-29",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8931,13 +8819,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-11-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-03",
@@ -9073,13 +8954,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-11-04",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9240,13 +9114,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9840,13 +9707,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-11-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-10",
@@ -9976,13 +9836,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-11-11",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-11",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10129,13 +9982,6 @@
       "url": "https://calendar.utexas.edu/event/catt-2026-global-analytics-conference-day-1",
       "start": "2026-11-12",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-12",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10677,13 +10523,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-11-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-17",
@@ -10857,13 +10696,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-18",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-18",
@@ -11021,13 +10853,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-19",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11589,13 +11414,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-11-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-24",
@@ -11707,13 +11525,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-25",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-25",
@@ -11788,13 +11599,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-26",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-11-26",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -12182,13 +11986,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-12-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-01",
@@ -12310,13 +12107,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-12-02",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -12449,13 +12239,6 @@
       "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
       "start": "2026-12-03",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -12860,13 +12643,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-12-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-08",
@@ -12978,13 +12754,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-09",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-09",
@@ -13084,13 +12853,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -13527,13 +13289,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-12-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-15",
@@ -13631,13 +13386,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-12-16",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -13749,13 +13497,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -14058,13 +13799,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-12-22",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-22",
@@ -14134,13 +13868,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-23",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-23",
@@ -14187,13 +13914,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -14427,13 +14147,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-12-29",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-29",
@@ -14510,13 +14223,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-30",
@@ -14566,13 +14272,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-31",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2026-12-31",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -14813,13 +14512,6 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-01-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-05",
@@ -14925,13 +14617,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -15183,8 +14868,29 @@
     },
     {
       "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-12",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-12",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -15199,6 +14905,48 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
+      "start": "2027-01-12",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-01-13",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-01-13",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-13",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-13",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026268/",
@@ -15207,6 +14955,20 @@
       "location": "HDB 6.110 or Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -15219,6 +14981,48 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-13",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-14",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-14",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-14",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-14",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-14",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/14",
@@ -15229,6 +15033,258 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-14",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "TBD",
+      "url": "https://calendar.utexas.edu/event/tbd-9339",
+      "start": "2027-01-14",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Alabama",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-alabama-5541",
+      "start": "2027-01-14",
+      "location": "Austin\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-15",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-15",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-15",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-15",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-15",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-01-15",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-15",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-16",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-16",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-16",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-16",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-16",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "S\u014d Percussion with Caroline Shaw and Ringdown - Who Turns Out The Light",
+      "url": "https://calendar.utexas.edu/event/so-percussion-with-caroline-shaw-and-ringdown-who-turns-out-the-light",
+      "start": "2027-01-16",
+      "location": "Bates Recital Hall\\, Music Building (MRH)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Oklahoma",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-oklahoma-4269",
+      "start": "2027-01-16",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-17",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-17",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "TAMALES",
+      "url": "https://calendar.utexas.edu/event/tamales",
+      "start": "2027-01-17",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-vanderbilt-5100",
+      "start": "2027-01-17",
+      "location": "Austin\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-18",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2027-01-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "An Evening with Audra McDonald",
+      "url": "https://calendar.utexas.edu/event/an-evening-with-audra-mcdonald",
+      "start": "2027-01-18",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-18",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-18",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-18",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-18",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-19",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-19",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-19",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-19",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-19",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/19",
@@ -15237,6 +15293,118 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
+      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
+      "start": "2027-01-19",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-lsu-7444",
+      "start": "2027-01-19",
+      "location": "Baton Rouge\\, Louisiana"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-20",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-01-20",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-01-20",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-20",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-20",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "GSC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
+      "start": "2027-01-20",
+      "location": "NUR 4.180"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-20",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-20",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-20",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-21",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-21",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-21",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-21",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-21",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -15257,6 +15425,125 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-21",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Successfully Navigating Conflict",
+      "url": "https://calendar.utexas.edu/event/successfully-navigating-conflict",
+      "start": "2027-01-21",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball at Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-texas-am",
+      "start": "2027-01-21",
+      "location": "College Station\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting - Erin Calipari (Vanderbilt)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-erin-calipari-vanderbilt",
+      "start": "2027-01-21",
+      "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-22",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-22",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-22",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-22",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-22",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-01-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Eddie Reese Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-eddie-reese-showdown",
+      "start": "2027-01-22",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Eddie Reese Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-eddie-reese-showdown",
+      "start": "2027-01-22",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-arkansas-2065",
+      "start": "2027-01-23",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "internal",
