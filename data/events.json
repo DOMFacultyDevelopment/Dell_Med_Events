@@ -1,188 +1,11 @@
 {
-  "updated": "2026-09-01T20:47:29.355095+00:00",
+  "updated": "2026-09-02T10:55:32.090685+00:00",
   "counts": {
     "public": 18,
-    "internal": 215,
-    "ut": 1970
+    "internal": 212,
+    "ut": 1960
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Archer Graduate Fellowship Program Information Session",
-      "url": "https://calendar.utexas.edu/event/archer-graduate-fellowship-program-information-session",
-      "start": "2026-09-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classroom C"
-    },
-    {
-      "source": "ut",
-      "title": "Archer Graduate Fellowship Program Information Session - Cloned",
-      "url": "https://calendar.utexas.edu/event/archer-graduate-fellowship-program-information-session-cloned",
-      "start": "2026-09-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classroom C"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-09-01",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2026-09-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-01",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Consulting for Social Impact",
-      "url": "https://calendar.utexas.edu/event/consulting-for-social-impact",
-      "start": "2026-09-01",
-      "location": "Virtual"
-    },
-    {
-      "source": "internal",
-      "title": "Cybersecurity & Compliance Office Hour",
-      "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/09/01",
-      "start": "2026-09-01",
-      "time": "12:00pm \u2013 1:00pm",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Financial Oil Market Metrics for Geopolitical Crises",
-      "url": "https://calendar.utexas.edu/event/financial-oil-market-metrics-for-geopolitical-crises-4026",
-      "start": "2026-09-01",
-      "location": "EER 3.646 or online via Zoom or YouTube"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/01",
-      "start": "2026-09-01",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Info Session - Student Events Funding Committee",
-      "url": "https://calendar.utexas.edu/event/info-session-student-events-funding-committee",
-      "start": "2026-09-01",
-      "location": "Texas Union Board of Directors Room"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Mindful Sips: The Future of Psychedelics \u2014 Problems & Promises",
-      "url": "https://calendar.utexas.edu/event/mindful-sips-the-future-of-psychedelics-problems-promises",
-      "start": "2026-09-01",
-      "location": "Norman Hackerman Building (NHB)\\, 1.720"
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-09-01",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-09-01",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Smart Budgeting for Campaigns: Making Every Dollar Count",
-      "url": "https://calendar.utexas.edu/event/smart-budgeting-for-campaigns-making-every-dollar-count",
-      "start": "2026-09-01",
-      "location": "SRH 3.B10"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/01",
-      "start": "2026-09-01",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "The Statesman Series: Colonel St. Rep. Terry Wilson and The Honorable Larry Gonzales",
-      "url": "https://calendar.utexas.edu/event/the-statesman-series-colonel-st-rep-terry-wilson-and-the-honorable-larry-gonzales",
-      "start": "2026-09-01",
-      "location": "LBJ - Bass Lecture Hall"
-    },
-    {
-      "source": "ut",
-      "title": "UT Energy Symposium \u2013 Financial Oil Market Metrics for Geopolitical Crises",
-      "url": "https://calendar.utexas.edu/event/ut-energy-symposium-financial-oil-market-metrics-for-geopolitical-crises",
-      "start": "2026-09-01",
-      "location": "Engineering Education and Research Center (EER)\\, EER 3.646"
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Information Session",
-      "url": "https://calendar.utexas.edu/event/utla-information-session-7352",
-      "start": "2026-09-01",
-      "location": "Belo Center for New Media (BMC)\\, 5.102"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Alumni Panel and Mixer",
-      "url": "https://calendar.utexas.edu/event/utny-alumni-panel-and-mixer",
-      "start": "2026-09-01",
-      "location": "DMC\\, 5.208"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Week",
-      "url": "https://calendar.utexas.edu/event/utny-week-8266",
-      "start": "2026-09-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Web Content Management Office Hours - September 1\\, 2026",
-      "url": "https://calendar.utexas.edu/event/web-content-management-office-hours-september-1-2026",
-      "start": "2026-09-01",
-      "location": "Microsoft Teams"
-    },
     {
       "source": "ut",
       "title": "Assembly Committee Meetings",
@@ -878,6 +701,13 @@
     },
     {
       "source": "ut",
+      "title": "Afternoon Yoga",
+      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
+      "start": "2026-09-07",
+      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
       "start": "2026-09-07",
@@ -1164,6 +994,13 @@
       "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
+      "start": "2026-09-09",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-09",
       "location": "Cactus Cafe"
     },
@@ -1579,9 +1416,9 @@
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
-      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium",
+      "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-energy-symposium-5395",
       "start": "2026-09-11",
-      "location": "AT&T Hotel & Conference Center\\, Zlotnik Family Ballroom Conference"
+      "location": "AT&T Hotel & Conference Center Zlotnik Family Ballroom 1900 University Ave\\, Austin\\, TX 78705"
     },
     {
       "source": "ut",
@@ -1755,6 +1592,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-at-texas-am-invitational",
       "start": "2026-09-11",
       "location": "College Station\\, Texas\\, Watts Cross Country Course"
+    },
+    {
+      "source": "ut",
+      "title": "B-Side Quartet Ft. Andre Hayward Live at the Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/b-side-quartet-ft-andre-hayward-live-at-the-cactus-cafe",
+      "start": "2026-09-12",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -2318,6 +2162,13 @@
     },
     {
       "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-09-16",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Canceled: Latine heritage month kickoff",
       "url": "https://calendar.utexas.edu/event/latine-heritage-month-kickoff",
       "start": "2026-09-16",
@@ -2787,6 +2638,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-18",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "VOYA Presents: Is TRS Enough?",
+      "url": "https://calendar.utexas.edu/event/voya-presents-is-trs-enough",
+      "start": "2026-09-18",
+      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -3268,6 +3126,13 @@
     },
     {
       "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-09-23",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
       "start": "2026-09-23",
@@ -3685,6 +3550,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-25",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Eric McEntee Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/eric-mcentee-live-at-the-cactus-cafe",
+      "start": "2026-09-25",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4396,6 +4268,13 @@
       "url": "https://calendar.utexas.edu/event/butler-opera-international-competition",
       "start": "2026-09-30",
       "location": "\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-09-30",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -5334,6 +5213,13 @@
       "url": "https://calendar.utexas.edu/event/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane",
       "start": "2026-10-07",
       "location": "Hogg Memorial Auditorium (HMA)"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-10-07",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -6314,6 +6200,13 @@
       "url": "https://calendar.utexas.edu/event/blockbuster-supergirl",
       "start": "2026-10-14",
       "location": "Texas Union Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-10-14",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -7344,6 +7237,13 @@
     },
     {
       "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-10-21",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Cannabis Recovery",
       "url": "https://calendar.utexas.edu/event/cannabis-recovery-4955",
       "start": "2026-10-21",
@@ -7814,6 +7714,13 @@
     },
     {
       "source": "ut",
+      "title": "Del Castillo Trio Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/del-castillo-trio-live-at-the-cactus-cafe",
+      "start": "2026-10-24",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-24",
@@ -7957,7 +7864,7 @@
       "title": "University of Texas Volleyball at South Carolina",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-south-carolina",
       "start": "2026-10-25",
-      "location": "Columbia\\, S.C."
+      "location": "Columbia\\, S.C.\\, Carolina Volleyball Center"
     },
     {
       "source": "ut",
@@ -8261,6 +8168,13 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-10-28",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-10-28",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -9145,6 +9059,13 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-11-04",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-11-04",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -10044,6 +9965,13 @@
     },
     {
       "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-11-11",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-11-11",
@@ -10915,6 +10843,13 @@
     },
     {
       "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-11-18",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-11-18",
@@ -11755,6 +11690,13 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-11-25",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
+      "start": "2026-11-25",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -15241,36 +15183,8 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-7405",
-      "start": "2027-01-12",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-12",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-12",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -15283,20 +15197,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
-      "start": "2027-01-12",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-01-13",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "internal",
