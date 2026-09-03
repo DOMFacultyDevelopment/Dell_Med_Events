@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-03T10:55:12.849299+00:00",
+  "updated": "2026-09-03T20:44:29.798935+00:00",
   "counts": {
-    "public": 18,
+    "public": 19,
     "internal": 211,
     "ut": 1991
   },
@@ -123,15 +123,6 @@
       "url": "https://calendar.utexas.edu/event/privileged-but-powerless-how-north-korean-elite-grievances-reveal-the-regimes-greatest-weakness",
       "start": "2026-09-03",
       "location": "Sid Richardson Hall (SRH)\\, 3.122"
-    },
-    {
-      "source": "public",
-      "title": "Research Nuts & Bolts: Developing Protocols and Manuals of Procedures (MOPs)",
-      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-developing-protocols-and-mops-090326",
-      "start": "2026-09-03",
-      "time": "10\u201311 a.m.",
-      "location": "Zoom",
-      "speaker": "Heather Jones, MPH, R.D."
     },
     {
       "source": "ut",
@@ -791,7 +782,7 @@
       "title": "Neurology Grand Rounds: Neuroimaging in Multiple Sclerosis",
       "url": "https://dellmed.utexas.edu/events/neurology-grand-rounds-neuroimaging-in-multiple-sclerosis",
       "start": "2026-09-08",
-      "time": "10\u201311 a.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
       "speaker": "Rohit Bakshi, M.D."
     },
@@ -1067,13 +1058,6 @@
     },
     {
       "source": "ut",
-      "title": "Zotero Workshop",
-      "url": "https://calendar.utexas.edu/event/zotero-workshop-2794",
-      "start": "2026-09-09",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (2.202)"
-    },
-    {
-      "source": "ut",
       "title": "AI Ideas: Drop-in Hours",
       "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
       "start": "2026-09-10",
@@ -1200,6 +1184,15 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-10",
       "location": null
+    },
+    {
+      "source": "public",
+      "title": "Research Nuts & Bolts: Developing Regulatory Binders for Clinical Trials",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-developing-regulatory-binders-091026",
+      "start": "2026-09-10",
+      "time": "12\u20131 p.m.",
+      "location": "Zoom",
+      "speaker": "Heather Jones, MPH, R.D."
     },
     {
       "source": "ut",
@@ -1474,7 +1467,7 @@
       "title": "State of the Department of Pediatrics",
       "url": "https://dellmed.utexas.edu/events/state-of-the-department-of-pediatrics-091126",
       "start": "2026-09-11",
-      "time": "12\u20131 p.m.",
+      "time": "10\u201311 a.m.",
       "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom",
       "speaker": "Amir Mian, M.D., MBA"
     },
@@ -2412,7 +2405,7 @@
       "title": "Ophthalmology CME Series: Primary Angle Closure: New Understanding, New Management",
       "url": "https://dellmed.utexas.edu/events/ophthalmology-continuing-medical-education-series-primary-angle-closure-091726",
       "start": "2026-09-17",
-      "time": "5\u20136:15 p.m.",
+      "time": "10\u201311 a.m.",
       "location": "Health Discovery Building Auditorium (HDB 1.208)",
       "speaker": "Robert Feldman, M.D."
     },
@@ -2422,6 +2415,14 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-17",
       "location": null
+    },
+    {
+      "source": "public",
+      "title": "Research Nuts & Bolts: All About IRB Applications Overview | Part 1",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-irb-applications-overview-part-one",
+      "start": "2026-09-17",
+      "time": "5\u20136:15 p.m.",
+      "location": "Zoom"
     },
     {
       "source": "ut",
@@ -4049,6 +4050,13 @@
     },
     {
       "source": "ut",
+      "title": "Ready to Rent Fair",
+      "url": "https://calendar.utexas.edu/event/ready-to-rent-fair",
+      "start": "2026-09-28",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-28",
@@ -4379,13 +4387,6 @@
       "url": "https://calendar.utexas.edu/event/moody-college-career-expo-fall-2026",
       "start": "2026-09-30",
       "location": "Texas Union Building (UNB)\\, Shirley Bird Perry Ballroom"
-    },
-    {
-      "source": "ut",
-      "title": "NDatUT Social",
-      "url": "https://calendar.utexas.edu/event/ndatut-social-9488",
-      "start": "2026-09-30",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
     },
     {
       "source": "ut",
@@ -11224,7 +11225,7 @@
       "title": "Ableton Education Sessions \u2014 Austin",
       "url": "https://calendar.utexas.edu/event/ableton-education-sessions-austin",
       "start": "2026-11-19",
-      "location": "E. William Doty Fine Arts Building (DFA)"
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)"
     },
     {
       "source": "ut",
@@ -15390,6 +15391,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
       "start": "2027-01-12",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
