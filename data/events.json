@@ -1,188 +1,11 @@
 {
-  "updated": "2026-09-03T20:44:29.798935+00:00",
+  "updated": "2026-09-04T10:54:44.674076+00:00",
   "counts": {
     "public": 19,
-    "internal": 211,
-    "ut": 1991
+    "internal": 208,
+    "ut": 1961
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-09-03",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/09/03",
-      "start": "2026-09-03",
-      "time": "1:30pm \u2013 2:30pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Blockbuster - Michael (2026)",
-      "url": "https://calendar.utexas.edu/event/blockbuster-michael-2026",
-      "start": "2026-09-03",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Coffee Chat w/ SEFC",
-      "url": "https://calendar.utexas.edu/event/coffee-chat-w-sefc",
-      "start": "2026-09-03",
-      "location": "Texas Union Quadrangle (3.304)"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/03",
-      "start": "2026-09-03",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "JOURNEYGLO Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/journeyglo-live-at-the-cactus-cafe",
-      "start": "2026-09-03",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Know Yourself\\, Know Your Opponent: Research Essentials for Campaigns",
-      "url": "https://calendar.utexas.edu/event/know-yourself-know-your-opponent-research-essentials-for-campaigns",
-      "start": "2026-09-03",
-      "location": "SRH 3.B10"
-    },
-    {
-      "source": "ut",
-      "title": "Late Night Film - Little Women (2019)",
-      "url": "https://calendar.utexas.edu/event/late-night-film-little-women-2019",
-      "start": "2026-09-03",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Medicare 101",
-      "url": "https://calendar.utexas.edu/event/medicare-101",
-      "start": "2026-09-03",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Meet the UTNY Faculty",
-      "url": "https://calendar.utexas.edu/event/meet-the-utny-faculty-8197",
-      "start": "2026-09-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-09-03",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Privileged But Powerless: How North Korean Elite Grievances Reveal the Regime\u2019s Greatest Weakness",
-      "url": "https://calendar.utexas.edu/event/privileged-but-powerless-how-north-korean-elite-grievances-reveal-the-regimes-greatest-weakness",
-      "start": "2026-09-03",
-      "location": "Sid Richardson Hall (SRH)\\, 3.122"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-09-03",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-09-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Scholars Lab Fellowship Application Info Session",
-      "url": "https://calendar.utexas.edu/event/scholars-lab-fellowship-application-info-session",
-      "start": "2026-09-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Site Visit Networking Prep",
-      "url": "https://calendar.utexas.edu/event/site-visit-networking-prep",
-      "start": "2026-09-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classroom C"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/03",
-      "start": "2026-09-03",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Texas Immersive Institute Open House",
-      "url": "https://calendar.utexas.edu/event/texas-immersive-institute-open-house-5837",
-      "start": "2026-09-03",
-      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, 5.102"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Week",
-      "url": "https://calendar.utexas.edu/event/utny-week-8266",
-      "start": "2026-09-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Volleyball vs USC - presented by H-E-B",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-usc",
-      "start": "2026-09-03",
-      "location": "Austin\\, Texas\\, Gregory Gymnasium"
-    },
     {
       "source": "ut",
       "title": "Ben Quartet Live at The Cactus Cafe!",
@@ -662,9 +485,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-09-08",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -812,6 +635,13 @@
     },
     {
       "source": "ut",
+      "title": "UT Energy Symposium: Why the U.S. Should Race Post-Haste to Use China\u2019s Batteries",
+      "url": "https://calendar.utexas.edu/event/ut-energy-symposium-why-the-us-should-race-post-haste-to-use-chinas-batteries",
+      "start": "2026-09-08",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "UTNY Information Session",
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-09-08",
@@ -858,6 +688,13 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-09",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-09-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1055,6 +892,13 @@
       "url": "https://calendar.utexas.edu/event/watermark-training-for-professional-track-faculty",
       "start": "2026-09-09",
       "location": "NUR 5.180"
+    },
+    {
+      "source": "ut",
+      "title": "Zotero Workshop",
+      "url": "https://calendar.utexas.edu/event/zotero-workshop-2794",
+      "start": "2026-09-09",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (2.202)"
     },
     {
       "source": "ut",
@@ -1342,6 +1186,13 @@
     },
     {
       "source": "ut",
+      "title": "Data &amp\\; Donuts: Intro to GIS\\, Finding and Working with Geospatial Data",
+      "url": "https://calendar.utexas.edu/event/data-amp-donuts-intro-to-gis-finding-and-working-with-geospatial-data",
+      "start": "2026-09-11",
+      "location": "Perry-Casta\u00f1eda Library (PCL)"
+    },
+    {
+      "source": "ut",
       "title": "Emma Grace Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/emma-grace-live-at-the-cactus-cafe",
       "start": "2026-09-11",
@@ -1398,7 +1249,7 @@
     },
     {
       "source": "ut",
-      "title": "Intro to GIS: Finding and Working with Geospatial Data",
+      "title": "Intro to GIS: Finding and Working with Geospatial Data [Data & Donuts]",
       "url": "https://calendar.utexas.edu/event/intro-to-gis-finding-and-working-with-geospatial-data",
       "start": "2026-09-11",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
@@ -2103,6 +1954,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-09-16",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-16",
@@ -2243,6 +2101,13 @@
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-09-16",
       "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
+      "title": "UT Marketplace Fall 2026",
+      "url": "https://calendar.utexas.edu/event/ut-marketplace-fall-2026",
+      "start": "2026-09-16",
+      "location": "Speedway Plaza"
     },
     {
       "source": "ut",
@@ -2913,9 +2778,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-09-22",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3100,6 +2965,13 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-23",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-09-23",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3558,6 +3430,13 @@
     },
     {
       "source": "ut",
+      "title": "Data &amp\\; Donuts: Using Python for Qualitative Data Analysis",
+      "url": "https://calendar.utexas.edu/event/data-amp-donuts-using-python-for-qualitative-data-analysis",
+      "start": "2026-09-25",
+      "location": "Virtual"
+    },
+    {
+      "source": "ut",
       "title": "Eric McEntee Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/eric-mcentee-live-at-the-cactus-cafe",
       "start": "2026-09-25",
@@ -3822,7 +3701,7 @@
     {
       "source": "ut",
       "title": "UWC Graduate Writing Retreat",
-      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-3718",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-1899",
       "start": "2026-09-26",
       "location": "University Writing Center\\, PCL 2.330"
     },
@@ -4106,10 +3985,17 @@
     },
     {
       "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "title": "Androids\\, Spirits\\, & Chatbots: A History of Al and Writing: A Presentation by Dr. Annette Vee",
+      "url": "https://calendar.utexas.edu/event/androids-spirits-chatbots-a-history-of-al-and-writing-a-presentation-by-dr-annette-vee",
       "start": "2026-09-29",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 1"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
+      "start": "2026-09-29",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4124,6 +4010,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-29",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Data &amp\\; Donuts: Research Data Community of Practice Discussion",
+      "url": "https://calendar.utexas.edu/event/data-amp-donuts-research-data-community-of-practice-discussion",
+      "start": "2026-09-29",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -4304,6 +4197,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-09-30",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-30",
@@ -4390,6 +4290,13 @@
     },
     {
       "source": "ut",
+      "title": "NDatUT: Crafternoon Hangout",
+      "url": "https://calendar.utexas.edu/event/ndatut-social-9488",
+      "start": "2026-09-30",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
+    },
+    {
+      "source": "ut",
       "title": "Navigating AI in your Classroom",
       "url": "https://calendar.utexas.edu/event/navigating-ai-in-your-classroom",
       "start": "2026-09-30",
@@ -4453,13 +4360,6 @@
       "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
       "start": "2026-09-30",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UT Marketplace Fall 2026",
-      "url": "https://calendar.utexas.edu/event/ut-marketplace-fall-2026",
-      "start": "2026-09-30",
-      "location": "Speedway Plaza"
     },
     {
       "source": "ut",
@@ -4630,6 +4530,13 @@
       "url": "https://calendar.utexas.edu/event/utny-summer-27-application-deadline",
       "start": "2026-10-01",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "UWC Open House",
+      "url": "https://calendar.utexas.edu/event/uwc-open-house",
+      "start": "2026-10-01",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.330"
     },
     {
       "source": "ut",
@@ -5097,9 +5004,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5267,6 +5174,13 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-07",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-10-07",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5650,6 +5564,13 @@
     },
     {
       "source": "ut",
+      "title": "Data &amp\\; Donuts: Managing Data with Relational Databases &amp\\; SQL",
+      "url": "https://calendar.utexas.edu/event/data-amp-donuts-managing-data-with-relational-databases-amp-sql",
+      "start": "2026-10-09",
+      "location": "Perry-Casta\u00f1eda Library (PCL)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-09",
@@ -5699,7 +5620,7 @@
     },
     {
       "source": "ut",
-      "title": "Managing Data with Relational Databases & SQL",
+      "title": "Managing Data with Relational Databases & SQL [Data & Donuts Workshop]",
       "url": "https://calendar.utexas.edu/event/managing-data-with-relational-databases-sql",
       "start": "2026-10-09",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
@@ -5954,6 +5875,20 @@
     },
     {
       "source": "ut",
+      "title": "Writing & Research Rodeo",
+      "url": "https://calendar.utexas.edu/event/writing-research-rodeo",
+      "start": "2026-10-11",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
+      "title": "Writing & Research Rodeos",
+      "url": "https://calendar.utexas.edu/event/writing-research-rodeos",
+      "start": "2026-10-11",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, University Writing Center (PCL 2.330A)"
+    },
+    {
+      "source": "ut",
       "title": "\u201cA SPECIAL TRIBUTE TO DR. RALPH STANLEY\u201d\u00a0  Starring NATHAN STANLEY &amp\\; CONSTANT SORROW  DOVE AWARD WINNER \u2022 GRAMMY NOMINEE \u2022 GRANDSON OF DR. RALPH STANLEY",
       "url": "https://calendar.utexas.edu/event/a-special-tribute-to-dr-ralph-stanley-starring-nathan-stanley-amp-constant-sorrow-dove-award-winner-grammy-nominee-grandson-of-dr-ralph-stanley",
       "start": "2026-10-11",
@@ -6102,9 +6037,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-13",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6289,6 +6224,13 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-14",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-10-14",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7041,6 +6983,13 @@
     },
     {
       "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-8371",
+      "start": "2026-10-18",
+      "location": "University Writing Center\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Soccer vs South Carolina",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-south-carolina-8553",
       "start": "2026-10-18",
@@ -7175,9 +7124,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-20",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7358,6 +7307,13 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-21",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-10-21",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -7696,6 +7652,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-23",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Data &amp\\; Donuts: Data &amp\\; the Challenge of Reproducibility",
+      "url": "https://calendar.utexas.edu/event/data-amp-donuts-data-amp-the-challenge-of-reproducibility",
+      "start": "2026-10-23",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -8140,9 +8103,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-27",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8313,6 +8276,13 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-28",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-10-28",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8758,6 +8728,13 @@
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-10-30",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-6503",
+      "start": "2026-10-30",
+      "location": "University Writing Center \\, PCL 2.330"
     },
     {
       "source": "ut",
@@ -9229,9 +9206,16 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-11-04",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-11-04",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -9768,6 +9752,13 @@
     },
     {
       "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-135",
+      "start": "2026-11-07",
+      "location": "University Writing Center \\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football at Missouri",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-missouri",
       "start": "2026-11-07",
@@ -9999,6 +9990,20 @@
     },
     {
       "source": "ut",
+      "title": "Writing & Research Rodeo",
+      "url": "https://calendar.utexas.edu/event/writing-research-rodeo",
+      "start": "2026-11-09",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
+      "title": "Writing & Research Rodeos",
+      "url": "https://calendar.utexas.edu/event/writing-research-rodeos",
+      "start": "2026-11-09",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, University Writing Center (PCL 2.330A)"
+    },
+    {
+      "source": "ut",
       "title": "Zotero Office Hours",
       "url": "https://calendar.utexas.edu/event/zotero-office-hours-6847",
       "start": "2026-11-09",
@@ -10146,9 +10151,16 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-11-11",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-11-11",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10647,6 +10659,13 @@
     },
     {
       "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-3084",
+      "start": "2026-11-14",
+      "location": "University Writing Center \\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football at LSU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-lsu",
       "start": "2026-11-14",
@@ -11045,9 +11064,16 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-11-18",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-11-18",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -11187,6 +11213,13 @@
     },
     {
       "source": "ut",
+      "title": "UT GIS Day 2026",
+      "url": "https://calendar.utexas.edu/event/ut-gis-day-2026",
+      "start": "2026-11-18",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab 2.202"
+    },
+    {
+      "source": "ut",
       "title": "University Orchestra",
       "url": "https://calendar.utexas.edu/event/university-orchestra-6378",
       "start": "2026-11-18",
@@ -11225,7 +11258,7 @@
       "title": "Ableton Education Sessions \u2014 Austin",
       "url": "https://calendar.utexas.edu/event/ableton-education-sessions-austin",
       "start": "2026-11-19",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)"
+      "location": null
     },
     {
       "source": "ut",
@@ -11922,6 +11955,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-11-25",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-25",
@@ -12390,6 +12430,20 @@
     },
     {
       "source": "ut",
+      "title": "Writing & Research Rodeo",
+      "url": "https://calendar.utexas.edu/event/writing-research-rodeo",
+      "start": "2026-11-30",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
+      "title": "Writing & Research Rodeos",
+      "url": "https://calendar.utexas.edu/event/writing-research-rodeos",
+      "start": "2026-11-30",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, University Writing Center (PCL 2.330A)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-01",
@@ -12529,9 +12583,16 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-12-02",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-12-02",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -12893,6 +12954,13 @@
     },
     {
       "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-5106",
+      "start": "2026-12-04",
+      "location": "University Writing Center\\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs U.S. Open",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-us-open",
       "start": "2026-12-04",
@@ -12960,6 +13028,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-05",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-1450",
+      "start": "2026-12-05",
+      "location": "University Writing Center\\, PCL 2.330"
     },
     {
       "source": "ut",
@@ -13208,9 +13283,16 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-12-09",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-12-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -13870,6 +13952,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-12-16",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-16",
@@ -14349,6 +14438,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-12-23",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-23",
@@ -14704,6 +14800,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2026-12-30",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-30",
@@ -15038,13 +15141,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-01-06",
@@ -15056,76 +15152,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-01-06",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -15138,244 +15164,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
-      "start": "2027-01-07",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-08",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-08",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-01-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving at SMU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-smu",
-      "start": "2027-01-08",
-      "location": "Dallas\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving at SMU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-at-smu",
-      "start": "2027-01-08",
-      "location": "Dallas\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-09",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-09",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Ole Miss",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-ole-miss-8128",
-      "start": "2027-01-09",
-      "location": "Oxford\\, Mississippi"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-10",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at Kentucky",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-kentucky",
-      "start": "2027-01-10",
-      "location": "Lexington\\, Ky."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-11",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-11",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-11",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-12",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-12",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/12",
@@ -15384,34 +15172,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
-      "start": "2027-01-12",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-01-13",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-01-13",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "internal",
