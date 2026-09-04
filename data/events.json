@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T10:54:44.674076+00:00",
+  "updated": "2026-09-04T20:31:23.100917+00:00",
   "counts": {
     "public": 19,
     "internal": 208,
@@ -1552,13 +1552,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-14",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-09-14",
-      "location": "Patton Hall (RLP)\\, 1.102"
     },
     {
       "source": "ut",
@@ -3857,13 +3850,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-09-28",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "Division of Health Social Work Grand Rounds",
       "url": "https://calendar.utexas.edu/event/division-of-health-social-work-grand-rounds",
       "start": "2026-09-28",
@@ -4880,13 +4866,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-05",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-05",
-      "location": "Patton Hall (RLP)\\, 1.102"
     },
     {
       "source": "ut",
@@ -5914,13 +5893,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-12",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-12",
-      "location": "Patton Hall (RLP)\\, 1.102"
     },
     {
       "source": "ut",
@@ -7032,13 +7004,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-19",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-10-19",
@@ -7994,13 +7959,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-26",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-26",
-      "location": "Patton Hall (RLP)\\, 1.102"
     },
     {
       "source": "ut",
@@ -8990,13 +8948,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-11-02",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-02",
@@ -9924,13 +9875,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-09",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Cultivating Confidence: A Drop-in Skills Workshop for Students to Level Up Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-11-09",
-      "location": "Patton Hall (RLP)\\, 1.102"
     },
     {
       "source": "ut",
@@ -15141,6 +15085,13 @@
     },
     {
       "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-01-06",
@@ -15152,6 +15103,55 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2027-01-06",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-06",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-06",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-07",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-07",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
