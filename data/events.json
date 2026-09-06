@@ -1,109 +1,11 @@
 {
-  "updated": "2026-09-05T20:06:51.477662+00:00",
+  "updated": "2026-09-06T10:35:06.954872+00:00",
   "counts": {
     "public": 19,
     "internal": 208,
     "ut": 1950
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-09-05",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-05",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-09-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-09-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-09-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-09-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-05",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Murals at VAC: Codex Two Thousand Twenty-Six",
-      "url": "https://calendar.utexas.edu/event/murals-at-vac-codex-two-thousand-twenty-six",
-      "start": "2026-09-05",
-      "location": "Art Building (ART)\\, Kayem Lobby\\, Art Building (outside of VAC&#039\\;s east entrance)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-05",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-09-05",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Ricky Stein Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ricky-stein-live-at-the-cactus-cafe",
-      "start": "2026-09-05",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ricky Stein ft Alex Saxon Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ricky-stein-ft-alex-saxon-live-at-the-cactus-cafe",
-      "start": "2026-09-05",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Football vs Texas State - presented by UFCU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-texas-state",
-      "start": "2026-09-05",
-      "location": "Austin\\, Texas\\, DKR-Texas Memorial Stadium"
-    },
     {
       "source": "ut",
       "title": "Appropriations Meeting",
@@ -4927,9 +4829,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -8571,9 +8473,9 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-5381",
       "start": "2026-10-30",
-      "location": "NUR - various"
+      "location": "Nursing School (NUR)\\, 1.106"
     },
     {
       "source": "ut",
@@ -15067,6 +14969,41 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-05",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-05",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-05",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/05",
@@ -15075,6 +15012,69 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
+      "start": "2027-01-05",
+      "location": "Athens\\, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-01-06",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-01-06",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-06",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-06",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-06",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-06",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
