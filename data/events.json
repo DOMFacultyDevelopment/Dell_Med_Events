@@ -1,257 +1,11 @@
 {
-  "updated": "2026-09-09T20:42:07.389811+00:00",
+  "updated": "2026-09-10T10:56:07.352494+00:00",
   "counts": {
-    "public": 18,
-    "internal": 205,
-    "ut": 1936
+    "public": 17,
+    "internal": 203,
+    "ut": 1915
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Appropriations Meeting",
-      "url": "https://calendar.utexas.edu/event/appropriations-meeting-7045",
-      "start": "2026-09-09",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-09-09",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-09-09",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-09-09",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-09-09",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-09",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-09",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "DSPC Discovery and Investigation Seminar Series",
-      "url": "https://intranet.dellmed.utexas.edu/event/1026254/",
-      "start": "2026-09-09",
-      "time": "4:00pm \u2013 5:00pm",
-      "location": "HDB 6.110 or Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Disability Cultural Center Open House",
-      "url": "https://calendar.utexas.edu/event/dcc-open-house",
-      "start": "2026-09-09",
-      "location": "SSB 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-09-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 Information Session: Prospective Freshman",
-      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
-      "start": "2026-09-09",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-09-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
-      "start": "2026-09-09",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-09-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-09-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/09/09",
-      "start": "2026-09-09",
-      "time": "3:00pm \u2013 4:00pm",
-      "location": "HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "public",
-      "title": "Internal Medicine Grand Rounds: The Science of Long COVID and a Practical Framework for Care",
-      "url": "https://dellmed.utexas.edu/events/internal-medicine-grand-rounds-the-science-of-long-covid-090926",
-      "start": "2026-09-09",
-      "time": "12\u20131 p.m.",
-      "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
-      "speaker": "W. Michael Brode, M.D."
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-09",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "KUT Public Media Student Open House",
-      "url": "https://calendar.utexas.edu/event/kut-public-media-student-open-house-2924",
-      "start": "2026-09-09",
-      "location": "Dealey Center for New Media\\, DMC 1.108A"
-    },
-    {
-      "source": "ut",
-      "title": "Lawyers on the Front Line: How to Get Involved in National Security\\, Government\\, and Tech",
-      "url": "https://calendar.utexas.edu/event/lawyers-on-the-front-line-how-to-get-involved-in-national-security-government-and-tech",
-      "start": "2026-09-09",
-      "location": "Townes Hall (TNH)\\, TNH 2.124"
-    },
-    {
-      "source": "ut",
-      "title": "Madrigal Auditions",
-      "url": "https://calendar.utexas.edu/event/madrigal-auditions-4718",
-      "start": "2026-09-09",
-      "location": "Texas Union Sinclair Suite"
-    },
-    {
-      "source": "ut",
-      "title": "Patman Center Info Session",
-      "url": "https://calendar.utexas.edu/event/patman-center-info-session",
-      "start": "2026-09-09",
-      "location": "LBJ - SRH 3.122"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-09",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Public Assembly",
-      "url": "https://calendar.utexas.edu/event/public-assembly",
-      "start": "2026-09-09",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-09-09",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
-      "start": "2026-09-09",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-09-09",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Site Visit Networking Prep",
-      "url": "https://calendar.utexas.edu/event/site-visit-networking-prep",
-      "start": "2026-09-09",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classroom C"
-    },
-    {
-      "source": "ut",
-      "title": "Sunset Reset",
-      "url": "https://calendar.utexas.edu/event/sunset-reset-6440",
-      "start": "2026-09-09",
-      "location": "Skyspace\\, Student Activity Center (SAC)\\, William C. Powers\\, Jr. Student Activity Center\\, Third floor\\, Rooftop Garden"
-    },
-    {
-      "source": "ut",
-      "title": "Teaching for Impact: Designing Effective Lessons",
-      "url": "https://calendar.utexas.edu/event/teaching-for-impact-designing-effective-lessons",
-      "start": "2026-09-09",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Information Session",
-      "url": "https://calendar.utexas.edu/event/utla-information-session-716",
-      "start": "2026-09-09",
-      "location": "Belo Center for New Media (BMC)\\, 5.102"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs Folds of Honor Collegiate",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-folds-of-honor-collegiate-5951",
-      "start": "2026-09-09",
-      "location": "Grand Haven\\, Michigan"
-    },
-    {
-      "source": "ut",
-      "title": "Watermark Training for Professional Track Faculty",
-      "url": "https://calendar.utexas.edu/event/watermark-training-for-professional-track-faculty",
-      "start": "2026-09-09",
-      "location": "NUR 5.180"
-    },
-    {
-      "source": "ut",
-      "title": "Zotero Workshop",
-      "url": "https://calendar.utexas.edu/event/zotero-workshop-2794",
-      "start": "2026-09-09",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (2.202)"
-    },
     {
       "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
@@ -393,7 +147,7 @@
       "title": "Research Nuts & Bolts: Developing Regulatory Binders for Clinical Trials",
       "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-developing-regulatory-binders-091026",
       "start": "2026-09-10",
-      "time": "12\u20131 p.m.",
+      "time": "10\u201311 a.m.",
       "location": "Zoom",
       "speaker": "Heather Jones, MPH, R.D."
     },
@@ -441,6 +195,13 @@
       "location": "HDB 1.208 Auditorium",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "TEST",
+      "url": "https://calendar.utexas.edu/event/test-8254",
+      "start": "2026-09-10",
+      "location": null
     },
     {
       "source": "internal",
@@ -507,6 +268,13 @@
       "url": "https://calendar.utexas.edu/event/2026-kbh-energy-center-symposium",
       "start": "2026-09-11",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "2026 Littlefield Lecture - Charles Kupfer - \"Undefeated & Rediscovered: Bringing Back the 1914 Texas Longhorns and their World\"",
+      "url": "https://calendar.utexas.edu/event/2026-littlefield-lecture-charles-kupfer-undefeated-rediscovered-bringing-back-the-1914-texas-longhorns-and-their-world",
+      "start": "2026-09-11",
+      "location": "Tito's University of Texas Club"
     },
     {
       "source": "ut",
@@ -900,6 +668,34 @@
     },
     {
       "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-09-14",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-09-14",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-09-14",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-09-14",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "4th International Summit on Aerospace\\, Space Science and Mechanical Engineering",
       "url": "https://calendar.utexas.edu/event/4th-international-summit-on-aerospace-space-science-and-mechanical-engineering",
       "start": "2026-09-14",
@@ -1072,6 +868,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-09-14",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-09-15",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-09-15",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-09-15",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-09-15",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -1286,9 +1110,9 @@
     {
       "source": "ut",
       "title": "The Statesman Series: The Honorables Dade Phelan (R) and Larry Gonzales (R)",
-      "url": "https://calendar.utexas.edu/event/the-statesman-series-the-honorables-dade-phelan-r-and-larry-gonzales-r-8066",
+      "url": "https://calendar.utexas.edu/event/the-statesman-series-the-honorables-dade-phelan-r-and-larry-gonzales-r",
       "start": "2026-09-15",
-      "location": "LBJ - SRH 3.122"
+      "location": "LBJ - Bass Lecture Hall"
     },
     {
       "source": "ut",
@@ -1317,6 +1141,20 @@
       "url": "https://calendar.utexas.edu/event/zotero-office-hours-6847",
       "start": "2026-09-15",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-09-16",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-09-16",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -1575,6 +1413,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-09-17",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-09-17",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-09-17",
@@ -1769,6 +1621,13 @@
       "url": "https://calendar.utexas.edu/event/utla-information-session-2002",
       "start": "2026-09-17",
       "location": "Belo Center for New Media (BMC)\\, 5.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-09-18",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -2108,6 +1967,34 @@
     },
     {
       "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-09-21",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-09-21",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-09-21",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-09-21",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-09-21",
@@ -2126,6 +2013,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-09-21",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Claude Basics with AI Studio and Anthropic",
+      "url": "https://calendar.utexas.edu/event/claude-basics-with-ai-studio-and-anthropic",
+      "start": "2026-09-21",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -2231,6 +2125,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-09-21",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-09-22",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-09-22",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-09-22",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-09-22",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -2439,6 +2361,20 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-09-23",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-09-23",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-09-23",
@@ -2527,6 +2463,13 @@
       "url": "https://calendar.utexas.edu/event/finding-your-true-north-charting-your-path-to-wellness-through-values-alignment-6739",
       "start": "2026-09-23",
       "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "GAPC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gapc-monthly-meeting",
+      "start": "2026-09-23",
+      "location": "Virtual Meeting"
     },
     {
       "source": "ut",
@@ -2665,6 +2608,20 @@
       "url": "https://calendar.utexas.edu/event/utla-utny-and-archer-fellowship-program-information-session-1324",
       "start": "2026-09-23",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-09-24",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-09-24",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -2912,6 +2869,13 @@
       "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
       "start": "2026-09-24",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-09-25",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -3359,6 +3323,34 @@
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
+      "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-09-28",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-09-28",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-09-28",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-09-28",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
       "source": "internal",
       "title": "2026 Dell Med Educational Innovation, Research, and Awards Symposium",
       "url": "https://intranet.dellmed.utexas.edu/event/637361/",
@@ -3523,6 +3515,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-09-28",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-09-29",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-09-29",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-09-29",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-09-29",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -3731,6 +3751,20 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-09-30",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-09-30",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-09-30",
@@ -3932,6 +3966,27 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Softball vs UTSA",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-utsa-6771",
+      "start": "2026-09-30",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-01",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-10-01",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-01",
@@ -4120,6 +4175,13 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-franco-pestilli-ut-austin",
       "start": "2026-10-01",
       "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-02",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -4445,6 +4507,34 @@
     },
     {
       "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-10-05",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-10-05",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-10-05",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-05",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-05",
@@ -4568,6 +4658,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-10-05",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-10-06",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-10-06",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-06",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-10-06",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "public",
@@ -4749,6 +4867,20 @@
       "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
       "start": "2026-10-06",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-07",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-10-07",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "public",
@@ -4994,6 +5126,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-08",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-10-08",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-08",
@@ -5172,6 +5318,13 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-turner-lime-mangieri-lab",
       "start": "2026-10-08",
       "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-09",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -5528,6 +5681,34 @@
     },
     {
       "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-10-12",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-10-12",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-10-12",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-12",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-12",
@@ -5651,6 +5832,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-10-12",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-10-13",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-10-13",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-13",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-10-13",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -5870,6 +6079,20 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-st-andrews-links-collegiate-7770",
       "start": "2026-10-13",
       "location": "St. Andrews\\, Scotland"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-14",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-10-14",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -6096,6 +6319,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-15",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-10-15",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-15",
@@ -6290,6 +6527,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-16",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
       "title": "A Conversation About Journalism in 2026 with The Atlantic",
       "url": "https://calendar.utexas.edu/event/a-conversation-about-journalism-in-2026-with-the-atlantic",
       "start": "2026-10-16",
@@ -6479,6 +6723,13 @@
       "url": "https://calendar.utexas.edu/event/tenlons-fort-dont-be-scared-a-tribute-to-daniel-johnston-and-other-cinematic-reflections",
       "start": "2026-10-16",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "The Future of Nursing Science: Endowed Lectureship Symposium",
+      "url": "https://calendar.utexas.edu/event/the-future-of-nursing-science-endowed-lectureship-symposium",
+      "start": "2026-10-16",
+      "location": "In-Person and Virtual"
     },
     {
       "source": "ut",
@@ -6706,6 +6957,34 @@
     },
     {
       "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-10-19",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-10-19",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-10-19",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-19",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-19",
@@ -6797,6 +7076,13 @@
     },
     {
       "source": "ut",
+      "title": "I\u2019ll Samba Someplace Else: A Spatial History of Race\\, Ethnicity\\, and Displacement in S\u00e3o Paulo: In conversation with Edward Telles",
+      "url": "https://calendar.utexas.edu/event/ill-samba-someplace-else-a-spatial-history-of-race-ethnicity-and-displacement-in-sao-paulo-in-conversation-with-edward-telles",
+      "start": "2026-10-19",
+      "location": "Gordon White Building (GWB)\\, MPR 2.206"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-19",
@@ -6829,6 +7115,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-10-19",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-10-20",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-10-20",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-20",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-10-20",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -7009,6 +7323,20 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-temple-cc",
       "start": "2026-10-20",
       "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-21",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-10-21",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -7197,6 +7525,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-22",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-10-22",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Progressive Viewpoint: Election Law and Voting Rights in Texas",
       "url": "https://calendar.utexas.edu/event/a-progressive-viewpoint-election-law-and-voting-rights-in-texas",
       "start": "2026-10-22",
@@ -7375,6 +7717,13 @@
       "url": "https://calendar.utexas.edu/event/wind-ensemble-7618",
       "start": "2026-10-22",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-23",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -7720,6 +8069,34 @@
     },
     {
       "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-10-26",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-10-26",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-10-26",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-26",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-26",
@@ -7850,6 +8227,34 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-10-26",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-10-27",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-10-27",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-27",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-10-27",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -8023,6 +8428,20 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-28",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-10-28",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-10-28",
@@ -8083,6 +8502,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "GAPC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gapc-monthly-meeting",
+      "start": "2026-10-28",
+      "location": "Virtual Meeting"
     },
     {
       "source": "ut",
@@ -8191,6 +8617,20 @@
       "url": "https://calendar.utexas.edu/event/viva-la-vida-with-at-2026",
       "start": "2026-10-28",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-29",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-10-29",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -8395,6 +8835,13 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-stephanie-groman-university-of-chicago",
       "start": "2026-10-29",
       "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-30",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -8748,6 +9195,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-11-02",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-11-02",
@@ -8857,6 +9311,41 @@
       "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
       "start": "2026-11-02",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-11-03",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-11-03",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-11-03",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-11-03",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-11-03",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
     },
     {
       "source": "ut",
@@ -8981,6 +9470,27 @@
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-03",
       "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-11-04",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-11-04",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-11-04",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -9183,6 +9693,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-11-05",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-11-05",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Beautiful Noise",
       "url": "https://calendar.utexas.edu/event/a-beautiful-noise",
       "start": "2026-11-05",
@@ -9357,6 +9881,20 @@
       "url": "https://calendar.utexas.edu/event/world-digital-preservation-day",
       "start": "2026-11-05",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-11-06",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-11-06",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -9601,6 +10139,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Softball vs Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-texas-am-80",
+      "start": "2026-11-07",
+      "location": "College Station\\, Texas\\, Davis Diamond"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball at Missouri",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-missouri",
       "start": "2026-11-07",
@@ -9717,6 +10262,13 @@
       "url": "https://calendar.utexas.edu/event/wind-ensemble-6878",
       "start": "2026-11-08",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
+      "start": "2026-11-09",
+      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
     },
     {
       "source": "ut",
@@ -9843,6 +10395,41 @@
       "url": "https://calendar.utexas.edu/event/zotero-office-hours-6847",
       "start": "2026-11-09",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-11-10",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-11-10",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-11-10",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-11-10",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-11-10",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
     },
     {
       "source": "ut",
@@ -9975,6 +10562,27 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-11-11",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-11-11",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-11-11",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -10166,6 +10774,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-11-12",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-11-12",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-11-12",
@@ -10337,6 +10959,20 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-liz-byrnes-tufts-university",
       "start": "2026-11-12",
       "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-11-13",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-11-13",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -10781,6 +11417,41 @@
     },
     {
       "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-11-17",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-11-17",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-11-17",
+      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-11-17",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-11-17",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-11-17",
@@ -10944,6 +11615,27 @@
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-11-17",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
+      "start": "2026-11-18",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-11-18",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
+      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
+      "start": "2026-11-18",
+      "location": "CMHC @ WCP - WCP 1.102"
     },
     {
       "source": "ut",
@@ -11160,6 +11852,20 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-11-19",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
+      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
+      "start": "2026-11-19",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
       "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
       "start": "2026-11-19",
@@ -11351,6 +12057,20 @@
       "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
       "start": "2026-11-19",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-11-20",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-11-20",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -12565,9 +13285,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-12-02",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -12704,6 +13424,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-us-open",
       "start": "2026-12-02",
       "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Wellness Wednesdays",
+      "url": "https://calendar.utexas.edu/event/wellness-wednesdays",
+      "start": "2026-12-02",
+      "location": "Skyspace\\, Student Activity Center (SAC)\\, William C. Powers\\, Jr. Student Activity Center\\, Third floor\\, Rooftop Garden"
     },
     {
       "source": "ut",
@@ -13827,31 +14554,10 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-14",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-14",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 Information Session: External Transfer",
-      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
-      "start": "2026-12-14",
-      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -13866,48 +14572,6 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-12-14",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
-      "start": "2026-12-14",
-      "location": "Midland\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
-      "start": "2026-12-14",
-      "location": "Midland\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-15",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-15",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
       "source": "internal",
@@ -13920,27 +14584,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/15",
@@ -13949,13 +14592,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2026-12-15",
-      "location": null
     },
     {
       "source": "internal",
@@ -13968,90 +14604,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-12-15",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-12-16",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2026-12-16",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-16",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Executive Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
-      "start": "2026-12-16",
-      "location": "NUR 5.174"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "GSC Monthly Meeting",
-      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
-      "start": "2026-12-16",
-      "location": "NUR 4.180"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/16",
@@ -14060,48 +14612,6 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Memphis",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-memphis",
-      "start": "2026-12-16",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Little Rock",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-little-rock",
-      "start": "2026-12-16",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-vanderbilt",
-      "start": "2026-12-16",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "AI Ideas: Drop-in Hours",
-      "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
-      "start": "2026-12-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -14114,41 +14624,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-17",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-17",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/17",
@@ -14157,13 +14632,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Lunch Workshop-Using AI as a Collaborative Tool in Communication (Communications/Information Literacy)",
-      "url": "https://calendar.utexas.edu/event/lunch-workshop-using-ai-as-a-collaborative-tool-in-communication-communicationsinformation-literacy",
-      "start": "2026-12-17",
-      "location": "Texas Union Quadrangle Room"
     },
     {
       "source": "internal",
@@ -14176,20 +14644,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES",
-      "url": "https://calendar.utexas.edu/event/tamales",
-      "start": "2026-12-17",
-      "location": null
-    },
-    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17",
@@ -14200,55 +14654,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-18",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-18",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2026-12-18",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/12/18",
@@ -14257,188 +14662,6 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-18",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-19",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-19",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Duke",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-duke",
-      "start": "2026-12-19",
-      "location": "Las Vegas\\, Nev."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-20",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Glenn Miller Orchestra - In the Christmas Mood",
-      "url": "https://calendar.utexas.edu/event/glenn-miller-orchestra-in-the-christmas-mood",
-      "start": "2026-12-20",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs UCLA",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-ucla",
-      "start": "2026-12-20",
-      "location": "Las Vegas\\, Nev."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-21",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-21",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Prairie View A&M",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-prairie-view-am",
-      "start": "2026-12-21",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-22",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-22",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -14461,111 +14684,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-23",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-12-23",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2026-12-23",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-23",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-23",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-23",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Disney's The Muppet Christmas Carol in Concert Live-To-Film",
-      "url": "https://calendar.utexas.edu/event/disneys-the-muppet-christmas-carol-in-concert-live-to-film",
-      "start": "2026-12-23",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-23",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-23",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-23",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-24",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-24",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-24",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-24",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-24",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/24",
@@ -14576,13 +14694,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24",
@@ -14591,209 +14702,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-25",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-25",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-25",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-25",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-25",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2026-12-25",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-25",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-26",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-26",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-27",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-27",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "H-E-B Free Fourth Sunday",
-      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
-      "start": "2026-12-27",
-      "location": "Texas Science & Natural History Museum"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-28",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-28",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-28",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-28",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-28",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Harvard",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-harvard",
-      "start": "2026-12-28",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-29",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-29",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -14816,69 +14724,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs East Texas A&M University",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-east-texas-am-university",
-      "start": "2026-12-29",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-12-30",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2026-12-30",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-30",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-30",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/30",
@@ -14887,27 +14732,6 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-31",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-31",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
