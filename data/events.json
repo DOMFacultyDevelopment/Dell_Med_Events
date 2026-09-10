@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-10T10:56:07.352494+00:00",
+  "updated": "2026-09-10T20:37:17.078646+00:00",
   "counts": {
-    "public": 17,
+    "public": 19,
     "internal": 203,
     "ut": 1915
   },
@@ -141,15 +141,6 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-10",
       "location": null
-    },
-    {
-      "source": "public",
-      "title": "Research Nuts & Bolts: Developing Regulatory Binders for Clinical Trials",
-      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-developing-regulatory-binders-091026",
-      "start": "2026-09-10",
-      "time": "10\u201311 a.m.",
-      "location": "Zoom",
-      "speaker": "Heather Jones, MPH, R.D."
     },
     {
       "source": "ut",
@@ -466,7 +457,7 @@
       "title": "State of the Department of Pediatrics",
       "url": "https://dellmed.utexas.edu/events/state-of-the-department-of-pediatrics-091126",
       "start": "2026-09-11",
-      "time": "10\u201311 a.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom",
       "speaker": "Amir Mian, M.D., MBA"
     },
@@ -2675,18 +2666,11 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "ut",
-      "title": "DMES Colloquium - Prophecy as Textual Omen: The Case of Neo-Assyria with Dr. Heath Dewrell",
-      "url": "https://calendar.utexas.edu/event/dmes-colloquium-prophecy-as-textual-omen-the-case-of-neo-assyria-with-dr-heath-dewrell",
-      "start": "2026-09-24",
-      "location": "Calhoun Hall (CAL)\\, 516"
-    },
-    {
       "source": "public",
       "title": "Department of Quantitative and Systems Health Sciences: Open House and Mixer",
       "url": "https://dellmed.utexas.edu/events/quantitative-and-systems-health-sciences-open-house-and-mixer-092426",
       "start": "2026-09-24",
-      "time": "7:30\u20138:30 a.m.",
+      "time": "10\u201311 a.m.",
       "location": "HDB 1.208 Auditorium"
     },
     {
@@ -2803,6 +2787,14 @@
       "url": "https://calendar.utexas.edu/event/protrack-faculty-social-hour",
       "start": "2026-09-24",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "public",
+      "title": "Research Nuts & Bolts: All About IRB Applications Part 2: Preparing an IRB Application",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-preparing-an-irb-application-092426",
+      "start": "2026-09-24",
+      "time": "7:30\u20138:30 a.m.",
+      "location": "Zoom"
     },
     {
       "source": "ut",
@@ -5261,6 +5253,14 @@
       "location": "Texas Union Theatre"
     },
     {
+      "source": "public",
+      "title": "Research Nuts & Bolts: Data Collection and Data Quality Management",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-data-collection-data-quality-management-100826",
+      "start": "2026-10-08",
+      "time": "7 a.m.",
+      "location": "Zoom"
+    },
+    {
       "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
@@ -6370,6 +6370,14 @@
       "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
+      "source": "public",
+      "title": "Department of Pediatrics: New Faculty Orientation",
+      "url": "https://dellmed.utexas.edu/events/department-of-pediatrics-faculty-orientation-101526",
+      "start": "2026-10-15",
+      "time": "10\u201311 a.m.",
+      "location": "Dell Children\u2019s Medical Center Signe Auditorium"
+    },
+    {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
@@ -6677,7 +6685,7 @@
       "title": "Pediatric Quality Improvement Educational Opportunity",
       "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1016",
       "start": "2026-10-16",
-      "time": "7 a.m."
+      "time": "5\u20136:30 p.m."
     },
     {
       "source": "ut",
@@ -14572,6 +14580,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-14",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "internal",
