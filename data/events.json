@@ -1,251 +1,11 @@
 {
-  "updated": "2026-09-10T20:37:17.078646+00:00",
+  "updated": "2026-09-11T10:54:13.333388+00:00",
   "counts": {
     "public": 19,
-    "internal": 203,
-    "ut": 1915
+    "internal": 200,
+    "ut": 1894
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "A Study on Blood Flow\\, Breathing\\, and Brain Health",
-      "url": "https://calendar.utexas.edu/event/a-study-on-blood-flow-breathing-and-brain-health",
-      "start": "2026-09-10",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 2.168 (2nd floor)"
-    },
-    {
-      "source": "ut",
-      "title": "AI Ideas: Drop-in Hours",
-      "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ben Goodman Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-goodman-quartet-live-at-the-cactus-cafe",
-      "start": "2026-09-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Ben Quartet Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ben-quartet-live-at-the-cactus-cafe",
-      "start": "2026-09-10",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "CV 101 Workshop",
-      "url": "https://calendar.utexas.edu/event/cv-101-workshop",
-      "start": "2026-09-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-10",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "E+E and Longhorn Ties Movie Event - Toy Story 5",
-      "url": "https://calendar.utexas.edu/event/ee-and-longhorn-ties-movie-event-toy-story-5",
-      "start": "2026-09-10",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-09-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-09-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-09-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-09-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/09/10",
-      "start": "2026-09-10",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Information Session: MSN/PhD/APRN DNP Prospective Student",
-      "url": "https://calendar.utexas.edu/event/information-session-msnphdaprn-dnp-prospective-student",
-      "start": "2026-09-10",
-      "location": "Zoom"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "KBH Energy Center Energy Expo",
-      "url": "https://calendar.utexas.edu/event/kbh-energy-center-energy-expo",
-      "start": "2026-09-10",
-      "location": "CBA Atrium (3rd Floor)\\, UT Austin"
-    },
-    {
-      "source": "ut",
-      "title": "KBH Energy Expo",
-      "url": "https://calendar.utexas.edu/event/kbh-energy-expo",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Polling in the Digital Age: Text\\, Online\\, and Beyond",
-      "url": "https://calendar.utexas.edu/event/polling-in-the-digital-age-text-online-and-beyond-2201",
-      "start": "2026-09-10",
-      "location": "SRH 3.B10"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-09-10",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SLC Seminar\\, IRG 2: Prof Alfred Zong",
-      "url": "https://calendar.utexas.edu/event/slc-seminar-irg-2-prof-alfred-zong",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-09-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sacrifice and the Western Imagination: From the Crucifixion to the Age of Anthropology",
-      "url": "https://calendar.utexas.edu/event/on-the-altar-a-history-of-sacrifice-from-the-sacred-to-the-secular",
-      "start": "2026-09-10",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Scholarly Communication Lecture",
-      "url": "https://calendar.utexas.edu/event/scholarly-communication-lecture",
-      "start": "2026-09-10",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab\u00a0(PCL 2.202)"
-    },
-    {
-      "source": "internal",
-      "title": "Schwartz Rounds: \"Honoring the hidden hands who keep things moving\"",
-      "url": "https://intranet.dellmed.utexas.edu/event/1032403/",
-      "start": "2026-09-10",
-      "time": "12:00pm \u2013 1:00pm",
-      "location": "HDB 1.208 Auditorium",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TEST",
-      "url": "https://calendar.utexas.edu/event/test-8254",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/09/10",
-      "start": "2026-09-10",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Teaching for Impact: Designing Effective Lessons",
-      "url": "https://calendar.utexas.edu/event/teaching-for-impact-designing-effective-lessons",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "The Power of the US Speaker Series with Cristina Tzintz\u00fan Ramirez (D) and Rashad Robinson (D)",
-      "url": "https://calendar.utexas.edu/event/the-power-of-the-us-speaker-series-with-cristina-tzintzun-ramirez-d-and-rashad-robinson-d",
-      "start": "2026-09-10",
-      "location": "LBJ - Bass Lecture Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Toy Story 5 \u2014 Sensory-Friendly Movie Screening",
-      "url": "https://calendar.utexas.edu/event/toy-story-5-sensory-friendly-movie-screening",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers present AI Responsible Pedagogy: Setting New Terms for Assessment",
-      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-present-ai-responsible-pedagogy-setting-new-terms-for-assessment",
-      "start": "2026-09-10",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Volleyball at SMU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-smu",
-      "start": "2026-09-10",
-      "location": "Dallas\\, Texas\\, Moody Coliseum"
-    },
-    {
-      "source": "ut",
-      "title": "Wellness Wednesdays",
-      "url": "https://calendar.utexas.edu/event/wellness-wednesdays",
-      "start": "2026-09-10",
-      "location": "Skyspace\\, Student Activity Center (SAC)\\, William C. Powers\\, Jr. Student Activity Center\\, Third floor\\, Rooftop Garden"
-    },
     {
       "source": "ut",
       "title": "2026 KBH Energy Center Energy Symposium",
@@ -575,6 +335,13 @@
     },
     {
       "source": "ut",
+      "title": "Texas vs Ohio State Football Watch Party",
+      "url": "https://calendar.utexas.edu/event/texas-vs-ohio-state-football-watch-party",
+      "start": "2026-09-12",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football vs Ohio State - presented by Huntington Bank",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-ohio-state-4785",
       "start": "2026-09-12",
@@ -646,9 +413,9 @@
     {
       "source": "ut",
       "title": "UWC Graduate Writing Retreat",
-      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-3718",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
       "start": "2026-09-13",
-      "location": "University Writing Center\\, PCL 2.330"
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
     },
     {
       "source": "ut",
@@ -1013,6 +780,13 @@
     },
     {
       "source": "ut",
+      "title": "Let&#039\\;s Taco &#039\\;Bout Informatics",
+      "url": "https://calendar.utexas.edu/event/let039s-taco-039bout-informatics",
+      "start": "2026-09-15",
+      "location": "Student Lounge (FAC 18N)"
+    },
+    {
+      "source": "ut",
       "title": "Madrigal Auditions",
       "url": "https://calendar.utexas.edu/event/madrigal-auditions",
       "start": "2026-09-15",
@@ -1233,6 +1007,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-09-16",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Executive Committee Meeting",
       "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
       "start": "2026-09-16",
@@ -1369,6 +1150,13 @@
     },
     {
       "source": "ut",
+      "title": "UT&#039\\;s Birthday Celebration",
+      "url": "https://calendar.utexas.edu/event/ut039s-birthday-celebration",
+      "start": "2026-09-16",
+      "location": "Texas Union East Patio"
+    },
+    {
+      "source": "ut",
       "title": "UTNY Information Session",
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-09-16",
@@ -1467,6 +1255,13 @@
       "url": "https://calendar.utexas.edu/event/craft-and-chill",
       "start": "2026-09-17",
       "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
+      "title": "Critter&#039\\;s Craft Collective",
+      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
+      "start": "2026-09-17",
+      "location": "SSB"
     },
     {
       "source": "ut",
@@ -1608,10 +1403,24 @@
     },
     {
       "source": "ut",
+      "title": "UT&#039\\;s Birthday Celebration",
+      "url": "https://calendar.utexas.edu/event/ut039s-birthday-celebration",
+      "start": "2026-09-17",
+      "location": "Texas Union East Patio"
+    },
+    {
+      "source": "ut",
       "title": "UTLA Information Session",
       "url": "https://calendar.utexas.edu/event/utla-information-session-2002",
       "start": "2026-09-17",
       "location": "Belo Center for New Media (BMC)\\, 5.102"
+    },
+    {
+      "source": "ut",
+      "title": "UTMRC Member Welcome & Emergency Preparedness Training",
+      "url": "https://calendar.utexas.edu/event/utmrc-member-welcome-emergency-preparedness-training",
+      "start": "2026-09-17",
+      "location": "School of Nursing\\, NUR 1.108"
     },
     {
       "source": "ut",
@@ -2077,6 +1886,13 @@
     },
     {
       "source": "ut",
+      "title": "Opioid Overdose and Opioid Use Disorder Awareness Symposium",
+      "url": "https://calendar.utexas.edu/event/opioid-overdose-and-opioid-use-disorder-awareness-symposium",
+      "start": "2026-09-21",
+      "location": "Health Discovery Building (HDB)\\, 1.208"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-21",
@@ -2429,6 +2245,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-09-23",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-09-23",
@@ -2664,6 +2487,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-24",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "DMES Colloquium - Prophecy as Textual Omen: The Case of Neo-Assyria with Dr. Heath Dewrell",
+      "url": "https://calendar.utexas.edu/event/dmes-colloquium-prophecy-as-textual-omen-the-case-of-neo-assyria-with-dr-heath-dewrell",
+      "start": "2026-09-24",
+      "location": "Calhoun Hall (CAL)\\, 516"
     },
     {
       "source": "public",
@@ -3820,6 +3650,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-09-30",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-09-30",
@@ -4035,6 +3872,13 @@
       "url": "https://calendar.utexas.edu/event/craft-and-chill",
       "start": "2026-10-01",
       "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
+      "title": "Critter&#039\\;s Craft Collective",
+      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
+      "start": "2026-10-01",
+      "location": "SSB"
     },
     {
       "source": "ut",
@@ -4412,6 +4256,13 @@
       "url": "https://calendar.utexas.edu/event/2026-tex-e-fall-bootcamp",
       "start": "2026-10-04",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Amy Annelle Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/amy-annelle-live-at-the-cactus-cafe",
+      "start": "2026-10-04",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -4930,6 +4781,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-07",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-10-07",
+      "location": "WCP 2.102 (Student Gov. Office)"
     },
     {
       "source": "ut",
@@ -6169,6 +6027,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-10-14",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-14",
@@ -6368,6 +6233,13 @@
       "url": "https://calendar.utexas.edu/event/craft-and-chill",
       "start": "2026-10-15",
       "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
+      "title": "Critter&#039\\;s Craft Collective",
+      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
+      "start": "2026-10-15",
+      "location": "SSB"
     },
     {
       "source": "public",
@@ -6951,6 +6823,13 @@
     },
     {
       "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
+      "start": "2026-10-18",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
+    },
+    {
+      "source": "ut",
       "title": "University Writing Center Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-8371",
       "start": "2026-10-18",
@@ -7401,6 +7280,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-21",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-10-21",
+      "location": "WCP 2.102 (Student Gov. Office)"
     },
     {
       "source": "ut",
@@ -8506,6 +8392,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-10-28",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-28",
@@ -8683,6 +8576,13 @@
       "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
+      "source": "ut",
+      "title": "Critter&#039\\;s Craft Collective",
+      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
+      "start": "2026-10-29",
+      "location": "SSB"
+    },
+    {
       "source": "public",
       "title": "Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department with Kevin Bozic, M.D.",
       "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-state-of-the-department-1029",
@@ -8822,6 +8722,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-georgia-261",
       "start": "2026-10-29",
       "location": "Austin\\, Texas\\, Gregory Gymnasium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Eastern New Mexico (Exhibition)",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-eastern-new-mexico-exhibition",
+      "start": "2026-10-29",
+      "location": "Austin\\, Texas"
     },
     {
       "source": "ut",
@@ -8979,6 +8886,13 @@
     },
     {
       "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
+      "start": "2026-10-30",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
+    },
+    {
+      "source": "ut",
       "title": "University Writing Center Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-6503",
       "start": "2026-10-30",
@@ -9086,6 +9000,13 @@
       "source": "ut",
       "title": "Sophie Gault Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/sophie-gault-live-at-the-cactus-cafe",
+      "start": "2026-10-31",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "Sophie Gault with Garrett Owen Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/sophie-gault-with-garrett-owen-live-at-the-cactus-cafe",
       "start": "2026-10-31",
       "location": "Cactus Cafe"
     },
@@ -9562,6 +9483,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-04",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-11-04",
+      "location": "WCP 2.102 (Student Gov. Office)"
     },
     {
       "source": "ut",
@@ -10126,6 +10054,13 @@
     },
     {
       "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
+      "start": "2026-11-07",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
+    },
+    {
+      "source": "ut",
       "title": "University Writing Center Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-135",
       "start": "2026-11-07",
@@ -10667,6 +10602,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-11-11",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-11-11",
@@ -11033,6 +10975,13 @@
     },
     {
       "source": "ut",
+      "title": "Critter&#039\\;s Craft Collective",
+      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
+      "start": "2026-11-13",
+      "location": "SSB"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-11-13",
@@ -11191,6 +11140,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-14",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
+      "start": "2026-11-14",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
     },
     {
       "source": "ut",
@@ -11700,6 +11656,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-18",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-11-18",
+      "location": "WCP 2.102 (Student Gov. Office)"
     },
     {
       "source": "ut",
@@ -12651,6 +12614,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-11-25",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-11-25",
@@ -13320,6 +13290,13 @@
     },
     {
       "source": "ut",
+      "title": "Ethics and Oversight Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
+      "start": "2026-12-02",
+      "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
       "title": "Executive Committee Meeting",
       "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
       "start": "2026-12-02",
@@ -13640,6 +13617,13 @@
     },
     {
       "source": "ut",
+      "title": "Critter&#039\\;s Craft Collective",
+      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
+      "start": "2026-12-04",
+      "location": "SSB"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-04",
@@ -13696,6 +13680,13 @@
       "url": "https://calendar.utexas.edu/event/student-affairs-meeting",
       "start": "2026-12-04",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
+      "start": "2026-12-04",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
     },
     {
       "source": "ut",
@@ -13773,6 +13764,13 @@
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-05",
       "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "UWC Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
+      "start": "2026-12-05",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Commons"
     },
     {
       "source": "ut",
@@ -14401,20 +14399,6 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-12",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-12",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-12",
@@ -14426,167 +14410,6 @@
       "url": "https://calendar.utexas.edu/event/guy-forsyth-live-at-the-cactus-cafe",
       "start": "2026-12-12",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-12-12",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Miami (Fla.)",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-miami-fla",
-      "start": "2026-12-12",
-      "location": "Houston\\, Texas\\, Toyota Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
-      "start": "2026-12-12",
-      "location": "Midland\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
-      "start": "2026-12-12",
-      "location": "Midland\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Chamber Music Center - A Charlie Brown Christmas",
-      "url": "https://calendar.utexas.edu/event/austin-chamber-music-center-a-charlie-brown-christmas",
-      "start": "2026-12-13",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-13",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-13",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Distant Worlds: music from FINAL FANTASY",
-      "url": "https://calendar.utexas.edu/event/distant-worlds-music-from-final-fantasy",
-      "start": "2026-12-13",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-12-13",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
-      "start": "2026-12-13",
-      "location": "Midland\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs UTRGV",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-utrgv-6220",
-      "start": "2026-12-13",
-      "location": "Austin\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
-      "start": "2026-12-13",
-      "location": "Midland\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-12-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-12-14",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "internal",
