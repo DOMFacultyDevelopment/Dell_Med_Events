@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-11T10:54:13.333388+00:00",
+  "updated": "2026-09-11T20:42:31.558448+00:00",
   "counts": {
     "public": 19,
     "internal": 200,
-    "ut": 1894
+    "ut": 1895
   },
   "events": [
     {
@@ -50,17 +50,10 @@
     },
     {
       "source": "ut",
-      "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-7668",
-      "start": "2026-09-11",
-      "location": "Nursing School (NUR)\\, 1.106"
-    },
-    {
-      "source": "ut",
       "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-5902",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
       "start": "2026-09-11",
-      "location": "Nursing School (NUR)\\, 1.106"
+      "location": "NUR - various"
     },
     {
       "source": "ut",
@@ -496,13 +489,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-09-14",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-09-14",
@@ -577,13 +563,6 @@
       "url": "https://calendar.utexas.edu/event/may-term-in-australia-the-politics-of-protecting-the-great-barrier-reef-info-session-152",
       "start": "2026-09-14",
       "location": "George I. Sanchez Building (SZB)\\, 4.508"
-    },
-    {
-      "source": "ut",
-      "title": "National Security Career Fair",
-      "url": "https://calendar.utexas.edu/event/national-security-career-fair",
-      "start": "2026-09-14",
-      "location": "Texas Union Building (UNB)\\, Shirley Bird Perry Ballroom"
     },
     {
       "source": "ut",
@@ -822,13 +801,6 @@
     },
     {
       "source": "ut",
-      "title": "Study Abroad in Central and Eastern Europe",
-      "url": "https://calendar.utexas.edu/event/study-abroad-in-central-and-eastern-europe",
-      "start": "2026-09-15",
-      "location": "Texas Global\\, Global Lounge"
-    },
-    {
-      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-09-15",
@@ -875,9 +847,9 @@
     {
       "source": "ut",
       "title": "The Statesman Series: The Honorables Dade Phelan (R) and Larry Gonzales (R)",
-      "url": "https://calendar.utexas.edu/event/the-statesman-series-the-honorables-dade-phelan-r-and-larry-gonzales-r",
+      "url": "https://calendar.utexas.edu/event/the-statesman-series-the-honorables-dade-phelan-r-and-larry-gonzales-r-8066",
       "start": "2026-09-15",
-      "location": "LBJ - Bass Lecture Hall"
+      "location": "LBJ - SRH 3.122"
     },
     {
       "source": "ut",
@@ -892,20 +864,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-jackson-t-stephens-cup-463",
       "start": "2026-09-15",
       "location": "Frisco\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Zine Workshop with Silk Club!",
-      "url": "https://calendar.utexas.edu/event/zine-workshop-with-silk-club",
-      "start": "2026-09-15",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 2 (PCL 2.340)"
-    },
-    {
-      "source": "ut",
-      "title": "Zotero Office Hours",
-      "url": "https://calendar.utexas.edu/event/zotero-office-hours-6847",
-      "start": "2026-09-15",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
     },
     {
       "source": "ut",
@@ -941,13 +899,6 @@
       "url": "https://calendar.utexas.edu/event/aha-heartsaver-first-aid-cpr-aed-7898",
       "start": "2026-09-16",
       "location": "NUR 3.170"
-    },
-    {
-      "source": "ut",
-      "title": "AHA Heartsaver First Aid\\, CPR\\, AED Certification",
-      "url": "https://calendar.utexas.edu/event/aha-heartsaver-first-aid-cpr-aed-certification",
-      "start": "2026-09-16",
-      "location": "Nursing School (NUR)\\, 3.170"
     },
     {
       "source": "ut",
@@ -1126,13 +1077,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-16",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-09-16",
-      "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
       "source": "ut",
@@ -1396,24 +1340,10 @@
     },
     {
       "source": "ut",
-      "title": "The International Symposium on Journalism (ISOJ) 2026",
-      "url": "https://calendar.utexas.edu/event/the-international-symposium-on-journalism-isoj-2026",
-      "start": "2026-09-17",
-      "location": "Texas Union Building (UNB)\\, Shirley Bird Perry Ballroom"
-    },
-    {
-      "source": "ut",
       "title": "UT&#039\\;s Birthday Celebration",
       "url": "https://calendar.utexas.edu/event/ut039s-birthday-celebration",
       "start": "2026-09-17",
       "location": "Texas Union East Patio"
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Information Session",
-      "url": "https://calendar.utexas.edu/event/utla-information-session-2002",
-      "start": "2026-09-17",
-      "location": "Belo Center for New Media (BMC)\\, 5.102"
     },
     {
       "source": "ut",
@@ -1446,7 +1376,7 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-7668",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-7275",
       "start": "2026-09-18",
       "location": "Nursing School (NUR)\\, 1.106"
     },
@@ -1725,13 +1655,6 @@
     },
     {
       "source": "ut",
-      "title": "Korea Week",
-      "url": "https://calendar.utexas.edu/event/korea-week",
-      "start": "2026-09-20",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-20",
@@ -1867,13 +1790,6 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-21",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Korea Week",
-      "url": "https://calendar.utexas.edu/event/korea-week",
       "start": "2026-09-21",
       "location": null
     },
@@ -2109,13 +2025,6 @@
     },
     {
       "source": "ut",
-      "title": "Korea Week",
-      "url": "https://calendar.utexas.edu/event/korea-week",
-      "start": "2026-09-22",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-22",
@@ -2287,6 +2196,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot",
+      "start": "2026-09-23",
+      "location": "Facilities Complex 1\\, Room 1.118"
+    },
+    {
+      "source": "ut",
       "title": "Gone to Grad School: Find Your Herd",
       "url": "https://calendar.utexas.edu/event/gone-to-grad-school-find-your-herd",
       "start": "2026-09-23",
@@ -2350,13 +2266,6 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-23",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Korea Week",
-      "url": "https://calendar.utexas.edu/event/korea-week",
       "start": "2026-09-23",
       "location": null
     },
@@ -2489,13 +2398,6 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
-      "source": "ut",
-      "title": "DMES Colloquium - Prophecy as Textual Omen: The Case of Neo-Assyria with Dr. Heath Dewrell",
-      "url": "https://calendar.utexas.edu/event/dmes-colloquium-prophecy-as-textual-omen-the-case-of-neo-assyria-with-dr-heath-dewrell",
-      "start": "2026-09-24",
-      "location": "Calhoun Hall (CAL)\\, 516"
-    },
-    {
       "source": "public",
       "title": "Department of Quantitative and Systems Health Sciences: Open House and Mixer",
       "url": "https://dellmed.utexas.edu/events/quantitative-and-systems-health-sciences-open-house-and-mixer-092426",
@@ -2552,13 +2454,6 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Korea Week",
-      "url": "https://calendar.utexas.edu/event/korea-week",
       "start": "2026-09-24",
       "location": null
     },
@@ -2639,6 +2534,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-24",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Study International Business at UT Austin - Info Session",
+      "url": "https://calendar.utexas.edu/event/study-international-business-at-ut-austin-info-session",
+      "start": "2026-09-24",
+      "location": null
     },
     {
       "source": "internal",
@@ -2730,9 +2632,9 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-3629",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
       "start": "2026-09-25",
-      "location": "Nursing School (NUR)\\, 1.116"
+      "location": "NUR - various"
     },
     {
       "source": "ut",
@@ -2801,13 +2703,6 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-25",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Korea Week",
-      "url": "https://calendar.utexas.edu/event/korea-week",
       "start": "2026-09-25",
       "location": null
     },
@@ -3212,13 +3107,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-09-28",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "Division of Health Social Work Grand Rounds",
       "url": "https://calendar.utexas.edu/event/division-of-health-social-work-grand-rounds",
       "start": "2026-09-28",
@@ -3277,6 +3165,13 @@
     },
     {
       "source": "ut",
+      "title": "No Time\\, No Kitchen\\, No Problem: Meal Planning Made Easy",
+      "url": "https://calendar.utexas.edu/event/no-time-no-kitchen-no-problem-meal-planning-made-easy-1264",
+      "start": "2026-09-28",
+      "location": "Student Services Building (SSB)\\, 3.410P"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-28",
@@ -3302,6 +3197,13 @@
       "url": "https://calendar.utexas.edu/event/sharon-milgram-keynote-normalizing-failure",
       "start": "2026-09-28",
       "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
+    },
+    {
+      "source": "ut",
+      "title": "Study International Business at UT Austin - Info Session",
+      "url": "https://calendar.utexas.edu/event/study-international-business-at-ut-austin-info-session",
+      "start": "2026-09-28",
+      "location": null
     },
     {
       "source": "ut",
@@ -3459,6 +3361,13 @@
       "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
       "start": "2026-09-29",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-271",
+      "start": "2026-09-29",
+      "location": "Robert B. Rowling Hall (RRH)\\, Special Events Room 5.210"
     },
     {
       "source": "ut",
@@ -4077,6 +3986,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-1193",
+      "start": "2026-10-02",
+      "location": "Health Discovery Building (HDB)\\, Rooms 1.202 and 1.204"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-02",
@@ -4406,13 +4322,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-05",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-10-05",
@@ -4630,6 +4539,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-8614",
+      "start": "2026-10-06",
+      "location": "Gregory Gymnasium (GRE)\\, Lounge\\, GRE 3.120"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-06",
@@ -4809,6 +4725,13 @@
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-10-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-7873",
+      "start": "2026-10-07",
+      "location": "Gregory Gymnasium (GRE)\\, Lounge\\, GRE 3.120"
     },
     {
       "source": "ut",
@@ -5050,6 +4973,13 @@
       "url": "https://calendar.utexas.edu/event/francis-bacon-and-the-crisis-of-the-palatinate",
       "start": "2026-10-08",
       "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-5150",
+      "start": "2026-10-08",
+      "location": "Gregory Gymnasium (GRE)\\, Lounge\\, GRE 3.120"
     },
     {
       "source": "ut",
@@ -5595,13 +5525,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-12",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-10-12",
@@ -5798,6 +5721,13 @@
       "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
       "start": "2026-10-13",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-7397",
+      "start": "2026-10-13",
+      "location": "Texas Union Building (UNB)\\, Quadrangle Room 3.304"
     },
     {
       "source": "ut",
@@ -6125,13 +6055,6 @@
       "url": "https://calendar.utexas.edu/event/side-by-side",
       "start": "2026-10-14",
       "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-10-14",
-      "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
       "source": "ut",
@@ -6914,13 +6837,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-19",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-10-19",
@@ -7120,6 +7036,13 @@
       "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
       "start": "2026-10-20",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-2818",
+      "start": "2026-10-20",
+      "location": "Student Services Building (SSB)\\, Glenn Maloney Room\\, Gound Floor\\, G1.310"
     },
     {
       "source": "ut",
@@ -7479,6 +7402,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-8945",
+      "start": "2026-10-22",
+      "location": "Student Services Building (SSB)\\, Glenn Maloney Room\\, Gound Floor\\, G1.310"
     },
     {
       "source": "ut",
@@ -8026,13 +7956,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-10-26",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-10-26",
@@ -8236,6 +8159,13 @@
       "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
       "start": "2026-10-27",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-5667",
+      "start": "2026-10-27",
+      "location": "LBJ School of Public Affairs\\, Bass Lecture Hall\\, North Lobby"
     },
     {
       "source": "ut",
@@ -9170,13 +9100,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-02",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-11-02",
-      "location": "Patton Hall (RLP)\\, 1.102"
     },
     {
       "source": "ut",
@@ -10257,13 +10180,6 @@
     },
     {
       "source": "ut",
-      "title": "Cultivating Confidence: A Weekly Workshop to Increase Self-Confidence",
-      "url": "https://calendar.utexas.edu/event/cultivating-confidence-a-drop-in-skills-workshop-for-students-to-level-up-confidence",
-      "start": "2026-11-09",
-      "location": "Patton Hall (RLP)\\, 1.102"
-    },
-    {
-      "source": "ut",
       "title": "E+E Film &amp\\; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-09",
@@ -10331,13 +10247,6 @@
       "url": "https://calendar.utexas.edu/event/writing-research-rodeos",
       "start": "2026-11-09",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, University Writing Center (PCL 2.330A)"
-    },
-    {
-      "source": "ut",
-      "title": "Zotero Office Hours",
-      "url": "https://calendar.utexas.edu/event/zotero-office-hours-6847",
-      "start": "2026-11-09",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
     },
     {
       "source": "ut",
@@ -10686,13 +10595,6 @@
       "url": "https://calendar.utexas.edu/event/side-by-side",
       "start": "2026-11-11",
       "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-11-11",
-      "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
       "source": "ut",
@@ -13263,9 +13165,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-12-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -14399,6 +14301,20 @@
     },
     {
       "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2026-12-12",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2026-12-12",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-12",
@@ -14410,6 +14326,97 @@
       "url": "https://calendar.utexas.edu/event/guy-forsyth-live-at-the-cactus-cafe",
       "start": "2026-12-12",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2026-12-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2026-12-12",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-12",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Miami (Fla.)",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-miami-fla",
+      "start": "2026-12-12",
+      "location": "Houston\\, Texas\\, Toyota Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-12",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-12",
+      "location": "Midland\\, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2026-12-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Distant Worlds: music from FINAL FANTASY",
+      "url": "https://calendar.utexas.edu/event/distant-worlds-music-from-final-fantasy",
+      "start": "2026-12-13",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "start": "2026-12-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2026-12-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2026-12-13",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-13",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
+      "start": "2026-12-13",
+      "location": "Midland\\, Texas"
     },
     {
       "source": "internal",
