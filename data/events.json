@@ -1,265 +1,17 @@
 {
-  "updated": "2026-09-16T21:03:47.538347+00:00",
+  "updated": "2026-09-17T11:17:43.566255+00:00",
   "counts": {
     "public": 17,
-    "internal": 197,
-    "ut": 1885
+    "internal": 196,
+    "ut": 1822
   },
   "events": [
     {
       "source": "ut",
-      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
-      "start": "2026-09-16",
-      "location": "COLA Student Well-Being Center\\, JES A-223A"
-    },
-    {
-      "source": "ut",
-      "title": "2026 Map & Geospatial Collection Explorer Fellowship Info Session",
-      "url": "https://calendar.utexas.edu/event/2026-map-geospatial-collection-explorer-fellowship-info-session",
-      "start": "2026-09-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "AHA Heartsaver First Aid\\, CPR\\, AED",
-      "url": "https://calendar.utexas.edu/event/aha-heartsaver-first-aid-cpr-aed-7898",
-      "start": "2026-09-16",
-      "location": "NUR 3.170"
-    },
-    {
-      "source": "ut",
-      "title": "AHA Heartsaver First Aid\\, CPR\\, AED Certification",
-      "url": "https://calendar.utexas.edu/event/aha-heartsaver-first-aid-cpr-aed-certification",
-      "start": "2026-09-16",
-      "location": "Nursing School (NUR)\\, 3.170"
-    },
-    {
-      "source": "ut",
-      "title": "Archer Graduate Fellowship Program Information Session - Humanities and Social Sciences",
-      "url": "https://calendar.utexas.edu/event/archer-graduate-fellowship-program-information-session-humanities-and-social-sciences",
-      "start": "2026-09-16",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-09-16",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Autism Consortium of Texas September Webinar",
-      "url": "https://calendar.utexas.edu/event/autism-consortium-of-texas-september-webinar",
-      "start": "2026-09-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-09-16",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Canceled: Latine heritage month kickoff",
-      "url": "https://calendar.utexas.edu/event/latine-heritage-month-kickoff",
-      "start": "2026-09-16",
-      "location": "Patton Hall (RLP) at UT Austin\\, 4.102"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-09-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-16",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Ethics and Oversight Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
-      "start": "2026-09-16",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "Executive Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
-      "start": "2026-09-16",
-      "location": "NUR 5.174"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-09-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-09-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-09-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-09-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "LinkedIn Workshop",
-      "url": "https://calendar.utexas.edu/event/linkedin-workshop-5821",
-      "start": "2026-09-16",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Madrigal Auditions",
-      "url": "https://calendar.utexas.edu/event/madrigal-auditions",
-      "start": "2026-09-16",
-      "location": "WCP 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "Maximize Social Security in Your Retirement Strategy",
-      "url": "https://calendar.utexas.edu/event/maximize-social-security-in-your-retirement-strategy",
-      "start": "2026-09-16",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "internal",
-      "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/09/16",
-      "start": "2026-09-16",
-      "time": "3:00pm \u2013 4:00pm",
-      "location": "Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Public Assembly",
-      "url": "https://calendar.utexas.edu/event/public-assembly",
-      "start": "2026-09-16",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
-      "start": "2026-09-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-09-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-09-16",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "Study Sessions",
-      "url": "https://calendar.utexas.edu/event/study-sessions-1758",
-      "start": "2026-09-16",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "UT Marketplace Fall 2026",
-      "url": "https://calendar.utexas.edu/event/ut-marketplace-fall-2026",
-      "start": "2026-09-16",
-      "location": "Speedway Plaza"
-    },
-    {
-      "source": "ut",
-      "title": "UT&#039\\;s Birthday Celebration",
-      "url": "https://calendar.utexas.edu/event/ut039s-birthday-celebration",
-      "start": "2026-09-16",
-      "location": "Texas Union East Patio"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-09-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs Texas A&M (Championship Match)",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-jackson-t-stephens-cup-5808",
-      "start": "2026-09-16",
-      "location": "Frisco\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Oregon",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-jackson-t-stephens-cup-7748",
-      "start": "2026-09-16",
-      "location": "Frisco\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Watermark Training for Tenured/Tenure-Track Faculty",
-      "url": "https://calendar.utexas.edu/event/watermark-training-for-tenuredtenure-track-faculty",
-      "start": "2026-09-16",
-      "location": "NUR 5.180"
-    },
-    {
-      "source": "ut",
-      "title": "Weaving Dementia Care Through the Lived Experiences of People with Dementia",
-      "url": "https://calendar.utexas.edu/event/weaving-dementia-care-through-the-lived-experiences-of-people-with-dementia",
-      "start": "2026-09-16",
-      "location": "NUR 4.180"
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-09-17",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -429,6 +181,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-17",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-17",
@@ -453,10 +212,24 @@
     },
     {
       "source": "ut",
+      "title": "The International Symposium on Journalism (ISOJ) 2026",
+      "url": "https://calendar.utexas.edu/event/the-international-symposium-on-journalism-isoj-2026",
+      "start": "2026-09-17",
+      "location": "Texas Union Building (UNB)\\, Shirley Bird Perry Ballroom"
+    },
+    {
+      "source": "ut",
       "title": "UT&#039\\;s Birthday Celebration",
       "url": "https://calendar.utexas.edu/event/ut039s-birthday-celebration",
       "start": "2026-09-17",
       "location": "Texas Union East Patio"
+    },
+    {
+      "source": "ut",
+      "title": "UTLA Information Session",
+      "url": "https://calendar.utexas.edu/event/utla-information-session-2002",
+      "start": "2026-09-17",
+      "location": "Belo Center for New Media (BMC)\\, 5.102"
     },
     {
       "source": "ut",
@@ -467,10 +240,10 @@
     },
     {
       "source": "ut",
-      "title": "UTMRC Welcome and Emergency Preparedness Training",
-      "url": "https://calendar.utexas.edu/event/utmrc-welcome-and-emergency-preparedness-training",
-      "start": "2026-09-17",
-      "location": "NUR 1.108"
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-09-18",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -482,7 +255,7 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-7275",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-7668",
       "start": "2026-09-18",
       "location": "Nursing School (NUR)\\, 1.106"
     },
@@ -586,6 +359,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-18",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-09-18",
@@ -604,13 +384,6 @@
       "url": "https://calendar.utexas.edu/event/utny-drop-in-advising",
       "start": "2026-09-18",
       "location": "Peter T. Flawn Academic Center (FAC)\\, 2nd Floor Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "VOYA Presents: Is TRS Enough?",
-      "url": "https://calendar.utexas.edu/event/voya-presents-is-trs-enough",
-      "start": "2026-09-18",
-      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -684,10 +457,24 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Gaming Counter Strike Bevo Cup",
+      "url": "https://calendar.utexas.edu/event/longhorn-gaming-counter-strike-bevo-cup",
+      "start": "2026-09-19",
+      "location": "Alienware Longhorn Esports Lounge and Arena"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-19",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-19",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -775,6 +562,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-20",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Texas Revue Auditons",
       "url": "https://calendar.utexas.edu/event/texas-revue-auditons",
       "start": "2026-09-20",
@@ -782,17 +576,17 @@
     },
     {
       "source": "ut",
+      "title": "Texas vs UTSA Football Watch Party",
+      "url": "https://calendar.utexas.edu/event/texas-vs-utsa-football-watch-party",
+      "start": "2026-09-20",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football vs UTSA - presented by Ford",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-utsa-presented-by-ford",
       "start": "2026-09-20",
       "location": "Austin\\, Texas\\, DKR-Texas Memorial Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "Wind Ensemble",
-      "url": "https://calendar.utexas.edu/event/wind-ensemble-366",
-      "start": "2026-09-20",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -817,6 +611,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-09-21",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-09-21",
@@ -835,6 +636,13 @@
       "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-hosts-ut-womens-prayer-group-5134",
       "start": "2026-09-21",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Claude Basics with AI Studio and Anthropic",
+      "url": "https://calendar.utexas.edu/event/claude-basics-with-ai-studio-and-anthropic",
+      "start": "2026-09-21",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -894,10 +702,24 @@
     },
     {
       "source": "ut",
+      "title": "Opioid Overdose and Opioid Use Disorder Awareness Symposium",
+      "url": "https://calendar.utexas.edu/event/opioid-overdose-and-opioid-use-disorder-awareness-symposium",
+      "start": "2026-09-21",
+      "location": "Health Discovery Building (HDB)\\, 1.208"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-21",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-21",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -943,10 +765,24 @@
     },
     {
       "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-09-22",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
       "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
       "start": "2026-09-22",
       "location": "CMHC @ WCP - WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider (CPR) Certification Renewal",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-renewal-6775",
+      "start": "2026-09-22",
+      "location": "Nursing School (NUR)\\, 4.174"
     },
     {
       "source": "ut",
@@ -1037,6 +873,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Ready to Vote with TX Votes",
+      "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
+      "start": "2026-09-22",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
       "title": "Graduate Job Search Working Group",
       "url": "https://calendar.utexas.edu/event/graduate-job-search-working-group",
       "start": "2026-09-22",
@@ -1082,6 +925,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-22",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-09-22",
@@ -1120,6 +970,13 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-09-23",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
       "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
       "start": "2026-09-23",
@@ -1145,13 +1002,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-23",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-09-23",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -1218,13 +1068,6 @@
     },
     {
       "source": "ut",
-      "title": "GAPC Monthly Meeting",
-      "url": "https://calendar.utexas.edu/event/gapc-monthly-meeting",
-      "start": "2026-09-23",
-      "location": "Virtual Meeting"
-    },
-    {
-      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot",
       "start": "2026-09-23",
@@ -1232,10 +1075,10 @@
     },
     {
       "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
+      "title": "Gone to Grad School: Find Your Herd",
+      "url": "https://calendar.utexas.edu/event/gone-to-grad-school-find-your-herd",
       "start": "2026-09-23",
-      "location": null
+      "location": "Etter-Harbin Alumni Center"
     },
     {
       "source": "ut",
@@ -1314,10 +1157,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-23",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -1349,6 +1192,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-09-24",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
       "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
       "start": "2026-09-24",
@@ -1360,6 +1210,13 @@
       "url": "https://calendar.utexas.edu/event/2026-betty-anderson-series-state-senator-molly-cook",
       "start": "2026-09-24",
       "location": "LBJ - Bass Lecture Hall"
+    },
+    {
+      "source": "ut",
+      "title": "A Habsburg liberal in twentieth-century Europe: the cosmopolitanism of Friedrich Hertz",
+      "url": "https://calendar.utexas.edu/event/a-habsburg-liberal-in-twentieth-century-europe-the-cosmopolitanism-of-friedrich-hertz",
+      "start": "2026-09-24",
+      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
     },
     {
       "source": "ut",
@@ -1392,6 +1249,13 @@
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
+      "source": "ut",
+      "title": "DMES Colloquium - Prophecy as Textual Omen: The Case of Neo-Assyria with Dr. Heath Dewrell",
+      "url": "https://calendar.utexas.edu/event/dmes-colloquium-prophecy-as-textual-omen-the-case-of-neo-assyria-with-dr-heath-dewrell",
+      "start": "2026-09-24",
+      "location": "Calhoun Hall (CAL)\\, 516"
+    },
+    {
       "source": "public",
       "title": "Department of Quantitative and Systems Health Sciences: Open House and Mixer",
       "url": "https://dellmed.utexas.edu/events/quantitative-and-systems-health-sciences-open-house-and-mixer-092426",
@@ -1419,6 +1283,13 @@
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-410",
+      "start": "2026-09-24",
+      "location": "School of Law\\, Atrium 2.100"
     },
     {
       "source": "ut",
@@ -1453,6 +1324,20 @@
     },
     {
       "source": "ut",
+      "title": "Late Night Film - Interstellar",
+      "url": "https://calendar.utexas.edu/event/late-night-film-interstellar",
+      "start": "2026-09-24",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Leadership Skills in Conflict Management",
+      "url": "https://calendar.utexas.edu/event/leadership-skills-in-conflict-management",
+      "start": "2026-09-24",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
       "title": "Mrs. Doubtfire",
       "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
       "start": "2026-09-24",
@@ -1464,13 +1349,6 @@
       "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
       "start": "2026-09-24",
       "location": "SSB 3.214"
-    },
-    {
-      "source": "ut",
-      "title": "OSPOSIUM Open to Work Event",
-      "url": "https://calendar.utexas.edu/event/osposium-open-to-work-event",
-      "start": "2026-09-24",
-      "location": "Texas Advanced Computing Center (TACC) Main Auditorium"
     },
     {
       "source": "ut",
@@ -1500,6 +1378,13 @@
       "start": "2026-09-24",
       "time": "7:30\u20138:30 a.m.",
       "location": "Zoom"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-24",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -1562,10 +1447,24 @@
     },
     {
       "source": "ut",
+      "title": "WCAAR Weekly Meeting - Jun Wang (Texas A&amp\\;M University): &quot\\;Striatal Circuit Mechanisms of Alcohol and Other Substance Use Disorders&quot\\;",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-jun-wang-texas-aampm-university-quotstriatal-circuit-mechanisms-of-alcohol-and-other-substance-use-disordersquot",
+      "start": "2026-09-24",
+      "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
       "title": "Wednesday Night Jazz Meeting with Rabbi Neil Blumofe",
       "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
       "start": "2026-09-24",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-09-25",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -1604,6 +1503,13 @@
     },
     {
       "source": "ut",
+      "title": "Colloquium: Peer Production Book Talk",
+      "url": "https://calendar.utexas.edu/event/colloquium-peer-production-book-talk",
+      "start": "2026-09-25",
+      "location": "UTA 5.522 (Large Conference Room)"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-25",
@@ -1611,10 +1517,10 @@
     },
     {
       "source": "ut",
-      "title": "Data &amp\\; Donuts: Using Python for Qualitative Data Analysis",
-      "url": "https://calendar.utexas.edu/event/data-amp-donuts-using-python-for-qualitative-data-analysis",
+      "title": "Community Data Science Collective Poster Session",
+      "url": "https://calendar.utexas.edu/event/community-data-science-collective-poster-session",
       "start": "2026-09-25",
-      "location": "Virtual"
+      "location": "UTA 1.208"
     },
     {
       "source": "ut",
@@ -1695,6 +1601,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-25",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-25",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -1783,10 +1696,10 @@
     },
     {
       "source": "ut",
-      "title": "Chris Duarte Ft. Beth Lee Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/chris-duarte-ft-beth-lee-live-at-the-cactus-cafe",
+      "title": "Chamber Orchestra",
+      "url": "https://calendar.utexas.edu/event/chamber-orchestra-5337",
       "start": "2026-09-26",
-      "location": "Cactus Cafe"
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -1839,6 +1752,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Watch Party: Texas vs. TEN",
+      "url": "https://calendar.utexas.edu/event/longhorn-watch-party-texas-vs-ten",
+      "start": "2026-09-26",
+      "location": "Shirley Bird Perry Ballroom"
+    },
+    {
+      "source": "ut",
       "title": "Mrs. Doubtfire",
       "url": "https://calendar.utexas.edu/event/mrs-doubtfire",
       "start": "2026-09-26",
@@ -1850,6 +1770,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-26",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-26",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -1951,6 +1878,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-27",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Scott Silven - The Lost Things: An All-New Magical Experience from Illusionist Scott Silven",
       "url": "https://calendar.utexas.edu/event/scott-silven-the-lost-things-an-all-new-magical-experience-from-illusionist-scott-silven",
       "start": "2026-09-27",
@@ -1972,6 +1906,13 @@
     },
     {
       "source": "ut",
+      "title": "Wind Symphony",
+      "url": "https://calendar.utexas.edu/event/wind-symphony-1633",
+      "start": "2026-09-27",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "\"Connecting to Cultures\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
       "start": "2026-09-28",
@@ -1990,6 +1931,13 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-09-28",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-09-28",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "internal",
@@ -2117,6 +2065,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-28",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Sharon Milgram Keynote: Normalizing Failure",
       "url": "https://calendar.utexas.edu/event/sharon-milgram-keynote-normalizing-failure",
       "start": "2026-09-28",
@@ -2180,6 +2135,13 @@
     },
     {
       "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-09-29",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
       "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
       "start": "2026-09-29",
@@ -2219,13 +2181,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-09-29",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Curatorial Tour: How to Grow the Cowpea",
-      "url": "https://calendar.utexas.edu/event/curatorial-tour-how-to-grow-the-cowpea",
-      "start": "2026-09-29",
-      "location": "Visual Arts Center\\, Art Building (ART)\\, Visual Arts Center"
     },
     {
       "source": "ut",
@@ -2274,6 +2229,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Ready to Vote with TX Votes",
+      "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
+      "start": "2026-09-29",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot-271",
       "start": "2026-09-29",
@@ -2319,24 +2281,17 @@
     },
     {
       "source": "ut",
-      "title": "P&amp\\;G Insight to Innovation Workshop",
-      "url": "https://calendar.utexas.edu/event/pampg-insight-to-innovation-workshop",
-      "start": "2026-09-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Patrick Hughes\\, horn &amp\\;amp\\; Colette Valentine\\, piano",
-      "url": "https://calendar.utexas.edu/event/patrick-hughes-horn-ampamp-colette-valentine-piano",
-      "start": "2026-09-29",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-09-29",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-09-29",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -2357,6 +2312,13 @@
     },
     {
       "source": "ut",
+      "title": "Tuesday Trivia",
+      "url": "https://calendar.utexas.edu/event/tuesday-trivia",
+      "start": "2026-09-29",
+      "location": "Texas Union"
+    },
+    {
+      "source": "ut",
       "title": "UTLA Week: Panel and Networking with Alumni",
       "url": "https://calendar.utexas.edu/event/utla-week-panel-and-networking-with-alumni",
       "start": "2026-09-29",
@@ -2372,7 +2334,7 @@
     {
       "source": "ut",
       "title": "University of Texas Softball vs Murray State College",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-murray-state-college",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-murray-state-college-9791",
       "start": "2026-09-29",
       "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
@@ -2385,10 +2347,10 @@
     },
     {
       "source": "ut",
-      "title": "iSchool at the School of Computing Career Fair",
-      "url": "https://calendar.utexas.edu/event/ischool-at-the-school-of-computing-career-fair",
-      "start": "2026-09-29",
-      "location": "(UNB) Texas Union Shirley Bird Perry Ballroom"
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-09-30",
+      "location": "Disability Cultural Center - Conference room (SSB)"
     },
     {
       "source": "ut",
@@ -2413,24 +2375,10 @@
     },
     {
       "source": "ut",
-      "title": "Butler Opera International Competition",
-      "url": "https://calendar.utexas.edu/event/butler-opera-international-competition",
-      "start": "2026-09-30",
-      "location": "\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
       "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-09-30",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-09-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -2462,6 +2410,13 @@
     },
     {
       "source": "ut",
+      "title": "Demystifying the Mission: Navigating the Civilian Career Hidden Curriculum",
+      "url": "https://calendar.utexas.edu/event/demystifying-the-mission-navigating-the-civilian-career-hidden-curriculum",
+      "start": "2026-09-30",
+      "location": "Virtual"
+    },
+    {
+      "source": "ut",
       "title": "Ethics and Oversight Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
       "start": "2026-09-30",
@@ -2476,10 +2431,24 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-09-30",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "Fieldwork Projects: Ecco\\, eco",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
       "start": "2026-09-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Get Your Flu Shot",
+      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-1089",
+      "start": "2026-09-30",
+      "location": "J.J. Pickle Research Campus\\, Commons Conference Atrium 1.100"
     },
     {
       "source": "ut",
@@ -2517,6 +2486,13 @@
       "url": "https://calendar.utexas.edu/event/leading-without-limits-mastering-global-team-dynamics",
       "start": "2026-09-30",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "MSIS Graduate Information Session",
+      "url": "https://calendar.utexas.edu/event/msis-graduate-information-session",
+      "start": "2026-09-30",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -2565,10 +2541,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-09-30",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -2590,6 +2566,13 @@
       "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
       "start": "2026-09-30",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-01",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -2628,13 +2611,6 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-01",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Career Success Webinar",
-      "url": "https://calendar.utexas.edu/event/career-success-webinar",
-      "start": "2026-10-01",
-      "location": "Virtual Event"
     },
     {
       "source": "ut",
@@ -2718,13 +2694,6 @@
     },
     {
       "source": "ut",
-      "title": "Managing Up\\, Across\\, and Forward",
-      "url": "https://calendar.utexas.edu/event/managing-up-across-and-forward",
-      "start": "2026-10-01",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
       "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
       "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
       "start": "2026-10-01",
@@ -2736,6 +2705,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-01",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-01",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -2788,6 +2764,13 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-franco-pestilli-ut-austin",
       "start": "2026-10-01",
       "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-02",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -2893,6 +2876,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-02",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-02",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -3022,6 +3012,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-03",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Track & Field / Cross Country at Chile Pepper Festival",
       "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-at-chile-pepper-festival",
       "start": "2026-10-03",
@@ -3099,6 +3096,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-04",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Symphony Band",
       "url": "https://calendar.utexas.edu/event/symphony-band-4203",
       "start": "2026-10-04",
@@ -3138,6 +3142,13 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-10-05",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-05",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -3246,6 +3257,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-05",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Texas Intelligence Academy 2027 - Information Session",
       "url": "https://calendar.utexas.edu/event/texas-intelligence-academy-2027-information-session",
       "start": "2026-10-05",
@@ -3271,6 +3289,13 @@
       "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
       "start": "2026-10-06",
       "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-06",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
     },
     {
       "source": "ut",
@@ -3365,6 +3390,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Ready to Vote with TX Votes",
+      "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
+      "start": "2026-10-06",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot-8614",
       "start": "2026-10-06",
@@ -3417,6 +3449,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-06",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Steven Brennfleck\\, tenor &amp\\;amp\\; Rick Rowley\\, piano",
       "url": "https://calendar.utexas.edu/event/steven-brennfleck-tenor-ampamp-rick-rowley-piano",
       "start": "2026-10-06",
@@ -3445,6 +3484,13 @@
       "url": "https://calendar.utexas.edu/event/teaching-for-impact-giving-good-feedback",
       "start": "2026-10-06",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-07",
+      "location": "Disability Cultural Center - Conference room (SSB)"
     },
     {
       "source": "ut",
@@ -3481,13 +3527,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-07",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-10-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -3544,13 +3583,6 @@
       "url": "https://calendar.utexas.edu/event/global-solar-power-energy-storage-forum-2026",
       "start": "2026-10-07",
       "location": "San Jacinto Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
-      "start": "2026-10-07",
-      "location": null
     },
     {
       "source": "ut",
@@ -3627,10 +3659,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-07",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -3697,10 +3729,10 @@
     },
     {
       "source": "ut",
-      "title": "University Orchestra",
-      "url": "https://calendar.utexas.edu/event/university-orchestra-5685",
-      "start": "2026-10-07",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-08",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -3715,6 +3747,13 @@
       "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
       "start": "2026-10-08",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Blockbuster - The Drama",
+      "url": "https://calendar.utexas.edu/event/blockbuster-the-drama",
+      "start": "2026-10-08",
+      "location": "Texas Union Theatre"
     },
     {
       "source": "ut",
@@ -3841,6 +3880,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-08",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-08",
@@ -3855,13 +3901,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Teaching for Impact: Drafting Your Teaching Statement",
-      "url": "https://calendar.utexas.edu/event/teaching-for-impact-drafting-your-teaching-statement",
-      "start": "2026-10-08",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
     },
     {
       "source": "ut",
@@ -3900,6 +3939,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-09",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-09",
@@ -3911,13 +3957,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-09",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Data &amp\\; Donuts: Managing Data with Relational Databases &amp\\; SQL",
-      "url": "https://calendar.utexas.edu/event/data-amp-donuts-managing-data-with-relational-databases-amp-sql",
-      "start": "2026-10-09",
-      "location": "Perry-Casta\u00f1eda Library (PCL)"
     },
     {
       "source": "ut",
@@ -4001,6 +4040,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-09",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-09",
@@ -4026,6 +4072,13 @@
       "url": "https://calendar.utexas.edu/event/utny-drop-in-advising",
       "start": "2026-10-09",
       "location": "Peter T. Flawn Academic Center (FAC)\\, 2nd Floor Lobby"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Beach Volleyball  SCE West Coast Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-beach-volleyball-sce-west-coast-championships",
+      "start": "2026-10-09",
+      "location": "Manhattan Beach\\, Calif."
     },
     {
       "source": "ut",
@@ -4134,10 +4187,24 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-10",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "The Miraculous Journey of Edward Tulane",
       "url": "https://calendar.utexas.edu/event/the-miraculous-journey-of-edward-tulane",
       "start": "2026-10-10",
       "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Beach Volleyball  SCE West Coast Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-beach-volleyball-sce-west-coast-championships",
+      "start": "2026-10-10",
+      "location": "Manhattan Beach\\, Calif."
     },
     {
       "source": "ut",
@@ -4204,6 +4271,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-11",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Symphony Orchestra",
       "url": "https://calendar.utexas.edu/event/symphony-orchestra-76",
       "start": "2026-10-11",
@@ -4264,6 +4338,13 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-10-12",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-12",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -4351,10 +4432,24 @@
     },
     {
       "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-10-12",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-12",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-12",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -4400,6 +4495,13 @@
     },
     {
       "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-13",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
       "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
       "start": "2026-10-13",
@@ -4414,13 +4516,6 @@
     },
     {
       "source": "ut",
-      "title": "Anton Nel &amp\\;amp\\; Friends",
-      "url": "https://calendar.utexas.edu/event/anton-nel-ampamp-friends",
-      "start": "2026-10-13",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
       "title": "Archer Graduate Fellowship Program Information Session - LBJ School of Public Affairs",
       "url": "https://calendar.utexas.edu/event/archer-graduate-fellowship-program-information-session-lbj-school-of-public-affairs",
       "start": "2026-10-13",
@@ -4429,9 +4524,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-13",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4470,6 +4565,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Get Ready to Vote with TX Votes",
+      "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
+      "start": "2026-10-13",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
     },
     {
       "source": "ut",
@@ -4532,10 +4634,24 @@
     },
     {
       "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-10-13",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-13",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-13",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -4612,6 +4728,13 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-14",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
       "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
       "start": "2026-10-14",
@@ -4633,17 +4756,17 @@
     },
     {
       "source": "ut",
+      "title": "Blockbuster - Supergirl",
+      "url": "https://calendar.utexas.edu/event/blockbuster-supergirl",
+      "start": "2026-10-14",
+      "location": "Texas Union Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-14",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-10-14",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -4733,6 +4856,13 @@
       "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
     },
     {
+      "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-10-14",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/10/14",
@@ -4758,10 +4888,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-14",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -4835,6 +4965,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-15",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
       "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
       "start": "2026-10-15",
@@ -4902,6 +5039,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-10-15",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot-2326",
       "start": "2026-10-15",
@@ -4947,6 +5091,13 @@
     },
     {
       "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-10-15",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
+    },
+    {
+      "source": "ut",
       "title": "Mail that Moves Voters: Crafting Effective Direct Mail Campaigns",
       "url": "https://calendar.utexas.edu/event/mail-that-moves-voters-crafting-effective-direct-mail-campaigns-2334",
       "start": "2026-10-15",
@@ -4978,17 +5129,17 @@
     },
     {
       "source": "ut",
-      "title": "Perfect Blue (GKIDS)",
-      "url": "https://calendar.utexas.edu/event/perfect-blue-gkids",
-      "start": "2026-10-15",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-15",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-15",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -5044,6 +5195,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-16",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
       "title": "A Conversation About Journalism in 2026 with The Atlantic",
       "url": "https://calendar.utexas.edu/event/a-conversation-about-journalism-in-2026-with-the-atlantic-8900",
       "start": "2026-10-16",
@@ -5076,13 +5234,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Artist-Led Tour: As It Appears with Adraint Bereal",
-      "url": "https://calendar.utexas.edu/event/artist-led-tour-as-it-appears-with-adraint-bereal",
-      "start": "2026-10-16",
-      "location": "Visual Arts Center\\, Art Building (ART)\\, Visual Arts Center"
     },
     {
       "source": "ut",
@@ -5208,6 +5359,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-16",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-16",
@@ -5222,7 +5380,14 @@
     },
     {
       "source": "ut",
-      "title": "The Future of Nursing Science: Endowed Lectureship Symposium",
+      "title": "Tenlons Fort: \u201cDon\u2019t Be Scared\u201d A Tribute to Daniel Johnston and other Cinematic Reflections.",
+      "url": "https://calendar.utexas.edu/event/tenlons-fort-dont-be-scared-a-tribute-to-daniel-johnston-and-other-cinematic-reflections",
+      "start": "2026-10-16",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "The Future of Nursing Science Endowed Lectureship Symposium",
       "url": "https://calendar.utexas.edu/event/the-future-of-nursing-science-endowed-lectureship-symposium",
       "start": "2026-10-16",
       "location": "In-Person and Virtual"
@@ -5334,6 +5499,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-17",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "TAMALES",
       "url": "https://calendar.utexas.edu/event/tamales",
       "start": "2026-10-17",
@@ -5411,17 +5583,17 @@
     },
     {
       "source": "ut",
-      "title": "Jennifer Knapp and Flamy Grant Songs and Stories Tour Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/jennifer-knapp-and-flamy-grant-songs-and-stories-tour-live-at-the-cactus-cafe",
-      "start": "2026-10-18",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-18",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-18",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -5471,6 +5643,13 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-10-19",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-19",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
     },
     {
       "source": "ut",
@@ -5579,6 +5758,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-19",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs Florida - presented by St. David's HealthCare",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-florida",
       "start": "2026-10-19",
@@ -5614,6 +5800,13 @@
     },
     {
       "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-20",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
       "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
       "start": "2026-10-20",
@@ -5646,13 +5839,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-20",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Community Organization Information Session",
-      "url": "https://calendar.utexas.edu/event/community-organization-information-session",
-      "start": "2026-10-20",
-      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -5697,10 +5883,24 @@
     },
     {
       "source": "ut",
+      "title": "Get Ready to Vote with TX Votes",
+      "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
+      "start": "2026-10-20",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot-2818",
       "start": "2026-10-20",
       "location": "Student Services Building (SSB)\\, Glenn Maloney Room\\, Gound Floor\\, G1.310"
+    },
+    {
+      "source": "ut",
+      "title": "Gregory Eaton",
+      "url": "https://calendar.utexas.edu/event/gregory-eaton",
+      "start": "2026-10-20",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -5742,6 +5942,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-20",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-10-20",
@@ -5780,6 +5987,13 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-21",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
       "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
       "start": "2026-10-21",
@@ -5812,13 +6026,6 @@
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-21",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-10-21",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -5864,17 +6071,17 @@
     },
     {
       "source": "ut",
+      "title": "GSC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
+      "start": "2026-10-21",
+      "location": "NUR 4.180"
+    },
+    {
+      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot-6719",
       "start": "2026-10-21",
       "location": "Student Services Building (SSB)\\, Glenn Maloney Room\\, Gound Floor\\, G1.310"
-    },
-    {
-      "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
-      "start": "2026-10-21",
-      "location": null
     },
     {
       "source": "ut",
@@ -5930,10 +6137,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-21",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -5969,6 +6176,13 @@
       "url": "https://calendar.utexas.edu/event/through-the-seasons-a-year-of-yoga-meditation-amp-sound-healing-quotcultivating-sweetness-and-ease-during-the-fast-pace-of-fallquot",
       "start": "2026-10-21",
       "location": "Robert B. Rowling Hall\\, RRH 5.210 Special Events Room\\, 300 W Martin Luther King Jr Blvd."
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-22",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -6087,6 +6301,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-22",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-22",
@@ -6157,6 +6378,13 @@
       "url": "https://calendar.utexas.edu/event/wind-ensemble-7618",
       "start": "2026-10-22",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-10-23",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -6264,6 +6492,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-23",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-23",
@@ -6282,13 +6517,6 @@
       "url": "https://calendar.utexas.edu/event/utny-drop-in-advising",
       "start": "2026-10-23",
       "location": "Peter T. Flawn Academic Center (FAC)\\, 2nd Floor Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "Volney And the Late Arrivals Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/volney-and-the-late-arrivals-live-at-the-cactus-cafe",
-      "start": "2026-10-23",
-      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -6324,20 +6552,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-24",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Community Health Intervention Planning Simulation",
-      "url": "https://calendar.utexas.edu/event/community-health-intervention-planning-simulation-6676",
-      "start": "2026-10-24",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Del Castillo Trio Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/del-castillo-trio-live-at-the-cactus-cafe",
-      "start": "2026-10-24",
-      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -6380,6 +6594,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-24",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-24",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -6474,6 +6695,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-25",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball at St. John's (Exhibition Game)",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-st-johns-exhibition-game",
       "start": "2026-10-25",
@@ -6516,6 +6744,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-10-26",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-26",
@@ -6527,13 +6762,6 @@
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-10-26",
       "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-26",
-      "location": "Off-Campus"
     },
     {
       "source": "ut",
@@ -6593,6 +6821,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-10-26",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-26",
@@ -6611,6 +6846,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-26",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-26",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -6663,6 +6905,13 @@
     },
     {
       "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-10-27",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
+    },
+    {
+      "source": "ut",
       "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
       "start": "2026-10-27",
@@ -6677,17 +6926,10 @@
     },
     {
       "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-27",
-      "location": "Off-Campus"
-    },
-    {
-      "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-27",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6750,6 +6992,13 @@
     },
     {
       "source": "ut",
+      "title": "Get Ready to Vote with TX Votes",
+      "url": "https://calendar.utexas.edu/event/get-ready-to-vote-with-tx-votes",
+      "start": "2026-10-27",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
       "title": "Get Your Flu Shot",
       "url": "https://calendar.utexas.edu/event/get-your-flu-shot-5667",
       "start": "2026-10-27",
@@ -6795,6 +7044,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-27",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-10-27",
@@ -6833,6 +7089,13 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-10-28",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
       "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
       "start": "2026-10-28",
@@ -6854,6 +7117,13 @@
     },
     {
       "source": "ut",
+      "title": "Artist Talk: Saif Azzuz",
+      "url": "https://calendar.utexas.edu/event/artist-talk-saif-azzuz",
+      "start": "2026-10-28",
+      "location": "Art Building (ART)\\, Art Building\\, Room 1.102"
+    },
+    {
+      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-10-28",
@@ -6861,24 +7131,10 @@
     },
     {
       "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-28",
-      "location": "Off-Campus"
-    },
-    {
-      "source": "ut",
       "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-28",
       "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-10-28",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -6917,13 +7173,6 @@
     },
     {
       "source": "ut",
-      "title": "GAPC Monthly Meeting",
-      "url": "https://calendar.utexas.edu/event/gapc-monthly-meeting",
-      "start": "2026-10-28",
-      "location": "Virtual Meeting"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-10-28",
@@ -6935,6 +7184,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-10-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "MSIS Graduate Information Session",
+      "url": "https://calendar.utexas.edu/event/msis-graduate-information-session",
+      "start": "2026-10-28",
+      "location": "Virtual"
     },
     {
       "source": "internal",
@@ -6962,10 +7218,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-10-28",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -7032,6 +7288,13 @@
     },
     {
       "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-10-29",
+      "location": "Main Building (Tower) MAI 13"
+    },
+    {
+      "source": "ut",
       "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
       "start": "2026-10-29",
@@ -7043,13 +7306,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-10-29",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-29",
-      "location": "Off-Campus"
     },
     {
       "source": "ut",
@@ -7156,13 +7412,6 @@
     },
     {
       "source": "ut",
-      "title": "New Music Ensemble",
-      "url": "https://calendar.utexas.edu/event/new-music-ensemble-1850",
-      "start": "2026-10-29",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-29",
@@ -7174,6 +7423,13 @@
       "url": "https://calendar.utexas.edu/event/quant-night",
       "start": "2026-10-29",
       "location": "Etter-Harbin Alumni Center"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-29",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -7257,10 +7513,17 @@
     },
     {
       "source": "ut",
-      "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-5381",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
       "start": "2026-10-30",
-      "location": "Nursing School (NUR)\\, 1.106"
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
+      "start": "2026-10-30",
+      "location": "NUR - various"
     },
     {
       "source": "ut",
@@ -7275,13 +7538,6 @@
       "url": "https://calendar.utexas.edu/event/ali-wong",
       "start": "2026-10-30",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-30",
-      "location": "Off-Campus"
     },
     {
       "source": "ut",
@@ -7341,6 +7597,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-30",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-30",
@@ -7397,13 +7660,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving at South Carolina",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-south-carolina",
-      "start": "2026-10-30",
-      "location": "Columbia\\, South Carolina"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
       "start": "2026-10-30",
@@ -7422,13 +7678,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-sec-cross-country-championships",
       "start": "2026-10-30",
       "location": "Columbia\\, Mo.\\, Gans Creek Cross Country Course"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving at South Carolina",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-at-south-carolina",
-      "start": "2026-10-30",
-      "location": "Columbia\\, South Carolina"
     },
     {
       "source": "ut",
@@ -7485,6 +7734,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-31",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-10-31",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -7583,6 +7839,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-01",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-01",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -7698,10 +7961,24 @@
     },
     {
       "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-11-02",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-02",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-02",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -7744,6 +8021,20 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-11-03",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-11-03",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-11-03",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
     },
     {
       "source": "ut",
@@ -7826,10 +8117,24 @@
     },
     {
       "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-11-03",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-03",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-03",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -7861,6 +8166,13 @@
       "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
       "start": "2026-11-04",
       "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-11-04",
+      "location": "Disability Cultural Center - Conference room (SSB)"
     },
     {
       "source": "ut",
@@ -7906,13 +8218,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-11-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-04",
@@ -7948,13 +8253,6 @@
     },
     {
       "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
-      "start": "2026-11-04",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-04",
@@ -7976,6 +8274,20 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Leadership Skills in Conflict Management",
+      "url": "https://calendar.utexas.edu/event/leadership-skills-in-conflict-management",
+      "start": "2026-11-04",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "Love Yourself: Mammogram Screening",
+      "url": "https://calendar.utexas.edu/event/love-yourself-mammogram-screening-nov-2-4",
+      "start": "2026-11-04",
+      "location": "UT Health Austin Imaging Center\\, Health Transformation Building 9th floor"
     },
     {
       "source": "ut",
@@ -8007,10 +8319,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-04",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -8053,6 +8365,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-fairleigh-dickinson",
       "start": "2026-11-04",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-11-05",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -8160,6 +8479,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-05",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-05",
@@ -8216,6 +8542,13 @@
       "url": "https://calendar.utexas.edu/event/world-digital-preservation-day",
       "start": "2026-11-05",
       "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-11-06",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -8317,6 +8650,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-06",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-06",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -8422,6 +8762,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-07",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-07",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -8579,6 +8926,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-08",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "The Visit",
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-08",
@@ -8705,6 +9059,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-09",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "UTNY Information Session",
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-11-09",
@@ -8733,6 +9094,13 @@
     },
     {
       "source": "ut",
+      "title": "Zotero Office Hours",
+      "url": "https://calendar.utexas.edu/event/zotero-office-hours-6847",
+      "start": "2026-11-09",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL Lobby"
+    },
+    {
+      "source": "ut",
       "title": "\"AnxieTEA\"SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
       "start": "2026-11-10",
@@ -8751,6 +9119,20 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-11-10",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-11-10",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-11-10",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
     },
     {
       "source": "ut",
@@ -8827,17 +9209,17 @@
     },
     {
       "source": "ut",
-      "title": "Managing Up\\, Across\\, and Forward",
-      "url": "https://calendar.utexas.edu/event/managing-up-across-and-forward",
-      "start": "2026-11-10",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-10",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-10",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -8876,6 +9258,13 @@
       "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
       "start": "2026-11-11",
       "location": "Longhorn Wellness Center\\, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-11-11",
+      "location": "Disability Cultural Center - Conference room (SSB)"
     },
     {
       "source": "ut",
@@ -8922,14 +9311,7 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2026-11-11",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-11-11",
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
@@ -9018,10 +9400,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-11",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -9071,6 +9453,13 @@
       "url": "https://calendar.utexas.edu/event/what-are-we-really-saying-empathetic-communication-in-the-workplace",
       "start": "2026-11-11",
       "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-11-12",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -9182,6 +9571,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-12",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-12",
@@ -9238,6 +9634,13 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-liz-byrnes-tufts-university",
       "start": "2026-11-12",
       "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-11-13",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -9343,6 +9746,13 @@
       "url": "https://calendar.utexas.edu/event/pulse",
       "start": "2026-11-13",
       "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-13",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -9458,6 +9868,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-14",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "UWC Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
       "start": "2026-11-14",
@@ -9563,6 +9980,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-15",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University Chorus",
       "url": "https://calendar.utexas.edu/event/university-chorus-9049",
       "start": "2026-11-15",
@@ -9640,6 +10064,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-11-16",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-16",
@@ -9675,6 +10106,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-16",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Symphony Band",
       "url": "https://calendar.utexas.edu/event/symphony-band-5197",
       "start": "2026-11-16",
@@ -9700,6 +10138,20 @@
       "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
       "start": "2026-11-17",
       "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "\"Longhorns Who Carry the Burdens of Others\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/longhorns-who-carry-the-burdens-of-others-share-community-meeting",
+      "start": "2026-11-17",
+      "location": "COLA Student Well-Being Center\\, JES A-223A"
+    },
+    {
+      "source": "ut",
+      "title": "\"New Roots: Cultivating Black Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/new-roots-cultivating-black-mental-wellness-share-community-meeting",
+      "start": "2026-11-17",
+      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
     },
     {
       "source": "ut",
@@ -9817,6 +10269,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-17",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-11-17",
@@ -9862,6 +10321,13 @@
     },
     {
       "source": "ut",
+      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
+      "start": "2026-11-18",
+      "location": "Disability Cultural Center - Conference room (SSB)"
+    },
+    {
+      "source": "ut",
       "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
       "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
       "start": "2026-11-18",
@@ -9892,13 +10358,6 @@
       "source": "ut",
       "title": "Campus Open Recovery",
       "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
-      "start": "2026-11-18",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
       "start": "2026-11-18",
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
@@ -9939,10 +10398,10 @@
     },
     {
       "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
+      "title": "GSC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
       "start": "2026-11-18",
-      "location": null
+      "location": "NUR 4.180"
     },
     {
       "source": "ut",
@@ -9967,6 +10426,13 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "MSIS Graduate Information Session",
+      "url": "https://calendar.utexas.edu/event/msis-graduate-information-session",
+      "start": "2026-11-18",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -9998,10 +10464,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-18",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -10047,13 +10513,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-18",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Basketball at Green Bay",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-green-bay",
       "start": "2026-11-18",
@@ -10061,10 +10520,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-18",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+      "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/black-sheep-outsiders-together-share-community-meeting-6809",
+      "start": "2026-11-19",
+      "location": "Main Building (Tower) MAI 13"
     },
     {
       "source": "ut",
@@ -10077,13 +10536,6 @@
       "source": "ut",
       "title": "AI Ideas: Drop-in Hours",
       "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
-      "start": "2026-11-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Ableton Education Sessions \u2014 Austin",
-      "url": "https://calendar.utexas.edu/event/ableton-education-sessions-austin-3256",
       "start": "2026-11-19",
       "location": null
     },
@@ -10175,6 +10627,13 @@
     },
     {
       "source": "ut",
+      "title": "New Music Ensemble",
+      "url": "https://calendar.utexas.edu/event/new-music-ensemble-3608",
+      "start": "2026-11-19",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "No WCAAR Meeting - SfN",
       "url": "https://calendar.utexas.edu/event/no-wcaar-meeting-sfn",
       "start": "2026-11-19",
@@ -10203,6 +10662,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-19",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-19",
@@ -10227,24 +10693,17 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-19",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-19",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "Wednesday Night Jazz Meeting with Rabbi Neil Blumofe",
       "url": "https://calendar.utexas.edu/event/wednesday_night_jazz_meeting_with_rabbi_neil_blumofe",
       "start": "2026-11-19",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
+      "start": "2026-11-20",
+      "location": "Longhorn Wellness Center\\, SSB 1.106"
     },
     {
       "source": "ut",
@@ -10273,13 +10732,6 @@
       "url": "https://calendar.utexas.edu/event/bereket-4352",
       "start": "2026-11-20",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Boomershack &amp\\; Alex Dupree Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/boomershack-amp-alex-dupree-live-at-the-cactus-cafe",
-      "start": "2026-11-20",
-      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -10356,6 +10808,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-20",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-20",
@@ -10370,31 +10829,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-20",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Volleyball vs SEC Volleyball Tournament",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-sec-volleyball-tournament-7389",
       "start": "2026-11-20",
       "location": "Savannah\\, Ga.\\, Enmarket Arena"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-20",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Wildflower Planting Workshop with artist Pallavi Sen",
-      "url": "https://calendar.utexas.edu/event/wildflower-planting-workshop-with-artist-pallavi-sen",
-      "start": "2026-11-20",
-      "location": "Visual Arts Center\\, Art Building (ART)\\, Visual Arts Center courtyard"
     },
     {
       "source": "ut",
@@ -10458,6 +10896,13 @@
       "url": "https://calendar.utexas.edu/event/reel-science-how-deep-is-your-love",
       "start": "2026-11-21",
       "location": "Long Center for the Performing Arts\\, Rollins Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-21",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -10535,6 +10980,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-22",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-22",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -10636,6 +11088,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-23",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs SEC Volleyball Tournament",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-sec-volleyball-tournament-7389",
       "start": "2026-11-23",
@@ -10715,6 +11174,13 @@
       "location": null
     },
     {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-24",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24",
@@ -10751,13 +11217,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-11-25",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-11-25",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -10817,10 +11276,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-11-25",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -10904,6 +11363,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-26",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-26",
@@ -10984,6 +11450,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-27",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-11-27",
@@ -11054,6 +11527,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-28",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football at Texas A&M - Cotton Holdings Lone Star Showdown",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-texas-am-cotton-holdings-lone-star-showdown",
       "start": "2026-11-28",
@@ -11117,6 +11597,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-29",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball at Southeast Missouri State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-southeast-missouri-state",
       "start": "2026-11-29",
@@ -11173,6 +11660,13 @@
     },
     {
       "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-11-30",
+      "location": "Zoom Meeting"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-30",
@@ -11194,6 +11688,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-11-30",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Writing & Research Rodeo",
       "url": "https://calendar.utexas.edu/event/writing-research-rodeo",
       "start": "2026-11-30",
@@ -11212,13 +11713,6 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "CONNECT Fellow Information Session",
-      "url": "https://calendar.utexas.edu/event/connect-fellow-information-session",
-      "start": "2026-12-01",
-      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -11294,6 +11788,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-01",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-12-01",
@@ -11346,13 +11847,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-02",
@@ -11385,13 +11879,6 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
-      "start": "2026-12-02",
-      "location": null
     },
     {
       "source": "ut",
@@ -11433,10 +11920,10 @@
     },
     {
       "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-02",
-      "location": null
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -11579,6 +12066,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-03",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Richard Topcliffe and John Foxe",
       "url": "https://calendar.utexas.edu/event/richard-topcliffe-and-john-foxe",
       "start": "2026-12-03",
@@ -11711,6 +12205,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-04",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-04",
@@ -11816,6 +12317,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-05",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "UWC Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
       "start": "2026-12-05",
@@ -11883,6 +12391,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-06",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -11956,6 +12471,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-07",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-08",
@@ -11981,13 +12503,6 @@
       "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
       "start": "2026-12-08",
       "location": "Texas Union Eastwoods Room (2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Early Music Ensemble",
-      "url": "https://calendar.utexas.edu/event/early-music-ensemble-5413",
-      "start": "2026-12-08",
-      "location": "Music Building (MRH)\\, Recital Studio"
     },
     {
       "source": "ut",
@@ -12026,6 +12541,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-08",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -12081,13 +12603,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-09",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-09",
@@ -12137,6 +12652,13 @@
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-12-09",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-09",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -12239,6 +12761,13 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-10",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "internal",
@@ -12350,6 +12879,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-11",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-11",
@@ -12434,6 +12970,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-12",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball vs Miami (Fla.)",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-miami-fla",
       "start": "2026-12-12",
@@ -12511,6 +13054,13 @@
     },
     {
       "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-13",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
       "start": "2026-12-13",
@@ -12585,6 +13135,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
+      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
+      "start": "2026-12-14",
+      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
     },
     {
       "source": "ut",
@@ -12709,13 +13266,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-16",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-16",
@@ -12741,6 +13291,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-12-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "GSC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
+      "start": "2026-12-16",
+      "location": "NUR 4.180"
     },
     {
       "source": "ut",
@@ -13014,13 +13571,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Duke",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-duke",
-      "start": "2026-12-19",
-      "location": "Las Vegas\\, Nev. \\, Michelob Ultra Arena"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-20",
@@ -13185,13 +13735,6 @@
       "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-12-23",
       "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-23",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -13432,72 +13975,9 @@
     },
     {
       "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-28",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-28",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-12-28",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-28",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Harvard",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-harvard",
-      "start": "2026-12-28",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-29",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-29",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-29",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
@@ -13521,69 +14001,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs East Texas A&M University",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-east-texas-am-university",
-      "start": "2026-12-29",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-12-30",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2026-12-30",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-12-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-30",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-30",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/30",
@@ -13592,48 +14009,6 @@
       "location": "HDB 8.000 & Zoom",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-12-30",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-12-31",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-12-31",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-12-31",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-12-31",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-12-31",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -13656,223 +14031,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-georgia",
-      "start": "2026-12-31",
-      "location": "Athens\\, Ga.\\, Stegeman Coliseum"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-01",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-01-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-02",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-02",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Florida",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
-      "start": "2027-01-02",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs South Carolina",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
-      "start": "2027-01-03",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-04",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-04",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-05",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/05",
@@ -13881,104 +14039,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
-      "start": "2027-01-05",
-      "location": "Athens\\, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-01-06",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-01-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -13991,244 +14051,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
-      "start": "2027-01-07",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-08",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-08",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-01-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving at SMU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-smu",
-      "start": "2027-01-08",
-      "location": "Dallas\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving at SMU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-at-smu",
-      "start": "2027-01-08",
-      "location": "Dallas\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-09",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-09",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Ole Miss",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-ole-miss-8128",
-      "start": "2027-01-09",
-      "location": "Oxford\\, Mississippi"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-10",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at Kentucky",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-kentucky",
-      "start": "2027-01-10",
-      "location": "Lexington\\, Ky.\\, Memorial Coliseum"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-01-11",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-11",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-11",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-12",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-12",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/12",
@@ -14237,55 +14059,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
-      "start": "2027-01-12",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-01-13",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
-      "start": "2027-01-13",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-01-13",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-13",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-13",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
     },
     {
       "source": "internal",
@@ -14298,20 +14071,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/13",
@@ -14322,48 +14081,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-13",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-14",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-14",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/14",
@@ -14372,174 +14089,6 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-14",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "TBD",
-      "url": "https://calendar.utexas.edu/event/tbd-9339",
-      "start": "2027-01-14",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers Webinar",
-      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-webinar-8400",
-      "start": "2027-01-14",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Alabama",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-alabama-5541",
-      "start": "2027-01-14",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-15",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-15",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-01-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-16",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "S\u014d Percussion with Caroline Shaw and Ringdown - Who Turns Out The Light",
-      "url": "https://calendar.utexas.edu/event/so-percussion-with-caroline-shaw-and-ringdown-who-turns-out-the-light",
-      "start": "2027-01-16",
-      "location": "Bates Recital Hall\\, Music Building (MRH)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-oklahoma-4269",
-      "start": "2027-01-16",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-17",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES",
-      "url": "https://calendar.utexas.edu/event/tamales",
-      "start": "2027-01-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-vanderbilt-5100",
-      "start": "2027-01-17",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "internal",
