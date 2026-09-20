@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:57:44.627465+00:00",
+  "updated": "2026-09-20T20:32:40.800680+00:00",
   "counts": {
     "public": 20,
     "internal": 192,
@@ -1737,13 +1737,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Golf at Ben Hogan Collegiate Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-ben-hogan-collegiate-invitational-5659",
-      "start": "2026-09-29",
-      "location": "Fort Worth\\, Texas"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Tennis vs Ann Arbor 15k",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ann-arbor-15k",
       "start": "2026-09-29",
@@ -2761,9 +2754,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-06",
-      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "ut",
@@ -14522,6 +14515,13 @@
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-21",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-01-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
