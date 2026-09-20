@@ -1,116 +1,11 @@
 {
-  "updated": "2026-09-19T20:17:48.084873+00:00",
+  "updated": "2026-09-20T10:57:44.627465+00:00",
   "counts": {
     "public": 20,
     "internal": 192,
-    "ut": 1885
+    "ut": 1886
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-19",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-19",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Elana James and Hot Friends Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/elana-james-and-hot-friends-live-at-the-cactus-cafe",
-      "start": "2026-09-19",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-09-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 Information Session: External Transfer",
-      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-external-transfer",
-      "start": "2026-09-19",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-09-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-09-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-09-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Gaming Counter Strike Bevo Cup",
-      "url": "https://calendar.utexas.edu/event/longhorn-gaming-counter-strike-bevo-cup",
-      "start": "2026-09-19",
-      "location": "Alienware Longhorn Esports Lounge and Arena"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-19",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Symphony Orchestra",
-      "url": "https://calendar.utexas.edu/event/symphony-orchestra-1362",
-      "start": "2026-09-19",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA All-American Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-all-american-championships-8262",
-      "start": "2026-09-19",
-      "location": "Tulsa\\, Okla.\\, Michael D. Case Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Soccer vs Tennessee - presented by H-E-B",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-tennessee",
-      "start": "2026-09-19",
-      "location": "Austin\\, Texas\\, Mike A. Myers Stadium and Soccer Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA All-American Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-all-american-championships-3572",
-      "start": "2026-09-19",
-      "location": "Cary\\, N.C. \\, Cary Tennis Park"
-    },
     {
       "source": "ut",
       "title": "Austin Museum Day",
@@ -7532,6 +7427,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
+      "start": "2026-11-02",
+      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Hilton Head W15",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-hilton-head-w15",
       "start": "2026-11-02",
@@ -7674,6 +7576,13 @@
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-03",
       "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
+      "start": "2026-11-03",
+      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
     },
     {
       "source": "ut",
@@ -7869,6 +7778,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
+      "start": "2026-11-04",
+      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs Fairleigh Dickinson",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-fairleigh-dickinson",
       "start": "2026-11-04",
@@ -8025,10 +7941,31 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
+      "start": "2026-11-05",
+      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs ITA Conference Masters",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-conference-masters",
+      "start": "2026-11-05",
+      "location": "Rome\\, Ga.\\, Rome Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs ITA Sectionals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
       "start": "2026-11-05",
       "location": "Waco\\, Texas\\, Hurd Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Conference Masters",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-conference-masters",
+      "start": "2026-11-05",
+      "location": "Rome\\, Ga.\\, Rome Tennis Center"
     },
     {
       "source": "ut",
@@ -8203,10 +8140,31 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
+      "start": "2026-11-06",
+      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs ITA Conference Masters",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-conference-masters",
+      "start": "2026-11-06",
+      "location": "Rome\\, Ga.\\, Rome Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs ITA Sectionals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
       "start": "2026-11-06",
       "location": "Waco\\, Texas\\, Hurd Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Conference Masters",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-conference-masters",
+      "start": "2026-11-06",
+      "location": "Rome\\, Ga.\\, Rome Tennis Center"
     },
     {
       "source": "ut",
@@ -8329,6 +8287,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
+      "start": "2026-11-07",
+      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs ITA Conference Masters",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-conference-masters",
+      "start": "2026-11-07",
+      "location": "Rome\\, Ga.\\, Rome Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs ITA Sectionals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
       "start": "2026-11-07",
@@ -8347,6 +8319,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-at-missouri",
       "start": "2026-11-07",
       "location": "Columbia\\, Mo.\\, Hearnes Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Conference Masters",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-conference-masters",
+      "start": "2026-11-07",
+      "location": "Rome\\, Ga.\\, Rome Tennis Center"
     },
     {
       "source": "ut",
@@ -8560,6 +8539,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-09",
+      "location": "Lincoln\\, Neb.\\, Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-09",
+      "location": "Weston\\, Fla.\\, Weston Raquet Club"
+    },
+    {
+      "source": "ut",
       "title": "Writing & Research Rodeo",
       "url": "https://calendar.utexas.edu/event/writing-research-rodeo",
       "start": "2026-11-09",
@@ -8703,6 +8696,20 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-10",
+      "location": "Lincoln\\, Neb.\\, Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-10",
+      "location": "Weston\\, Fla.\\, Weston Raquet Club"
     },
     {
       "source": "ut",
@@ -8873,6 +8880,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-11",
+      "location": "Lincoln\\, Neb.\\, Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-11",
+      "location": "Weston\\, Fla.\\, Weston Raquet Club"
+    },
+    {
+      "source": "ut",
       "title": "What Are We Really Saying? Empathetic Communication in the Workplace",
       "url": "https://calendar.utexas.edu/event/what-are-we-really-saying-empathetic-communication-in-the-workplace",
       "start": "2026-11-11",
@@ -9030,6 +9051,20 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-diving-invitational-7722",
       "start": "2026-11-12",
       "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-12",
+      "location": "Lincoln\\, Neb.\\, Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-12",
+      "location": "Weston\\, Fla.\\, Weston Raquet Club"
     },
     {
       "source": "ut",
@@ -9194,6 +9229,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-13",
+      "location": "Lincoln\\, Neb.\\, Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-13",
+      "location": "Weston\\, Fla.\\, Weston Raquet Club"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-14",
@@ -9289,6 +9338,20 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tarleton-state-5536",
       "start": "2026-11-14",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-14",
+      "location": "Lincoln\\, Neb.\\, Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-14",
+      "location": "Weston\\, Fla.\\, Weston Raquet Club"
     },
     {
       "source": "ut",
@@ -14463,34 +14526,6 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-01-21",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-21",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-01-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/21",
@@ -14515,34 +14550,6 @@
       "title": "Phantom of the Opera",
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-21",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-21",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting - Erin Calipari (Vanderbilt)",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-erin-calipari-vanderbilt",
-      "start": "2027-01-21",
-      "location": "HDB 1.208"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-01-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Phantom of the Opera",
-      "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
-      "start": "2027-01-22",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
