@@ -1,109 +1,11 @@
 {
-  "updated": "2026-09-20T20:32:40.800680+00:00",
+  "updated": "2026-09-21T12:23:09.016816+00:00",
   "counts": {
     "public": 20,
     "internal": 192,
-    "ut": 1886
+    "ut": 1874
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Austin Museum Day",
-      "url": "https://calendar.utexas.edu/event/austin-museum-day",
-      "start": "2026-09-20",
-      "location": "Visual Arts Center\\, Art Building (ART)\\, Visual Arts Center"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Museum Day at the Visual Arts Center",
-      "url": "https://calendar.utexas.edu/event/austin_museum_day_at_the_visual_arts_center",
-      "start": "2026-09-20",
-      "location": "Visual Arts Center\\, Art Building (ART)\\, Visual Arts Center"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-09-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-09-20",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-09-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-09-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-09-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-09-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-09-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-09-20",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Texas Revue Auditons",
-      "url": "https://calendar.utexas.edu/event/texas-revue-auditons",
-      "start": "2026-09-20",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA All-American Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-all-american-championships-8262",
-      "start": "2026-09-20",
-      "location": "Tulsa\\, Okla.\\, Michael D. Case Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA All-American Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-all-american-championships-3572",
-      "start": "2026-09-20",
-      "location": "Cary\\, N.C. \\, Cary Tennis Park"
-    },
-    {
-      "source": "ut",
-      "title": "Wind Ensemble",
-      "url": "https://calendar.utexas.edu/event/wind-ensemble-366",
-      "start": "2026-09-20",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
     {
       "source": "ut",
       "title": "\"Connecting to Cultures\" SHARE Community Meeting",
@@ -232,7 +134,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Golf at Bayou City Collegiate Classic",
+      "title": "University of Texas Men's Golf at Bayou City Collegiate Classic (Individuals only)",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-bayou-city-collegiate-classic",
       "start": "2026-09-21",
       "location": "Houston\\, Texas"
@@ -437,7 +339,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Golf at Bayou City Collegiate Classic",
+      "title": "University of Texas Men's Golf at Bayou City Collegiate Classic (Individuals only)",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-bayou-city-collegiate-classic-2241",
       "start": "2026-09-22",
       "location": "Houston\\, Texas"
@@ -6373,7 +6275,7 @@
     {
       "source": "ut",
       "title": "University of Texas Softball vs McLennan CC",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mclennan-cc-2352",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mclennan-cc",
       "start": "2026-10-27",
       "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
@@ -6902,9 +6804,9 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-5381",
       "start": "2026-10-30",
-      "location": "NUR - various"
+      "location": "Nursing School (NUR)\\, 1.106"
     },
     {
       "source": "ut",
@@ -14520,8 +14422,22 @@
     },
     {
       "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-21",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-21",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
