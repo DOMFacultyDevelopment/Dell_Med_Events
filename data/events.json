@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-21T12:23:09.016816+00:00",
+  "updated": "2026-09-21T21:49:34.647794+00:00",
   "counts": {
     "public": 20,
     "internal": 192,
-    "ut": 1874
+    "ut": 1872
   },
   "events": [
     {
@@ -1806,20 +1806,6 @@
       "url": "https://calendar.utexas.edu/event/msis-graduate-information-session",
       "start": "2026-09-30",
       "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Moody College Career Expo Fall 2026",
-      "url": "https://calendar.utexas.edu/event/moody-college-career-expo-fall-2026",
-      "start": "2026-09-30",
-      "location": "Texas Union Building (UNB)\\, Shirley Bird Perry Ballroom"
-    },
-    {
-      "source": "ut",
-      "title": "NDatUT: Crafternoon Hangout",
-      "url": "https://calendar.utexas.edu/event/ndatut-social-9488",
-      "start": "2026-09-30",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
     },
     {
       "source": "internal",
