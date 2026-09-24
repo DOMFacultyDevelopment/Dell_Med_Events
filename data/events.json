@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-24T11:22:57.596769+00:00",
+  "updated": "2026-09-24T21:18:48.317947+00:00",
   "counts": {
     "public": 19,
     "internal": 188,
-    "ut": 1833
+    "ut": 1834
   },
   "events": [
     {
@@ -14059,6 +14059,13 @@
       "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-11",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
