@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T11:28:39.256994+00:00",
+  "updated": "2026-09-25T21:17:34.777157+00:00",
   "counts": {
-    "public": 16,
+    "public": 19,
     "internal": 186,
     "ut": 1822
   },
@@ -2656,6 +2656,15 @@
       "end": null
     },
     {
+      "source": "public",
+      "title": "Pediatric Grand Rounds: How Healthcare Financing Shapes Clinical Care",
+      "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-how-healthcare-financing-shapes-clinical-care-100926",
+      "start": "2026-10-09",
+      "time": "10\u201311 a.m.",
+      "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Google Meet",
+      "speaker": "Kristie J. Loescher, MPH, DBA"
+    },
+    {
       "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
@@ -3052,7 +3061,7 @@
       "title": "Mammogram Screenings: 2026 Mammo Mixer",
       "url": "https://dellmed.utexas.edu/events/mammogram-screenings-101226",
       "start": "2026-10-12",
-      "time": "10\u201311 a.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "UT Health Austin Imaging Center HTB"
     },
     {
@@ -4391,6 +4400,14 @@
       "location": "Turtle Pond Lawn"
     },
     {
+      "source": "public",
+      "title": "Pediatrics: Quality Week",
+      "url": "https://dellmed.utexas.edu/events/pediatrics-quality-week-101926",
+      "start": "2026-10-19",
+      "time": "8 a.m.",
+      "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom"
+    },
+    {
       "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
@@ -4819,6 +4836,14 @@
       "location": null
     },
     {
+      "source": "public",
+      "title": "AMPATH/MAPAS M\u00e9xico Monthly Seminar: Diabetes Task Force Updates",
+      "url": "https://dellmed.utexas.edu/events/ampath-mapas-m\u00e9xico-monthly-seminar-october-102226",
+      "start": "2026-10-22",
+      "time": "12\u20131 p.m.",
+      "location": "Zoom"
+    },
+    {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
@@ -4830,7 +4855,7 @@
       "title": "Best Practices in Medical Education in El Paso: It\u2019s Different on the Border",
       "url": "https://dellmed.utexas.edu/events/grand-rounds-medical-education-in-el-paso-102226",
       "start": "2026-10-22",
-      "time": "8 a.m.",
+      "time": "12\u20131 p.m.",
       "location": "Hybrid: HLB 5.201 &amp; Zoom",
       "speaker": "Richard A. Lange, M.D., MBA"
     },
@@ -5065,7 +5090,7 @@
       "title": "Pediatric Quality Improvement Educational Opportunity",
       "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1023",
       "start": "2026-10-23",
-      "time": "7:30\u20138:30 a.m."
+      "time": "6\u20137:30 p.m."
     },
     {
       "source": "ut",
