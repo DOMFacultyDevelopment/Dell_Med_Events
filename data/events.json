@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T11:42:49.213334+00:00",
+  "updated": "2026-09-27T21:06:36.253541+00:00",
   "counts": {
     "public": 18,
     "internal": 185,
@@ -1570,17 +1570,10 @@
     },
     {
       "source": "ut",
-      "title": "Blank Pages: Working with Writer\u2019s Block",
-      "url": "https://calendar.utexas.edu/event/blank-pages-working-with-writers-block",
-      "start": "2026-10-06",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 1"
-    },
-    {
-      "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-10-06",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -1679,13 +1672,6 @@
       "source": "ut",
       "title": "International Education Week",
       "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-10-06",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "May Term in Australia: The Politics of Protecting the Great Barrier Reef - Info Session",
-      "url": "https://calendar.utexas.edu/event/may-term-in-australia-the-politics-of-protecting-the-great-barrier-reef-info-session-6896",
       "start": "2026-10-06",
       "location": null
     },
@@ -6003,9 +5989,9 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider and Heartsaver First Aid (Dual Certificates)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-6816",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-and-heartsaver-first-aid-dual-certificates-5381",
       "start": "2026-10-30",
-      "location": "NUR - various"
+      "location": "Nursing School (NUR)\\, 1.106"
     },
     {
       "source": "ut",
@@ -9252,6 +9238,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
       "start": "2026-11-18",
       "location": "Athens\\, Ga.\\, Dan Magill Tennis Complex"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball at Green Bay",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-green-bay",
+      "start": "2026-11-18",
+      "location": "Green Bay\\, Wis. \\, Kress Center"
     },
     {
       "source": "ut",
@@ -13904,6 +13897,13 @@
       "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-14",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
