@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:45:27.287689+00:00",
+  "updated": "2026-10-01T22:29:23.888540+00:00",
   "counts": {
     "public": 16,
     "internal": 180,
@@ -266,13 +266,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-02",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Digital Humanities Workshop: Planning and Managing Your Digital Archive",
-      "url": "https://calendar.utexas.edu/event/digital-humanities-workshop-planning-and-managing-your-digital-archive",
-      "start": "2026-10-02",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
     },
     {
       "source": "ut",
@@ -9673,6 +9666,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-27",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Dolly Parton\u2019s Smoky Mountain Christmas Carol",
+      "url": "https://calendar.utexas.edu/event/dolly-partons-smoky-mountain-christmas-carol",
+      "start": "2026-11-27",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
