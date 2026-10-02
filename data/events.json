@@ -1,244 +1,11 @@
 {
-  "updated": "2026-10-01T22:29:23.888540+00:00",
+  "updated": "2026-10-02T12:09:07.388475+00:00",
   "counts": {
     "public": 16,
-    "internal": 180,
-    "ut": 1781
+    "internal": 177,
+    "ut": 1766
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
-      "start": "2026-10-01",
-      "location": "COLA Student Well-Being Center\\, JES A-223A"
-    },
-    {
-      "source": "ut",
-      "title": "AI and Copyright: Inputs\\, Outputs\\, and Ownership",
-      "url": "https://calendar.utexas.edu/event/ai-and-copyright-inputs-outputs-and-ownership",
-      "start": "2026-10-01",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Bi-Monthly Office of Research Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/10/01",
-      "start": "2026-10-01",
-      "time": "1:30pm \u2013 2:30pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Blockbuster Film - Disclosure Day",
-      "url": "https://calendar.utexas.edu/event/blockbuster-film-disclosure-day",
-      "start": "2026-10-01",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Butler Opera International Competition",
-      "url": "https://calendar.utexas.edu/event/butler-opera-international-competition-320",
-      "start": "2026-10-01",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Career Success Webinar",
-      "url": "https://calendar.utexas.edu/event/career-success-webinar",
-      "start": "2026-10-01",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-01",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Craft and Chill",
-      "url": "https://calendar.utexas.edu/event/craft-and-chill",
-      "start": "2026-10-01",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "Critter&#039\\;s Craft Collective",
-      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
-      "start": "2026-10-01",
-      "location": "SSB"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-10-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-10-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Financial Literacy Workshop: FAFSA Edition",
-      "url": "https://calendar.utexas.edu/event/financial-literacy-workshop-fafsa-edition",
-      "start": "2026-10-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Fueling the Fight: Skills for Mastering Campaign Fundraising",
-      "url": "https://calendar.utexas.edu/event/fueling-the-fight-skills-for-mastering-campaign-fundraising",
-      "start": "2026-10-01",
-      "location": "SRH 3.B10"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-10-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-10-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/01",
-      "start": "2026-10-01",
-      "time": "8:00am \u2013 12:00pm",
-      "location": "DPRI 3.708A",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-10-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Managing Up\\, Across\\, and Forward",
-      "url": "https://calendar.utexas.edu/event/managing-up-across-and-forward",
-      "start": "2026-10-01",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
-      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
-      "start": "2026-10-01",
-      "location": "SSB 3.214"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Prevention Connection: A Resource Fair for Relationship Violence Prevention Month",
-      "url": "https://calendar.utexas.edu/event/prevention-connection-a-resource-fair-for-relationship-violence-prevention-month",
-      "start": "2026-10-01",
-      "location": "Student Services Building (SSB)\\, First Floor Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-10-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/01",
-      "start": "2026-10-01",
-      "time": "11:00am \u2013 12:00pm",
-      "location": "MS Teams",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Week: Taco Mixer",
-      "url": "https://calendar.utexas.edu/event/utla-week-taco-mixer",
-      "start": "2026-10-01",
-      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, CMA Plaza"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Information Session",
-      "url": "https://calendar.utexas.edu/event/utny-information-session-993",
-      "start": "2026-10-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Summer '27 Application Deadline",
-      "url": "https://calendar.utexas.edu/event/utny-summer-27-application-deadline",
-      "start": "2026-10-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UWC Open House",
-      "url": "https://calendar.utexas.edu/event/uwc-open-house",
-      "start": "2026-10-01",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.330"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Ann Arbor 15k",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ann-arbor-15k",
-      "start": "2026-10-01",
-      "location": "Ann Arbor\\, Mich\\, University of Michigan Varsity Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Battle of the Bay",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-battle-of-the-bay",
-      "start": "2026-10-01",
-      "location": "San Fransisco\\, Calif.\\, California Tennis Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Nashville W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-nashville-w15",
-      "start": "2026-10-01",
-      "location": "Nashville\\, Tenn.\\, Vanderbilt University Lummis Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Templeton W100",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-templeton-w100",
-      "start": "2026-10-01",
-      "location": "Templeton\\, Calif.\\, Templeton Tennis Ranch"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -266,6 +33,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-02",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Digital Humanities Workshop: Planning and Managing Your Digital Archive",
+      "url": "https://calendar.utexas.edu/event/digital-humanities-workshop-planning-and-managing-your-digital-archive",
+      "start": "2026-10-02",
+      "location": null
     },
     {
       "source": "ut",
@@ -416,6 +190,13 @@
     },
     {
       "source": "ut",
+      "title": "CANCELLED University of Texas Baseball vs Houston",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-houston-8193",
+      "start": "2026-10-03",
+      "location": "Round Rock\\, Texas\\, Dell Diamond"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-03",
@@ -490,13 +271,6 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-03",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Houston",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-houston-8193",
-      "start": "2026-10-03",
-      "location": "Round Rock\\, Texas\\, Dell Diamond"
     },
     {
       "source": "ut",
@@ -1357,6 +1131,13 @@
     },
     {
       "source": "ut",
+      "title": "Financial Literacy Workshop: FAFSA Edition",
+      "url": "https://calendar.utexas.edu/event/financial-literacy-workshop-fafsa-edition",
+      "start": "2026-10-08",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Fortlandia",
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-10-08",
@@ -1420,6 +1201,13 @@
       "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
       "start": "2026-10-08",
       "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
+      "title": "On Being a Scientist: Public Webinar",
+      "url": "https://calendar.utexas.edu/event/on-being-a-scientist-public-webinar",
+      "start": "2026-10-08",
+      "location": "Virtual"
     },
     {
       "source": "ut",
@@ -1625,6 +1413,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-09",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Round Table Discussion: Imagining the Future of XR",
+      "url": "https://calendar.utexas.edu/event/round-table-discussion-imagining-the-future-of-xr",
+      "start": "2026-10-09",
+      "location": "F. Loren Winship Drama Building (WIN)\\, 2.112"
     },
     {
       "source": "ut",
@@ -2250,6 +2045,13 @@
       "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
+      "source": "ut",
+      "title": "Sunset Reset",
+      "url": "https://calendar.utexas.edu/event/sunset-reset-7119",
+      "start": "2026-10-13",
+      "location": "James Turrell Skyspace"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/13",
@@ -2488,6 +2290,13 @@
       "url": "https://calendar.utexas.edu/event/side-by-side",
       "start": "2026-10-14",
       "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "Students on the Spectrum",
+      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
+      "start": "2026-10-14",
+      "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
       "source": "ut",
@@ -3677,6 +3486,13 @@
     },
     {
       "source": "ut",
+      "title": "Digital Scholars in Practice: 3D Humanities in Practice",
+      "url": "https://calendar.utexas.edu/event/digital-scholars-in-practice-3d-humanities-in-practice",
+      "start": "2026-10-21",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
+    },
+    {
+      "source": "ut",
       "title": "Executive Committee Meeting",
       "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
       "start": "2026-10-21",
@@ -3956,6 +3772,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-22",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Research in Education and Public Policy Seminar Series: David Yeager",
+      "url": "https://calendar.utexas.edu/event/research-in-education-and-public-policy-seminar-series-david-yeager",
+      "start": "2026-10-22",
+      "location": "George I. Sanchez Building | Cissy McDaniel Parker Dean's Conference Room (SZB 2.624)\\, SZB 2.624"
     },
     {
       "source": "ut",
@@ -4357,6 +4180,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-10-25",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Songs In the Skyspace",
+      "url": "https://calendar.utexas.edu/event/songs-in-the-skyspace",
+      "start": "2026-10-25",
+      "location": "James Turrell Skyspace"
     },
     {
       "source": "ut",
@@ -4922,6 +4752,13 @@
     },
     {
       "source": "ut",
+      "title": "From Notes to Print: A Panel Discussion on Research\\, Writing\\, and AI",
+      "url": "https://calendar.utexas.edu/event/from-notes-to-print-a-panel-discussion-on-research-writing-and-ai",
+      "start": "2026-10-28",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 2 (PCL 2.340)"
+    },
+    {
+      "source": "ut",
       "title": "GAPC Monthly Meeting",
       "url": "https://calendar.utexas.edu/event/gapc-monthly-meeting",
       "start": "2026-10-28",
@@ -5186,6 +5023,13 @@
     },
     {
       "source": "ut",
+      "title": "Fugitive Visions &amp\\; Jim Franklin with Special Guest The October 28ths",
+      "url": "https://calendar.utexas.edu/event/fugitive-visions-amp-jim-franklin-with-special-guest-the-october-28ths",
+      "start": "2026-10-29",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Gale Family Foundation Fall 2026 Lecture: \"The Galveston Movement and the Jewish Question\\, 1903-1914\" by Jeffrey Veidlinger",
       "url": "https://calendar.utexas.edu/event/gale-family-foundation-fall-2026-lecturenbspthe-galveston-movement-and-the-jewish-question-1903-1914-bynbspjeffrey-veidlinger",
       "start": "2026-10-29",
@@ -5221,6 +5065,13 @@
       "url": "https://calendar.utexas.edu/event/late-night-film-scream-1996-haunted-house-halloween",
       "start": "2026-10-29",
       "location": "Texas Union Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "Legal Professionals in a Confucian Society: The Qing Juridical Field in Late Imperial China 2026 Taiwan Lectures on Chinese Studies by Prof. Li Chen\\, University of Toronto",
+      "url": "https://calendar.utexas.edu/event/legal-professionals-in-a-confucian-society-the-qing-juridical-field-in-late-imperial-china-2026-taiwan-lectures-on-chinese-studies-by-prof-li-chen-university-of-toronto",
+      "start": "2026-10-29",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 1 (PCL 2.370)"
     },
     {
       "source": "ut",
@@ -5819,6 +5670,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-01",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Study the Sculpture",
+      "url": "https://calendar.utexas.edu/event/study-the-sculpture",
+      "start": "2026-11-01",
+      "location": "Clock Knot"
     },
     {
       "source": "ut",
@@ -6495,13 +6353,6 @@
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-11-05",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Gardner-Webb",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-gardner-webb",
-      "start": "2026-11-05",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -7570,6 +7421,13 @@
     },
     {
       "source": "ut",
+      "title": "Students on the Spectrum",
+      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
+      "start": "2026-11-11",
+      "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-11-11",
@@ -8175,13 +8033,6 @@
       "url": "https://calendar.utexas.edu/event/university-chorus-9049",
       "start": "2026-11-15",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Baylor",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-baylor",
-      "start": "2026-11-15",
-      "location": "San Antonio\\, Texas"
     },
     {
       "source": "ut",
@@ -8880,6 +8731,13 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
+      "source": "ut",
+      "title": "Strengthening Relationships: &quot\\;The Motivation Multiplier&quot\\;",
+      "url": "https://calendar.utexas.edu/event/strengthening-relationships-quotthe-motivation-multiplierquot",
+      "start": "2026-11-19",
+      "location": "Virtual Event"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19",
@@ -8888,13 +8746,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Southern Utah",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-southern-utah",
-      "start": "2026-11-19",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -10676,6 +10527,13 @@
     },
     {
       "source": "ut",
+      "title": "Landmarks at Night",
+      "url": "https://calendar.utexas.edu/event/landmarks-at-night",
+      "start": "2026-12-06",
+      "location": "James Turrell Skyspace"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs TCU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tcu-2349",
       "start": "2026-12-06",
@@ -10875,13 +10733,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Jackson State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-jackson-state",
-      "start": "2026-12-08",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -11294,13 +11145,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Miami (Fla.)",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-miami-fla",
-      "start": "2026-12-12",
-      "location": "Houston\\, Texas\\, Toyota Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving vs USA Diving Winter Nationals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-diving-winter-nationals",
       "start": "2026-12-12",
@@ -11653,13 +11497,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-16",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Memphis",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-memphis",
-      "start": "2026-12-16",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -13181,13 +13018,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball at Kentucky",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-kentucky",
-      "start": "2027-01-10",
-      "location": "Lexington\\, Ky.\\, Memorial Coliseum"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-11",
@@ -13585,13 +13415,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-oklahoma-4269",
-      "start": "2027-01-16",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-17",
@@ -13599,10 +13422,24 @@
     },
     {
       "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-17",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-01-17",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Fortlandia",
+      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2027-01-17",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "ut",
@@ -13620,6 +13457,13 @@
     },
     {
       "source": "ut",
+      "title": "TAMALES",
+      "url": "https://calendar.utexas.edu/event/tamales",
+      "start": "2027-01-17",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis at Arizona State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-at-arizona-state",
       "start": "2027-01-17",
@@ -13631,6 +13475,27 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-vanderbilt-5100",
       "start": "2027-01-17",
       "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-18",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "An Evening with Audra McDonald",
+      "url": "https://calendar.utexas.edu/event/an-evening-with-audra-mcdonald",
+      "start": "2027-01-18",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-18",
+      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
