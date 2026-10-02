@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T12:09:07.388475+00:00",
+  "updated": "2026-10-02T21:59:26.018400+00:00",
   "counts": {
-    "public": 16,
+    "public": 20,
     "internal": 177,
     "ut": 1766
   },
@@ -2491,6 +2491,14 @@
       "location": "SSB 3.214"
     },
     {
+      "source": "public",
+      "title": "Ophthalmology Case Conference: The Pediatric Eye",
+      "url": "https://dellmed.utexas.edu/events/ophthalmology-case-the-pediatric-eye-101526",
+      "start": "2026-10-15",
+      "time": "5\u20136:30 p.m.",
+      "speaker": "Tara Shooshani, M.D., and Julia Guido, M.D."
+    },
+    {
       "source": "ut",
       "title": "Perfect Blue (GKIDS)",
       "url": "https://calendar.utexas.edu/event/perfect-blue-gkids",
@@ -2724,7 +2732,7 @@
       "title": "Pediatric Quality Improvement Educational Opportunity",
       "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1016",
       "start": "2026-10-16",
-      "time": "5\u20136:30 p.m."
+      "time": "5:30\u20137 p.m."
     },
     {
       "source": "ut",
@@ -3094,6 +3102,15 @@
       "location": "Texas Union Building (UNB)\\, Various\\, see website for specific locations"
     },
     {
+      "source": "public",
+      "title": "Annual National Network of Depression Centers (NNDC) Conference",
+      "url": "https://dellmed.utexas.edu/events/annual-nndc-conference-101926",
+      "start": "2026-10-19",
+      "time": "8 a.m.",
+      "location": "Texas Union Building",
+      "speaker": "Conor Liston, M.D., PhD"
+    },
+    {
       "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
@@ -3178,6 +3195,14 @@
       "location": "Gordon White Building (GWB)\\, MPR 2.206"
     },
     {
+      "source": "public",
+      "title": "National Network of Depression Centers (NNDC) Presents: BrainStorm Film Screening and Panel",
+      "url": "https://dellmed.utexas.edu/events/nndc-presents-brainstorm-film-screening-and-panel-101926",
+      "start": "2026-10-19",
+      "time": "12\u20131 p.m.",
+      "location": "Texas Union Building Theater, 2nd floor"
+    },
+    {
       "source": "ut",
       "title": "Paws For support",
       "url": "https://calendar.utexas.edu/event/paws-for-support",
@@ -3189,7 +3214,7 @@
       "title": "Pediatrics: Quality Week",
       "url": "https://dellmed.utexas.edu/events/pediatrics-quality-week-101926",
       "start": "2026-10-19",
-      "time": "8 a.m.",
+      "time": "12\u20138:30 p.m.",
       "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom"
     },
     {
@@ -3942,10 +3967,19 @@
     },
     {
       "source": "public",
+      "title": "Pediatric Grand Rounds: Quality as Strategy",
+      "url": "https://dellmed.utexas.edu/events/pediatric-grand-rounds-quality-vs-strategy-102326",
+      "start": "2026-10-23",
+      "time": "6\u20137:30 p.m.",
+      "location": "Dell Children\u2019s Medical Center Signe Auditorium &amp; Virtual",
+      "speaker": "Eric A. Williams, M.D."
+    },
+    {
+      "source": "public",
       "title": "Pediatric Quality Improvement Educational Opportunity",
       "url": "https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1023",
       "start": "2026-10-23",
-      "time": "6\u20137:30 p.m."
+      "time": "7:30\u20138:30 a.m."
     },
     {
       "source": "ut",
