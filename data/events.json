@@ -1,193 +1,11 @@
 {
-  "updated": "2026-10-02T21:59:26.018400+00:00",
+  "updated": "2026-10-03T11:20:08.007903+00:00",
   "counts": {
     "public": 20,
     "internal": 177,
-    "ut": 1766
+    "ut": 1763
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR)",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
-      "start": "2026-10-02",
-      "location": "NUR - various"
-    },
-    {
-      "source": "ut",
-      "title": "Boz Scaggs - Rhythm Review 2026",
-      "url": "https://calendar.utexas.edu/event/boz-scaggs-rhythm-review-2026",
-      "start": "2026-10-02",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-02",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-02",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Digital Humanities Workshop: Planning and Managing Your Digital Archive",
-      "url": "https://calendar.utexas.edu/event/digital-humanities-workshop-planning-and-managing-your-digital-archive",
-      "start": "2026-10-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-10-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-10-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-10-02",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Get Your Flu Shot",
-      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-1193",
-      "start": "2026-10-02",
-      "location": "Health Discovery Building (HDB)\\, Rooms 1.202 and 1.204"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-10-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-10-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-10-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2026-10-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Nourish Your Neurotype: Eating Support for ADHD\\, ASD & More",
-      "url": "https://calendar.utexas.edu/event/nourish-your-neurotype-eating-support-for-adhd-asd-more-4269",
-      "start": "2026-10-02",
-      "location": "Student Services Building (SSB)\\, 3.410P"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-10-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Social Science at Work",
-      "url": "https://calendar.utexas.edu/event/social-science-at-work-2061",
-      "start": "2026-10-02",
-      "location": "FAC 2nd Floor\\, Classroom ABC"
-    },
-    {
-      "source": "ut",
-      "title": "Student Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/student-affairs-meeting",
-      "start": "2026-10-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Drop-in Advising",
-      "url": "https://calendar.utexas.edu/event/utny-drop-in-advising",
-      "start": "2026-10-02",
-      "location": "Peter T. Flawn Academic Center (FAC)\\, 2nd Floor Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Beach Volleyball  TCU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-beach-volleyball-tcu-3222",
-      "start": "2026-10-02",
-      "location": "Austin\\, Texas \\, Wright-Whitaker Sports Complex"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Ann Arbor 15k",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ann-arbor-15k",
-      "start": "2026-10-02",
-      "location": "Ann Arbor\\, Mich\\, University of Michigan Varsity Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Battle of the Bay",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-battle-of-the-bay",
-      "start": "2026-10-02",
-      "location": "San Fransisco\\, Calif.\\, California Tennis Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Volleyball vs Mississippi State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-mississippi-state",
-      "start": "2026-10-02",
-      "location": "Austin\\, Texas\\, Gregory Gymnasium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Nashville W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-nashville-w15",
-      "start": "2026-10-02",
-      "location": "Nashville\\, Tenn.\\, Vanderbilt University Lummis Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Templeton W100",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-templeton-w100",
-      "start": "2026-10-02",
-      "location": "Templeton\\, Calif.\\, Templeton Tennis Ranch"
-    },
-    {
-      "source": "ut",
-      "title": "Very Old Morris Ft. Marley Hale Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/very-old-morris-ft-marley-hale-live-at-the-cactus-cafe",
-      "start": "2026-10-02",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "CANCELLED University of Texas Baseball vs Houston",
@@ -653,6 +471,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-10-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-06",
@@ -831,6 +656,13 @@
       "url": "https://calendar.utexas.edu/event/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane",
       "start": "2026-10-07",
       "location": "Hogg Memorial Auditorium (HMA)"
+    },
+    {
+      "source": "ut",
+      "title": "Branford Marsalis and Dianne Reeves Celebrate John Coltrane",
+      "url": "https://calendar.utexas.edu/event/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane-8277",
+      "start": "2026-10-07",
+      "location": "Hogg Memorial Auditorium"
     },
     {
       "source": "ut",
@@ -1107,6 +939,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
       "start": "2026-10-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Exploring Consulting Careers: A Panel Discussion for Advanced Degree Students and Scholars",
+      "url": "https://calendar.utexas.edu/event/exploring-consulting-careers-a-panel-discussion-for-advanced-degree-students-and-scholars",
+      "start": "2026-10-08",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
     },
     {
       "source": "ut",
@@ -1914,6 +1753,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-10-13",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-13",
@@ -2220,6 +2066,13 @@
     },
     {
       "source": "ut",
+      "title": "International Graduate Student and Postdoc Job Search Summit",
+      "url": "https://calendar.utexas.edu/event/international-graduate-student-and-postdoc-job-search-summit",
+      "start": "2026-10-14",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classrooms ABC"
+    },
+    {
+      "source": "ut",
       "title": "International Graduate Students and Postdocs Job Search Summit",
       "url": "https://calendar.utexas.edu/event/international-graduate-students-and-postdocs-job-search-summit",
       "start": "2026-10-14",
@@ -2290,13 +2143,6 @@
       "url": "https://calendar.utexas.edu/event/side-by-side",
       "start": "2026-10-14",
       "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-10-14",
-      "location": "Student Services Building (SSB)\\, 2.106"
     },
     {
       "source": "ut",
@@ -2529,6 +2375,13 @@
     },
     {
       "source": "ut",
+      "title": "SHARE Support Specialist Information Session",
+      "url": "https://calendar.utexas.edu/event/share-support-specialist-information-session",
+      "start": "2026-10-15",
+      "location": "SSB G1.104\\, SSB G1.104"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-10-15",
@@ -2584,6 +2437,13 @@
       "source": "ut",
       "title": "WCAAR Weekly Meeting - Adriana Souto Pereira Nuncio (Melamed Lab) &amp\\; Lisa Wang (Pierce Lab)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-adriana-souto-pereira-nuncio-melamed-lab-amp-lisa-wang-pierce-lab",
+      "start": "2026-10-15",
+      "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting - Adriana Souto Pereira Nuncio (Melamed Lab): &quot\\;Alcohol\\, Sex\\, and the Gut Microbiome: Shaping Autoimmunity Through the Gut\u2013CNS Axis&quot\\;",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-adriana-souto-pereira-nuncio-melamed-lab-quotalcohol-sex-and-the-gut-microbiome-shaping-autoimmunity-through-the-gutcns-axisquot",
       "start": "2026-10-15",
       "location": "SEAY Library - Room 4.244"
     },
@@ -3310,6 +3170,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-10-20",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-10-20",
@@ -3476,6 +3343,13 @@
     },
     {
       "source": "ut",
+      "title": "CPDS: HRSA Grants Presentation",
+      "url": "https://calendar.utexas.edu/event/cpds-hrsa-grants-presentation",
+      "start": "2026-10-21",
+      "location": "NUR 5.178"
+    },
+    {
+      "source": "ut",
       "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-10-21",
@@ -3634,9 +3508,9 @@
     {
       "source": "ut",
       "title": "Total Defense: The New Deal and the Invention of National Security",
-      "url": "https://calendar.utexas.edu/event/total-defense-the-new-deal-and-the-invention-of-national-security",
+      "url": "https://calendar.utexas.edu/event/total-defense-the-new-deal-and-the-invention-of-national-security-349",
       "start": "2026-10-21",
-      "location": "SRH 3.122"
+      "location": "SRH 3.122\\, The LBJ School of Public Affairs"
     },
     {
       "source": "ut",
@@ -3680,6 +3554,13 @@
       "start": "2026-10-22",
       "time": "12\u20131 p.m.",
       "location": "Zoom"
+    },
+    {
+      "source": "ut",
+      "title": "Adaptive Sport Night",
+      "url": "https://calendar.utexas.edu/event/adaptive-sport-night",
+      "start": "2026-10-22",
+      "location": "Clark-Caven Courts"
     },
     {
       "source": "ut",
@@ -4420,7 +4301,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25k",
+      "title": "University of Texas Men's Tennis vs Norman 25K",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
       "start": "2026-10-26",
       "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
@@ -4515,6 +4396,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-10-27",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-10-27",
+      "location": null
     },
     {
       "source": "ut",
@@ -4646,7 +4534,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25k",
+      "title": "University of Texas Men's Tennis vs Norman 25K",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
       "start": "2026-10-27",
       "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
@@ -4887,7 +4775,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25k",
+      "title": "University of Texas Men's Tennis vs Norman 25K",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
       "start": "2026-10-28",
       "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
@@ -5196,7 +5084,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25k",
+      "title": "University of Texas Men's Tennis vs Norman 25K",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
       "start": "2026-10-29",
       "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
@@ -5441,7 +5329,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25k",
+      "title": "University of Texas Men's Tennis vs Norman 25K",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
       "start": "2026-10-30",
       "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
@@ -5508,6 +5396,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-sumter-w15",
       "start": "2026-10-30",
       "location": "Sumter\\, S.C.\\, Palmetto Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "When You Return: Digital Methods for Managing Your Research Archive",
+      "url": "https://calendar.utexas.edu/event/when-you-return-digital-methods-for-managing-your-research-archive-6811",
+      "start": "2026-10-30",
+      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab Data Lab (PCL 2.202)"
     },
     {
       "source": "ut",
@@ -5609,7 +5504,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25k",
+      "title": "University of Texas Men's Tennis vs Norman 25K",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
       "start": "2026-10-31",
       "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
@@ -5918,6 +5813,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-11-03",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-03",
@@ -5956,6 +5858,13 @@
       "location": "Zoom",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "First-Gen Celebration",
+      "url": "https://calendar.utexas.edu/event/first-gen-celebration-839",
+      "start": "2026-11-03",
+      "location": "Suzan Clark Glickman Lounge\\, SZB 2.706\\, SZB 2.706"
     },
     {
       "source": "ut",
@@ -6352,6 +6261,13 @@
     },
     {
       "source": "ut",
+      "title": "Post Election Debriefing",
+      "url": "https://calendar.utexas.edu/event/post-election-debriefing",
+      "start": "2026-11-05",
+      "location": "LBJ - Bass Lecture Hall"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-05",
@@ -6397,17 +6313,17 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs ITA Central Sectional Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
+      "start": "2026-11-05",
+      "location": "Waco\\, Texas\\, Hurd Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs ITA Conference Masters",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-conference-masters",
       "start": "2026-11-05",
       "location": "Rome\\, Ga.\\, Rome Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA Sectionals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
-      "start": "2026-11-05",
-      "location": "Waco\\, Texas\\, Hurd Tennis Center"
     },
     {
       "source": "ut",
@@ -6631,17 +6547,17 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs ITA Central Sectional Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
+      "start": "2026-11-06",
+      "location": "Waco\\, Texas\\, Hurd Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs ITA Conference Masters",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-conference-masters",
       "start": "2026-11-06",
       "location": "Rome\\, Ga.\\, Rome Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA Sectionals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
-      "start": "2026-11-06",
-      "location": "Waco\\, Texas\\, Hurd Tennis Center"
     },
     {
       "source": "ut",
@@ -6799,17 +6715,17 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs ITA Central Sectional Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
+      "start": "2026-11-07",
+      "location": "Waco\\, Texas\\, Hurd Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs ITA Conference Masters",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-conference-masters",
       "start": "2026-11-07",
       "location": "Rome\\, Ga.\\, Rome Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA Sectionals",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-sectionals",
-      "start": "2026-11-07",
-      "location": "Waco\\, Texas\\, Hurd Tennis Center"
     },
     {
       "source": "ut",
@@ -7163,6 +7079,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-11-10",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-10",
@@ -7254,6 +7177,13 @@
       "url": "https://calendar.utexas.edu/event/seed-what-comes-next-entrepreneurship-ecoystem-panel",
       "start": "2026-11-10",
       "location": "Robert B. Rowling Hall (RRH)\\, RRH 4.402"
+    },
+    {
+      "source": "ut",
+      "title": "Strategies for Getting-Out-The-Vote (GOTV): Early Voting and Election Day Planning",
+      "url": "https://calendar.utexas.edu/event/strategies-for-getting-out-the-vote-gotv-early-voting-and-election-day-planning",
+      "start": "2026-11-10",
+      "location": "SRH 3.B10"
     },
     {
       "source": "ut",
@@ -7455,13 +7385,6 @@
     },
     {
       "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-11-11",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-11-11",
@@ -7550,6 +7473,13 @@
       "url": "https://calendar.utexas.edu/event/craft-and-chill",
       "start": "2026-11-12",
       "location": "Student Services Building (SSB)\\, 2.106"
+    },
+    {
+      "source": "ut",
+      "title": "Crafting Winning Political Ads: Messages that Work",
+      "url": "https://calendar.utexas.edu/event/crafting-winning-political-ads-messages-that-work",
+      "start": "2026-11-12",
+      "location": "SRH 3.B10"
     },
     {
       "source": "ut",
@@ -7776,6 +7706,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Singers",
+      "url": "https://calendar.utexas.edu/event/longhorn-singers-9019",
+      "start": "2026-11-13",
+      "location": "\\, William C. Powers Student Activity Center Auditorium"
+    },
+    {
+      "source": "ut",
       "title": "Nearing Retirement by VOYA",
       "url": "https://calendar.utexas.edu/event/nearing-retirement-by-voya",
       "start": "2026-11-13",
@@ -7920,6 +7857,13 @@
       "url": "https://calendar.utexas.edu/event/jazz-band-ensemble-ampamp-orchestra-3571",
       "start": "2026-11-14",
       "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Singers",
+      "url": "https://calendar.utexas.edu/event/longhorn-singers-9019",
+      "start": "2026-11-14",
+      "location": "\\, William C. Powers Student Activity Center Auditorium"
     },
     {
       "source": "ut",
@@ -8224,6 +8168,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-11-17",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-17",
@@ -8369,7 +8320,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA Individuals",
+      "title": "University of Texas Men's Tennis vs NCAA Singles and Doubles Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
       "start": "2026-11-17",
       "location": "Athens\\, Ga.\\, Dan Magill Tennis Complex"
@@ -8596,7 +8547,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA Individuals",
+      "title": "University of Texas Men's Tennis vs NCAA Singles and Doubles Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
       "start": "2026-11-18",
       "location": "Athens\\, Ga.\\, Dan Magill Tennis Complex"
@@ -8790,7 +8741,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA Individuals",
+      "title": "University of Texas Men's Tennis vs NCAA Singles and Doubles Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
       "start": "2026-11-19",
       "location": "Athens\\, Ga.\\, Dan Magill Tennis Complex"
@@ -8947,7 +8898,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA Individuals",
+      "title": "University of Texas Men's Tennis vs NCAA Singles and Doubles Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
       "start": "2026-11-20",
       "location": "Athens\\, Ga.\\, Dan Magill Tennis Complex"
@@ -9052,7 +9003,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA Individuals",
+      "title": "University of Texas Men's Tennis vs NCAA Singles and Doubles Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
       "start": "2026-11-21",
       "location": "Athens\\, Ga.\\, Dan Magill Tennis Complex"
@@ -9259,6 +9210,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-24",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-11-24",
+      "location": null
     },
     {
       "source": "ut",
@@ -9866,6 +9824,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-01",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-12-01",
+      "location": null
     },
     {
       "source": "ut",
@@ -10673,6 +10638,13 @@
     },
     {
       "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-12-08",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-08",
@@ -11365,6 +11337,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-15",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-12-15",
+      "location": null
     },
     {
       "source": "ut",
@@ -13389,7 +13368,7 @@
       "title": "University of Texas Men's Tennis at Stanford",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-at-stanford",
       "start": "2027-01-15",
-      "location": "Palo Alto\\, Calif.\\, Taube Family Tennis Center"
+      "location": "Stanford\\, Calif.\\, Taube Family Tennis Center"
     },
     {
       "source": "ut",
