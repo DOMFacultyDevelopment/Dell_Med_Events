@@ -1,130 +1,11 @@
 {
-  "updated": "2026-10-03T20:47:27.389230+00:00",
+  "updated": "2026-10-04T12:00:45.529587+00:00",
   "counts": {
     "public": 20,
     "internal": 177,
-    "ut": 1800
+    "ut": 1793
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "2026 TEX-E Fall Bootcamp",
-      "url": "https://calendar.utexas.edu/event/2026-tex-e-fall-bootcamp",
-      "start": "2026-10-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "BCBSTX Fitness Discount Program: Enrollment Fee Waived",
-      "url": "https://calendar.utexas.edu/event/bcbstx-fitness-discount-program-enrollment-fee-waived",
-      "start": "2026-10-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "CANCELLED University of Texas Baseball vs Houston",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-houston-8193",
-      "start": "2026-10-03",
-      "location": "Round Rock\\, Texas\\, Dell Diamond"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Ella Reid Band Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/ella-reid-band-live-at-the-cactus-cafe",
-      "start": "2026-10-03",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-10-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-10-03",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-10-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Island Science Day",
-      "url": "https://calendar.utexas.edu/event/island-science-day",
-      "start": "2026-10-03",
-      "location": "Patton Center for Marine Science Education 855 E. Cotter Ave. Port Aransas\\, TX 78373\\, The Patton Center (Auditorium Room 104)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-03",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-10-03",
-      "location": "Benson Latin American Collection\\, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Ann Arbor 15k",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ann-arbor-15k",
-      "start": "2026-10-03",
-      "location": "Ann Arbor\\, Mich\\, University of Michigan Varsity Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Battle of the Bay",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-battle-of-the-bay",
-      "start": "2026-10-03",
-      "location": "San Fransisco\\, Calif.\\, California Tennis Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Fayetteville 15k",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-fayetteville-15k",
-      "start": "2026-10-03",
-      "location": "Fayetteville\\, Ark.\\, Billingsley Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Track & Field / Cross Country at Chile Pepper Festival",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-at-chile-pepper-festival",
-      "start": "2026-10-03",
-      "location": "Fayetteville\\, Ark.\\, Agri Park"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Templeton W100",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-templeton-w100",
-      "start": "2026-10-03",
-      "location": "Templeton\\, Calif.\\, Templeton Tennis Ranch"
-    },
     {
       "source": "ut",
       "title": "2026 TEX-E Fall Bootcamp",
@@ -2549,6 +2430,13 @@
       "source": "ut",
       "title": "Expedia Site Visit &amp\\; Networking",
       "url": "https://calendar.utexas.edu/event/expedia-site-visit-amp-networking",
+      "start": "2026-10-16",
+      "location": "Off-Campus"
+    },
+    {
+      "source": "ut",
+      "title": "Expedia Site Visit &amp\\; Portfolio Building Workshop",
+      "url": "https://calendar.utexas.edu/event/expedia-site-visit-amp-portfolio-building-workshop",
       "start": "2026-10-16",
       "location": "Off-Campus"
     },
@@ -7972,6 +7860,13 @@
     },
     {
       "source": "ut",
+      "title": "University Writing Center Graduate Writing Retreat",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-3084",
+      "start": "2026-11-14",
+      "location": "University Writing Center \\, PCL 2.330"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Football at LSU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-lsu",
       "start": "2026-11-14",
@@ -12798,6 +12693,13 @@
     },
     {
       "source": "ut",
+      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers Webinar",
+      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-webinar-8400",
+      "start": "2027-01-14",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs Alabama",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-alabama-5541",
       "start": "2027-01-14",
@@ -13827,6 +13729,13 @@
     },
     {
       "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-02-03",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-03",
@@ -13840,6 +13749,27 @@
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-02-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-02-04",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-02-04",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/04",
@@ -13848,6 +13778,27 @@
       "location": "DPRI 3.708A",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Professor Brian Cox - Emergence",
+      "url": "https://calendar.utexas.edu/event/professor-brian-cox-emergence",
+      "start": "2027-02-04",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at Amer Ari Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-4197",
+      "start": "2027-02-04",
+      "location": "Waimea\\, Hawaii"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball at Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-auburn",
+      "start": "2027-02-04",
+      "location": "Auburn\\, Ala.\\, Neville Arena"
     },
     {
       "source": "internal",
