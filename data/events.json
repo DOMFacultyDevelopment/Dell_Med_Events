@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-07T12:56:55.210909+00:00",
+  "updated": "2026-10-07T22:54:26.621351+00:00",
   "counts": {
     "public": 19,
     "internal": 173,
-    "ut": 1730
+    "ut": 1731
   },
   "events": [
     {
@@ -2040,20 +2040,6 @@
     },
     {
       "source": "ut",
-      "title": "The State of Nursing Science: Endowed Lectureship Symposium",
-      "url": "https://calendar.utexas.edu/event/the-state-of-nursing-science-endowed-lectureship-symposium-8479",
-      "start": "2026-10-16",
-      "location": "In-Person and Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Information Session",
-      "url": "https://calendar.utexas.edu/event/utla-information-session-7161",
-      "start": "2026-10-16",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "UTNY Drop-in Advising",
       "url": "https://calendar.utexas.edu/event/utny-drop-in-advising",
       "start": "2026-10-16",
@@ -2485,6 +2471,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Fort Worth Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-fort-worth-challenger",
+      "start": "2026-10-19",
+      "location": "Fort Worth\\, Texas\\, Bayard H. Friedman Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Volleyball vs Florida - presented by St. David's HealthCare",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-florida",
       "start": "2026-10-19",
@@ -2683,6 +2676,13 @@
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-10-20",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Fort Worth Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-fort-worth-challenger",
+      "start": "2026-10-20",
+      "location": "Fort Worth\\, Texas\\, Bayard H. Friedman Tennis Center"
     },
     {
       "source": "ut",
@@ -2906,6 +2906,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Fort Worth Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-fort-worth-challenger",
+      "start": "2026-10-21",
+      "location": "Fort Worth\\, Texas\\, Bayard H. Friedman Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs Orange-White Scrimmage",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-orange-white-scrimmage-1607",
       "start": "2026-10-21",
@@ -3125,6 +3132,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Fort Worth Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-fort-worth-challenger",
+      "start": "2026-10-22",
+      "location": "Fort Worth\\, Texas\\, Bayard H. Friedman Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Bakersfield W35",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-bakersfield-w35",
       "start": "2026-10-22",
@@ -3294,6 +3308,20 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Tennis vs Baylor Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-baylor-invitational",
+      "start": "2026-10-23",
+      "location": "Waco\\, Texas\\, Hurd Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Fort Worth Challenger",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-fort-worth-challenger",
+      "start": "2026-10-23",
+      "location": "Fort Worth\\, Texas\\, Bayard H. Friedman Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Bakersfield W35",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-bakersfield-w35",
       "start": "2026-10-23",
@@ -3410,6 +3438,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-football-vs-ole-miss-presented-by-st-davids-healthcare",
       "start": "2026-10-24",
       "location": "Austin\\, Texas\\, DKR-Texas Memorial Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Baylor Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-baylor-invitational",
+      "start": "2026-10-24",
+      "location": "Waco\\, Texas\\, Hurd Tennis Center"
     },
     {
       "source": "ut",
@@ -5761,6 +5796,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Sectionals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-sectionals",
+      "start": "2026-11-05",
+      "location": "TBA"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Hilton Head W15",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-hilton-head-w15",
       "start": "2026-11-05",
@@ -5988,6 +6030,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Sectionals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-sectionals",
+      "start": "2026-11-06",
+      "location": "TBA"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Hilton Head W15",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-hilton-head-w15",
       "start": "2026-11-06",
@@ -6174,6 +6223,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-conference-masters",
       "start": "2026-11-07",
       "location": "Rome\\, Ga.\\, Rome Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Sectionals",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-sectionals",
+      "start": "2026-11-07",
+      "location": "TBA"
     },
     {
       "source": "ut",
@@ -13200,29 +13256,8 @@
     },
     {
       "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-01-22",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2027-01-22",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-01-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
       "start": "2027-01-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -13232,34 +13267,6 @@
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-22",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-01-22",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Eddie Reese Showdown",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-eddie-reese-showdown",
-      "start": "2027-01-22",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Eddie Reese Showdown",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-eddie-reese-showdown",
-      "start": "2027-01-22",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA Kickoff",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-kickoff",
-      "start": "2027-01-22",
-      "location": "Austin\\, Texas\\, Texas Tennis Center"
     },
     {
       "source": "internal",
