@@ -1,281 +1,11 @@
 {
-  "updated": "2026-10-07T22:54:26.621351+00:00",
+  "updated": "2026-10-08T13:04:57.239267+00:00",
   "counts": {
-    "public": 19,
-    "internal": 173,
-    "ut": 1731
+    "public": 18,
+    "internal": 172,
+    "ut": 1708
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/shy-longhorns-society-share-community-meeting-1525",
-      "start": "2026-10-07",
-      "location": "COLA Student Well-Being Center\\, JES A-223A"
-    },
-    {
-      "source": "public",
-      "title": "2026 UT REAL Health AI Symposium: Transforming the Health Continuum Through AI",
-      "url": "https://dellmed.utexas.edu/events/2026-ut-real-health-ai-symposium-100726",
-      "start": "2026-10-07",
-      "time": "7 a.m.",
-      "location": "AT&amp;T Executive Education and Conference Center"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-10-07",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Branford Marsalis and Dianne Reeves - Celebrate John Coltrane",
-      "url": "https://calendar.utexas.edu/event/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane",
-      "start": "2026-10-07",
-      "location": "Hogg Memorial Auditorium (HMA)"
-    },
-    {
-      "source": "ut",
-      "title": "Branford Marsalis and Dianne Reeves Celebrate John Coltrane",
-      "url": "https://calendar.utexas.edu/event/branford-marsalis-and-dianne-reeves-celebrate-john-coltrane-8277",
-      "start": "2026-10-07",
-      "location": "Hogg Memorial Auditorium"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-10-07",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-10-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Executive Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
-      "start": "2026-10-07",
-      "location": "NUR 5.174"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-10-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Ecco\\, eco",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-ecco-eco",
-      "start": "2026-10-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-10-07",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Get Your Flu Shot",
-      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-7873",
-      "start": "2026-10-07",
-      "location": "Gregory Gymnasium (GRE)\\, Lounge\\, GRE 3.120"
-    },
-    {
-      "source": "ut",
-      "title": "Global Solar Power + Energy Storage Forum 2026",
-      "url": "https://calendar.utexas.edu/event/global-solar-power-energy-storage-forum-2026",
-      "start": "2026-10-07",
-      "location": "San Jacinto Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Governmental Affairs Meeting",
-      "url": "https://calendar.utexas.edu/event/governmental-affairs-meeting",
-      "start": "2026-10-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-10-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-10-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Hydrogen Day 2026",
-      "url": "https://calendar.utexas.edu/event/hydrogen-day-2026",
-      "start": "2026-10-07",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/10/07",
-      "start": "2026-10-07",
-      "time": "3:00pm \u2013 4:00pm",
-      "location": "HDB 8.000 & Zoom",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Information Session: MSN/PhD/APRN DNP Prospective Student",
-      "url": "https://calendar.utexas.edu/event/information-session-msnphdaprn-dnp-prospective-student",
-      "start": "2026-10-07",
-      "location": "Zoom"
-    },
-    {
-      "source": "ut",
-      "title": "International Education Week",
-      "url": "https://calendar.utexas.edu/event/international-education-week-4896",
-      "start": "2026-10-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Moody Minors Fair",
-      "url": "https://calendar.utexas.edu/event/moody-minors-fair-7064",
-      "start": "2026-10-07",
-      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, Cronkite Plaza"
-    },
-    {
-      "source": "ut",
-      "title": "Nourishing Yourself in a Burned Out World",
-      "url": "https://calendar.utexas.edu/event/nourishing-yourself-in-a-burned-out-world",
-      "start": "2026-10-07",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Public Assembly",
-      "url": "https://calendar.utexas.edu/event/public-assembly",
-      "start": "2026-10-07",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
-      "start": "2026-10-07",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-10-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Sara Bareilles: The Good Grief Tour",
-      "url": "https://calendar.utexas.edu/event/sara-bareilles-the-good-grief-tour",
-      "start": "2026-10-07",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Side by Side",
-      "url": "https://calendar.utexas.edu/event/side-by-side",
-      "start": "2026-10-07",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Site Visit Networking Prep",
-      "url": "https://calendar.utexas.edu/event/site-visit-networking-prep",
-      "start": "2026-10-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.142 - Classroom C"
-    },
-    {
-      "source": "ut",
-      "title": "Snack and Study",
-      "url": "https://calendar.utexas.edu/event/snack-and-study-3440",
-      "start": "2026-10-07",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Study Sessions",
-      "url": "https://calendar.utexas.edu/event/study-sessions-1758",
-      "start": "2026-10-07",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "Texas Fight Rally & Parade",
-      "url": "https://calendar.utexas.edu/event/texas-fight-rally-parade-7549",
-      "start": "2026-10-07",
-      "location": "Main Mall"
-    },
-    {
-      "source": "ut",
-      "title": "UT REAL Health AI Symposium",
-      "url": "https://calendar.utexas.edu/event/ut-real-health-ai-symposium",
-      "start": "2026-10-07",
-      "location": "AT&T Executive Education and Conference Center (ATT)"
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Information Session",
-      "url": "https://calendar.utexas.edu/event/utla-information-session-1483",
-      "start": "2026-10-07",
-      "location": "Belo Center for New Media (BMC)\\, 5.102"
-    },
-    {
-      "source": "ut",
-      "title": "University Orchestra",
-      "url": "https://calendar.utexas.edu/event/university-orchestra-5685",
-      "start": "2026-10-07",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "World Languages Fair",
-      "url": "https://calendar.utexas.edu/event/world-languages-fair",
-      "start": "2026-10-07",
-      "location": "Gregory Gym Plaza"
-    },
     {
       "source": "ut",
       "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
@@ -668,6 +398,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Northwestern",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-northwestern",
+      "start": "2026-10-09",
+      "location": "Bloomington\\, Indiana"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Soccer at Kentucky",
       "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-at-kentucky",
       "start": "2026-10-09",
@@ -675,8 +412,15 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving at Indiana & Northwestern",
+      "title": "University of Texas Women's Swimming and Diving at Indiana",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-at-indiana-northwestern",
+      "start": "2026-10-09",
+      "location": "Bloomington\\, Indiana"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Northwestern",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-northwestern",
       "start": "2026-10-09",
       "location": "Bloomington\\, Indiana"
     },
@@ -1054,10 +798,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Golf vs St. Andrews Links Collegiate",
+      "title": "University of Texas Women's Golf vs St Andrews Links Collegiate",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-st-andrews-links-collegiate",
       "start": "2026-10-12",
-      "location": "St. Andrews\\, Scotland"
+      "location": "St Andrews\\, Scotland"
     },
     {
       "source": "ut",
@@ -2583,6 +2327,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Divorcing Modernity: A Path of Loss",
+      "url": "https://calendar.utexas.edu/event/divorcing-modernity-a-path-of-loss",
+      "start": "2026-10-20",
+      "location": "Live Stream Online (Zoom and YouTube)"
     },
     {
       "source": "ut",
@@ -4149,6 +3900,13 @@
       "location": "Virtual"
     },
     {
+      "source": "ut",
+      "title": "Mitchell Sustainability Symposium",
+      "url": "https://calendar.utexas.edu/event/mitchell-sustainability-symposium",
+      "start": "2026-10-28",
+      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP) & Visual Arts Center\\, 2.410 Ballroom & The Visual Arts Center"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/10/28",
@@ -4805,13 +4563,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Track & Field / Cross Country vs SEC Cross Country Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-sec-cross-country-championships",
-      "start": "2026-10-30",
-      "location": "Columbia\\, Mo.\\, Gans Creek Cross Country Course"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Basketball vs Eastern New Mexico (Exhibition)",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-eastern-new-mexico-exhibition",
       "start": "2026-10-30",
@@ -5205,13 +4956,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Chicago State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-chicago-state-6376",
-      "start": "2026-11-02",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
       "start": "2026-11-02",
@@ -5382,6 +5126,13 @@
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-03",
       "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Chicago State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-chicago-state-6376",
+      "start": "2026-11-03",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -6212,13 +5963,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Northern Colorado",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-northern-colorado",
-      "start": "2026-11-07",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITA Conference Masters",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-conference-masters",
       "start": "2026-11-07",
@@ -6478,13 +6222,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Grambling State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-grambling-state",
-      "start": "2026-11-09",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
       "start": "2026-11-09",
@@ -6680,6 +6417,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs Grambling State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-grambling-state",
+      "start": "2026-11-10",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
       "start": "2026-11-10",
@@ -6865,13 +6609,6 @@
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-11-11",
       "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs South Dakota State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-dakota-state-3449",
-      "start": "2026-11-11",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -8037,13 +7774,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball at Green Bay",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-green-bay",
-      "start": "2026-11-18",
-      "location": "Green Bay\\, Wis. \\, Kress Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
       "start": "2026-11-18",
@@ -8884,13 +8614,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Southeastern Louisiana",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-southeastern-louisiana",
-      "start": "2026-11-25",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-11-26",
@@ -8971,6 +8694,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-tbd-8703",
       "start": "2026-11-26",
       "location": "San Diego\\, California"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Southeastern Louisiana",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-southeastern-louisiana",
+      "start": "2026-11-26",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -9181,13 +8911,6 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-29",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at Southeast Missouri State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-southeast-missouri-state",
-      "start": "2026-11-29",
-      "location": "Cape Girardeau\\, Mo. \\, The Show Me Center"
     },
     {
       "source": "ut",
@@ -10452,13 +10175,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Arkansas State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-arkansas-state",
-      "start": "2026-12-10",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs USA Diving Winter Nationals",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-diving-winter-nationals",
       "start": "2026-12-10",
@@ -11354,13 +11070,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Prairie View A&M",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-prairie-view-am",
-      "start": "2026-12-21",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-22",
@@ -11420,6 +11129,13 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Prairie View A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-prairie-view-am",
+      "start": "2026-12-22",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -11737,13 +11453,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Harvard",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-harvard",
-      "start": "2026-12-28",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-29",
@@ -11806,8 +11515,8 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs East Texas A&M",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-east-texas-am-university",
+      "title": "University of Texas Women's Basketball vs Harvard",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-harvard",
       "start": "2026-12-29",
       "location": "Austin\\, Texas\\, Moody Center"
     },
@@ -11893,6 +11602,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball vs East Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-east-texas-am-university",
+      "start": "2026-12-30",
+      "location": "Austin\\, Texas\\, Moody Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-31",
@@ -11945,13 +11661,6 @@
       "location": "MS Teams",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-georgia",
-      "start": "2026-12-31",
-      "location": "Athens\\, Ga.\\, Stegeman Coliseum"
     },
     {
       "source": "ut",
@@ -12203,13 +11912,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
-      "start": "2027-01-05",
-      "location": "Athens\\, Georgia"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-06",
@@ -12273,6 +11975,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Basketball at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-georgia-6328",
+      "start": "2027-01-06",
+      "location": "Athens\\, Georgia"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-07",
@@ -12329,13 +12038,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-07",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
-      "start": "2027-01-07",
-      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -12406,6 +12108,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-lamar-2556",
       "start": "2027-01-08",
       "location": "Austin\\, Texas\\, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
+      "start": "2027-01-08",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -12615,13 +12324,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
-      "start": "2027-01-12",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-13",
@@ -12709,6 +12411,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-13",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
+      "start": "2027-01-13",
+      "location": "Austin\\, Texas\\, Moody Center"
     },
     {
       "source": "ut",
@@ -12974,6 +12683,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Tennis at Pepperdine",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-pepperdine",
+      "start": "2027-01-17",
+      "location": "Malibu\\, Calif.\\, Ralph-Straus Tennis Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-18",
@@ -13082,13 +12798,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball at LSU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-lsu-7444",
-      "start": "2027-01-19",
-      "location": "Baton Rouge\\, Louisiana"
-    },
-    {
-      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2027-01-20",
@@ -13156,6 +12865,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-20",
       "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-lsu-7444",
+      "start": "2027-01-20",
+      "location": "Baton Rouge\\, Louisiana"
     },
     {
       "source": "ut",
@@ -13235,13 +12951,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball at Texas A&M  - Cotton Holdings Lone Star Showdown",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-texas-am",
-      "start": "2027-01-21",
-      "location": "College Station\\, Texas\\, Reed Arena"
-    },
-    {
-      "source": "ut",
       "title": "WCAAR Weekly Meeting - Erin Calipari (Vanderbilt)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-erin-calipari-vanderbilt",
       "start": "2027-01-21",
@@ -13256,6 +12965,27 @@
     },
     {
       "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2027-01-22",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-22",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Fortlandia",
+      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2027-01-22",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2027-01-22",
@@ -13263,10 +12993,101 @@
     },
     {
       "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-22",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-01-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Phantom of the Opera",
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-22",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-01-22",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs Eddie Reese Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-eddie-reese-showdown",
+      "start": "2027-01-22",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs Eddie Reese Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-eddie-reese-showdown",
+      "start": "2027-01-22",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITA Kickoff",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-kickoff",
+      "start": "2027-01-22",
+      "location": "Austin\\, Texas\\, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-01-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-01-23",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Fortlandia",
+      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2027-01-23",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-01-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-01-23",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Phantom of the Opera",
+      "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
+      "start": "2027-01-23",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs UNLV",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-unlv",
+      "start": "2027-01-23",
+      "location": "Austin\\, Texas\\, Texas Tennis Center"
     },
     {
       "source": "internal",
