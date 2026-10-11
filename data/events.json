@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-11T12:23:23.138330+00:00",
+  "updated": "2026-10-11T21:40:17.657132+00:00",
   "counts": {
     "public": 19,
     "internal": 169,
-    "ut": 1715
+    "ut": 1714
   },
   "events": [
     {
@@ -1780,13 +1780,6 @@
       "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
       "start": "2026-10-20",
       "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career & Networking Fair By American Solar Energy Society",
-      "url": "https://calendar.utexas.edu/event/career-networking-fair-by-american-solar-energy-society",
-      "start": "2026-10-20",
-      "location": "Palmer Events Center"
     },
     {
       "source": "ut",
