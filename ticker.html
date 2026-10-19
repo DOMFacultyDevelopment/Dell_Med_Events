@@ -271,14 +271,21 @@
 </div>
 
 <script>
-/* ═══════════════════════════════════════════════
-   CONFIG — match the existing ticker's sources
-═══════════════════════════════════════════════ */
+/* ═══════════════════════════════════════════════════════════════════════════
+   CONFIG
+═══════════════════════════════════════════════════════════════════════════ */
 const SOURCES = {
-  public:   { url: 'https://dellmed.utexas.edu/events',           label: 'Public',    track: 'track-public'   },
-  internal: { url: 'https://intranet.dellmed.utexas.edu/events',  label: 'Internal',  track: 'track-internal' },
-  ut:       { url: 'https://calendar.utexas.edu/?school=austin',  label: 'UT Austin', track: 'track-ut'       },
+  public:   { url: 'https://dellmed.utexas.edu/events'          },
+  internal: { url: 'https://intranet.dellmed.utexas.edu/events' },
+  ut:       { url: 'https://calendar.utexas.edu/?school=austin' },
 };
+
+// Pixels-per-second scroll rate — same for all rows so they feel identical.
+// Lower = slower, higher = faster.
+const PX_PER_SEC = 80;
+
+// data/events.json — the single source of truth, rebuilt daily by GitHub Actions.
+const EVENTS_JSON = './data/events.json?ts=' + Date.now();
 
 /* ── Pause/Resume ── */
 let paused = false;
@@ -291,72 +298,49 @@ function togglePause() {
 }
 
 /* ── Date helpers ── */
-
-// Format ISO date string (YYYY-MM-DD) → "Jul 15"
 function fmtISODate(iso) {
   if (!iso) return '';
-  const [y, m, d] = iso.split('-').map(Number);
+  // Parse YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS — take only the date portion
+  const datePart = iso.slice(0, 10);
+  const [y, m, d] = datePart.split('-').map(Number);
   return new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 }
 
-// Format RSS pubDate string → "Jul 15"
-function fmtDate(d) {
-  if (!d) return '';
-  const dt = new Date(d);
-  if (isNaN(dt)) return d;
-  return dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-}
-function fmtTime(d) {
-  if (!d) return '';
-  const dt = new Date(d);
-  if (isNaN(dt)) return '';
-  return dt.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
-}
-
-// Returns true if ISO date string is today or in the future
-function isFutureOrToday(iso) {
-  if (!iso) return true;
-  const [y, m, d] = iso.split('-').map(Number);
-  const evDate = new Date(y, m - 1, d);
-  const today  = new Date();
-  today.setHours(0, 0, 0, 0);
-  return evDate >= today;
+// Today's date as YYYY-MM-DD string in local time (not UTC, avoids timezone drift)
+function todayISO() {
+  const t = new Date();
+  return `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,'0')}-${String(t.getDate()).padStart(2,'0')}`;
 }
 
 /* ── Render a track with event items ── */
-function renderTrack(trackId, events, speed, fallbackUrl) {
+function renderTrack(trackId, events, fallbackUrl) {
   const track = document.getElementById(trackId);
   if (!events || events.length === 0) {
     track.innerHTML = `<span class="event-item error"><span class="dot"></span><span class="ev-title">No upcoming events</span></span>`;
     return;
   }
 
-  const makeItem = (ev) => {
-    const href     = ev.url || fallbackUrl;
-    const dateStr  = ev.isoDate ? fmtISODate(ev.isoDate) : ev.date;
-    const timeStr  = ev.time || '';
-    const locStr   = ev.location ? ` · ${ev.location}` : '';
-    return `<a class="event-item" href="${href}" target="_blank" rel="noopener noreferrer" title="${ev.title}${locStr}">
+  const makeItem = ev => {
+    const href    = ev.url || fallbackUrl;
+    const dateStr = fmtISODate(ev.start || ev.date || '');
+    const locStr  = ev.location ? ` · ${ev.location}` : '';
+    return `<a class="event-item" href="${href}" target="_blank" rel="noopener noreferrer"
+               title="${ev.title}${locStr}">
       <span class="dot"></span>
       <span class="ev-date">${dateStr}</span>
-      ${timeStr ? `<span class="ev-time">${timeStr}</span>` : ''}
+      ${ev.time     ? `<span class="ev-time">${ev.time}</span>`         : ''}
       <span class="ev-title">${ev.title}</span>
-      ${ev.location ? `<span class="ev-loc">📍 ${ev.location}</span>` : ''}
-      ${ev.speaker  ? `<span class="ev-loc">🎤 ${ev.speaker}</span>`  : ''}
-      ${ev.category ? `<span class="ev-cat">${ev.category}</span>` : ''}
+      ${ev.location ? `<span class="ev-loc">📍 ${ev.location}</span>`  : ''}
     </a>`;
   };
 
-  // Double items for seamless loop
-  const html = events.map(makeItem).join('') + events.map(makeItem).join('');
-  track.innerHTML = html;
+  // Double the items so the loop is seamless
+  track.innerHTML = events.map(makeItem).join('') + events.map(makeItem).join('');
 
   requestAnimationFrame(() => {
     const labelW   = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--label-w'));
     const contentW = (track.scrollWidth - labelW) / 2;
-    // speed is pixels-per-second — duration scales with content width
-    // so a row with 10× more events scrolls for 10× longer at the same pace
-    const duration = contentW / speed;
+    const duration = contentW / PX_PER_SEC;
     const styleId  = `kf-${trackId}`;
     let el = document.getElementById(styleId);
     if (!el) { el = document.createElement('style'); el.id = styleId; document.head.appendChild(el); }
@@ -364,134 +348,51 @@ function renderTrack(trackId, events, speed, fallbackUrl) {
       @keyframes scrollLeft-${trackId} {
         0%   { transform: translateX(0); }
         100% { transform: translateX(-${contentW}px); }
-      }
-    `;
+      }`;
     track.style.animation = `scrollLeft-${trackId} ${duration.toFixed(1)}s linear infinite`;
   });
 }
 
-/* ── Load internal events from data/events.json ────────────────────────────
-   This is the master feed built daily by generate_calendar.py (GitHub Action).
-   Schema: { "updated": "...", "events": [ { start, time, title, location, url, source } ] }
-   We filter to source="internal" and upcoming dates only.
-─────────────────────────────────────────────────────────────────────────── */
-async function loadInternalJSON() {
-  try {
-    const res = await fetch('./data/events.json?ts=' + Date.now());
-    if (!res.ok) throw new Error('not found');
-    const json = await res.json();
-    const all  = json.events || json;
-    const today = new Date().toISOString().slice(0, 10);
-    return all
-      .filter(e => e.source === 'internal' && (e.start || '') >= today)
-      .sort((a, b) => (a.start || '').localeCompare(b.start || ''))
-      .map(e => ({
-        title:    e.title    || '',
-        isoDate:  e.start    || '',
-        time:     e.time     || '',
-        location: e.location || '',
-        speaker:  e.speaker  || '',
-        category: e.category || '',
-        url:      e.url      || SOURCES.internal.url,
-      }));
-  } catch (_) { return null; }
-}
-
-/* ── Fetch events via CORS proxy → RSS/iCal ── */
-async function loadFromCalendarPage(sourceKey) {
-  const calUrl = 'https://domfacultydevelopment.github.io/Dell_Med_Events/calendar.html';
-  try {
-    const res = await fetch(calUrl, { mode: 'cors' });
-    if (!res.ok) throw new Error('fetch failed');
-    const text = await res.text();
-    const jsonMatch = text.match(/window\.__EVENTS__\s*=\s*(\[[\s\S]*?\]);/) ||
-                      text.match(/const events\s*=\s*(\[[\s\S]*?\]);/) ||
-                      text.match(/var events\s*=\s*(\[[\s\S]*?\]);/);
-    if (jsonMatch) {
-      const allEvents = JSON.parse(jsonMatch[1]);
-      return allEvents.filter(e => (e.source || '').toLowerCase() === sourceKey);
-    }
-  } catch (e) { /* fall through */ }
-  return null;
-}
-
-async function loadFromRSS(url) {
-  const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url + '/rss')}`;
-  try {
-    const res  = await fetch(proxyUrl);
-    const data = await res.json();
-    if (data.status === 'ok' && data.items?.length) {
-      return data.items.slice(0, 20).map(item => ({
-        title:    item.title,
-        date:     fmtDate(item.pubDate),
-        time:     fmtTime(item.pubDate),
-        category: item.categories?.[0] || '',
-        url:      item.link || '',
-      }));
-    }
-  } catch (e) { /* fall through */ }
-  return null;
-}
-
-// Fallback demo events for public & UT rows only
-const DEMO_EVENTS = {
-  public: [
-    { title: 'Grand Rounds: Cardiology Update',            date: 'Jul 16', time: '12:00 PM', category: 'CME',         url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Department of Medicine Town Hall',           date: 'Jul 17', time: '3:00 PM',  category: 'Operations',  url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Research Symposium — Translational Science', date: 'Jul 18', time: '9:00 AM',  category: 'Research',    url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Clinical Excellence Lecture Series',         date: 'Jul 22', time: '12:00 PM', category: 'CME',         url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Minority Health & Health Equity Conference', date: 'Jul 24', time: '8:00 AM',  category: 'CME',         url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Patient Safety Symposium',                   date: 'Jul 25', time: '1:00 PM',  category: 'Operations',  url: 'https://dellmed.utexas.edu/events' },
-    { title: 'Dell Med Annual Awards Ceremony',            date: 'Aug 1',  time: '5:00 PM',  category: 'Faculty Dev', url: 'https://dellmed.utexas.edu/events' },
-  ],
-  ut: [
-    { title: 'UT Austin: Health & Society Lecture',            date: 'Jul 15', time: '4:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
-    { title: 'Texas Today: College of Natural Sciences Forum', date: 'Jul 17', time: '2:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
-    { title: 'UT: Graduate Research Showcase',                 date: 'Jul 20', time: '10:00 AM', category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
-    { title: 'Longhorn Athletics Academic Series',             date: 'Jul 22', time: '6:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
-    { title: 'UT Faculty Governance Assembly',                 date: 'Jul 24', time: '3:00 PM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
-    { title: 'Texas Today: Research & Innovation Summit',      date: 'Jul 29', time: '9:00 AM',  category: 'UT Austin', url: 'https://calendar.utexas.edu/?school=austin' },
-  ],
-};
-
-/* ── Bootstrap ── */
+/* ══════════════════════════════════════════════════════════════════════════
+   MAIN — load data/events.json once, split by source, filter to today+,
+   sort by date, then render each row.
+   The GitHub Action rebuilds this file daily at 6am UTC, so yesterday's
+   events are automatically gone the next morning.
+══════════════════════════════════════════════════════════════════════════ */
 async function init() {
-  // Pixels-per-second — all rows scroll at this same visual speed.
-  // Increase to scroll faster, decrease to scroll slower.
-  const PX_PER_SEC = 40;
-
-  // ── Public row ──
-  let publicEvents = null;
-  try { publicEvents = await loadFromCalendarPage('public'); } catch (_) {}
-  if (!publicEvents) {
-    try {
-      publicEvents = await loadFromRSS('https://dellmed.utexas.edu/events');
-    } catch (_) {}
+  let allEvents = [];
+  try {
+    const res  = await fetch(EVENTS_JSON);
+    if (!res.ok) throw new Error('fetch failed');
+    const json = await res.json();
+    allEvents  = json.events || json;
+  } catch (_) {
+    // If the fetch fails, show a fallback message in each row
+    ['track-public','track-internal','track-ut'].forEach(id => {
+      document.getElementById(id).innerHTML =
+        `<span class="event-item error"><span class="dot"></span>` +
+        `<span class="ev-title">Could not load events — check data/events.json</span></span>`;
+    });
+    return;
   }
-  if (!publicEvents || publicEvents.length === 0) publicEvents = DEMO_EVENTS.public;
-  renderTrack('track-public', publicEvents, PX_PER_SEC, SOURCES.public.url);
 
-  // ── Internal row — loads from data/internal-events.json ──
-  let internalEvents = await loadInternalJSON();
-  if (!internalEvents || internalEvents.length === 0) {
-    internalEvents = [{
-      title:    'Visit the Dell Med Intranet for upcoming internal events',
-      isoDate:  '', time: '', location: '', category: '',
-      url:      SOURCES.internal.url,
-    }];
-  }
-  renderTrack('track-internal', internalEvents, PX_PER_SEC, SOURCES.internal.url);
+  // Today's date string for filtering (YYYY-MM-DD, local time)
+  const today = todayISO();
 
-  // ── UT Austin row ──
-  let utEvents = null;
-  try { utEvents = await loadFromCalendarPage('ut'); } catch (_) {}
-  if (!utEvents) {
-    try {
-      utEvents = await loadFromRSS('https://calendar.utexas.edu/?school=austin');
-    } catch (_) {}
+  // Helper: filter a source, keep only today-or-future, sort ascending
+  function eventsFor(source) {
+    return allEvents
+      .filter(e => e.source === source && (e.start || e.date || '') >= today)
+      .sort((a, b) => (a.start || a.date || '').localeCompare(b.start || b.date || ''));
   }
-  if (!utEvents || utEvents.length === 0) utEvents = DEMO_EVENTS.ut;
-  renderTrack('track-ut', utEvents, PX_PER_SEC, SOURCES.ut.url);
+
+  const publicEvents   = eventsFor('public');
+  const internalEvents = eventsFor('internal');
+  const utEvents       = eventsFor('ut');
+
+  renderTrack('track-public',   publicEvents,   SOURCES.public.url);
+  renderTrack('track-internal', internalEvents, SOURCES.internal.url);
+  renderTrack('track-ut',       utEvents,       SOURCES.ut.url);
 }
 
 init();
