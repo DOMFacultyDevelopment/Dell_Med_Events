@@ -951,18 +951,40 @@ def main():
         f.write(build_calendar_html(combined))
     print(f"✅ Saved {HTML_FILE}")
 
-    # 6. Write data/events.json (consumed by index.html ticker/list view)
+    # 6. Write data/events.json (consumed by index.html and ticker)
     print("\n📄 Writing data/events.json...")
     import os
     os.makedirs("data", exist_ok=True)
-    ev_list_for_json = [d for ev in combined if (d := ev_to_html_json(ev)) is not None]
+
+    # Convert all events to JSON-ready dicts
+    ev_list_raw = [d for ev in combined if (d := ev_to_html_json(ev)) is not None]
+
+    # ── Strip past events ──────────────────────────────────────────────────
+    # Use today's date in US Central time so the Action (which runs at UTC)
+    # doesn't accidentally drop today's events for Central-time viewers.
+    today_central = datetime.now(tz).date()
+    today_iso     = today_central.isoformat()          # "YYYY-MM-DD"
+
+    ev_list_for_json = []
+    skipped_past     = 0
+    for ev in ev_list_raw:
+        # ev["date"] is always "YYYY-MM-DD"; ev["start"] may be a datetime string
+        ev_date = (ev.get("date") or ev.get("start") or "")[:10]
+        if ev_date >= today_iso:
+            ev_list_for_json.append(ev)
+        else:
+            skipped_past += 1
+
+    # Sort ascending so the ticker and calendar both get chronological order
+    ev_list_for_json.sort(key=lambda e: (e.get("date") or e.get("start") or ""))
+
     json_payload = {
         "updated": datetime.now(timezone.utc).isoformat(),
         "events":  ev_list_for_json,
     }
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(json_payload, f, indent=2, ensure_ascii=False)
-    print(f"✅ Saved {JSON_FILE} ({len(ev_list_for_json)} events)")
+    print(f"✅ Saved {JSON_FILE} ({len(ev_list_for_json)} upcoming events, {skipped_past} past events removed)")
 
     print(f"\n   Live at:")
     print(f"   {GITHUB_BASE}/dell-med-events.ics")
