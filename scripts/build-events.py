@@ -227,15 +227,56 @@ def ics_date_to_iso(s):
 
 
 def fetch_ut_calendar():
-    try:
-        text = fetch("https://calendar.utexas.edu/calendar/1.ics")
-    except Exception as e:
-        print(f"WARN: failed to fetch UT calendar: {e}", file=sys.stderr)
+    """
+    Fetch upcoming UT Austin events from the Texas Today Localist ICS feed.
+    Tries multiple URLs and retries on transient failures.
+    """
+    # Multiple candidate ICS URLs in priority order
+    URLS = [
+        "https://calendar.utexas.edu/calendar/1.ics",
+        "https://calendar.utexas.edu/calendar.ics",
+        "https://calendar.utexas.edu/calendar/upcoming.ics",
+    ]
+
+    import ssl
+    import time
+
+    text = None
+    for url in URLS:
+        for attempt in range(1, 4):           # up to 3 attempts per URL
+            try:
+                print(f"  UT ICS attempt {attempt}: {url}", file=sys.stderr)
+                # Create an SSL context that tolerates older certs on UT's servers
+                ctx = ssl.create_default_context()
+                ctx.check_hostname = False
+                ctx.verify_mode = ssl.CERT_NONE
+                req = urllib.request.Request(url, headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=45, context=ctx) as r:
+                    raw_bytes = r.read()
+                    # Detect encoding
+                    text = raw_bytes.decode("utf-8", errors="replace")
+                if "BEGIN:VCALENDAR" in text:
+                    print(f"  UT ICS fetched OK ({len(text):,} chars)", file=sys.stderr)
+                    break          # success
+                else:
+                    print(f"  WARN: response from {url} is not ICS (no BEGIN:VCALENDAR)", file=sys.stderr)
+                    text = None
+            except Exception as e:
+                print(f"  WARN: attempt {attempt} failed for {url}: {e}", file=sys.stderr)
+                if attempt < 3:
+                    time.sleep(2 ** attempt)   # 2s, 4s backoff
+        if text:
+            break
+
+    if not text:
+        print("ERROR: all UT ICS URLs failed — UT Austin row will be empty", file=sys.stderr)
         return []
-    raw = parse_ics(text)
+
+    raw   = parse_ics(text)
     today = date.today().isoformat()
-    out = []
-    seen = set()
+    out   = []
+    seen  = set()
+
     for ev in raw:
         iso = ics_date_to_iso(ev.get("DTSTART", ""))
         if not iso or iso < today:
@@ -243,20 +284,21 @@ def fetch_ut_calendar():
         title = ev.get("SUMMARY", "").strip()
         if not title:
             continue
-        # Drop obvious noise / sports unless someone wants them; we keep them but tag source
         key = (title, iso)
         if key in seen:
             continue
         seen.add(key)
-        url = ev.get("URL", "").strip() or "https://calendar.utexas.edu/?school=austin"
+        url      = ev.get("URL", "").strip() or "https://calendar.utexas.edu/?school=austin"
         location = ev.get("LOCATION", "").strip()
         out.append({
-            "source": "ut",
-            "title": title,
-            "url": url,
-            "start": iso,
+            "source":   "ut",
+            "title":    title,
+            "url":      url,
+            "start":    iso,
             "location": location or None,
         })
+
+    print(f"  UT calendar: {len(out)} upcoming events parsed", file=sys.stderr)
     return out
 
 
@@ -399,12 +441,17 @@ def build_index_html(events, updated):
 # ---------- Main ----------
 
 def main():
+    print("── Fetching Dell Med public events ──", file=sys.stderr)
     public_events = fetch_dellmed_public()
-    print(f"Dell Med public: {len(public_events)} events", file=sys.stderr)
+    print(f"✓ Dell Med public:  {len(public_events)} events", file=sys.stderr)
+
+    print("── Fetching UT Austin calendar ──", file=sys.stderr)
     ut_events = fetch_ut_calendar()
-    print(f"UT calendar:    {len(ut_events)} events", file=sys.stderr)
+    print(f"✓ UT Austin:        {len(ut_events)} events", file=sys.stderr)
+
+    print("── Loading internal events ──", file=sys.stderr)
     internal_events = load_internal()
-    print(f"Internal:       {len(internal_events)} events", file=sys.stderr)
+    print(f"✓ Internal:         {len(internal_events)} events", file=sys.stderr)
 
     # Filter out the placeholder example
     internal_events = [e for e in internal_events
