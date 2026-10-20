@@ -7,37 +7,34 @@ X-WR-CALNAME:Dell Med Events
 X-WR-CALDESC:Aggregated events from Dell Medical School and UT Austin
 BEGIN:VEVENT
 UID:0-20261020-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/10/20
-LOCATION:MS Teams
+SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/10/20
 URL:https://intranet.dellmed.utexas.edu/event/978795/2026/10/20
 END:VEVENT
 BEGIN:VEVENT
 UID:1-20261020-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:Extraordinary Learning & Teaching: Assessing Clinical Performance (5:15pm – 7:00pm)
-DESCRIPTION:Time: 5:15pm – 7:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031955/
-LOCATION:Zoom
+SUMMARY:Extraordinary Learning & Teaching\, Fall 2026 (5:15pm – 6:30 pm)
+DESCRIPTION:Time: 5:15pm – 6:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031955/
 URL:https://intranet.dellmed.utexas.edu/event/1031955/
 END:VEVENT
 BEGIN:VEVENT
 UID:2-20261020-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/20
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/20
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/10/20
 END:VEVENT
 BEGIN:VEVENT
 UID:3-20261020-public@dell-med-events
-DTSTAMP:20261020T110941Z
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Neurosurgery Grand Rounds: Targeting Therapeutics to Brain Tumor Hotspots (12–1 p.m.)
@@ -47,7 +44,7 @@ URL:https://dellmed.utexas.edu/events/neurosurgery-grand-rounds-targeting-therap
 END:VEVENT
 BEGIN:VEVENT
 UID:4-20261020-public@dell-med-events
-DTSTAMP:20261020T110941Z
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Pediatrics: Quality Week (12–8:30 p.m.)
@@ -56,8 +53,17 @@ LOCATION:Hybrid: Dell Children’s Medical Center Signe Auditorium &amp\; Zoom
 URL:https://dellmed.utexas.edu/events/pediatrics-quality-week-101926
 END:VEVENT
 BEGIN:VEVENT
-UID:5-20261020-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:5-20261020-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2026/10/20
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2026/10/20
+END:VEVENT
+BEGIN:VEVENT
+UID:6-20261020-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:PeriPAN ECHO Series: Medication-Assisted Treatment for Substance Use Disorder (12–1 p.m.)
@@ -66,28 +72,62 @@ LOCATION:Virtual
 URL:https://dellmed.utexas.edu/events/peripan-echo-series-medication-assisted-treatment-for-substance-use-disorder
 END:VEVENT
 BEGIN:VEVENT
-UID:6-20261020-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:7-20261020-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/20
-LOCATION:MS Teams
+SUMMARY:Quality Week 2026: Tuesday Virtual Learning Session (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1051702/
+URL:https://intranet.dellmed.utexas.edu/event/1051702/
+END:VEVENT
+BEGIN:VEVENT
+UID:8-20261020-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/20
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/10/20
 END:VEVENT
 BEGIN:VEVENT
-UID:7-20261021-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:9-20261021-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/10/21
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:Divine Canines: Therapy Dogs Social (11:45am – 12:45 pm)
+DESCRIPTION:Time: 11:45am – 12:45 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1047822/
+URL:https://intranet.dellmed.utexas.edu/event/1047822/
+END:VEVENT
+BEGIN:VEVENT
+UID:10-20261021-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/10/21
 URL:https://intranet.dellmed.utexas.edu/event/864130/2026/10/21
 END:VEVENT
 BEGIN:VEVENT
-UID:8-20261022-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:11-20261021-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Internal Medicine Grand Rounds: Diabetes Care Models in Global Health: Community-Based Approaches from AMPATH (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1048766/
+URL:https://intranet.dellmed.utexas.edu/event/1048766/
+END:VEVENT
+BEGIN:VEVENT
+UID:12-20261021-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Quality Week 2026: Wednesday Virtual Learning Session (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1051703/
+URL:https://intranet.dellmed.utexas.edu/event/1051703/
+END:VEVENT
+BEGIN:VEVENT
+UID:13-20261022-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:AMPATH/MAPAS México Monthly Seminar: Diabetes Task Force Updates (12–1 p.m.)
@@ -96,8 +136,17 @@ LOCATION:Zoom
 URL:https://dellmed.utexas.edu/events/ampath-mapas-méxico-monthly-seminar-october-102226
 END:VEVENT
 BEGIN:VEVENT
-UID:9-20261022-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:14-20261022-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Best Practices in Medical Education Grand Rounds (7:30am – 8:30 am)
+DESCRIPTION:Time: 7:30am – 8:30 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1040424/
+URL:https://intranet.dellmed.utexas.edu/event/1040424/
+END:VEVENT
+BEGIN:VEVENT
+UID:15-20261022-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Best Practices in Medical Education in El Paso: It’s Different on the Border (12–1 p.m.)
@@ -106,38 +155,53 @@ LOCATION:Hybrid: HLB 5.201 &amp\; Zoom
 URL:https://dellmed.utexas.edu/events/grand-rounds-medical-education-in-el-paso-102226
 END:VEVENT
 BEGIN:VEVENT
-UID:10-20261022-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:16-20261022-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/22
-LOCATION:DPRI 3.708A
+SUMMARY:EAP Monthly Mindfulness Workshop (11:45am – 12:15 pm)
+DESCRIPTION:Time: 11:45am – 12:15 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1035363/
+URL:https://intranet.dellmed.utexas.edu/event/1035363/
+END:VEVENT
+BEGIN:VEVENT
+UID:17-20261022-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/22
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/10/22
 END:VEVENT
 BEGIN:VEVENT
-UID:11-20261022-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:18-20261022-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/22
-LOCATION:MS Teams
+SUMMARY:Quality Week 2026: Thursday Virtual Learning Session (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1051704/
+URL:https://intranet.dellmed.utexas.edu/event/1051704/
+END:VEVENT
+BEGIN:VEVENT
+UID:19-20261022-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/22
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/10/22
 END:VEVENT
 BEGIN:VEVENT
-UID:12-20261023-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:20-20261023-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00am)
-DESCRIPTION:Time: 8:00am – 9:00am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/10/23
-LOCATION:Zoom
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/10/23
 URL:https://intranet.dellmed.utexas.edu/event/1018487/2026/10/23
 END:VEVENT
 BEGIN:VEVENT
-UID:13-20261023-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:21-20261023-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Pediatric Grand Rounds: Quality as Strategy (6–7:30 p.m.)
@@ -146,8 +210,8 @@ LOCATION:Dell Children’s Medical Center Signe Auditorium &amp\; Virtual
 URL:https://dellmed.utexas.edu/events/pediatric-grand-rounds-quality-vs-strategy-102326
 END:VEVENT
 BEGIN:VEVENT
-UID:14-20261023-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:22-20261023-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Pediatric Quality Improvement Educational Opportunity (7:30–8:30 a.m.)
@@ -155,18 +219,26 @@ DESCRIPTION:Time: 7:30–8:30 a.m.\nSource: public\nMore info: https://dellmed.u
 URL:https://dellmed.utexas.edu/events/pediatric-quality-improvement-educational-opportunity-1023
 END:VEVENT
 BEGIN:VEVENT
-UID:15-20261023-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:23-20261023-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Quality Improvement Workshop Session 2 (Two-Day Workshop: 10/16 & 10/23) (8:00am – 4:30pm)
-DESCRIPTION:Time: 8:00am – 4:30pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1032085/
-LOCATION:Dell Pediatric Research Institute\, DPI 1.102
+SUMMARY:Quality Improvement Workshop Session 2 (Two-Day Workshop: 10/16 & 10/23) (8:00am – 4:30 pm)
+DESCRIPTION:Time: 8:00am – 4:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1032085/
 URL:https://intranet.dellmed.utexas.edu/event/1032085/
 END:VEVENT
 BEGIN:VEVENT
-UID:16-20261027-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:24-20261023-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Quality Week 2026 - Pediatric Grand Rounds: Quality as Strategy (7:30am – 8:30 am)
+DESCRIPTION:Time: 7:30am – 8:30 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1059163/
+URL:https://intranet.dellmed.utexas.edu/event/1059163/
+END:VEVENT
+BEGIN:VEVENT
+UID:25-20261027-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:CPAN ECHO Series: Depression Assessment Utilizing Collaborative Care Model (9 a.m.)
@@ -175,28 +247,35 @@ LOCATION:Virtual
 URL:https://dellmed.utexas.edu/events/cpan-echo-series-depression-assessment-utilizing-collaborative-care-model
 END:VEVENT
 BEGIN:VEVENT
-UID:17-20261027-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:26-20261027-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:Extraordinary Learning & Teaching: Creating a Culture where Good Character Thrives (5:15pm – 7:00pm)
-DESCRIPTION:Time: 5:15pm – 7:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031958/
-LOCATION:Zoom
+SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/10/27
+URL:https://intranet.dellmed.utexas.edu/event/978795/2026/10/27
+END:VEVENT
+BEGIN:VEVENT
+UID:27-20261027-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Extraordinary Learning & Teaching\, Fall 2026 (5:15pm – 6:30 pm)
+DESCRIPTION:Time: 5:15pm – 6:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031958/
 URL:https://intranet.dellmed.utexas.edu/event/1031958/
 END:VEVENT
 BEGIN:VEVENT
-UID:18-20261027-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:28-20261027-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/27
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/27
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/10/27
 END:VEVENT
 BEGIN:VEVENT
-UID:19-20261027-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:29-20261027-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Neurosurgery Grand Rounds: Stereotactic Neurosurgery for Parkinson’s Disease (12–1 p.m.)
@@ -205,28 +284,62 @@ LOCATION:Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp\; Zoom
 URL:https://dellmed.utexas.edu/events/neurosurgery-grand-rounds-stereotactic-neurosurgery-for-parkinsons-disease
 END:VEVENT
 BEGIN:VEVENT
-UID:20-20261027-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:30-20261027-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/27
-LOCATION:MS Teams
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2026/10/27
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2026/10/27
+END:VEVENT
+BEGIN:VEVENT
+UID:31-20261027-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/27
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/10/27
 END:VEVENT
 BEGIN:VEVENT
-UID:21-20261028-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:32-20261027-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:UT Dell Medicine Brand Launch Celebration (11:00am – 1:00 pm)
+DESCRIPTION:Time: 11:00am – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1043185/
+URL:https://intranet.dellmed.utexas.edu/event/1043185/
+END:VEVENT
+BEGIN:VEVENT
+UID:33-20261028-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2026/10/28
-LOCATION:Zoom
+SUMMARY:Epic Reporting Training Sessions (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1060411/2026/10/28
+URL:https://intranet.dellmed.utexas.edu/event/1060411/2026/10/28
+END:VEVENT
+BEGIN:VEVENT
+UID:34-20261028-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Internal Medicine Grand Rounds: When Should We Vaccinate Against Influenza? (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1055228/
+URL:https://intranet.dellmed.utexas.edu/event/1055228/
+END:VEVENT
+BEGIN:VEVENT
+UID:35-20261028-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2026/10/28
 URL:https://intranet.dellmed.utexas.edu/event/739952/2026/10/28
 END:VEVENT
 BEGIN:VEVENT
-UID:22-20261029-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:36-20261029-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Department of Quantitative and Systems Health Sciences: October Mixer (7–8 a.m.)
@@ -235,8 +348,17 @@ LOCATION:HDB 1.208 Auditorium
 URL:https://dellmed.utexas.edu/events/department-of-quantitative-and-systems-health-sciences-october-mixer
 END:VEVENT
 BEGIN:VEVENT
-UID:23-20261029-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:37-20261029-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department (7:00am – 8:00 am)
+DESCRIPTION:Time: 7:00am – 8:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1034435/
+URL:https://intranet.dellmed.utexas.edu/event/1034435/
+END:VEVENT
+BEGIN:VEVENT
+UID:38-20261029-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department with Kevin Bozic\, M.D. (4–5 p.m.)
@@ -245,28 +367,35 @@ LOCATION:Health Learning Building (HLB 1.111 Auditorium)
 URL:https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-state-of-the-department-1029
 END:VEVENT
 BEGIN:VEVENT
-UID:24-20261029-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:39-20261029-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/29
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/10/29
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/10/29
 END:VEVENT
 BEGIN:VEVENT
-UID:25-20261029-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:40-20261029-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/29
-LOCATION:MS Teams
+SUMMARY:Medical Humanities Reflection Rounds (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1048863/
+URL:https://intranet.dellmed.utexas.edu/event/1048863/
+END:VEVENT
+BEGIN:VEVENT
+UID:41-20261029-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/10/29
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/10/29
 END:VEVENT
 BEGIN:VEVENT
-UID:26-20261102-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:42-20261102-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Mammogram Screenings: 2026 Mammo Mixer (2–4 p.m.)
@@ -275,38 +404,35 @@ LOCATION:UT Health Austin Imaging Center HTB
 URL:https://dellmed.utexas.edu/events/mammogram-screenings-110226
 END:VEVENT
 BEGIN:VEVENT
-UID:27-20261103-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:43-20261103-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/11/03
-LOCATION:MS Teams
-URL:https://intranet.dellmed.utexas.edu/event/978795/2026/11/03
-END:VEVENT
-BEGIN:VEVENT
-UID:28-20261103-internal@dell-med-events
-DTSTAMP:20261020T110941Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Extraordinary Learning & Teaching: Coaching Learners for Performance Improvement (5:15pm – 7:00pm)
-DESCRIPTION:Time: 5:15pm – 7:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031956/
-LOCATION:Zoom
+SUMMARY:Extraordinary Learning & Teaching\, Fall 2026 (5:15pm – 6:30 pm)
+DESCRIPTION:Time: 5:15pm – 6:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031956/
 URL:https://intranet.dellmed.utexas.edu/event/1031956/
 END:VEVENT
 BEGIN:VEVENT
-UID:29-20261103-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:44-20261103-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/03
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/03
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/03
 END:VEVENT
 BEGIN:VEVENT
-UID:30-20261103-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:45-20261103-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Inaugural Child and Adolescent Psychiatry and Behavioral Sciences All Division Meeting: Impact Summit (12:00pm – 1:30 pm)
+DESCRIPTION:Time: 12:00pm – 1:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1055174/
+URL:https://intranet.dellmed.utexas.edu/event/1055174/
+END:VEVENT
+BEGIN:VEVENT
+UID:46-20261103-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:PeriPAN ECHO Series: The ACE Study (8:30 a.m.)
@@ -315,48 +441,62 @@ LOCATION:Virtual
 URL:https://dellmed.utexas.edu/events/peripan-echo-series-the-ace-study
 END:VEVENT
 BEGIN:VEVENT
-UID:31-20261103-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:47-20261103-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/03
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/03
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/03
 END:VEVENT
 BEGIN:VEVENT
-UID:32-20261104-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:48-20261104-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/11/04
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/11/04
 URL:https://intranet.dellmed.utexas.edu/event/864130/2026/11/04
 END:VEVENT
 BEGIN:VEVENT
-UID:33-20261105-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:49-20261104-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:November Pediatric Research Seminar (12:30pm – 1:00 pm)
+DESCRIPTION:Time: 12:30pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038814/
+URL:https://intranet.dellmed.utexas.edu/event/1038814/
+END:VEVENT
+BEGIN:VEVENT
+UID:50-20261105-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30pm)
-DESCRIPTION:Time: 1:30pm – 2:30pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/11/05
-LOCATION:MS Teams
+SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30 pm)
+DESCRIPTION:Time: 1:30pm – 2:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/11/05
 URL:https://intranet.dellmed.utexas.edu/event/993169/2026/11/05
 END:VEVENT
 BEGIN:VEVENT
-UID:34-20261105-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:51-20261105-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/05
-LOCATION:DPRI 3.708A
+SUMMARY:Brand Implementation Office Hours (2:00pm – 3:00 pm)
+DESCRIPTION:Time: 2:00pm – 3:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1059681/2026/11/05
+URL:https://intranet.dellmed.utexas.edu/event/1059681/2026/11/05
+END:VEVENT
+BEGIN:VEVENT
+UID:52-20261105-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/05
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/05
 END:VEVENT
 BEGIN:VEVENT
-UID:35-20261105-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:53-20261105-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Research Nuts & Bolts: Animal Care and Use Program (8:30 a.m.)
@@ -365,28 +505,26 @@ LOCATION:Zoom
 URL:https://dellmed.utexas.edu/events/research-nuts-bolts-clinical-trial-and-study-design
 END:VEVENT
 BEGIN:VEVENT
-UID:36-20261105-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:54-20261105-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/05
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/05
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/05
 END:VEVENT
 BEGIN:VEVENT
-UID:37-20261106-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:55-20261106-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00am)
-DESCRIPTION:Time: 8:00am – 9:00am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/11/06
-LOCATION:Zoom
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/11/06
 URL:https://intranet.dellmed.utexas.edu/event/1018487/2026/11/06
 END:VEVENT
 BEGIN:VEVENT
-UID:38-20261106-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:56-20261106-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Pediatric Grand Rounds: A Primer on Occult Spinal Dysraphism (10–11 a.m.)
@@ -395,8 +533,8 @@ LOCATION:Hybrid: Dell Children’s Medical Center Signe Auditorium &amp\; Zoom
 URL:https://dellmed.utexas.edu/events/pediatric-grand-rounds-a-primer-on-occult-spinal-dysraphism
 END:VEVENT
 BEGIN:VEVENT
-UID:39-20261109-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:57-20261109-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Health Social Work Grand Rounds: Health Equity (7:30–8:30 a.m.)
@@ -405,8 +543,8 @@ LOCATION:HDB 1.208 Auditorium &amp\; Zoom
 URL:https://dellmed.utexas.edu/events/health-social-work-grand-rounds-health-equity
 END:VEVENT
 BEGIN:VEVENT
-UID:40-20261110-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:58-20261110-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:CPAN Series: What Every PCP Should Know About Behavior Disorders in Early Childhood (12–1 p.m.)
@@ -415,58 +553,71 @@ LOCATION:Virtual
 URL:https://dellmed.utexas.edu/events/cpan-series-what-every-pcp-should-know-about-behavior-disorders-in-early-childhood
 END:VEVENT
 BEGIN:VEVENT
-UID:41-20261110-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:59-20261110-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/10
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/10
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/10
 END:VEVENT
 BEGIN:VEVENT
-UID:42-20261110-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:60-20261110-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/10
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/10
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/10
 END:VEVENT
 BEGIN:VEVENT
-UID:43-20261111-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:61-20261111-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00pm)
-DESCRIPTION:Time: 4:00pm – 5:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026260/
-LOCATION:HDB 6.110 or Zoom
+SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00 pm)
+DESCRIPTION:Time: 4:00pm – 5:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026260/
 URL:https://intranet.dellmed.utexas.edu/event/1026260/
 END:VEVENT
 BEGIN:VEVENT
-UID:44-20261111-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:62-20261111-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2026/11/11
-LOCATION:Zoom
+SUMMARY:Epic Reporting Training Sessions (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1060411/2026/11/11
+URL:https://intranet.dellmed.utexas.edu/event/1060411/2026/11/11
+END:VEVENT
+BEGIN:VEVENT
+UID:63-20261111-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2026/11/11
 URL:https://intranet.dellmed.utexas.edu/event/739952/2026/11/11
 END:VEVENT
 BEGIN:VEVENT
-UID:45-20261112-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:64-20261112-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/12
-LOCATION:DPRI 3.708A
+SUMMARY:Brand Implementation Office Hours (2:00pm – 3:00 pm)
+DESCRIPTION:Time: 2:00pm – 3:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1059681/2026/11/12
+URL:https://intranet.dellmed.utexas.edu/event/1059681/2026/11/12
+END:VEVENT
+BEGIN:VEVENT
+UID:65-20261112-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/12
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/12
 END:VEVENT
 BEGIN:VEVENT
-UID:46-20261112-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:66-20261112-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Research Nuts & Bolts: Unanticipated Problems (12–1 p.m.)
@@ -475,118 +626,134 @@ LOCATION:Zoom
 URL:https://dellmed.utexas.edu/events/research-nuts-bolts-unanticipated-problems-11-12
 END:VEVENT
 BEGIN:VEVENT
-UID:47-20261112-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:67-20261112-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/12
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/12
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/12
 END:VEVENT
 BEGIN:VEVENT
-UID:48-20261117-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:68-20261117-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/11/17
-LOCATION:MS Teams
-URL:https://intranet.dellmed.utexas.edu/event/978795/2026/11/17
+SUMMARY:Department of Family Medicine Grand Rounds (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/870076/
+URL:https://intranet.dellmed.utexas.edu/event/870076/
 END:VEVENT
 BEGIN:VEVENT
-UID:49-20261117-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:69-20261117-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Extraordinary Learning & Teaching: Teaching Clinical Reasoning (5:15pm – 7:00pm)
-DESCRIPTION:Time: 5:15pm – 7:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031957/
-LOCATION:Zoom
+SUMMARY:Extraordinary Learning & Teaching\, Fall 2026 (5:15pm – 6:30 pm)
+DESCRIPTION:Time: 5:15pm – 6:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1031957/
 URL:https://intranet.dellmed.utexas.edu/event/1031957/
 END:VEVENT
 BEGIN:VEVENT
-UID:50-20261117-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:70-20261117-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/17
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/17
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/17
 END:VEVENT
 BEGIN:VEVENT
-UID:51-20261117-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:71-20261117-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/17
-LOCATION:MS Teams
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2026/11/17
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2026/11/17
+END:VEVENT
+BEGIN:VEVENT
+UID:72-20261117-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/17
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/17
 END:VEVENT
 BEGIN:VEVENT
-UID:52-20261118-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:73-20261118-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/11/18
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/11/18
 URL:https://intranet.dellmed.utexas.edu/event/864130/2026/11/18
 END:VEVENT
 BEGIN:VEVENT
-UID:53-20261119-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:74-20261119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30pm)
-DESCRIPTION:Time: 1:30pm – 2:30pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/11/19
-LOCATION:MS Teams
+SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30 pm)
+DESCRIPTION:Time: 1:30pm – 2:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/11/19
 URL:https://intranet.dellmed.utexas.edu/event/993169/2026/11/19
 END:VEVENT
 BEGIN:VEVENT
-UID:54-20261119-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:75-20261119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/19
-LOCATION:DPRI 3.708A
+SUMMARY:Brand Implementation Office Hours (2:00pm – 3:00 pm)
+DESCRIPTION:Time: 2:00pm – 3:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1059681/2026/11/19
+URL:https://intranet.dellmed.utexas.edu/event/1059681/2026/11/19
+END:VEVENT
+BEGIN:VEVENT
+UID:76-20261119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:EAP Monthly Mindfulness Workshop (11:45am – 12:15 pm)
+DESCRIPTION:Time: 11:45am – 12:15 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1035364/
+URL:https://intranet.dellmed.utexas.edu/event/1035364/
+END:VEVENT
+BEGIN:VEVENT
+UID:77-20261119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/19
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/19
 END:VEVENT
 BEGIN:VEVENT
-UID:55-20261119-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:78-20261119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2026/11/19
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2026/11/19
 URL:https://intranet.dellmed.utexas.edu/event/766328/2026/11/19
 END:VEVENT
 BEGIN:VEVENT
-UID:56-20261119-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:79-20261119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19
 END:VEVENT
 BEGIN:VEVENT
-UID:57-20261120-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:80-20261120-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00am)
-DESCRIPTION:Time: 8:00am – 9:00am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/11/20
-LOCATION:Zoom
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/11/20
 URL:https://intranet.dellmed.utexas.edu/event/1018487/2026/11/20
 END:VEVENT
 BEGIN:VEVENT
-UID:58-20261124-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:81-20261124-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:CPAN ECHO Series: Psychological vs. Neuropsychological Assessment (10–11 a.m.)
@@ -595,48 +762,44 @@ LOCATION:Virtual
 URL:https://dellmed.utexas.edu/events/cpan-echo-series-psychological-vs-neuropsychological-assessment
 END:VEVENT
 BEGIN:VEVENT
-UID:59-20261124-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:82-20261124-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/24
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/24
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/24
 END:VEVENT
 BEGIN:VEVENT
-UID:60-20261124-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:83-20261124-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24
 END:VEVENT
 BEGIN:VEVENT
-UID:61-20261126-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:84-20261126-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/26
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/11/26
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/11/26
 END:VEVENT
 BEGIN:VEVENT
-UID:62-20261126-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:85-20261126-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/26
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/11/26
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/11/26
 END:VEVENT
 BEGIN:VEVENT
-UID:63-20261130-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:86-20261130-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:HTRI in Partnership With Texas Biologics Open House (12–1 p.m.)
@@ -645,38 +808,26 @@ LOCATION:Health Discovery Building Auditorium (HDB 1.208)
 URL:https://dellmed.utexas.edu/events/htri-in-partnership-with-texas-biologics-open-house
 END:VEVENT
 BEGIN:VEVENT
-UID:64-20261201-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:87-20261201-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2026/12/01
-LOCATION:Zoom
+SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2026/12/01
 URL:https://intranet.dellmed.utexas.edu/event/751984/2026/12/01
 END:VEVENT
 BEGIN:VEVENT
-UID:65-20261201-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:88-20261201-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/12/01
-LOCATION:MS Teams
-URL:https://intranet.dellmed.utexas.edu/event/978795/2026/12/01
-END:VEVENT
-BEGIN:VEVENT
-UID:66-20261201-internal@dell-med-events
-DTSTAMP:20261020T110941Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/01
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/01
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/01
 END:VEVENT
 BEGIN:VEVENT
-UID:67-20261201-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:89-20261201-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:PeriPAN ECHO Series: Supporting Women in Recovery During the Holiday Season (5–6:30 p.m.)
@@ -685,98 +836,116 @@ LOCATION:Virtual
 URL:https://dellmed.utexas.edu/events/peripan-echo-series-supporting-women-in-recovery-during-the-holiday-season
 END:VEVENT
 BEGIN:VEVENT
-UID:68-20261201-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:90-20261201-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/01
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/01
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/01
 END:VEVENT
 BEGIN:VEVENT
-UID:69-20261202-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:91-20261202-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/12/02
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:Datathon Series: Workshop 1 (9:30am – 3:30 pm)
+DESCRIPTION:Time: 9:30am – 3:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1060720/
+URL:https://intranet.dellmed.utexas.edu/event/1060720/
+END:VEVENT
+BEGIN:VEVENT
+UID:92-20261202-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/12/02
 URL:https://intranet.dellmed.utexas.edu/event/864130/2026/12/02
 END:VEVENT
 BEGIN:VEVENT
-UID:70-20261203-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:93-20261203-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30pm)
-DESCRIPTION:Time: 1:30pm – 2:30pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/12/03
-LOCATION:MS Teams
+SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30 pm)
+DESCRIPTION:Time: 1:30pm – 2:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/12/03
 URL:https://intranet.dellmed.utexas.edu/event/993169/2026/12/03
 END:VEVENT
 BEGIN:VEVENT
-UID:71-20261203-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:94-20261203-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/03
-LOCATION:DPRI 3.708A
+SUMMARY:Brand Implementation Office Hours (2:00pm – 3:00 pm)
+DESCRIPTION:Time: 2:00pm – 3:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1059681/2026/12/03
+URL:https://intranet.dellmed.utexas.edu/event/1059681/2026/12/03
+END:VEVENT
+BEGIN:VEVENT
+UID:95-20261203-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/03
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/03
 END:VEVENT
 BEGIN:VEVENT
-UID:72-20261203-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:96-20261203-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/03
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/03
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/03
 END:VEVENT
 BEGIN:VEVENT
-UID:73-20261204-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:97-20261204-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00am)
-DESCRIPTION:Time: 8:00am – 9:00am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/12/04
-LOCATION:Zoom
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/12/04
 URL:https://intranet.dellmed.utexas.edu/event/1018487/2026/12/04
 END:VEVENT
 BEGIN:VEVENT
-UID:74-20261208-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:98-20261208-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/08
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/08
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/08
 END:VEVENT
 BEGIN:VEVENT
-UID:75-20261208-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:99-20261208-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/08
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/08
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/08
 END:VEVENT
 BEGIN:VEVENT
-UID:76-20261209-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:100-20261209-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00pm)
-DESCRIPTION:Time: 4:00pm – 5:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026267/
-LOCATION:HDB 6.110 or Zoom
+SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00 pm)
+DESCRIPTION:Time: 4:00pm – 5:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026267/
 URL:https://intranet.dellmed.utexas.edu/event/1026267/
 END:VEVENT
 BEGIN:VEVENT
-UID:77-20261210-public@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:101-20261209-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2026/12/09
+URL:https://intranet.dellmed.utexas.edu/event/739952/2026/12/09
+END:VEVENT
+BEGIN:VEVENT
+UID:102-20261210-public@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:2026 Pediatric to Adult Cardio AI Conference: Digital Twins (12–1 p.m.)
@@ -785,1033 +954,1470 @@ LOCATION:AT&amp\;T Executive Education and Conference Center
 URL:https://dellmed.utexas.edu/events/peds-cardio-ai-conference-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:78-20261210-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:103-20261210-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/10
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/10
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/10
 END:VEVENT
 BEGIN:VEVENT
-UID:79-20261210-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:104-20261210-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10
 END:VEVENT
 BEGIN:VEVENT
-UID:80-20261215-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:105-20261215-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Cybersecurity Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/978795/2026/12/15
-LOCATION:MS Teams
-URL:https://intranet.dellmed.utexas.edu/event/978795/2026/12/15
-END:VEVENT
-BEGIN:VEVENT
-UID:81-20261215-internal@dell-med-events
-DTSTAMP:20261020T110941Z
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/15
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/15
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/15
 END:VEVENT
 BEGIN:VEVENT
-UID:82-20261215-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:106-20261215-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/15
-LOCATION:MS Teams
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2026/12/15
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2026/12/15
+END:VEVENT
+BEGIN:VEVENT
+UID:107-20261215-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/15
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/15
 END:VEVENT
 BEGIN:VEVENT
-UID:83-20261216-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:108-20261216-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/12/16
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/12/16
 URL:https://intranet.dellmed.utexas.edu/event/864130/2026/12/16
 END:VEVENT
 BEGIN:VEVENT
-UID:84-20261217-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:109-20261217-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30pm)
-DESCRIPTION:Time: 1:30pm – 2:30pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/12/17
-LOCATION:MS Teams
+SUMMARY:Bi-Monthly Office of Research Office Hours (1:30pm – 2:30 pm)
+DESCRIPTION:Time: 1:30pm – 2:30 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/993169/2026/12/17
 URL:https://intranet.dellmed.utexas.edu/event/993169/2026/12/17
 END:VEVENT
 BEGIN:VEVENT
-UID:85-20261217-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:110-20261217-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/17
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/17
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/17
 END:VEVENT
 BEGIN:VEVENT
-UID:86-20261217-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:111-20261217-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2026/12/17
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2026/12/17
 URL:https://intranet.dellmed.utexas.edu/event/766328/2026/12/17
 END:VEVENT
 BEGIN:VEVENT
-UID:87-20261217-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:112-20261217-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17
 END:VEVENT
 BEGIN:VEVENT
-UID:88-20261218-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:113-20261218-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00am)
-DESCRIPTION:Time: 8:00am – 9:00am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/12/18
-LOCATION:Zoom
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2026/12/18
 URL:https://intranet.dellmed.utexas.edu/event/1018487/2026/12/18
 END:VEVENT
 BEGIN:VEVENT
-UID:89-20261222-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:114-20261222-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/22
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/22
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/22
 END:VEVENT
 BEGIN:VEVENT
-UID:90-20261222-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:115-20261222-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/22
-LOCATION:MS Teams
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2026/12/22
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2026/12/22
+END:VEVENT
+BEGIN:VEVENT
+UID:116-20261222-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/22
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/22
 END:VEVENT
 BEGIN:VEVENT
-UID:91-20261224-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:117-20261224-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/24
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/24
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/24
 END:VEVENT
 BEGIN:VEVENT
-UID:92-20261224-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:118-20261224-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24
 END:VEVENT
 BEGIN:VEVENT
-UID:93-20261229-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:119-20261229-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/29
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/29
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/29
 END:VEVENT
 BEGIN:VEVENT
-UID:94-20261229-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:120-20261229-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/29
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/29
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/29
 END:VEVENT
 BEGIN:VEVENT
-UID:95-20261230-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:121-20261230-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/12/30
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2026/12/30
 URL:https://intranet.dellmed.utexas.edu/event/864130/2026/12/30
 END:VEVENT
 BEGIN:VEVENT
-UID:96-20261231-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:122-20261231-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/31
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2026/12/31
 URL:https://intranet.dellmed.utexas.edu/event/864131/2026/12/31
 END:VEVENT
 BEGIN:VEVENT
-UID:97-20261231-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:123-20261231-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00pm)
-DESCRIPTION:Time: 11:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31
-LOCATION:MS Teams
+SUMMARY:Talent Acquisition Office Hours (11:00am – 12:00 pm)
+DESCRIPTION:Time: 11:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31
 URL:https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31
 END:VEVENT
 BEGIN:VEVENT
-UID:98-20270105-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:124-20270105-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/05
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/05
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/05
 END:VEVENT
 BEGIN:VEVENT
-UID:99-20270107-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:125-20270106-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2027/01/06
+URL:https://intranet.dellmed.utexas.edu/event/739952/2027/01/06
+END:VEVENT
+BEGIN:VEVENT
+UID:126-20270107-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/07
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/07
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/07
 END:VEVENT
 BEGIN:VEVENT
-UID:100-20270112-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:127-20270112-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/12
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/12
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/12
 END:VEVENT
 BEGIN:VEVENT
-UID:101-20270113-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:128-20270113-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00pm)
-DESCRIPTION:Time: 4:00pm – 5:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026268/
-LOCATION:HDB 6.110 or Zoom
+SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00 pm)
+DESCRIPTION:Time: 4:00pm – 5:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026268/
 URL:https://intranet.dellmed.utexas.edu/event/1026268/
 END:VEVENT
 BEGIN:VEVENT
-UID:102-20270113-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:129-20270113-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/01/13
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/01/13
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/01/13
 END:VEVENT
 BEGIN:VEVENT
-UID:103-20270114-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:130-20270114-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/14
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/14
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/14
 END:VEVENT
 BEGIN:VEVENT
-UID:104-20270119-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:131-20270115-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2027/01/15
+URL:https://intranet.dellmed.utexas.edu/event/1018487/2027/01/15
+END:VEVENT
+BEGIN:VEVENT
+UID:132-20270119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/19
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/19
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/19
 END:VEVENT
 BEGIN:VEVENT
-UID:105-20270121-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:133-20270119-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/01/19
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/01/19
+END:VEVENT
+BEGIN:VEVENT
+UID:134-20270120-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2027/01/20
+URL:https://intranet.dellmed.utexas.edu/event/739952/2027/01/20
+END:VEVENT
+BEGIN:VEVENT
+UID:135-20270121-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/21
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/21
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/21
 END:VEVENT
 BEGIN:VEVENT
-UID:106-20270121-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:136-20270121-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/01/21
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/01/21
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/01/21
 END:VEVENT
 BEGIN:VEVENT
-UID:107-20270126-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:137-20270122-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Dell Med Staff Connect: Meet. Share. Build Connections. (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1060523/
+URL:https://intranet.dellmed.utexas.edu/event/1060523/
+END:VEVENT
+BEGIN:VEVENT
+UID:138-20270126-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/26
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/26
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/26
 END:VEVENT
 BEGIN:VEVENT
-UID:108-20270127-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:139-20270126-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/01/26
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/01/26
+END:VEVENT
+BEGIN:VEVENT
+UID:140-20270127-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/01/27
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/01/27
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/01/27
 END:VEVENT
 BEGIN:VEVENT
-UID:109-20270128-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:141-20270128-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/28
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/01/28
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/01/28
 END:VEVENT
 BEGIN:VEVENT
-UID:110-20270202-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:142-20270129-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Office of Faculty Academic Affairs: Friday Office Hours (8:00am – 9:00 am)
+DESCRIPTION:Time: 8:00am – 9:00 am\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1018487/2027/01/29
+URL:https://intranet.dellmed.utexas.edu/event/1018487/2027/01/29
+END:VEVENT
+BEGIN:VEVENT
+UID:143-20270202-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/02
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/02
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/02
 END:VEVENT
 BEGIN:VEVENT
-UID:111-20270204-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:144-20270203-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Office of Faculty Academic Affairs: Wednesday Office Hours (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/739952/2027/02/03
+URL:https://intranet.dellmed.utexas.edu/event/739952/2027/02/03
+END:VEVENT
+BEGIN:VEVENT
+UID:145-20270204-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/04
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/04
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/04
 END:VEVENT
 BEGIN:VEVENT
-UID:112-20270209-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:146-20270209-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/09
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/09
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/09
 END:VEVENT
 BEGIN:VEVENT
-UID:113-20270210-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:147-20270210-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/02/10
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/02/10
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/02/10
 END:VEVENT
 BEGIN:VEVENT
-UID:114-20270211-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:148-20270211-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/11
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/11
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/11
 END:VEVENT
 BEGIN:VEVENT
-UID:115-20270216-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:149-20270216-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/16
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/16
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/16
 END:VEVENT
 BEGIN:VEVENT
-UID:116-20270217-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:150-20270216-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/02/16
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/02/16
+END:VEVENT
+BEGIN:VEVENT
+UID:151-20270217-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
-SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00pm)
-DESCRIPTION:Time: 4:00pm – 5:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026269/
-LOCATION:HDB 6.110 or Zoom
+SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00 pm)
+DESCRIPTION:Time: 4:00pm – 5:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026269/
 URL:https://intranet.dellmed.utexas.edu/event/1026269/
 END:VEVENT
 BEGIN:VEVENT
-UID:117-20270218-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:152-20270218-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/18
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/18
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/18
 END:VEVENT
 BEGIN:VEVENT
-UID:118-20270218-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:153-20270218-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/02/18
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/02/18
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/02/18
 END:VEVENT
 BEGIN:VEVENT
-UID:119-20270223-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:154-20270223-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/23
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/23
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/23
 END:VEVENT
 BEGIN:VEVENT
-UID:120-20270224-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:155-20270223-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/02/23
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/02/23
+END:VEVENT
+BEGIN:VEVENT
+UID:156-20270224-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/02/24
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/02/24
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/02/24
 END:VEVENT
 BEGIN:VEVENT
-UID:121-20270225-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:157-20270225-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/25
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/02/25
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/02/25
 END:VEVENT
 BEGIN:VEVENT
-UID:122-20270302-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:158-20270302-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2027/03/02
-LOCATION:Zoom
+SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2027/03/02
 URL:https://intranet.dellmed.utexas.edu/event/751984/2027/03/02
 END:VEVENT
 BEGIN:VEVENT
-UID:123-20270302-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:159-20270302-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/02
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/02
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/02
 END:VEVENT
 BEGIN:VEVENT
-UID:124-20270304-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:160-20270304-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/04
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/04
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/04
 END:VEVENT
 BEGIN:VEVENT
-UID:125-20270309-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:161-20270309-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/09
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/09
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/09
 END:VEVENT
 BEGIN:VEVENT
-UID:126-20270310-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:162-20270310-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00pm)
-DESCRIPTION:Time: 4:00pm – 5:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026270/
-LOCATION:HDB 6.110 or Zoom
+SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00 pm)
+DESCRIPTION:Time: 4:00pm – 5:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026270/
 URL:https://intranet.dellmed.utexas.edu/event/1026270/
 END:VEVENT
 BEGIN:VEVENT
-UID:127-20270310-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:163-20270310-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/03/10
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/03/10
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/03/10
 END:VEVENT
 BEGIN:VEVENT
-UID:128-20270311-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:164-20270311-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/11
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/11
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/11
 END:VEVENT
 BEGIN:VEVENT
-UID:129-20270316-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:165-20270316-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/16
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/16
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/16
 END:VEVENT
 BEGIN:VEVENT
-UID:130-20270318-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:166-20270316-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/03/16
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/03/16
+END:VEVENT
+BEGIN:VEVENT
+UID:167-20270318-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/18
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/18
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/18
 END:VEVENT
 BEGIN:VEVENT
-UID:131-20270318-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:168-20270318-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/03/18
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/03/18
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/03/18
 END:VEVENT
 BEGIN:VEVENT
-UID:132-20270323-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:169-20270323-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/23
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/23
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/23
 END:VEVENT
 BEGIN:VEVENT
-UID:133-20270324-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:170-20270323-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/03/23
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/03/23
+END:VEVENT
+BEGIN:VEVENT
+UID:171-20270324-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/03/24
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/03/24
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/03/24
 END:VEVENT
 BEGIN:VEVENT
-UID:134-20270325-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:172-20270325-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/25
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/25
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/25
 END:VEVENT
 BEGIN:VEVENT
-UID:135-20270330-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:173-20270330-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/30
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/03/30
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/03/30
 END:VEVENT
 BEGIN:VEVENT
-UID:136-20270401-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:174-20270401-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/01
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/01
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/01
 END:VEVENT
 BEGIN:VEVENT
-UID:137-20270406-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:175-20270406-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/06
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/06
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/06
 END:VEVENT
 BEGIN:VEVENT
-UID:138-20270407-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:176-20270407-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00pm)
-DESCRIPTION:Time: 4:00pm – 5:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026271/
-LOCATION:HDB 6.110 or Zoom
+SUMMARY:DSPC Discovery and Investigation Seminar Series (4:00pm – 5:00 pm)
+DESCRIPTION:Time: 4:00pm – 5:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1026271/
 URL:https://intranet.dellmed.utexas.edu/event/1026271/
 END:VEVENT
 BEGIN:VEVENT
-UID:139-20270407-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:177-20270407-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/04/07
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/04/07
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/04/07
 END:VEVENT
 BEGIN:VEVENT
-UID:140-20270408-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:178-20270408-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/08
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/08
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/08
 END:VEVENT
 BEGIN:VEVENT
-UID:141-20270413-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:179-20270413-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/13
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/13
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/13
 END:VEVENT
 BEGIN:VEVENT
-UID:142-20270415-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:180-20270415-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/15
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/15
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/15
 END:VEVENT
 BEGIN:VEVENT
-UID:143-20270415-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:181-20270415-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/04/15
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/04/15
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/04/15
 END:VEVENT
 BEGIN:VEVENT
-UID:144-20270420-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:182-20270420-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/20
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/20
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/20
 END:VEVENT
 BEGIN:VEVENT
-UID:145-20270421-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:183-20270420-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/04/20
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/04/20
+END:VEVENT
+BEGIN:VEVENT
+UID:184-20270421-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/04/21
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/04/21
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/04/21
 END:VEVENT
 BEGIN:VEVENT
-UID:146-20270422-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:185-20270422-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/22
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/22
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/22
 END:VEVENT
 BEGIN:VEVENT
-UID:147-20270427-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:186-20270427-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/27
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/27
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/27
 END:VEVENT
 BEGIN:VEVENT
-UID:148-20270429-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:187-20270427-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/04/27
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/04/27
+END:VEVENT
+BEGIN:VEVENT
+UID:188-20270429-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/29
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/04/29
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/04/29
 END:VEVENT
 BEGIN:VEVENT
-UID:149-20270504-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:189-20270504-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/04
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/04
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/04
 END:VEVENT
 BEGIN:VEVENT
-UID:150-20270505-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:190-20270505-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/05/05
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/05/05
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/05/05
 END:VEVENT
 BEGIN:VEVENT
-UID:151-20270506-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:191-20270506-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/06
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/06
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/06
 END:VEVENT
 BEGIN:VEVENT
-UID:152-20270511-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:192-20270511-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/11
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/11
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/11
 END:VEVENT
 BEGIN:VEVENT
-UID:153-20270513-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:193-20270513-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/13
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/13
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/13
 END:VEVENT
 BEGIN:VEVENT
-UID:154-20270518-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:194-20270518-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/18
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/18
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/18
 END:VEVENT
 BEGIN:VEVENT
-UID:155-20270519-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:195-20270518-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/05/18
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/05/18
+END:VEVENT
+BEGIN:VEVENT
+UID:196-20270519-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/05/19
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/05/19
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/05/19
 END:VEVENT
 BEGIN:VEVENT
-UID:156-20270520-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:197-20270520-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/20
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/20
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/20
 END:VEVENT
 BEGIN:VEVENT
-UID:157-20270520-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:198-20270520-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/05/20
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/05/20
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/05/20
 END:VEVENT
 BEGIN:VEVENT
-UID:158-20270525-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:199-20270525-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/25
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/25
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/25
 END:VEVENT
 BEGIN:VEVENT
-UID:159-20270527-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:200-20270525-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/05/25
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/05/25
+END:VEVENT
+BEGIN:VEVENT
+UID:201-20270527-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/27
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/05/27
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/05/27
 END:VEVENT
 BEGIN:VEVENT
-UID:160-20270601-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:202-20270601-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2027/06/01
-LOCATION:Zoom
+SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2027/06/01
 URL:https://intranet.dellmed.utexas.edu/event/751984/2027/06/01
 END:VEVENT
 BEGIN:VEVENT
-UID:161-20270601-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:203-20270601-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/01
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/01
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/01
 END:VEVENT
 BEGIN:VEVENT
-UID:162-20270602-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:204-20270602-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/06/02
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/06/02
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/06/02
 END:VEVENT
 BEGIN:VEVENT
-UID:163-20270603-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:205-20270603-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/03
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/03
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/03
 END:VEVENT
 BEGIN:VEVENT
-UID:164-20270608-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:206-20270608-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/08
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/08
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/08
 END:VEVENT
 BEGIN:VEVENT
-UID:165-20270610-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:207-20270610-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/10
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/10
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/10
 END:VEVENT
 BEGIN:VEVENT
-UID:166-20270615-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:208-20270615-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/15
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/15
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/15
 END:VEVENT
 BEGIN:VEVENT
-UID:167-20270616-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:209-20270615-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/06/15
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/06/15
+END:VEVENT
+BEGIN:VEVENT
+UID:210-20270616-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/06/16
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/06/16
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/06/16
 END:VEVENT
 BEGIN:VEVENT
-UID:168-20270617-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:211-20270617-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/17
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/17
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/17
 END:VEVENT
 BEGIN:VEVENT
-UID:169-20270617-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:212-20270617-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/06/17
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/06/17
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/06/17
 END:VEVENT
 BEGIN:VEVENT
-UID:170-20270622-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:213-20270622-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/22
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/22
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/22
 END:VEVENT
 BEGIN:VEVENT
-UID:171-20270624-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:214-20270622-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/06/22
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/06/22
+END:VEVENT
+BEGIN:VEVENT
+UID:215-20270624-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/24
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/24
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/24
 END:VEVENT
 BEGIN:VEVENT
-UID:172-20270629-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:216-20270629-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/29
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/06/29
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/06/29
 END:VEVENT
 BEGIN:VEVENT
-UID:173-20270630-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:217-20270630-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/06/30
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/06/30
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/06/30
 END:VEVENT
 BEGIN:VEVENT
-UID:174-20270701-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:218-20270701-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/01
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/01
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/01
 END:VEVENT
 BEGIN:VEVENT
-UID:175-20270706-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:219-20270706-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/06
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/06
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/06
 END:VEVENT
 BEGIN:VEVENT
-UID:176-20270708-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:220-20270708-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/08
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/08
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/08
 END:VEVENT
 BEGIN:VEVENT
-UID:177-20270713-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:221-20270713-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/13
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/13
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/13
 END:VEVENT
 BEGIN:VEVENT
-UID:178-20270714-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:222-20270714-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00pm)
-DESCRIPTION:Time: 3:00pm – 4:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/07/14
-LOCATION:HDB 8.000 & Zoom
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/07/14
 URL:https://intranet.dellmed.utexas.edu/event/864130/2027/07/14
 END:VEVENT
 BEGIN:VEVENT
-UID:179-20270715-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:223-20270715-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
-SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00pm)
-DESCRIPTION:Time: 8:00am – 12:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/15
-LOCATION:DPRI 3.708A
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/15
 URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/15
 END:VEVENT
 BEGIN:VEVENT
-UID:180-20270715-internal@dell-med-events
-DTSTAMP:20261020T110941Z
+UID:224-20270715-internal@dell-med-events
+DTSTAMP:20261020T134535Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
-SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00pm)
-DESCRIPTION:Time: 12:00pm – 1:00pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/07/15
-LOCATION:Zoom
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/07/15
 URL:https://intranet.dellmed.utexas.edu/event/766328/2027/07/15
+END:VEVENT
+BEGIN:VEVENT
+UID:225-20270720-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/20
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/20
+END:VEVENT
+BEGIN:VEVENT
+UID:226-20270720-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/07/20
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/07/20
+END:VEVENT
+BEGIN:VEVENT
+UID:227-20270722-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/22
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/22
+END:VEVENT
+BEGIN:VEVENT
+UID:228-20270727-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/27
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/27
+END:VEVENT
+BEGIN:VEVENT
+UID:229-20270727-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/07/27
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/07/27
+END:VEVENT
+BEGIN:VEVENT
+UID:230-20270728-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/07/28
+URL:https://intranet.dellmed.utexas.edu/event/864130/2027/07/28
+END:VEVENT
+BEGIN:VEVENT
+UID:231-20270729-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/07/29
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/07/29
+END:VEVENT
+BEGIN:VEVENT
+UID:232-20270803-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/03
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/03
+END:VEVENT
+BEGIN:VEVENT
+UID:233-20270805-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/05
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/05
+END:VEVENT
+BEGIN:VEVENT
+UID:234-20270810-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/10
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/10
+END:VEVENT
+BEGIN:VEVENT
+UID:235-20270811-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/08/11
+URL:https://intranet.dellmed.utexas.edu/event/864130/2027/08/11
+END:VEVENT
+BEGIN:VEVENT
+UID:236-20270812-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/12
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/12
+END:VEVENT
+BEGIN:VEVENT
+UID:237-20270817-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/17
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/17
+END:VEVENT
+BEGIN:VEVENT
+UID:238-20270817-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Peds Faculty Promotion Office Hours (4:30pm – 6:00 pm)
+DESCRIPTION:Time: 4:30pm – 6:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1038604/2027/08/17
+URL:https://intranet.dellmed.utexas.edu/event/1038604/2027/08/17
+END:VEVENT
+BEGIN:VEVENT
+UID:239-20270819-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/19
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/19
+END:VEVENT
+BEGIN:VEVENT
+UID:240-20270819-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/08/19
+URL:https://intranet.dellmed.utexas.edu/event/766328/2027/08/19
+END:VEVENT
+BEGIN:VEVENT
+UID:241-20270824-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/24
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/24
+END:VEVENT
+BEGIN:VEVENT
+UID:242-20270824-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/08/24
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/08/24
+END:VEVENT
+BEGIN:VEVENT
+UID:243-20270825-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/08/25
+URL:https://intranet.dellmed.utexas.edu/event/864130/2027/08/25
+END:VEVENT
+BEGIN:VEVENT
+UID:244-20270826-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/26
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/26
+END:VEVENT
+BEGIN:VEVENT
+UID:245-20270831-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/08/31
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/08/31
+END:VEVENT
+BEGIN:VEVENT
+UID:246-20270902-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/02
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/02
+END:VEVENT
+BEGIN:VEVENT
+UID:247-20270907-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Cybersecurity & Compliance Office Hour (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/751984/2027/09/07
+URL:https://intranet.dellmed.utexas.edu/event/751984/2027/09/07
+END:VEVENT
+BEGIN:VEVENT
+UID:248-20270907-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/07
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/07
+END:VEVENT
+BEGIN:VEVENT
+UID:249-20270908-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/09/08
+URL:https://intranet.dellmed.utexas.edu/event/864130/2027/09/08
+END:VEVENT
+BEGIN:VEVENT
+UID:250-20270909-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/09
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/09
+END:VEVENT
+BEGIN:VEVENT
+UID:251-20270914-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/14
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/14
+END:VEVENT
+BEGIN:VEVENT
+UID:252-20270916-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/16
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/16
+END:VEVENT
+BEGIN:VEVENT
+UID:253-20270916-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Medical Education Research Office Hours (12:00pm – 1:00 pm)
+DESCRIPTION:Time: 12:00pm – 1:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/766328/2027/09/16
+URL:https://intranet.dellmed.utexas.edu/event/766328/2027/09/16
+END:VEVENT
+BEGIN:VEVENT
+UID:254-20270921-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/21
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/21
+END:VEVENT
+BEGIN:VEVENT
+UID:255-20270922-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/09/22
+URL:https://intranet.dellmed.utexas.edu/event/864130/2027/09/22
+END:VEVENT
+BEGIN:VEVENT
+UID:256-20270923-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/23
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/23
+END:VEVENT
+BEGIN:VEVENT
+UID:257-20270928-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/28
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/28
+END:VEVENT
+BEGIN:VEVENT
+UID:258-20270928-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:Quality Improvement Coaching Office Hours (1:00pm – 2:00 pm)
+DESCRIPTION:Time: 1:00pm – 2:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/1039334/2027/09/28
+URL:https://intranet.dellmed.utexas.edu/event/1039334/2027/09/28
+END:VEVENT
+BEGIN:VEVENT
+UID:259-20270930-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/09/30
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/09/30
+END:VEVENT
+BEGIN:VEVENT
+UID:260-20271005-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/10/05
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/10/05
+END:VEVENT
+BEGIN:VEVENT
+UID:261-20271006-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:IT Office Hour (HDB & Zoom) (3:00pm – 4:00 pm)
+DESCRIPTION:Time: 3:00pm – 4:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864130/2027/10/06
+URL:https://intranet.dellmed.utexas.edu/event/864130/2027/10/06
+END:VEVENT
+BEGIN:VEVENT
+UID:262-20271007-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/10/07
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/10/07
+END:VEVENT
+BEGIN:VEVENT
+UID:263-20271012-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/10/12
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/10/12
+END:VEVENT
+BEGIN:VEVENT
+UID:264-20271014-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/10/14
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/10/14
+END:VEVENT
+BEGIN:VEVENT
+UID:265-20271019-internal@dell-med-events
+DTSTAMP:20261020T134535Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:IT Office Hour (DPRI) (8:00am – 12:00 pm)
+DESCRIPTION:Time: 8:00am – 12:00 pm\nSource: internal\nMore info: https://intranet.dellmed.utexas.edu/event/864131/2027/10/19
+URL:https://intranet.dellmed.utexas.edu/event/864131/2027/10/19
 END:VEVENT
 END:VCALENDAR
