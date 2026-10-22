@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-22T11:25:43.218014+00:00",
+  "updated": "2026-10-22T21:21:32.410404+00:00",
   "counts": {
     "public": 21,
     "internal": 234,
-    "ut": 1646
+    "ut": 1645
   },
   "events": [
     {
@@ -32,7 +32,7 @@
       "title": "AMPATH/MAPAS M\u00e9xico Monthly Seminar: Diabetes Task Force Updates",
       "url": "https://dellmed.utexas.edu/events/ampath-mapas-m\u00e9xico-monthly-seminar-october-102226",
       "start": "2026-10-22",
-      "time": "12\u20131 p.m.",
+      "time": "7:30\u20138:30 a.m.",
       "location": "Zoom"
     },
     {
@@ -185,14 +185,6 @@
       "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
       "start": "2026-10-22",
       "location": "SSB 3.214"
-    },
-    {
-      "source": "public",
-      "title": "Pediatrics: Quality Week",
-      "url": "https://dellmed.utexas.edu/events/pediatrics-quality-week-101926",
-      "start": "2026-10-22",
-      "time": "7:30\u20138:30 a.m.",
-      "location": "Hybrid: Dell Children\u2019s Medical Center Signe Auditorium &amp; Zoom"
     },
     {
       "source": "ut",
@@ -3298,7 +3290,7 @@
     {
       "source": "public",
       "title": "Research Nuts & Bolts: Animal Care and Use Program",
-      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-clinical-trial-and-study-design",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-110526",
       "start": "2026-11-05",
       "time": "8:30 a.m.",
       "location": "Zoom"
@@ -6117,6 +6109,14 @@
       "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
+      "source": "public",
+      "title": "Research Nuts & Bolts: Clinical Trial and Study Design",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-111926",
+      "start": "2026-11-19",
+      "time": "10\u201311 a.m.",
+      "location": "Zoom"
+    },
+    {
       "source": "ut",
       "title": "Rethinking Religion\\, Violence\\, and Secularism",
       "url": "https://calendar.utexas.edu/event/tbd-788",
@@ -6818,9 +6818,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-11-25",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -7507,9 +7507,9 @@
     {
       "source": "ut",
       "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery-4159",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
       "start": "2026-12-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
     },
     {
       "source": "ut",
@@ -7569,13 +7569,6 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-02",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Fundamentals of AI for Teaching and Learning: Using AI Tools to Manage Canvas Content",
-      "url": "https://calendar.utexas.edu/event/fundamentals-of-ai-for-teaching-and-learning-using-ai-tools-to-manage-canvas-content",
-      "start": "2026-12-02",
-      "location": null
     },
     {
       "source": "ut",
