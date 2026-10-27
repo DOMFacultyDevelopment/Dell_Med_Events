@@ -1,249 +1,11 @@
 {
-  "updated": "2026-10-26T22:27:41.286414+00:00",
+  "updated": "2026-10-27T11:49:50.471080+00:00",
   "counts": {
     "public": 19,
     "internal": 226,
-    "ut": 1642
+    "ut": 1624
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
-      "start": "2026-10-26",
-      "location": "Nneka Waturuocha Student Lounge\\, GWB 2.116"
-    },
-    {
-      "source": "ut",
-      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
-      "start": "2026-10-26",
-      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
-      "start": "2026-10-26",
-      "location": "CMHC @ WCP - WCP 1.102\\, WCP 1.102"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-10-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2026-10-26",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Agatha and Anthony Precourt Family Lecture Series - Bringing Out Our Best: A Forum on Excellence",
-      "url": "https://calendar.utexas.edu/event/agatha-and-anthony-precourt-family-lecture-series-bringing-out-our-best-a-forum-on-excellence-5342",
-      "start": "2026-10-26",
-      "location": "Etter-Harbin Alumni Center"
-    },
-    {
-      "source": "ut",
-      "title": "Agatha and Anthony Precourt Family Lecture Series\u00a0 Bringing Out Our Best: A Forum on Excellence",
-      "url": "https://calendar.utexas.edu/event/agatha-and-anthony-precourt-family-lecture-series-bringing-out-our-best-a-forum-on-excellence",
-      "start": "2026-10-26",
-      "location": "Etter-Harbin Alumni Center (UTX)\\, Connally Ballroom"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-26",
-      "location": "Off-Campus"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-26",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Christian Faculty and Staff Network hosts UT Women's Prayer Group",
-      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-hosts-ut-womens-prayer-group-5134",
-      "start": "2026-10-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-26",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "E+E Film &amp\\; Media Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
-      "start": "2026-10-26",
-      "location": "Texas Union Asian Culture Room (4.224)"
-    },
-    {
-      "source": "ut",
-      "title": "E+E Mainstage Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
-      "start": "2026-10-26",
-      "location": "Texas Union Eastwoods Room (2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-10-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fall into Fitness Steps Challenge - UT Living Well",
-      "url": "https://calendar.utexas.edu/event/fall-into-fitness-steps-challenge-ut-living-well",
-      "start": "2026-10-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
-      "start": "2026-10-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Financial Affairs Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/financial-affairs-committee-meeting",
-      "start": "2026-10-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-10-26",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Getting Involved In Psychology Research",
-      "url": "https://calendar.utexas.edu/event/getting-involved-in-psychology-research",
-      "start": "2026-10-26",
-      "location": "Sarah M. and Charles E. Seay Building (SEA)\\, 4.244"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-10-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-10-26",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "River Tour with artist Marie Lorenz",
-      "url": "https://calendar.utexas.edu/event/river-tour-with-artist-marie-lorenz",
-      "start": "2026-10-26",
-      "location": "\\, Texas River School (offsite event)"
-    },
-    {
-      "source": "ut",
-      "title": "Ross Margitza\\, piano",
-      "url": "https://calendar.utexas.edu/event/ross-margitza-piano",
-      "start": "2026-10-26",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting-6654",
-      "start": "2026-10-26",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "SHIFT Operation Naloxone Training",
-      "url": "https://calendar.utexas.edu/event/shift-operation-naloxone-training-4796",
-      "start": "2026-10-26",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.500\\, UFCU Room"
-    },
-    {
-      "source": "ut",
-      "title": "The Longhorn Haunt!",
-      "url": "https://calendar.utexas.edu/event/the-longhorn-haunt",
-      "start": "2026-10-26",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25K",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
-      "start": "2026-10-26",
-      "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Sioux Falls Challenger",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sioux-falls-challenger",
-      "start": "2026-10-26",
-      "location": "Sioux Falls\\, S.D.\\, Huether Family Match Pointe"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Nanea Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-invitational-3322",
-      "start": "2026-10-26",
-      "location": "Kailua-Kona\\, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF New Braunfels W100",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-new-braunfels-w100",
-      "start": "2026-10-26",
-      "location": "New Braunfels\\, Texas\\, John Newcombe Country Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Norman W35",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-norman-w35",
-      "start": "2026-10-26",
-      "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Sumter W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-sumter-w15",
-      "start": "2026-10-26",
-      "location": "Sumter\\, S.C.\\, Palmetto Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
-      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
-      "start": "2026-10-26",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "\"AnxieTEA\"SHARE Community Meeting",
@@ -541,7 +303,7 @@
     {
       "source": "ut",
       "title": "University of Texas Softball vs McLennan CC",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mclennan-cc",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mclennan-cc-2352",
       "start": "2026-10-27",
       "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
     },
@@ -2073,6 +1835,13 @@
     },
     {
       "source": "ut",
+      "title": "Health and Wellness",
+      "url": "https://calendar.utexas.edu/event/health-and-wellness",
+      "start": "2026-11-03",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
       "start": "2026-11-03",
@@ -2362,6 +2131,13 @@
     },
     {
       "source": "ut",
+      "title": "Pizza & Politics - Election Night Watch Party",
+      "url": "https://calendar.utexas.edu/event/pizza-politics-election-night-watch-party-9978",
+      "start": "2026-11-04",
+      "location": "DMC 2.106\\, DMC 2.106"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-04",
@@ -2571,6 +2347,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Late Night Film - Phantom of the Opera with Texas Performing Arts",
+      "url": "https://calendar.utexas.edu/event/late-night-film-phantom-of-the-opera-with-texas-performing-arts",
+      "start": "2026-11-05",
+      "location": "Texas Union"
     },
     {
       "source": "ut",
@@ -3931,6 +3714,13 @@
     },
     {
       "source": "ut",
+      "title": "Project Management for Construction Professionals Certificate Program",
+      "url": "https://calendar.utexas.edu/event/project-management-for-construction-professionals-certificate-program-5760",
+      "start": "2026-11-11",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-11-11",
@@ -4034,6 +3824,13 @@
       "url": "https://calendar.utexas.edu/event/american-heart-association-basic-life-support-instructor-candidate-training-3009",
       "start": "2026-11-12",
       "location": "School of Nursing\\, NUR 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "Blockbuster: Brand New Day: Spider-Man",
+      "url": "https://calendar.utexas.edu/event/blockbuster-brand-new-day-spider-man",
+      "start": "2026-11-12",
+      "location": "Texas Union"
     },
     {
       "source": "internal",
@@ -4324,6 +4121,13 @@
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
       "start": "2026-11-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Food Glorious Food: How We Will Beat Hunger",
+      "url": "https://calendar.utexas.edu/event/food-glorious-food-how-we-will-beat-hunger",
+      "start": "2026-11-13",
+      "location": "Robert A. Welch Hall (WEL)\\, 2.224"
     },
     {
       "source": "ut",
@@ -6979,6 +6783,13 @@
     },
     {
       "source": "ut",
+      "title": "Faculty Book Talk | Inside the Body of Black Feminism: Science\\, Race\\, Culture: In Conversation with Marcia Chatelain",
+      "url": "https://calendar.utexas.edu/event/faculty-book-talk-inside-the-body-of-black-feminism-science-race-culture-in-conversation-with-marcia-chatelain",
+      "start": "2026-12-02",
+      "location": "Gordon White Building (GWB)\\, 2.206"
+    },
+    {
+      "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
       "start": "2026-12-02",
@@ -7229,6 +7040,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "The Odyssey",
+      "url": "https://calendar.utexas.edu/event/the-odyssey",
+      "start": "2026-12-03",
+      "location": "Texas Union"
     },
     {
       "source": "ut",
@@ -12767,6 +12585,34 @@
       "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "start": "2027-02-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-02-17",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus_open_recovery",
+      "start": "2027-02-17",
+      "location": "L. Theo Bellmont Hall (BEL)\\, 222"
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-02-17",
+      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
@@ -12775,6 +12621,34 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
+      "start": "2027-02-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
+      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
+      "start": "2027-02-17",
+      "location": "Visual Arts Center\\, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-8197",
+      "start": "2027-02-17",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-7003",
+      "start": "2027-02-17",
+      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "internal",
