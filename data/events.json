@@ -1,354 +1,11 @@
 {
-  "updated": "2026-10-27T21:58:13.273793+00:00",
+  "updated": "2026-10-28T12:24:34.215035+00:00",
   "counts": {
-    "public": 19,
-    "internal": 226,
-    "ut": 1648
+    "public": 17,
+    "internal": 220,
+    "ut": 1427
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"AnxieTEA\"SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
-      "start": "2026-10-27",
-      "location": "Longhorn Wellness Center\\, SSB 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
-      "start": "2026-10-27",
-      "location": "Longhorn Wellness Center\\, SSB 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
-      "start": "2026-10-27",
-      "location": "CMHC @ WCP - WCP 1.102"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2026-10-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Agency and Accountability for AI in Education",
-      "url": "https://calendar.utexas.edu/event/agency-and-accountability-for-ai-in-education",
-      "start": "2026-10-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-27",
-      "location": "Off-Campus"
-    },
-    {
-      "source": "ut",
-      "title": "Beyond the Bureaucracy: Unconventional Paths to Policy",
-      "url": "https://calendar.utexas.edu/event/beyond-the-bureaucracy-unconventional-paths-to-policy",
-      "start": "2026-10-27",
-      "location": "LBJ School of Public Affairs\\, SRH 3.122"
-    },
-    {
-      "source": "public",
-      "title": "CPAN ECHO Series: Depression Assessment Utilizing Collaborative Care Model",
-      "url": "https://dellmed.utexas.edu/events/cpan-echo-series-depression-assessment-utilizing-collaborative-care-model",
-      "start": "2026-10-27",
-      "time": "12\u20131 p.m.",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2026-10-27",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-27",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Christian Faculty and Staff Network",
-      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
-      "start": "2026-10-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-27",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "internal",
-      "title": "Cybersecurity Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/978795/2026/10/27",
-      "start": "2026-10-27",
-      "time": "12:00pm \u2013 1:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Earned Media: How to Get It and Build Off It for Political Momentum",
-      "url": "https://calendar.utexas.edu/event/earned-media-how-to-get-it-and-build-off-it-for-political-momentum",
-      "start": "2026-10-27",
-      "location": "SRH 3.B10"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
-      "start": "2026-10-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "Extraordinary Learning & Teaching, Fall 2026",
-      "url": "https://intranet.dellmed.utexas.edu/event/1031958/",
-      "start": "2026-10-27",
-      "time": "5:15pm \u2013 6:30 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2026 Information Session: Prospective Freshman",
-      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-prospective-freshman",
-      "start": "2026-10-27",
-      "location": "Zoom Meeting"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
-      "start": "2026-10-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-10-27",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Free Film Screening",
-      "url": "https://calendar.utexas.edu/event/free-film-screening",
-      "start": "2026-10-27",
-      "location": "BUR \\, 116"
-    },
-    {
-      "source": "ut",
-      "title": "Free Meta AI Glasses for Texas Veterans who are Blind/Low Vision",
-      "url": "https://calendar.utexas.edu/event/free-meta-ai-glasses-for-texas-veterans-who-are-blindlow-vision",
-      "start": "2026-10-27",
-      "location": "J NEILS THOMPSON COMMONS (PRC 137) (TCB - 0767)\\, Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "GSLI Impact Chat - Sustainability & AI",
-      "url": "https://calendar.utexas.edu/event/gsli-impact-chat-sustainability-ai",
-      "start": "2026-10-27",
-      "location": "Robert B. Rowling Hall (RRH)\\, RRH 1.400"
-    },
-    {
-      "source": "ut",
-      "title": "Get Your Flu Shot",
-      "url": "https://calendar.utexas.edu/event/get-your-flu-shot-5667",
-      "start": "2026-10-27",
-      "location": "LBJ School of Public Affairs\\, Bass Lecture Hall\\, North Lobby"
-    },
-    {
-      "source": "ut",
-      "title": "Graduate Job Search Working Group",
-      "url": "https://calendar.utexas.edu/event/graduate-job-search-working-group",
-      "start": "2026-10-27",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Graphic Design Information Session Oct. 27",
-      "url": "https://calendar.utexas.edu/event/graphic-design-information-session-oct-27",
-      "start": "2026-10-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2026-10-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2026-10-27",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/27",
-      "start": "2026-10-27",
-      "time": "8:00am \u2013 12:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Impact Chat: From Semiconductors to Sustainability with Alyson Freeman",
-      "url": "https://calendar.utexas.edu/event/impact-chat-from-semiconductors-to-sustainability-with-alyson-freeman",
-      "start": "2026-10-27",
-      "location": "Robert B. Rowling Hall (RRH)\\, Crum Auditorium (RRH 1.400)"
-    },
-    {
-      "source": "ut",
-      "title": "McCombs Summer Institute (MSI)",
-      "url": "https://calendar.utexas.edu/event/mccombs-summer-institute-msi",
-      "start": "2026-10-27",
-      "location": "CBA 2.564 Big Bend"
-    },
-    {
-      "source": "public",
-      "title": "Neurosurgery Grand Rounds: Stereotactic Neurosurgery for Parkinson\u2019s Disease",
-      "url": "https://dellmed.utexas.edu/events/neurosurgery-grand-rounds-stereotactic-neurosurgery-for-parkinsons-disease",
-      "start": "2026-10-27",
-      "time": "12\u20131 p.m.",
-      "location": "Hybrid: Health Discovery Building Auditorium (HDB 1.208) &amp; Zoom",
-      "speaker": "Jon Willie, M.D., Ph.D."
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-27",
-      "location": null
-    },
-    {
-      "source": "internal",
-      "title": "Quality Improvement Coaching Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1039334/2026/10/27",
-      "start": "2026-10-27",
-      "time": "1:00pm \u2013 2:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Study Abroad in Germany Info Session [Virtual]",
-      "url": "https://calendar.utexas.edu/event/study-abroad-in-germany-info-session-virtual-2537",
-      "start": "2026-10-27",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Study Sessions",
-      "url": "https://calendar.utexas.edu/event/study-sessions-1758",
-      "start": "2026-10-27",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/27",
-      "start": "2026-10-27",
-      "time": "11:00am \u2013 12:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "internal",
-      "title": "UT Dell Medicine Brand Launch Celebration",
-      "url": "https://intranet.dellmed.utexas.edu/event/1043185/",
-      "start": "2026-10-27",
-      "time": "11:00am \u2013 1:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25K",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
-      "start": "2026-10-27",
-      "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Sioux Falls Challenger",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sioux-falls-challenger",
-      "start": "2026-10-27",
-      "location": "Sioux Falls\\, S.D.\\, Huether Family Match Pointe"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs McLennan CC",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mclennan-cc-2352",
-      "start": "2026-10-27",
-      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Nanea Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-invitational-5067",
-      "start": "2026-10-27",
-      "location": "Kailua-Kona\\, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF New Braunfels W100",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-new-braunfels-w100",
-      "start": "2026-10-27",
-      "location": "New Braunfels\\, Texas\\, John Newcombe Country Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Norman W35",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-norman-w35",
-      "start": "2026-10-27",
-      "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Sumter W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-sumter-w15",
-      "start": "2026-10-27",
-      "location": "Sumter\\, S.C.\\, Palmetto Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Workshop: Agency and Accountability for AI in Education",
-      "url": "https://calendar.utexas.edu/event/workshop-agency-and-accountability-for-ai-in-education",
-      "start": "2026-10-27",
-      "location": "Texas Innovation Center\\, EER 2.518"
-    },
-    {
-      "source": "ut",
-      "title": "Zoning the AI and Cloud Data Center Boom: How Local Governments Are Regulating Data Centers",
-      "url": "https://calendar.utexas.edu/event/zoning-the-ai-and-cloud-data-center-boom-how-local-governments-are-regulating-data-centers",
-      "start": "2026-10-27",
-      "location": "Live Stream Online (Zoom and YouTube)"
-    },
     {
       "source": "ut",
       "title": "\"Shy Longhorns Society\" SHARE Community Meeting",
@@ -446,7 +103,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-10-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -460,7 +117,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-10-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -787,14 +444,14 @@
       "title": "Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department with Kevin Bozic, M.D.",
       "url": "https://dellmed.utexas.edu/events/dspc-combined-grand-rounds-state-of-the-department-1029",
       "start": "2026-10-29",
-      "time": "4\u20135 p.m.",
+      "time": "7\u20138 a.m.",
       "location": "Health Learning Building (HLB 1.111 Auditorium)",
       "speaker": "Kevin Bozic, M.D."
     },
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-10-29",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -970,6 +627,13 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-10-29",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "UT Austin Fall 2026 Liz Carpenter Lecture with Eddie S. Glaude",
       "url": "https://calendar.utexas.edu/event/ut-austin-fall-2026-liz-carpenter-lecture-with-eddie-s-glaude",
       "start": "2026-10-29",
@@ -1083,7 +747,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-10-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1125,7 +789,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-10-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1184,6 +848,13 @@
       "url": "https://calendar.utexas.edu/event/student-affairs-meeting",
       "start": "2026-10-30",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-10-30",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
     },
     {
       "source": "ut",
@@ -1321,14 +992,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-10-31",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-10-31",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1387,6 +1058,13 @@
       "url": "https://calendar.utexas.edu/event/sophie-gault-with-special-guest-live-at-the-cactus-cafe",
       "start": "2026-10-31",
       "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-10-31",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
     },
     {
       "source": "ut",
@@ -1468,14 +1146,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1516,6 +1194,13 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-01",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "UTLA Summer 2027 Application Deadline",
       "url": "https://calendar.utexas.edu/event/utla-summer-2027-application-deadline",
       "start": "2026-11-01",
@@ -1545,7 +1230,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1594,7 +1279,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1661,6 +1346,13 @@
       "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting-6654",
       "start": "2026-11-02",
       "location": "WCP 2.102 (Student Gov. Office)"
+    },
+    {
+      "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-02",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
     },
     {
       "source": "ut",
@@ -1749,7 +1441,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-03",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1766,7 +1458,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-03",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -1880,10 +1572,24 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-03",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "UT Energy Symposium: I\\, Widget: Why It\u2019s Nearly Impossible to Trace Physical Flows Through the U.S. Economy\\, And What That Means for Industrial Energy Modeling",
       "url": "https://calendar.utexas.edu/event/ut-energy-symposium-i-widget-why-its-nearly-impossible-to-trace-physical-flows-through-the-us-economy-and-what-that-means-for-industrial-energy-modeling",
       "start": "2026-11-03",
       "location": "Engineering Education and Research Center (EER)\\, 3.646"
+    },
+    {
+      "source": "ut",
+      "title": "University Writing Center Open Mic: Rough Drafts",
+      "url": "https://calendar.utexas.edu/event/university-writing-center-open-mic-rough-drafts",
+      "start": "2026-11-03",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -1993,14 +1699,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2131,6 +1837,13 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-04",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
       "start": "2026-11-04",
@@ -2215,7 +1928,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2347,6 +2060,13 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-05",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "UT Staff Toastmasters Club - Open House",
       "url": "https://calendar.utexas.edu/event/ut-staff-toastmasters-club-open-house",
       "start": "2026-11-05",
@@ -2439,7 +2159,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2488,7 +2208,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2590,6 +2310,13 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-06",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "UTNY Drop-in Advising",
       "url": "https://calendar.utexas.edu/event/utny-drop-in-advising",
       "start": "2026-11-06",
@@ -2675,14 +2402,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2748,6 +2475,13 @@
       "url": "https://calendar.utexas.edu/event/teamsync-stroke-team-simulation-for-transitions-of-care",
       "start": "2026-11-07",
       "location": "Virtual"
+    },
+    {
+      "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-07",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
     },
     {
       "source": "ut",
@@ -2864,7 +2598,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -2926,6 +2660,13 @@
     },
     {
       "source": "ut",
+      "title": "The Visit",
+      "url": "https://calendar.utexas.edu/event/the-visit",
+      "start": "2026-11-08",
+      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Rowing at SMU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-at-smu",
       "start": "2026-11-08",
@@ -2970,7 +2711,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3026,14 +2767,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3210,14 +2951,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3481,7 +3222,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3502,7 +3243,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3726,14 +3467,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -3786,6 +3527,13 @@
       "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
+      "start": "2026-11-12",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "REU 101",
+      "url": "https://calendar.utexas.edu/event/reu-101",
       "start": "2026-11-12",
       "location": null
     },
@@ -3957,7 +3705,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4033,6 +3781,13 @@
     },
     {
       "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-13",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Student Affairs Meeting",
       "url": "https://calendar.utexas.edu/event/student-affairs-meeting",
       "start": "2026-11-13",
@@ -4090,7 +3845,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4118,7 +3873,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4159,6 +3914,13 @@
     },
     {
       "source": "ut",
+      "title": "Leila Sunier Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/leila-sunier-live-at-the-cactus-cafe",
+      "start": "2026-11-14",
+      "location": "Cactus Cafe"
+    },
+    {
+      "source": "ut",
       "title": "Longhorn Singers",
       "url": "https://calendar.utexas.edu/event/longhorn-singers-9019",
       "start": "2026-11-14",
@@ -4170,6 +3932,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-14",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-14",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -4244,14 +4013,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-15",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-15",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4299,6 +4068,13 @@
     },
     {
       "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-15",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Saturday Night Jazz with Michael Malone",
       "url": "https://calendar.utexas.edu/event/saturday-night-jazz-with-michael-malone",
       "start": "2026-11-15",
@@ -4321,7 +4097,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4363,14 +4139,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4429,6 +4205,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-16",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-16",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -4548,7 +4331,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4565,7 +4348,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4640,6 +4423,13 @@
     },
     {
       "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-17",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-11-17",
@@ -4700,7 +4490,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4777,7 +4567,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4860,6 +4650,13 @@
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-11-18",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-18",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -4962,7 +4759,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -4995,6 +4792,13 @@
     },
     {
       "source": "ut",
+      "title": "Casino Night",
+      "url": "https://calendar.utexas.edu/event/casino-night-3974",
+      "start": "2026-11-19",
+      "location": "WCP Ballroom"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-19",
@@ -5020,7 +4824,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5108,6 +4912,13 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-19",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-19",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
     },
     {
       "source": "public",
@@ -5242,7 +5053,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-20",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5314,6 +5125,13 @@
     },
     {
       "source": "ut",
+      "title": "Pulse",
+      "url": "https://calendar.utexas.edu/event/pulse",
+      "start": "2026-11-20",
+      "location": "Oscar G. Brockett Theatre\\, F. Loren Winship Drama Building (WIN)\\, Oscar G. Brockett Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Student Affairs Meeting",
       "url": "https://calendar.utexas.edu/event/student-affairs-meeting",
       "start": "2026-11-20",
@@ -5371,7 +5189,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5392,14 +5210,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-21",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5497,14 +5315,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-22",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5560,7 +5378,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-23",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5602,7 +5420,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-23",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5672,7 +5490,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5722,7 +5540,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-24",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5784,7 +5602,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5840,7 +5658,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -5910,7 +5728,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-26",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6014,14 +5832,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-27",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-27",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6098,14 +5916,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6161,14 +5979,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-29",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-29",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6210,7 +6028,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6252,14 +6070,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-11-30",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6382,14 +6200,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-01",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6532,7 +6350,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6546,7 +6364,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6556,6 +6374,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-02",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Fundamentals of AI for Teaching and Learning: Using AI Tools to Manage Canvas Content",
+      "url": "https://calendar.utexas.edu/event/fundamentals-of-ai-for-teaching-and-learning-using-ai-tools-to-manage-canvas-content",
+      "start": "2026-12-02",
+      "location": null
     },
     {
       "source": "ut",
@@ -6702,7 +6527,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-03",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6798,7 +6623,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Louisville",
+      "title": "University of Texas Women's Basketball vs Louisville - presented by American Airlines",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-louisville",
       "start": "2026-12-03",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -6862,7 +6687,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-04",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -6998,7 +6823,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7089,7 +6914,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7187,7 +7012,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-07",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7235,6 +7060,13 @@
     },
     {
       "source": "ut",
+      "title": "AI in a Day",
+      "url": "https://calendar.utexas.edu/event/ai-in-a-day-66",
+      "start": "2026-12-08",
+      "location": "Texas Union Building (UNB)\\, Ballroom"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
       "start": "2026-12-08",
@@ -7278,7 +7110,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-08",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7427,14 +7259,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7515,7 +7347,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7550,7 +7382,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-10",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7661,14 +7493,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7759,14 +7591,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-12",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7857,14 +7689,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-13",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7941,7 +7773,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -7955,7 +7787,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-14",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8025,14 +7857,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-15",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-15",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8097,7 +7929,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8146,7 +7978,7 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8160,7 +7992,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8243,14 +8075,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-17",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8329,7 +8161,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8357,7 +8189,7 @@
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8430,14 +8262,14 @@
     {
       "source": "ut",
       "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "ut",
       "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-19",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8649,7 +8481,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-23",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8781,7 +8613,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -8914,7 +8746,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -9216,7 +9048,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-02",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -9306,7 +9138,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs South Carolina",
+      "title": "University of Texas Women's Basketball vs South Carolina  - presented by Huntington Bank",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
       "start": "2027-01-03",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -9363,7 +9195,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-05",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -9415,7 +9247,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-06",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -9616,7 +9448,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tennessee",
+      "title": "University of Texas Women's Basketball vs Tennessee - presented by H-E-B",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tennessee-1733",
       "start": "2027-01-08",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -9631,7 +9463,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-09",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -9729,7 +9561,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-11",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -10066,7 +9898,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-16",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -10177,7 +10009,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Basketball vs Vanderbilt",
+      "title": "University of Texas Women's Basketball vs Vanderbilt - presented by St. David's HealthCare",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-vanderbilt-5100",
       "start": "2027-01-17",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -10192,7 +10024,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-18",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -10608,7 +10440,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Arkansas",
+      "title": "University of Texas Men's Basketball vs Arkansas - presented by American Airlines",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-arkansas-2065",
       "start": "2027-01-23",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -10700,7 +10532,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-25",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -10912,7 +10744,7 @@
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-28",
       "location": "Visual Arts Center\\, Art Building (ART)"
     },
@@ -11148,7 +10980,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Kentucky",
+      "title": "University of Texas Men's Basketball vs Kentucky - presented by UFCU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-kentucky-8394",
       "start": "2027-01-30",
       "location": "Austin\\, Texas\\, Moody Center"
@@ -11239,20 +11071,6 @@
     },
     {
       "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-02-01",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-01",
@@ -11287,41 +11105,6 @@
       "location": "Palos Verdes\\, Calif."
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-02",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-02",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/02",
@@ -11330,69 +11113,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Therese Hession Regional Challenge",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-therese-hession-regional-challenge-8820",
-      "start": "2027-02-02",
-      "location": "Palos Verdes\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-03",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-02-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-02-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-03",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-03",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-03",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -11405,55 +11125,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-03",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Talk: by Mark Oppenheimer",
-      "url": "https://calendar.utexas.edu/event/talk-by-mark-oppenheimer",
-      "start": "2027-02-03",
-      "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-04",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-04",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-04",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/04",
@@ -11462,307 +11133,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Managing Up\\, Across\\, and Forward",
-      "url": "https://calendar.utexas.edu/event/managing-up-across-and-forward",
-      "start": "2027-02-04",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
-      "title": "Professor Brian Cox - Emergence",
-      "url": "https://calendar.utexas.edu/event/professor-brian-cox-emergence",
-      "start": "2027-02-04",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-04",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf at Amer Ari Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-4197",
-      "start": "2027-02-04",
-      "location": "Waimea\\, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Paige Harden (UT Austin)",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-paige-harden-ut-austin",
-      "start": "2027-02-04",
-      "location": "HDB 1.208"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-05",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-05",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-05",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-02-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-05",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf at Amer Ari Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-6408",
-      "start": "2027-02-05",
-      "location": "Waimea\\, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-auburn",
-      "start": "2027-02-05",
-      "location": "Auburn\\, Ala.\\, Neville Arena"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA National Indoors",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-05",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-06",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-06",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-06",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf at Amer Ari Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-5966",
-      "start": "2027-02-06",
-      "location": "Waimea\\, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Texas A&M - Corpus Christi",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-texas-am-corpus-christi-1204",
-      "start": "2027-02-06",
-      "location": "Austin\\, Texas\\, Texas Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA National Indoors",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-06",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-07",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-07",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-07",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA National Indoors",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-07",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "Wicked: Part One in Concert",
-      "url": "https://calendar.utexas.edu/event/wicked-part-one-in-concert",
-      "start": "2027-02-07",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-02-08",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-08",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-08",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-08",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Golf Club of Houston Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-golf-club-of-houston-invitational",
-      "start": "2027-02-08",
-      "location": "Houston\\, Texas"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITA National Indoors",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-08",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-09",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-09",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-09",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -11775,62 +11145,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-10",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-02-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-02-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-10",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-10",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-10",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/10",
@@ -11841,55 +11155,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-10",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball vs Alabama",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-alabama-4654",
-      "start": "2027-02-10",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-11",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-11",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/11",
@@ -11898,307 +11163,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-11",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fpresent Human(e) Learning in Digital Spaces Developers Webinar",
-      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationalpresent-humane-learning-in-digital-spaces-developers-webinar",
-      "start": "2027-02-11",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-12",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-12",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-02-12",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-12",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA National Indoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-12",
-      "location": "Clemson/Columbia\\, S.C."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball at LSU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-lsu-9908",
-      "start": "2027-02-12",
-      "location": "Baton Rouge\\, La.\\, Pete Maravich Assembly Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-13",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-13",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-vanderbilt-6180",
-      "start": "2027-02-13",
-      "location": "Nashville\\, Tennessee"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA National Indoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-13",
-      "location": "Clemson/Columbia\\, S.C."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Alice and John Wallace Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic",
-      "start": "2027-02-13",
-      "location": "Palm Desert\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-14",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-14",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "The Legend of Korra in Concert",
-      "url": "https://calendar.utexas.edu/event/the-legend-of-korra-in-concert",
-      "start": "2027-02-14",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-145",
-      "start": "2027-02-14",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA National Indoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-14",
-      "location": "Clemson/Columbia\\, S.C."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Alice and John Wallace Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic-2927",
-      "start": "2027-02-14",
-      "location": "Palm Desert\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-3526",
-      "start": "2027-02-14",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-02-15",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-15",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-15",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-2120",
-      "start": "2027-02-15",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs ITA National Indoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-national-indoors",
-      "start": "2027-02-15",
-      "location": "Clemson/Columbia\\, S.C."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Alice and John Wallace Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic-8824",
-      "start": "2027-02-15",
-      "location": "Palm Desert\\, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-16",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-16",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -12221,62 +11185,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship",
-      "start": "2027-02-16",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship",
-      "start": "2027-02-16",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-17",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-02-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-02-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-17",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-17",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
       "source": "internal",
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
@@ -12285,76 +11193,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-17",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-8197",
-      "start": "2027-02-17",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-7003",
-      "start": "2027-02-17",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-18",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-18",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center\\, Art Building (ART)"
     },
     {
       "source": "internal",
@@ -12377,300 +11215,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Misplaced Loyalty: Contesting Citizenship and Allegiance in Seventeenth-century Europe",
-      "url": "https://calendar.utexas.edu/event/tbd-5709",
-      "start": "2027-02-18",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-18",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-259",
-      "start": "2027-02-18",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-320",
-      "start": "2027-02-18",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-19",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-19",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "KODO - Luminance",
-      "url": "https://calendar.utexas.edu/event/kodo-luminance",
-      "start": "2027-02-19",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-02-19",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-19",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-6224",
-      "start": "2027-02-19",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Rowing at UCF",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-at-ucf",
-      "start": "2027-02-19",
-      "location": "Orlando\\, Fla."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-20",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-20",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Clemson",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-clemson",
-      "start": "2027-02-20",
-      "location": "Arlington\\, TX\\, Globe Life Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-5762",
-      "start": "2027-02-20",
-      "location": "Austin\\, Texas\\, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Rowing at UCF",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-at-ucf-8268",
-      "start": "2027-02-20",
-      "location": "Orlando\\, Fla."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-21",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-21",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-21",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball at Virginia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-virginia",
-      "start": "2027-02-21",
-      "location": "Arlington\\, TX\\, Globe Life Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs TCU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tcu",
-      "start": "2027-02-21",
-      "location": "Arlington\\, TX\\, Globe Life Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-oklahoma-4068",
-      "start": "2027-02-21",
-      "location": "Norman\\, Oklahoma"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Florida",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-florida-4278",
-      "start": "2027-02-21",
-      "location": "Austin\\, Texas\\, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2027-02-22",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-22",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-22",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-22",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-23",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-23",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-23",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-23",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-23",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/23",
@@ -12691,69 +11235,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-24",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-02-24",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-02-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-02-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-24",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-24",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Hell's Kitchen",
-      "url": "https://calendar.utexas.edu/event/hells-kitchen",
-      "start": "2027-02-24",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-24",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-24",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/24",
@@ -12764,62 +11245,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-24",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Talk: Bryan Kirschen on Ladino in the Americas",
-      "url": "https://calendar.utexas.edu/event/talk-bryan-kirschen-on-ladino-in-the-americas",
-      "start": "2027-02-24",
-      "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears",
-      "start": "2027-02-25",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2027-02-25",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-02-25",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Hell's Kitchen",
-      "url": "https://calendar.utexas.edu/event/hells-kitchen",
-      "start": "2027-02-25",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Artistic and Ecological Pedagogies in Practice",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-artistic-and-ecological-pedagogies-in-practice",
-      "start": "2027-02-25",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S.\u00a0South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth",
-      "start": "2027-02-25",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/25",
@@ -12828,55 +11253,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
-      "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
-      "start": "2027-02-25",
-      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "No WCAAR Weekly Meeting - INP Graduate Recruitment",
-      "url": "https://calendar.utexas.edu/event/no-wcaar-weekly-meeting-inp-graduate-recruitment",
-      "start": "2027-02-25",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-02-25",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "TBD",
-      "url": "https://calendar.utexas.edu/event/tbd-2122",
-      "start": "2027-02-25",
-      "location": "Texas Union Building (UNB)\\, Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Basketball at Mississippi State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-mississippi-state-1911",
-      "start": "2027-02-25",
-      "location": "Starkville\\, Mississippi"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs South Carolina",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-south-carolina-578",
-      "start": "2027-02-25",
-      "location": "Austin\\, Texas\\, Texas Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Last Chance Meet",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-last-chance-meet",
-      "start": "2027-02-25",
-      "location": "TBA"
     },
     {
       "source": "internal",
