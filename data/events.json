@@ -1,380 +1,11 @@
 {
-  "updated": "2026-10-29T22:35:07.858474+00:00",
+  "updated": "2026-10-30T12:25:31.127130+00:00",
   "counts": {
     "public": 0,
-    "internal": 217,
-    "ut": 1679
+    "internal": 213,
+    "ut": 1643
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
-      "start": "2026-10-29",
-      "location": "COLA Student Well-Being Center\\, JES A-223A"
-    },
-    {
-      "source": "ut",
-      "title": "AHA BLS Provider (CPR) Renewal",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-renewal",
-      "start": "2026-10-29",
-      "location": "NUR - various"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-10-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Austin Tech Week",
-      "url": "https://calendar.utexas.edu/event/austin-tech-week",
-      "start": "2026-10-29",
-      "location": "Off-Campus"
-    },
-    {
-      "source": "ut",
-      "title": "Behind The Scream - A Live Conversation with David Arquette following a 30th anniversary screening of SCREAM",
-      "url": "https://calendar.utexas.edu/event/behind-the-scream-a-live-conversation-with-david-arquette-following-a-30th-anniversary-screening-of-scream",
-      "start": "2026-10-29",
-      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Blockbuster - Obsession",
-      "url": "https://calendar.utexas.edu/event/blockbuster-obsession",
-      "start": "2026-10-29",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-10-29",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Closing Reception for \"Texas to Chile: Dave Oliphant across the poetic bridge\" Exhibition",
-      "url": "https://calendar.utexas.edu/event/closing-reception-for-texas-to-chile-dave-oliphant-across-the-poetic-bridge-exhibition",
-      "start": "2026-10-29",
-      "location": "Benson Latin American Collection\\, Rare Books Reading Room\\, First Floor"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-10-29",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Craft and Chill",
-      "url": "https://calendar.utexas.edu/event/craft-and-chill",
-      "start": "2026-10-29",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "Critter&#039\\;s Craft Collective",
-      "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
-      "start": "2026-10-29",
-      "location": "SSB"
-    },
-    {
-      "source": "internal",
-      "title": "Department of Surgery & Perioperative Care Combined Grand Rounds: State of the Department",
-      "url": "https://intranet.dellmed.utexas.edu/event/1034435/",
-      "start": "2026-10-29",
-      "time": "7:00am \u2013 8:00 am",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-10-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-10-29",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Food is Medicine Interventions to Support Food & Nutrition Security: Where do we go from here?",
-      "url": "https://calendar.utexas.edu/event/food-is-medicine-interventions-to-support-food-nutrition-security-where-do-we-go-from-here",
-      "start": "2026-10-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-10-29",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Fugitive Visions &amp\\; Jim Franklin with Special Guest The October 28ths",
-      "url": "https://calendar.utexas.edu/event/fugitive-visions-amp-jim-franklin-with-special-guest-the-october-28ths",
-      "start": "2026-10-29",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Gale Family Foundation Fall 2026 Lecture: \"The Galveston Movement and the Jewish Question\\, 1903-1914\" by Jeffrey Veidlinger",
-      "url": "https://calendar.utexas.edu/event/gale-family-foundation-fall-2026-lecturenbspthe-galveston-movement-and-the-jewish-question-1903-1914-bynbspjeffrey-veidlinger",
-      "start": "2026-10-29",
-      "location": "TBA \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2026-10-29",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/10/29",
-      "start": "2026-10-29",
-      "time": "8:00am \u2013 12:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Late Night Film - Scream (1996) Haunted House Halloween",
-      "url": "https://calendar.utexas.edu/event/late-night-film-scream-1996-haunted-house-halloween",
-      "start": "2026-10-29",
-      "location": "Texas Union Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Legal Professionals in a Confucian Society: The Qing Juridical Field in Late Imperial China 2026 Taiwan Lectures on Chinese Studies by Prof. Li Chen\\, University of Toronto",
-      "url": "https://calendar.utexas.edu/event/legal-professionals-in-a-confucian-society-the-qing-juridical-field-in-late-imperial-china-2026-taiwan-lectures-on-chinese-studies-by-prof-li-chen-university-of-toronto",
-      "start": "2026-10-29",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Learning Lab 1 (PCL 2.370)"
-    },
-    {
-      "source": "ut",
-      "title": "Live and learn in Europe this summer!",
-      "url": "https://calendar.utexas.edu/event/live-and-learn-in-europe-this-summer-9746",
-      "start": "2026-10-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Gaming X EGADS",
-      "url": "https://calendar.utexas.edu/event/longhorn-gaming-x-egads",
-      "start": "2026-10-29",
-      "location": "Texas Union Quadrangle (3.304)"
-    },
-    {
-      "source": "ut",
-      "title": "Lunch Workshop-From Challenge to Solution (Problem solving and decision making)",
-      "url": "https://calendar.utexas.edu/event/lunch-workshop-from-challenge-to-solution-problem-solving-and-decision-making",
-      "start": "2026-10-29",
-      "location": "Texas Union Quadrangle Room"
-    },
-    {
-      "source": "internal",
-      "title": "Medical Humanities Reflection Rounds",
-      "url": "https://intranet.dellmed.utexas.edu/event/1048863/",
-      "start": "2026-10-29",
-      "time": "12:00pm \u2013 1:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "NDatUT: Spooky Trick or Treat Social",
-      "url": "https://calendar.utexas.edu/event/ndatut-social-2842",
-      "start": "2026-10-29",
-      "location": "WILLIAM C. POWERS\\, JR. STUDENT ACTIVITY CENTER (WCP)\\, 3.116 (Balcony Room C)"
-    },
-    {
-      "source": "ut",
-      "title": "Networking Prep Session for Quant Night",
-      "url": "https://calendar.utexas.edu/event/networking-prep-session-for-quant-night",
-      "start": "2026-10-29",
-      "location": "Etter-Harbin Alumni Center"
-    },
-    {
-      "source": "ut",
-      "title": "Neurodivergent Voices: A Drop-in Support Group for Students who Identify as ND",
-      "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
-      "start": "2026-10-29",
-      "location": "SSB 3.214"
-    },
-    {
-      "source": "ut",
-      "title": "New Music Ensemble",
-      "url": "https://calendar.utexas.edu/event/new-music-ensemble-1850",
-      "start": "2026-10-29",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "POSTPONED: Competing for Soft Power: China's Image-Making in Africa",
-      "url": "https://calendar.utexas.edu/event/competing-for-soft-power-chinas-image-making-in-africa",
-      "start": "2026-10-29",
-      "location": "LBJ School of Public Affairs\\, SRH 3.122"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-10-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Quant Night",
-      "url": "https://calendar.utexas.edu/event/quant-night",
-      "start": "2026-10-29",
-      "location": "Etter-Harbin Alumni Center"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2026-10-29",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/10/29",
-      "start": "2026-10-29",
-      "time": "11:00am \u2013 12:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Talk: \"Women&rsquo\\;s Elegies in Israel (Bedouin\\, Christian\\, Druze and Jewish Yemenite)\" by&nbsp\\;Roni Henkin-Roitfarb",
-      "url": "https://calendar.utexas.edu/event/talk-womenrsquos-elegies-in-israel-bedouin-christian-druze-and-jewish-yemenite-bynbsproni-henkin-roitfarb",
-      "start": "2026-10-29",
-      "location": "MES Reading Room\\, Calhoun Hall (CAL) 516 ???? \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "The Visit",
-      "url": "https://calendar.utexas.edu/event/the-visit",
-      "start": "2026-10-29",
-      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "UT Austin Fall 2026 Liz Carpenter Lecture with Eddie S. Glaude",
-      "url": "https://calendar.utexas.edu/event/ut-austin-fall-2026-liz-carpenter-lecture-with-eddie-s-glaude",
-      "start": "2026-10-29",
-      "location": "LBJ Auditorium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
-      "start": "2026-10-29",
-      "location": "Westmont\\, Illinois"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Norman 25K",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-norman-25k",
-      "start": "2026-10-29",
-      "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Sioux Falls Challenger",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sioux-falls-challenger",
-      "start": "2026-10-29",
-      "location": "Sioux Falls\\, S.D.\\, Huether Family Match Pointe"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Volleyball vs Georgia - presented by Dick's Sporting Goods",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-georgia-261",
-      "start": "2026-10-29",
-      "location": "Austin\\, Texas\\, Gregory Gymnasium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs USA Swimming Short Course Worlds Selection Meet",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-usa-swimming-short-course-worlds-selection-meet",
-      "start": "2026-10-29",
-      "location": "Westmont\\, Illinois"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF New Braunfels W100",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-new-braunfels-w100",
-      "start": "2026-10-29",
-      "location": "New Braunfels\\, Texas\\, John Newcombe Country Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Norman W35",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-norman-w35",
-      "start": "2026-10-29",
-      "location": "Norman\\, Okla.\\, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Sumter W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-sumter-w15",
-      "start": "2026-10-29",
-      "location": "Sumter\\, S.C.\\, Palmetto Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Viva La Vida with AT 2026",
-      "url": "https://calendar.utexas.edu/event/viva-la-vida-with-at-2026",
-      "start": "2026-10-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Viva La Vida with AT!",
-      "url": "https://calendar.utexas.edu/event/viva-la-vida-with-at-5221",
-      "start": "2026-10-29",
-      "location": "Commons Learning Center\\, Entire Venue"
-    },
-    {
-      "source": "ut",
-      "title": "Viva la Vida with A.T. 2026!",
-      "url": "https://calendar.utexas.edu/event/viva-la-vida-with-at-2026-7152",
-      "start": "2026-10-29",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting - Stephanie Groman (University of Chicago)",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-stephanie-groman-university-of-chicago",
-      "start": "2026-10-29",
-      "location": "SEAY Library - Room 4.244"
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting - Stephanie Groman (University of Chicago):&quot\\;Decoding vulnerability: computational drivers of drug use&quot\\;",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-stephanie-groman-university-of-chicagoquotdecoding-vulnerability-computational-drivers-of-drug-usequot",
-      "start": "2026-10-29",
-      "location": "SEAY Library - Room 4.244"
-    },
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR)",
@@ -4117,6 +3748,13 @@
       "url": "https://calendar.utexas.edu/event/side-by-side",
       "start": "2026-11-18",
       "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "Songs in the Skyspace with Kelly Richey",
+      "url": "https://calendar.utexas.edu/event/songs-in-the-skyspace-with-kelly-richey",
+      "start": "2026-11-18",
+      "location": "Skyspace\\, Student Activity Center (SAC)\\, The Color Inside\\, William C. Powers\\, Jr. Student Activity Center\\, Third floor\\, Rooftop Garden"
     },
     {
       "source": "ut",
@@ -10900,6 +10538,13 @@
     },
     {
       "source": "ut",
+      "title": "40th Anniversary Screening of The Princess Bride - An Inconceivable Evening with Cary Elwes",
+      "url": "https://calendar.utexas.edu/event/40th-anniversary-screening-of-the-princess-bride-an-inconceivable-evening-with-cary-elwes",
+      "start": "2027-02-20",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-02-20",
@@ -13026,6 +12671,13 @@
     },
     {
       "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-04-09",
+      "location": "Center for Students in Recovery\\, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs Tennessee",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee",
       "start": "2027-04-09",
@@ -13057,6 +12709,62 @@
       "title": "Water for Elephants",
       "url": "https://calendar.utexas.edu/event/water-for-elephants",
       "start": "2027-04-09",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee-6897",
+      "start": "2027-04-10",
+      "location": "Austin\\, Texas\\, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Rowing vs Longhorn Invite",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-longhorn-invite-4178",
+      "start": "2027-04-10",
+      "location": "Austin\\, Texas\\, Lake Walter E. Long"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-missouri-3692",
+      "start": "2027-04-10",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-10",
+      "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee-8525",
+      "start": "2027-04-11",
+      "location": "Austin\\, Texas\\, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Mississippi State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-mississippi-state-1483",
+      "start": "2027-04-11",
+      "location": "Austin\\, Texas\\, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-missouri-464",
+      "start": "2027-04-11",
+      "location": "Austin\\, Texas\\, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-11",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
