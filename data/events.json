@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-01T12:54:13.633258+00:00",
+  "updated": "2026-11-01T21:50:53.808294+00:00",
   "counts": {
     "public": 0,
     "internal": 213,
-    "ut": 1607
+    "ut": 1606
   },
   "events": [
     {
@@ -1711,13 +1711,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-10",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Digital Scholars in Practice: Musics of Latin America OER Textbook Initiative",
-      "url": "https://calendar.utexas.edu/event/digital-scholars-in-practice-musics-of-latin-america-oer-textbook-initiative",
-      "start": "2026-11-10",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, Scholars Lab\\, Data Lab (PCL 2.202)"
     },
     {
       "source": "ut",
