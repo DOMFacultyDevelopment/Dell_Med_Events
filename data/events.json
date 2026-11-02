@@ -1,109 +1,11 @@
 {
-  "updated": "2026-11-01T21:50:53.808294+00:00",
+  "updated": "2026-11-02T15:09:24.136203+00:00",
   "counts": {
     "public": 0,
     "internal": 213,
-    "ut": 1606
+    "ut": 1610
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-11-01",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-11-01",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Concert Chorale",
-      "url": "https://calendar.utexas.edu/event/concert-chorale-9704",
-      "start": "2026-11-01",
-      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "D\u00eda de los Huesos (Day of the Bones)",
-      "url": "https://calendar.utexas.edu/event/dia-de-los-huesos-day-of-the-bones",
-      "start": "2026-11-01",
-      "location": "Texas Science & Natural History Museum"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-11-01",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-11-01",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "November Public Art Tour - Study the Sculpture",
-      "url": "https://calendar.utexas.edu/event/november-public-art-tour-study-the-sculpture",
-      "start": "2026-11-01",
-      "location": "Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-11-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Study the Sculpture",
-      "url": "https://calendar.utexas.edu/event/study-the-sculpture",
-      "start": "2026-11-01",
-      "location": "Clock Knot"
-    },
-    {
-      "source": "ut",
-      "title": "The Visit",
-      "url": "https://calendar.utexas.edu/event/the-visit",
-      "start": "2026-11-01",
-      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "UTLA Summer 2027 Application Deadline",
-      "url": "https://calendar.utexas.edu/event/utla-summer-2027-application-deadline",
-      "start": "2026-11-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Volleyball vs Texas A&M - Cotton Holdings Lone Star Showdown",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-texas-am-cotton-holdings-lone-star-showdown",
-      "start": "2026-11-01",
-      "location": "Austin\\, Texas\\, Gregory Gymnasium"
-    },
     {
       "source": "ut",
       "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
@@ -2100,13 +2002,6 @@
     },
     {
       "source": "ut",
-      "title": "Students on the Spectrum",
-      "url": "https://calendar.utexas.edu/event/students-on-the-spectrum-4974",
-      "start": "2026-11-11",
-      "location": "Student Services Building (SSB)\\, 2.106"
-    },
-    {
-      "source": "ut",
       "title": "Study Sessions",
       "url": "https://calendar.utexas.edu/event/study-sessions-1758",
       "start": "2026-11-11",
@@ -3804,6 +3699,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-11-20",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Mao\u2019s Cultural War: The Origins of the Cultural Revolution Revisited",
       "url": "https://calendar.utexas.edu/event/maos-cultural-war-the-origins-of-the-cultural-revolution-revisited",
       "start": "2026-11-20",
@@ -3933,6 +3835,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-11-21",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-21",
@@ -4019,6 +3928,20 @@
       "source": "ut",
       "title": "Fortlandia",
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2026-11-22",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "H-E-B Free Fourth Sunday",
+      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
+      "start": "2026-11-22",
+      "location": "Texas Science & Natural History Museum"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-11-22",
       "location": "Lady Bird Johnson Wildflower Center"
     },
@@ -4512,6 +4435,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-11-27",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-27",
@@ -4575,6 +4505,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-11-28",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-28",
@@ -4619,6 +4556,13 @@
       "source": "ut",
       "title": "Fortlandia",
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2026-11-29",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-11-29",
       "location": "Lady Bird Johnson Wildflower Center"
     },
@@ -5145,6 +5089,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-03",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Mozart Everlasting",
       "url": "https://calendar.utexas.edu/event/mozart-everlasting",
       "start": "2026-12-03",
@@ -5295,6 +5246,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-04",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Mark Rubin\\, Jew of Oklahoma Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/mark-rubin-jew-of-oklahoma-live-at-the-cactus-cafe",
       "start": "2026-12-04",
@@ -5410,6 +5368,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-05",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Michael Prysock Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/michael-prysock-live-at-the-cactus-cafe",
       "start": "2026-12-05",
@@ -5505,6 +5470,13 @@
       "url": "https://calendar.utexas.edu/event/landmarks-at-night",
       "start": "2026-12-06",
       "location": "James Turrell Skyspace"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-06",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "ut",
@@ -5935,6 +5907,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-10",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10",
@@ -6044,6 +6023,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-11",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Retirement Income Planning by VOYA",
       "url": "https://calendar.utexas.edu/event/retirement-income-planning-by-voya",
       "start": "2026-12-11",
@@ -6128,6 +6114,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-12",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "U.S. Air Force Band of the West",
       "url": "https://calendar.utexas.edu/event/us-air-force-band-of-the-west",
       "start": "2026-12-12",
@@ -6200,6 +6193,13 @@
       "source": "ut",
       "title": "Fortlandia",
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2026-12-13",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-13",
       "location": "Lady Bird Johnson Wildflower Center"
     },
@@ -6580,6 +6580,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-17",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Lunch Workshop-Using AI as a Collaborative Tool in Communication (Communications/Information Literacy)",
       "url": "https://calendar.utexas.edu/event/lunch-workshop-using-ai-as-a-collaborative-tool-in-communication-communicationsinformation-literacy",
       "start": "2026-12-17",
@@ -6676,6 +6683,13 @@
       "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-18",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/12/18",
@@ -6736,6 +6750,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-19",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs Duke",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-duke",
       "start": "2026-12-19",
@@ -6775,6 +6796,13 @@
       "url": "https://calendar.utexas.edu/event/glenn-miller-orchestra-in-the-christmas-mood",
       "start": "2026-12-20",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-20",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "ut",
@@ -6820,6 +6848,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-21",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-22",
@@ -6862,6 +6897,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-22",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "internal",
@@ -6952,6 +6994,13 @@
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-23",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-23",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "ut",
@@ -7080,6 +7129,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-26",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-27",
@@ -7103,6 +7159,20 @@
       "source": "ut",
       "title": "Fortlandia",
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2026-12-27",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "H-E-B Free Fourth Sunday",
+      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
+      "start": "2026-12-27",
+      "location": "Texas Science & Natural History Museum"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-27",
       "location": "Lady Bird Johnson Wildflower Center"
     },
@@ -7140,6 +7210,13 @@
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-28",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-28",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "ut",
@@ -7185,6 +7262,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-29",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "internal",
@@ -7271,6 +7355,13 @@
     },
     {
       "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-30",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-30",
@@ -7320,6 +7411,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Luminations",
+      "url": "https://calendar.utexas.edu/event/luminations-145",
+      "start": "2026-12-31",
+      "location": "Lady Bird Johnson Wildflower Center"
     },
     {
       "source": "internal",
@@ -8611,6 +8709,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-01-24",
       "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Ebonee Thomas\\, flute | Wilhelm Magner\\, viola | Emily Levin\\, harp",
+      "url": "https://calendar.utexas.edu/event/ebonee-thomas-flute-wilhelm-magner-viola-emily-levin-harp-1874",
+      "start": "2027-01-24",
+      "location": "Bates Recital Hall\\, Music Building (MRH)\\, Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -12432,41 +12537,6 @@
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
     },
     {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-12",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "The Waggoner Advance: Keynote speaker Dr. Andrew Holmes (NIAAA)",
-      "url": "https://calendar.utexas.edu/event/the-waggoner-advance-keynote-speaker-dr-andrew-holmes-niaaa",
-      "start": "2027-04-12",
-      "location": "Etter-Harbin Alumni Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf at The Ford Collegiate",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-the-ford-collegiate-3325",
-      "start": "2027-04-12",
-      "location": "Richmond Hill\\, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-04-13",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-13",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/13",
@@ -12475,48 +12545,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf at The Ford Collegiate",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-the-ford-collegiate-1455",
-      "start": "2027-04-13",
-      "location": "Richmond Hill\\, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "2026-2027 Rapoport Fellows Colloquium",
-      "url": "https://calendar.utexas.edu/event/2026-2027-rapoport-fellows-colloquium",
-      "start": "2027-04-14",
-      "location": "Schusterman Center for Jewish Studies\\, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-04-14",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-04-14",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-14",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-04-14",
-      "location": "Center for Students in Recovery\\, WCP 2.112"
     },
     {
       "source": "internal",
