@@ -1,165 +1,11 @@
 {
-  "updated": "2026-11-02T15:09:24.136203+00:00",
+  "updated": "2026-11-03T00:45:02.891881+00:00",
   "counts": {
     "public": 0,
     "internal": 213,
-    "ut": 1610
+    "ut": 1595
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"Escaping the Parent Trap: Reflecting on Family Relationships Through Film\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/escaping-the-parent-trap-reflecting-on-family-relationships-through-film-share-community-meeting",
-      "start": "2026-11-02",
-      "location": "Longhorn Wellness Center\\, SSB\\, 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "AI & Research: AI-Assisted Literature Searching",
-      "url": "https://calendar.utexas.edu/event/ai-research-ai-assisted-literature-searching",
-      "start": "2026-11-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Afternoon Yoga",
-      "url": "https://calendar.utexas.edu/event/afternoon-yoga",
-      "start": "2026-11-02",
-      "location": "Center for Students in Recovery\\, WCP 2.112\\, 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-11-02",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Christian Faculty and Staff Network hosts UT Women's Prayer Group",
-      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-hosts-ut-womens-prayer-group-5134",
-      "start": "2026-11-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-11-02",
-      "location": "Benson Latin American Collection\\, Nettie Lee Benson Latin American Collection\\, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "D\u00eda de los muertos crafting",
-      "url": "https://calendar.utexas.edu/event/dia-de-los-muertos-crafting",
-      "start": "2026-11-02",
-      "location": "Patton Hall (RLP)\\, 4.102"
-    },
-    {
-      "source": "ut",
-      "title": "E+E Film &amp\\; Media Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
-      "start": "2026-11-02",
-      "location": "Texas Union Asian Culture Room (4.224)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fall into Fitness Steps Challenge - UT Living Well",
-      "url": "https://calendar.utexas.edu/event/fall-into-fitness-steps-challenge-ut-living-well",
-      "start": "2026-11-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-11-02",
-      "location": "Visual Arts Center\\, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Financial Affairs Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/financial-affairs-committee-meeting",
-      "start": "2026-11-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-11-02",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2026-11-02",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Mosul Eye: A Scholar's Clandestine War Against ISIS",
-      "url": "https://calendar.utexas.edu/event/mosul-eye-a-scholars-clandestine-war-against-isis",
-      "start": "2026-11-02",
-      "location": "Littlefield Home (LFH)"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-11-02",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting-6654",
-      "start": "2026-11-02",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "The Visit",
-      "url": "https://calendar.utexas.edu/event/the-visit",
-      "start": "2026-11-02",
-      "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Charlottesville Challenger",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-charlottesville-challenger",
-      "start": "2026-11-02",
-      "location": "Charlottesville\\, Va.\\, Boar's Head Sports Club"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Hilton Head W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-hilton-head-w15",
-      "start": "2026-11-02",
-      "location": "Hilton Head\\, S.C.\\, Shipyard Van De Meer Tennis"
-    },
-    {
-      "source": "ut",
-      "title": "Vinyl Night BYOV (Bring Your Own Vinyl)",
-      "url": "https://calendar.utexas.edu/event/vinyl-night-byov-bring-your-own-vinyl",
-      "start": "2026-11-02",
-      "location": "Cactus Cafe"
-    },
     {
       "source": "ut",
       "title": "\"AnxieTEA\"SHARE Community Meeting",
@@ -312,9 +158,9 @@
     {
       "source": "ut",
       "title": "Lorraine J. Haricombe Distinguished Speaker Series: Disruptions in the Global Scientific Ecosystem with Cassidy R. Sugimoto",
-      "url": "https://calendar.utexas.edu/event/lorraine-j-haricombe-distinguished-speaker-series-disruptions-in-the-global-scientific-ecosystem-with-cassidy-r-sugimoto",
+      "url": "https://calendar.utexas.edu/event/lorraine-j-haricombe-distinguished-speaker-series-disruptions-in-the-global-scientific-ecosystem-with-cassidy-r-sugimoto-3819",
       "start": "2026-11-03",
-      "location": "Perry-Casta\u00f1eda Library (PCL)\\, PCL 2.500\\, UFCU Room"
+      "location": "PCL 2.500 (UFCU Room)"
     },
     {
       "source": "ut",
@@ -520,6 +366,13 @@
     },
     {
       "source": "ut",
+      "title": "Meeting the Moment: Public Health's New Paradigm",
+      "url": "https://calendar.utexas.edu/event/meeting-the-moment-public-healths-new-paradigm",
+      "start": "2026-11-04",
+      "location": "Norman Hackerman Building (NHB)\\, 1.720"
+    },
+    {
+      "source": "ut",
       "title": "Musical Theatre Workshop",
       "url": "https://calendar.utexas.edu/event/musical-theatre-workshop-2317",
       "start": "2026-11-04",
@@ -604,6 +457,13 @@
       "url": "https://calendar.utexas.edu/event/the-visit",
       "start": "2026-11-04",
       "location": "B. Iden Payne Theatre\\, F. Loren Winship Drama Building (WIN)\\, B. Iden Payne Theatre"
+    },
+    {
+      "source": "ut",
+      "title": "This is Public Health Graduate School Fair",
+      "url": "https://calendar.utexas.edu/event/this-is-public-health-graduate-school-fair",
+      "start": "2026-11-04",
+      "location": "Mary E. Gearing Hall (GEA)\\, 125"
     },
     {
       "source": "ut",
@@ -2169,6 +2029,13 @@
     },
     {
       "source": "ut",
+      "title": "Projection Mapping Workshop",
+      "url": "https://calendar.utexas.edu/event/projection-mapping-workshop",
+      "start": "2026-11-12",
+      "location": "Jesse H. Jones Communication Center - Building A (CMA)\\, 5.102"
+    },
+    {
+      "source": "ut",
       "title": "REU 101",
       "url": "https://calendar.utexas.edu/event/reu-101",
       "start": "2026-11-12",
@@ -3507,6 +3374,13 @@
     },
     {
       "source": "ut",
+      "title": "Parekh India Impact Prize Information Session",
+      "url": "https://calendar.utexas.edu/event/parekh-india-impact-prize-information-session",
+      "start": "2026-11-19",
+      "location": "CBA 3.302\\, GSLI Sustainable Impact Hub"
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-19",
@@ -3930,13 +3804,6 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-11-22",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "H-E-B Free Fourth Sunday",
-      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
-      "start": "2026-11-22",
-      "location": "Texas Science & Natural History Museum"
     },
     {
       "source": "ut",
@@ -7161,13 +7028,6 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-27",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "H-E-B Free Fourth Sunday",
-      "url": "https://calendar.utexas.edu/event/h-e-b-free-fourth-sunday-4810",
-      "start": "2026-12-27",
-      "location": "Texas Science & Natural History Museum"
     },
     {
       "source": "ut",
@@ -10760,6 +10620,13 @@
     },
     {
       "source": "ut",
+      "title": "The Improvised Shakespeare Company",
+      "url": "https://calendar.utexas.edu/event/the-improvised-shakespeare-company-6622",
+      "start": "2027-02-27",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball vs Tennessee - presented by Huntington Bank",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-tennessee-7905",
       "start": "2027-02-27",
@@ -10811,6 +10678,13 @@
       "source": "ut",
       "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
       "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
+      "start": "2027-02-28",
+      "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "The Improvised Shakespeare Company",
+      "url": "https://calendar.utexas.edu/event/the-improvised-shakespeare-company-6622",
       "start": "2027-02-28",
       "location": "McCullough Theatre\\, Performing Arts Center (PAC)"
     },
@@ -12535,6 +12409,27 @@
       "url": "https://calendar.utexas.edu/event/water-for-elephants",
       "start": "2027-04-11",
       "location": "Bass Concert Hall\\, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-12",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports\\, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "The Waggoner Advance: Keynote speaker Dr. Andrew Holmes (NIAAA)",
+      "url": "https://calendar.utexas.edu/event/the-waggoner-advance-keynote-speaker-dr-andrew-holmes-niaaa",
+      "start": "2027-04-12",
+      "location": "Etter-Harbin Alumni Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at The Ford Collegiate",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-the-ford-collegiate-3325",
+      "start": "2027-04-12",
+      "location": "Richmond Hill\\, Georgia"
     },
     {
       "source": "internal",
