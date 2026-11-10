@@ -53,11 +53,9 @@ def fetch(url, timeout=30):
 # Month headers are <h2>Month YYYY</h2>. Month changes mid-section appear in text nodes.
 
 def fetch_dellmed_public():
-    # Cache-bust the URL so CDN always returns live content, not stale cached HTML
     import time as _time
-    bust = int(_time.time())
     try:
-        html = fetch(f"https://dellmed.utexas.edu/events?_={bust}")
+        html = fetch(f"https://dellmed.utexas.edu/events?_={int(_time.time())}")
     except Exception as e:
         print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
         return []
@@ -353,24 +351,12 @@ def build_ics(events):
 
 
 
-# ---------- Rebuild index.html with embedded events ----------
+# ---------- Rebuild index.html and ticker.html with embedded events ----------
 
-def build_index_html(events, updated):
-    """
-    Reads index.html from the repo root and replaces the embedded ALL=
-    array with fresh event data. This makes the page work in SharePoint
-    iframes and other contexts where fetch() is blocked or uses the wrong
-    base URL.
-    """
+def _events_js(events):
+    """Return a JSON-safe JS array string of events for embedding in <script>."""
     import json as _json
-    index_path = ROOT / "index.html"
-    if not index_path.exists():
-        print("WARN: index.html not found, skipping embed", file=sys.stderr)
-        return
 
-    html = index_path.read_text(encoding="utf-8")
-
-    # Encode events safely for embedding in a <script> block
     def clean(o):
         if isinstance(o, str):
             return o.replace("</script>", "<\\/script>")
@@ -380,25 +366,69 @@ def build_index_html(events, updated):
             return [clean(i) for i in o]
         return o
 
-    events_js = _json.dumps(clean(events), ensure_ascii=False, separators=(",", ":"))
+    return _json.dumps(clean(events), ensure_ascii=False, separators=(",", ":"))
 
-    # Replace the var ALL=...;  line (handles both empty [] and previously embedded data)
+
+def build_index_html(events, updated):
+    """
+    Embeds events directly into index.html by replacing the
+    'let EVENTS = [];' initializer so the page works in SharePoint
+    iframes where fetch() may be blocked.
+    """
     import re as _re
-    # Match var ALL= followed by any JSON array (including large multi-line ones)
-    # Use a non-greedy match anchored at ;
+    index_path = ROOT / "index.html"
+    if not index_path.exists():
+        print("WARN: index.html not found, skipping embed", file=sys.stderr)
+        return
+
+    html = index_path.read_text(encoding="utf-8")
+    data = _events_js(events)
+
+    # Replace: let EVENTS = [...anything...];
     new_html = _re.sub(
-        r"var ALL=\[.*?\](?:\s*;|(?=\s*/\*))",
-        f"var ALL={events_js};",
+        r"let EVENTS\s*=\s*\[.*?\]\s*;",
+        f"let EVENTS = {data};",
         html,
         count=1,
         flags=_re.DOTALL,
     )
 
     if new_html == html:
-        print("WARN: could not find var ALL= in index.html to replace", file=sys.stderr)
+        print("WARN: could not find 'let EVENTS = [];' in index.html", file=sys.stderr)
     else:
         index_path.write_text(new_html, encoding="utf-8")
-        print(f"Updated index.html with {len(events)} embedded events", file=sys.stderr)
+        print(f"  Updated index.html with {len(events)} embedded events", file=sys.stderr)
+
+
+def build_ticker_html(events, updated):
+    """
+    Embeds events directly into ticker.html by replacing the
+    'let allEvents = [];' initializer so the ticker works in SharePoint
+    iframes where fetch() may be blocked.
+    """
+    import re as _re
+    ticker_path = ROOT / "ticker.html"
+    if not ticker_path.exists():
+        print("WARN: ticker.html not found, skipping embed", file=sys.stderr)
+        return
+
+    html = ticker_path.read_text(encoding="utf-8")
+    data = _events_js(events)
+
+    # Replace: let allEvents = [...anything...];
+    new_html = _re.sub(
+        r"let allEvents\s*=\s*\[.*?\]\s*;",
+        f"let allEvents = {data};",
+        html,
+        count=1,
+        flags=_re.DOTALL,
+    )
+
+    if new_html == html:
+        print("WARN: could not find 'let allEvents = [];' in ticker.html", file=sys.stderr)
+    else:
+        ticker_path.write_text(new_html, encoding="utf-8")
+        print(f"  Updated ticker.html with {len(events)} embedded events", file=sys.stderr)
 
 # ---------- Main ----------
 
@@ -435,8 +465,9 @@ def main():
     OUT_ICS.write_text(ics)
     print(f"Wrote {OUT_ICS}", file=sys.stderr)
 
-    # Embed events into index.html so it works in SharePoint iframes
+    # Embed events into index.html and ticker.html so both work in SharePoint iframes
     build_index_html(all_events, payload["updated"])
+    build_ticker_html(all_events, payload["updated"])
 
 
 if __name__ == "__main__":
