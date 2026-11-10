@@ -42,8 +42,10 @@ def fetch(url, timeout=30):
 # We walk the flattened visible-text representation to extract these fields.
 
 def fetch_dellmed_public():
+    # ?page=1 forces server-side rendering — the base /events URL is JS-rendered
+    # and returns no events when fetched server-side by the GitHub Action.
     try:
-        html = fetch("https://dellmed.utexas.edu/events")
+        html = fetch("https://dellmed.utexas.edu/events?page=1")
     except Exception as e:
         print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
         return []
@@ -64,7 +66,7 @@ def fetch_dellmed_public():
     tokens = []
     for m in re.finditer(
         r"<h2[^>]*>(.*?)</h2>"           # month header
-        r"|<a\s[^>]*href=\"(/events/[^\"]+)\"[^>]*>(.*?)</a>"  # event link
+        r"|<a\s[^>]*href=\"(/events/[^\"?]+)\"[^>]*>(.*?)</a>"  # event link (slug only, no ?params)
         r"|([^<]{2,})",                   # text node
         html_clean, re.S | re.I
     ):
