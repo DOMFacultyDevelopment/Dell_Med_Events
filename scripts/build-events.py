@@ -35,133 +35,176 @@ def fetch(url, timeout=30):
         return r.read().decode("utf-8", errors="replace")
 
 
-# ---------- Dell Med public events scraper ----------
+# ---------- Dell Med public events ----------
 # dellmed.utexas.edu/events is an AEM (Adobe Experience Manager) site.
-# It renders events server-side as HTML with slug-based links like /events/event-name.
-# Filter/category links use /events?searchCriteria=... and must be excluded.
+# The /events page is a JavaScript shell — events are NOT in the raw HTML.
+# They are loaded client-side via AEM's search API using a base64 searchCriteria
+# parameter: {"g":"events"} = eyJnIjoiZXZlbnRzIn0=
+# The search results endpoint returns server-rendered HTML with event links
+# that we can parse directly.
+
+import base64 as _base64
 
 def fetch_dellmed_public():
-    try:
-        html = fetch("https://dellmed.utexas.edu/events")
-    except Exception as e:
-        print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
-        return []
+    import urllib.parse as _up
+    today_str = date.today().isoformat()
 
-    # Strip scripts/styles
-    html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
-                        flags=re.S | re.I)
+    # Build the searchCriteria for the events group
+    criteria = _base64.b64encode(b'{"g":"events"}').decode().rstrip("=")
 
     events = []
     seen_urls = set()
     current_year = None
     current_month = None
 
-    # Tokenise: h2 month headers, event slug links, and text nodes.
-    # Event links: href="/events/SLUG" where SLUG contains no "?" (excludes searchCriteria links).
-    tokens = []
-    for m in re.finditer(
-        r"<h2[^>]*>(.*?)</h2>"
-        r"|<a\s+[^>]*href=\"(/events/[^\"]+?)\"[^>]*>(.*?)</a>"
-        r"|([^<]{2,})",
-        html_clean, re.S | re.I
-    ):
-        if m.group(1) is not None:
-            tokens.append(("h2", re.sub(r"<[^>]+>", "", m.group(1)).strip()))
-        elif m.group(2) is not None:
-            href = m.group(2)
-            # Exclude filter/search links — they contain "?" or "searchCriteria"
-            if "?" not in href and "searchCriteria" not in href:
+    page = 1
+    while True:
+        url = (
+            f"https://dellmed.utexas.edu/search"
+            f"/_jcr_content/root/container/globalsearch.searchresults.html"
+            f"?searchCriteria={criteria}&page={page}"
+        )
+        try:
+            html = fetch(url)
+        except Exception as e:
+            print(f"WARN: Dell Med events page {page} failed: {e}", file=sys.stderr)
+            break
+
+        # Strip scripts/styles
+        html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
+                            flags=re.S | re.I)
+
+        # Count events found on this page to detect end of pagination
+        page_events = 0
+
+        # Tokenise: h2 month headers, event slug links (/events/slug), text nodes
+        tokens = []
+        for m in re.finditer(
+            r"<h2[^>]*>(.*?)</h2>"
+            r"|<a\s[^>]*href=\"(https?://dellmed\.utexas\.edu/events/[^\"]+|/events/[^\"?]+)\"[^>]*>(.*?)</a>"
+            r"|([^<]{2,})",
+            html_clean, re.S | re.I
+        ):
+            if m.group(1) is not None:
+                tokens.append(("h2", re.sub(r"<[^>]+>", "", m.group(1)).strip()))
+            elif m.group(2) is not None:
+                href = m.group(2)
+                # Normalize to absolute URL
+                if href.startswith("/"):
+                    href = "https://dellmed.utexas.edu" + href
                 title = re.sub(r"<[^>]+>", "", m.group(3)).strip()
                 if title:
                     tokens.append(("a_event", href, title))
-        elif m.group(4) is not None:
-            t = m.group(4).strip()
-            if t:
-                tokens.append(("text", t))
+            elif m.group(4) is not None:
+                t = m.group(4).strip()
+                if t:
+                    tokens.append(("text", t))
 
-    context = []
-    for i, tok in enumerate(tokens):
-        if tok[0] == "h2":
-            hm = re.match(r"([A-Za-z]+)\s+(\d{4})", tok[1])
-            if hm:
-                mon_key = hm.group(1)[:3].capitalize()
-                if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]
-                    current_year = int(hm.group(2))
-            context = []
-
-        elif tok[0] == "text":
-            context.append(tok[1])
-            if len(context) > 30:
-                context = context[-30:]
-
-        elif tok[0] == "a_event":
-            href, title = tok[1], tok[2]
-            if not current_year or not current_month:
+        context = []
+        for i, tok in enumerate(tokens):
+            if tok[0] == "h2":
+                hm = re.match(r"([A-Za-z]+)\s+(\d{4})", tok[1])
+                if hm:
+                    mon_key = hm.group(1)[:3].capitalize()
+                    if mon_key in MONTH_MAP:
+                        current_month = MONTH_MAP[mon_key]
+                        current_year = int(hm.group(2))
                 context = []
-                continue
 
-            url = "https://dellmed.utexas.edu" + href
-            if url in seen_urls:
+            elif tok[0] == "text":
+                context.append(tok[1])
+                if len(context) > 30:
+                    context = context[-30:]
+
+            elif tok[0] == "a_event":
+                href, title = tok[1], tok[2]
+                if not current_year or not current_month:
+                    context = []
+                    continue
+                if href in seen_urls:
+                    context = []
+                    continue
+                seen_urls.add(href)
+
+                ctx_text = " ".join(context)
+
+                # Date from context
+                day = None
+                dm = re.search(
+                    r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})",
+                    ctx_text, re.I
+                )
+                if dm:
+                    mon_key = dm.group(1)[:3].capitalize()
+                    if mon_key in MONTH_MAP:
+                        current_month = MONTH_MAP[mon_key]
+                    day = int(dm.group(2))
+                if not day:
+                    nums = re.findall(r"\b(\d{1,2})\b", ctx_text)
+                    if nums:
+                        day = int(nums[-1])
+                if not day:
+                    context = []
+                    continue
+
+                iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
+                if iso < today_str:
+                    context = []
+                    continue
+
+                # Time
+                time_str = None
+                tm = re.search(
+                    r"(\d{1,2}(?::\d{2})?\s*(?:[–\-]\s*\d{1,2}(?::\d{2})?)?\s*[ap]\.?m\.?)",
+                    ctx_text, re.I
+                )
+                if tm:
+                    time_str = tm.group(1).strip()
+
+                # Location and speaker from tokens after this link
+                location = None
+                speaker = None
+                after = []
+                for j in range(i + 1, min(i + 20, len(tokens))):
+                    if tokens[j][0] == "text":
+                        after.append(tokens[j][1])
+                    elif tokens[j][0] == "a_event":
+                        break
+                for ln in after[:8]:
+                    if not location and any(kw in ln for kw in [
+                        "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
+                        "Auditorium", "Building", "Center", "Hospital",
+                        "DPRI", "Texas Union", "Dell Children", "UT Health"
+                    ]):
+                        location = ln
+                    if not speaker and any(kw in ln for kw in [
+                        "M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"
+                    ]):
+                        speaker = ln
+
+                events.append({
+                    "source":   "public",
+                    "title":    title,
+                    "url":      href,
+                    "start":    iso,
+                    "time":     time_str,
+                    "location": location,
+                    "speaker":  speaker,
+                })
+                page_events += 1
                 context = []
-                continue
-            seen_urls.add(url)
 
-            ctx_text = " ".join(context)
+        # Stop paginating if this page had no events
+        if page_events == 0:
+            break
 
-            # Date from context
-            day = None
-            dm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})", ctx_text, re.I)
-            if dm:
-                mon_key = dm.group(1)[:3].capitalize()
-                if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]
-                day = int(dm.group(2))
-            if not day:
-                nums = re.findall(r"\b(\d{1,2})\b", ctx_text)
-                if nums:
-                    day = int(nums[-1])
-            if not day:
-                context = []
-                continue
+        # Check for a next-page link in the HTML
+        if f'data-page="{page + 1}"' not in html_clean and f"page={page + 1}" not in html_clean:
+            break
 
-            iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
-
-            # Time
-            time_str = None
-            tm = re.search(r"(\d{1,2}(?::\d{2})?\s*[–\-]?\s*\d{0,2}(?::\d{2})?\s*[ap]\.?m\.?)", ctx_text, re.I)
-            if tm:
-                time_str = tm.group(1).strip()
-
-            # Location and speaker from tokens after the link
-            location = None
-            speaker = None
-            after = []
-            for j in range(i + 1, min(i + 20, len(tokens))):
-                if tokens[j][0] == "text":
-                    after.append(tokens[j][1])
-                elif tokens[j][0] == "a_event":
-                    break
-            for ln in after[:8]:
-                if not location and any(kw in ln for kw in [
-                    "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
-                    "Auditorium", "Building", "Center", "Hospital", "DPRI",
-                    "Texas Union", "Dell Children", "UT Health"
-                ]):
-                    location = ln
-                if not speaker and any(kw in ln for kw in ["M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"]):
-                    speaker = ln
-
-            events.append({
-                "source":   "public",
-                "title":    title,
-                "url":      url,
-                "start":    iso,
-                "time":     time_str,
-                "location": location,
-                "speaker":  speaker,
-            })
-            context = []
+        page += 1
+        if page > 20:  # safety cap
+            break
 
     print(f"  Dell Med public scraper: {len(events)} events parsed", file=sys.stderr)
     return events
