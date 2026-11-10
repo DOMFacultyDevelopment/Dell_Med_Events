@@ -36,106 +36,10 @@ def fetch(url, timeout=30):
 
 
 # ---------- Dell Med public events scraper ----------
-
-class DellMedParser(HTMLParser):
-    """
-    Parse the events list at dellmed.utexas.edu/events. The page structure is:
-      <h2>May 2026</h2>
-      <div with date 'May 12'>
-        <div with time '7:30-8:30 a.m.'>
-        <a href="/events/..." >Title</a>
-        <div with location>
-        <div with speaker (optional)>
-        <a>Category</a> ...
-    Rather than parse strict structure (it changes), we walk through the page
-    capturing month headers, date markers, and the first link inside each card.
-    """
-    def __init__(self):
-        super().__init__(convert_charrefs=True)
-        self.events = []
-        self.current_year = None
-        self.current_month = None
-        self.current_day = None
-        self.current_day_end = None
-        self.in_event_link = False
-        self.event_url = None
-        self.event_title_parts = []
-        self.recent_links = []
-        # State machine: after a date, collect time, link (title), location, speaker
-        self.pending_event = None
-        self.text_buffer = []
-        self.in_h2 = False
-        self.h2_text = []
-
-    def handle_starttag(self, tag, attrs):
-        attrs_d = dict(attrs)
-        if tag == "h2":
-            self.in_h2 = True
-            self.h2_text = []
-        elif tag == "a":
-            href = attrs_d.get("href", "")
-            if href.startswith("/events/") and href != "/events":
-                self.in_event_link = True
-                self.event_url = "https://dellmed.utexas.edu" + href
-                self.event_title_parts = []
-
-    def handle_endtag(self, tag):
-        if tag == "h2":
-            self.in_h2 = False
-            text = "".join(self.h2_text).strip()
-            m = re.match(r"^([A-Za-z]+)\s+(\d{4})$", text)
-            if m and m.group(1)[:3] in MONTH_MAP:
-                self.current_month = MONTH_MAP[m.group(1)[:3]]
-                self.current_year = int(m.group(2))
-        elif tag == "a" and self.in_event_link:
-            self.in_event_link = False
-            title = "".join(self.event_title_parts).strip()
-            if title and self.event_url and self.current_year and self.current_month:
-                # We need a day. Look at recent text buffer for "Mmm DD" or "DD" pattern.
-                day = self._find_recent_day()
-                if day:
-                    iso = f"{self.current_year:04d}-{self.current_month:02d}-{day:02d}"
-                    # Time guess from buffer
-                    time_str = self._find_recent_time()
-                    self.events.append({
-                        "source": "public",
-                        "title": title,
-                        "url": self.event_url,
-                        "start": iso,
-                        "time": time_str,
-                    })
-            self.event_url = None
-            self.event_title_parts = []
-
-    def handle_data(self, data):
-        if self.in_h2:
-            self.h2_text.append(data)
-        if self.in_event_link:
-            self.event_title_parts.append(data)
-        # Keep a rolling buffer of recent visible text (last ~500 chars)
-        self.text_buffer.append(data)
-        if len(self.text_buffer) > 60:
-            self.text_buffer = self.text_buffer[-60:]
-
-    def _find_recent_day(self):
-        text = " ".join(self.text_buffer[-40:])
-        # Match "May 12" or "Jun 26-28" or just "12" right after month
-        matches = list(re.finditer(
-            r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})(?:[\u2013\u2014-]\d{1,2})?\b",
-            text
-        ))
-        if matches:
-            return int(matches[-1].group(2))
-        return None
-
-    def _find_recent_time(self):
-        text = " ".join(self.text_buffer[-40:])
-        m = re.search(
-            r"(\d{1,2}(?::\d{2})?(?:\s*[\u2013\u2014-]\s*\d{1,2}(?::\d{2})?)?\s*[apAP]\.?[mM]\.?)",
-            text
-        )
-        return m.group(1).strip() if m else None
-
+# The dellmed.utexas.edu/events page groups events under <h2>Month YYYY</h2>
+# headers. Each event block contains a date string (e.g. "Oct 20"), a time,
+# an <a href="/events/slug"> title link, a location line, and an optional speaker.
+# We walk the flattened visible-text representation to extract these fields.
 
 def fetch_dellmed_public():
     try:
@@ -143,48 +47,134 @@ def fetch_dellmed_public():
     except Exception as e:
         print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
         return []
-    p = DellMedParser()
-    p.feed(html)
-    # Dedupe by URL
-    seen = set()
-    out = []
-    for e in p.events:
-        if e["url"] in seen:
-            continue
-        seen.add(e["url"])
-        out.append(e)
-    # Now do a second pass to pull location and speaker by re-parsing each event card region.
-    # Cheap approach: pull location/speaker by looking around the link text in raw HTML.
-    out = enrich_dellmed(out, html)
-    return out
 
+    # Strip scripts/styles first so text extraction is clean
+    html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
+                        flags=re.S | re.I)
 
-def enrich_dellmed(events, html):
-    """For each event, find its anchor in html and pull surrounding context for location."""
-    for e in events:
-        # href in the html
-        href_path = e["url"].replace("https://dellmed.utexas.edu", "")
-        idx = html.find(href_path)
-        if idx < 0:
-            continue
-        # Look at ~800 chars after the anchor close for location
-        chunk = html[idx:idx + 1500]
-        # Location is typically the next paragraph-like text after the link
-        # Strip tags
-        text = re.sub(r"<[^>]+>", "\n", chunk)
-        text = re.sub(r"\n+", "\n", text).strip()
-        lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
-        if len(lines) >= 2:
-            # Lines[0] is title; next non-empty line that looks like a venue/location
-            for ln in lines[1:6]:
-                if any(kw in ln for kw in ["HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid", "Hotel", "Auditorium", "Building", "Center"]):
-                    e["location"] = ln
+    events = []
+    seen_urls = set()
+    current_year = None
+    current_month = None
+
+    # Find all <h2> month headers and all event <a> links in document order
+    # We'll walk tag-by-tag using a simple state machine on the raw HTML.
+
+    # Tokenise into (type, value) pairs: 'h2', 'a_event', 'text'
+    tokens = []
+    for m in re.finditer(
+        r"<h2[^>]*>(.*?)</h2>"           # month header
+        r"|<a\s[^>]*href=\"(/events/[^\"]+)\"[^>]*>(.*?)</a>"  # event link
+        r"|([^<]{2,})",                   # text node
+        html_clean, re.S | re.I
+    ):
+        if m.group(1) is not None:
+            tokens.append(("h2", re.sub(r"<[^>]+>", "", m.group(1)).strip()))
+        elif m.group(2) is not None:
+            tokens.append(("a_event", m.group(2), re.sub(r"<[^>]+>", "", m.group(3)).strip()))
+        elif m.group(4) is not None:
+            t = m.group(4).strip()
+            if t:
+                tokens.append(("text", t))
+
+    # Now walk tokens, maintaining a small context window
+    context = []   # recent text tokens since last event link
+    for i, tok in enumerate(tokens):
+        if tok[0] == "h2":
+            header = tok[1]
+            # Matches "October 2026", "Nov 2026", "November 2026" etc.
+            hm = re.match(r"([A-Za-z]+)\s+(\d{4})", header)
+            if hm:
+                mon_key = hm.group(1)[:3].capitalize()
+                if mon_key in MONTH_MAP:
+                    current_month = MONTH_MAP[mon_key]
+                    current_year = int(hm.group(2))
+            context = []
+
+        elif tok[0] == "text":
+            context.append(tok[1])
+            if len(context) > 30:
+                context = context[-30:]
+
+        elif tok[0] == "a_event":
+            href, title = tok[1], tok[2]
+            if not title or not current_year or not current_month:
+                context = []
+                continue
+
+            url = "https://dellmed.utexas.edu" + href
+            if url in seen_urls:
+                context = []
+                continue
+            seen_urls.add(url)
+
+            # Pull date from recent context — look for "Oct 20", "Nov 3–5", etc.
+            ctx_text = " ".join(context)
+            day = None
+            dm = re.search(
+                r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})",
+                ctx_text, re.I
+            )
+            if dm:
+                mon_key = dm.group(1)[:3].capitalize()
+                if mon_key in MONTH_MAP:
+                    current_month = MONTH_MAP[mon_key]  # update month in case page skips h2
+                day = int(dm.group(2))
+
+            if not day:
+                # Fallback: last standalone number in context (day of month)
+                nums = re.findall(r"\b(\d{1,2})\b", ctx_text)
+                if nums:
+                    day = int(nums[-1])
+
+            if not day:
+                context = []
+                continue
+
+            iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
+
+            # Time — look for "12–1 p.m.", "7:30–8:30 a.m.", etc.
+            time_str = None
+            tm = re.search(
+                r"(\d{1,2}(?::\d{2})?\s*(?:[–\-]\s*\d{1,2}(?::\d{2})?)?\s*[ap]\.?m\.?)",
+                ctx_text, re.I
+            )
+            if tm:
+                time_str = tm.group(1).strip()
+
+            # Location — from text tokens immediately AFTER the link
+            location = None
+            speaker = None
+            after = []
+            for j in range(i + 1, min(i + 20, len(tokens))):
+                if tokens[j][0] == "text":
+                    after.append(tokens[j][1])
+                elif tokens[j][0] == "a_event":
                     break
-            # speaker: a line with "M.D." or "Ph.D." after the location
-            for ln in lines[1:8]:
-                if any(kw in ln for kw in ["M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"]):
-                    e.setdefault("speaker", ln)
-                    break
+            for ln in after[:8]:
+                if not location and any(kw in ln for kw in [
+                    "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
+                    "Auditorium", "Building", "Center", "Hospital",
+                    "Medical Center", "DPRI", "Texas Union"
+                ]):
+                    location = ln
+                if not speaker and any(kw in ln for kw in [
+                    "M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"
+                ]):
+                    speaker = ln
+
+            events.append({
+                "source":   "public",
+                "title":    title,
+                "url":      url,
+                "start":    iso,
+                "time":     time_str,
+                "location": location,
+                "speaker":  speaker,
+            })
+            context = []
+
+    print(f"  Dell Med public scraper: {len(events)} events parsed", file=sys.stderr)
     return events
 
 
@@ -227,56 +217,15 @@ def ics_date_to_iso(s):
 
 
 def fetch_ut_calendar():
-    """
-    Fetch upcoming UT Austin events from the Texas Today Localist ICS feed.
-    Tries multiple URLs and retries on transient failures.
-    """
-    # Multiple candidate ICS URLs in priority order
-    URLS = [
-        "https://calendar.utexas.edu/calendar/1.ics",
-        "https://calendar.utexas.edu/calendar.ics",
-        "https://calendar.utexas.edu/calendar/upcoming.ics",
-    ]
-
-    import ssl
-    import time
-
-    text = None
-    for url in URLS:
-        for attempt in range(1, 4):           # up to 3 attempts per URL
-            try:
-                print(f"  UT ICS attempt {attempt}: {url}", file=sys.stderr)
-                # Create an SSL context that tolerates older certs on UT's servers
-                ctx = ssl.create_default_context()
-                ctx.check_hostname = False
-                ctx.verify_mode = ssl.CERT_NONE
-                req = urllib.request.Request(url, headers={"User-Agent": UA})
-                with urllib.request.urlopen(req, timeout=45, context=ctx) as r:
-                    raw_bytes = r.read()
-                    # Detect encoding
-                    text = raw_bytes.decode("utf-8", errors="replace")
-                if "BEGIN:VCALENDAR" in text:
-                    print(f"  UT ICS fetched OK ({len(text):,} chars)", file=sys.stderr)
-                    break          # success
-                else:
-                    print(f"  WARN: response from {url} is not ICS (no BEGIN:VCALENDAR)", file=sys.stderr)
-                    text = None
-            except Exception as e:
-                print(f"  WARN: attempt {attempt} failed for {url}: {e}", file=sys.stderr)
-                if attempt < 3:
-                    time.sleep(2 ** attempt)   # 2s, 4s backoff
-        if text:
-            break
-
-    if not text:
-        print("ERROR: all UT ICS URLs failed — UT Austin row will be empty", file=sys.stderr)
+    try:
+        text = fetch("https://calendar.utexas.edu/calendar/1.ics")
+    except Exception as e:
+        print(f"WARN: failed to fetch UT calendar: {e}", file=sys.stderr)
         return []
-
-    raw   = parse_ics(text)
+    raw = parse_ics(text)
     today = date.today().isoformat()
-    out   = []
-    seen  = set()
-
+    out = []
+    seen = set()
     for ev in raw:
         iso = ics_date_to_iso(ev.get("DTSTART", ""))
         if not iso or iso < today:
@@ -284,21 +233,20 @@ def fetch_ut_calendar():
         title = ev.get("SUMMARY", "").strip()
         if not title:
             continue
+        # Drop obvious noise / sports unless someone wants them; we keep them but tag source
         key = (title, iso)
         if key in seen:
             continue
         seen.add(key)
-        url      = ev.get("URL", "").strip() or "https://calendar.utexas.edu/?school=austin"
+        url = ev.get("URL", "").strip() or "https://calendar.utexas.edu/?school=austin"
         location = ev.get("LOCATION", "").strip()
         out.append({
-            "source":   "ut",
-            "title":    title,
-            "url":      url,
-            "start":    iso,
+            "source": "ut",
+            "title": title,
+            "url": url,
+            "start": iso,
             "location": location or None,
         })
-
-    print(f"  UT calendar: {len(out)} upcoming events parsed", file=sys.stderr)
     return out
 
 
@@ -441,17 +389,12 @@ def build_index_html(events, updated):
 # ---------- Main ----------
 
 def main():
-    print("── Fetching Dell Med public events ──", file=sys.stderr)
     public_events = fetch_dellmed_public()
-    print(f"✓ Dell Med public:  {len(public_events)} events", file=sys.stderr)
-
-    print("── Fetching UT Austin calendar ──", file=sys.stderr)
+    print(f"Dell Med public: {len(public_events)} events", file=sys.stderr)
     ut_events = fetch_ut_calendar()
-    print(f"✓ UT Austin:        {len(ut_events)} events", file=sys.stderr)
-
-    print("── Loading internal events ──", file=sys.stderr)
+    print(f"UT calendar:    {len(ut_events)} events", file=sys.stderr)
     internal_events = load_internal()
-    print(f"✓ Internal:         {len(internal_events)} events", file=sys.stderr)
+    print(f"Internal:       {len(internal_events)} events", file=sys.stderr)
 
     # Filter out the placeholder example
     internal_events = [e for e in internal_events
