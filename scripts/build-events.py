@@ -35,92 +35,19 @@ def fetch(url, timeout=30):
         return r.read().decode("utf-8", errors="replace")
 
 
-# ---------- Dell Med public events — Localist JSON API ----------
-# dellmed.utexas.edu runs on Localist. The JSON API at /api/2/events returns
-# events directly without JS rendering. Requires Accept: application/json header.
+# ---------- Dell Med public events scraper ----------
+# dellmed.utexas.edu/events is an AEM (Adobe Experience Manager) site.
+# It renders events server-side as HTML with slug-based links like /events/event-name.
+# Filter/category links use /events?searchCriteria=... and must be excluded.
 
 def fetch_dellmed_public():
-    today_str = date.today().isoformat()
-    out = []
-    seen = set()
-    page = 1
+    try:
+        html = fetch("https://dellmed.utexas.edu/events")
+    except Exception as e:
+        print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
+        return []
 
-    while True:
-        api_url = (
-            f"https://dellmed.utexas.edu/api/2/events"
-            f"?pp=100&order=time&start={today_str}&page={page}"
-        )
-        try:
-            req = urllib.request.Request(api_url, headers={
-                "User-Agent": UA,
-                "Accept": "application/json",
-            })
-            with urllib.request.urlopen(req, timeout=30) as r:
-                raw = r.read().decode("utf-8", errors="replace")
-            data = json.loads(raw)
-        except Exception as e:
-            print(f"WARN: Dell Med public API page {page} failed: {e}", file=sys.stderr)
-            break
-
-        events = data.get("events", [])
-        if not events:
-            break
-
-        for item in events:
-            ev = item.get("event", item)
-            title = (ev.get("title") or "").strip()
-            if not title:
-                continue
-
-            iso = (ev.get("first_date") or ev.get("date") or "")[:10]
-            if not iso or iso < today_str:
-                continue
-
-            key = (title, iso)
-            if key in seen:
-                continue
-            seen.add(key)
-
-            url = ev.get("url") or "https://dellmed.utexas.edu/events"
-
-            # Time
-            time_str = None
-            ts = (ev.get("time") or ev.get("start_time") or "").strip()
-            te = (ev.get("end_time") or "").strip()
-            if ts:
-                time_str = f"{ts}–{te}" if te else ts
-
-            # Location
-            location = None
-            loc = ev.get("location") or ev.get("address") or ev.get("room") or {}
-            if isinstance(loc, dict):
-                location = (loc.get("name") or loc.get("address") or "").strip() or None
-            elif isinstance(loc, str):
-                location = loc.strip() or None
-
-            out.append({
-                "source":   "public",
-                "title":    title,
-                "url":      url,
-                "start":    iso,
-                "time":     time_str or None,
-                "location": location,
-                "speaker":  None,
-            })
-
-        total_pages = data.get("total_pages", 1)
-        if page >= total_pages:
-            break
-        page += 1
-
-    print(f"  Dell Med public API: {len(out)} events fetched", file=sys.stderr)
-    return out
-
-
-# Keep old scraper as fallback if needed
-def _fetch_dellmed_html_fallback():
-
-    # Strip scripts/styles first so text extraction is clean
+    # Strip scripts/styles
     html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
                         flags=re.S | re.I)
 
@@ -129,33 +56,33 @@ def _fetch_dellmed_html_fallback():
     current_year = None
     current_month = None
 
-    # Find all <h2> month headers and all event <a> links in document order
-    # We'll walk tag-by-tag using a simple state machine on the raw HTML.
-
-    # Tokenise into (type, value) pairs: 'h2', 'a_event', 'text'
+    # Tokenise: h2 month headers, event slug links, and text nodes.
+    # Event links: href="/events/SLUG" where SLUG contains no "?" (excludes searchCriteria links).
     tokens = []
     for m in re.finditer(
-        r"<h2[^>]*>(.*?)</h2>"           # month header
-        r"|<a\s[^>]*href=\"(/events/[^\"?]+)\"[^>]*>(.*?)</a>"  # event link (slug only, no ?params)
-        r"|([^<]{2,})",                   # text node
+        r"<h2[^>]*>(.*?)</h2>"
+        r"|<a\s+[^>]*href=\"(/events/[^\"]+?)\"[^>]*>(.*?)</a>"
+        r"|([^<]{2,})",
         html_clean, re.S | re.I
     ):
         if m.group(1) is not None:
             tokens.append(("h2", re.sub(r"<[^>]+>", "", m.group(1)).strip()))
         elif m.group(2) is not None:
-            tokens.append(("a_event", m.group(2), re.sub(r"<[^>]+>", "", m.group(3)).strip()))
+            href = m.group(2)
+            # Exclude filter/search links — they contain "?" or "searchCriteria"
+            if "?" not in href and "searchCriteria" not in href:
+                title = re.sub(r"<[^>]+>", "", m.group(3)).strip()
+                if title:
+                    tokens.append(("a_event", href, title))
         elif m.group(4) is not None:
             t = m.group(4).strip()
             if t:
                 tokens.append(("text", t))
 
-    # Now walk tokens, maintaining a small context window
-    context = []   # recent text tokens since last event link
+    context = []
     for i, tok in enumerate(tokens):
         if tok[0] == "h2":
-            header = tok[1]
-            # Matches "October 2026", "Nov 2026", "November 2026" etc.
-            hm = re.match(r"([A-Za-z]+)\s+(\d{4})", header)
+            hm = re.match(r"([A-Za-z]+)\s+(\d{4})", tok[1])
             if hm:
                 mon_key = hm.group(1)[:3].capitalize()
                 if mon_key in MONTH_MAP:
@@ -170,7 +97,7 @@ def _fetch_dellmed_html_fallback():
 
         elif tok[0] == "a_event":
             href, title = tok[1], tok[2]
-            if not title or not current_year or not current_month:
+            if not current_year or not current_month:
                 context = []
                 continue
 
@@ -180,41 +107,33 @@ def _fetch_dellmed_html_fallback():
                 continue
             seen_urls.add(url)
 
-            # Pull date from recent context — look for "Oct 20", "Nov 3–5", etc.
             ctx_text = " ".join(context)
+
+            # Date from context
             day = None
-            dm = re.search(
-                r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})",
-                ctx_text, re.I
-            )
+            dm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})", ctx_text, re.I)
             if dm:
                 mon_key = dm.group(1)[:3].capitalize()
                 if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]  # update month in case page skips h2
+                    current_month = MONTH_MAP[mon_key]
                 day = int(dm.group(2))
-
             if not day:
-                # Fallback: last standalone number in context (day of month)
                 nums = re.findall(r"\b(\d{1,2})\b", ctx_text)
                 if nums:
                     day = int(nums[-1])
-
             if not day:
                 context = []
                 continue
 
             iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
 
-            # Time — look for "12–1 p.m.", "7:30–8:30 a.m.", etc.
+            # Time
             time_str = None
-            tm = re.search(
-                r"(\d{1,2}(?::\d{2})?\s*(?:[–\-]\s*\d{1,2}(?::\d{2})?)?\s*[ap]\.?m\.?)",
-                ctx_text, re.I
-            )
+            tm = re.search(r"(\d{1,2}(?::\d{2})?\s*[–\-]?\s*\d{0,2}(?::\d{2})?\s*[ap]\.?m\.?)", ctx_text, re.I)
             if tm:
                 time_str = tm.group(1).strip()
 
-            # Location — from text tokens immediately AFTER the link
+            # Location and speaker from tokens after the link
             location = None
             speaker = None
             after = []
@@ -226,13 +145,11 @@ def _fetch_dellmed_html_fallback():
             for ln in after[:8]:
                 if not location and any(kw in ln for kw in [
                     "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
-                    "Auditorium", "Building", "Center", "Hospital",
-                    "Medical Center", "DPRI", "Texas Union"
+                    "Auditorium", "Building", "Center", "Hospital", "DPRI",
+                    "Texas Union", "Dell Children", "UT Health"
                 ]):
                     location = ln
-                if not speaker and any(kw in ln for kw in [
-                    "M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"
-                ]):
+                if not speaker and any(kw in ln for kw in ["M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"]):
                     speaker = ln
 
             events.append({
