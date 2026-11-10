@@ -35,149 +35,91 @@ def fetch(url, timeout=30):
         return r.read().decode("utf-8", errors="replace")
 
 
-# ---------- Dell Med public events scraper ----------
-# The dellmed.utexas.edu/events page groups events under <h2>Month YYYY</h2>
-# headers. Each event block contains a date string (e.g. "Oct 20"), a time,
-# an <a href="/events/slug"> title link, a location line, and an optional speaker.
-# We walk the flattened visible-text representation to extract these fields.
+# ---------- Dell Med public events — Localist JSON API ----------
+# dellmed.utexas.edu runs on Localist, which loads events via JavaScript.
+# HTML scraping never works because the events are not in the raw HTML.
+# The Localist platform exposes a JSON API at /api/2/events that returns
+# events directly — no JavaScript rendering needed.
 
 def fetch_dellmed_public():
-    # ?page=1 forces server-side rendering — the base /events URL is JS-rendered
-    # and returns no events when fetched server-side by the GitHub Action.
-    try:
-        html = fetch("https://dellmed.utexas.edu/events?page=1")
-    except Exception as e:
-        print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
-        return []
+    today_str = date.today().isoformat()
+    out = []
+    seen = set()
+    page = 1
 
-    # Strip scripts/styles first so text extraction is clean
-    html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
-                        flags=re.S | re.I)
+    while True:
+        api_url = (
+            f"https://dellmed.utexas.edu/api/2/events"
+            f"?pp=100&order=time&start={today_str}&page={page}"
+        )
+        try:
+            raw = fetch(api_url)
+            data = json.loads(raw)
+        except Exception as e:
+            print(f"WARN: Dell Med public API page {page} failed: {e}", file=sys.stderr)
+            break
 
-    events = []
-    seen_urls = set()
-    current_year = None
-    current_month = None
+        events = data.get("events", [])
+        if not events:
+            break
 
-    # Find all <h2> month headers and all event <a> links in document order
-    # We'll walk tag-by-tag using a simple state machine on the raw HTML.
-
-    # Tokenise into (type, value) pairs: 'h2', 'a_event', 'text'
-    tokens = []
-    for m in re.finditer(
-        r"<h2[^>]*>(.*?)</h2>"           # month header
-        r"|<a\s[^>]*href=\"(/events/[^\"?]+)\"[^>]*>(.*?)</a>"  # event link (slug only, no ?params)
-        r"|([^<]{2,})",                   # text node
-        html_clean, re.S | re.I
-    ):
-        if m.group(1) is not None:
-            tokens.append(("h2", re.sub(r"<[^>]+>", "", m.group(1)).strip()))
-        elif m.group(2) is not None:
-            tokens.append(("a_event", m.group(2), re.sub(r"<[^>]+>", "", m.group(3)).strip()))
-        elif m.group(4) is not None:
-            t = m.group(4).strip()
-            if t:
-                tokens.append(("text", t))
-
-    # Now walk tokens, maintaining a small context window
-    context = []   # recent text tokens since last event link
-    for i, tok in enumerate(tokens):
-        if tok[0] == "h2":
-            header = tok[1]
-            # Matches "October 2026", "Nov 2026", "November 2026" etc.
-            hm = re.match(r"([A-Za-z]+)\s+(\d{4})", header)
-            if hm:
-                mon_key = hm.group(1)[:3].capitalize()
-                if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]
-                    current_year = int(hm.group(2))
-            context = []
-
-        elif tok[0] == "text":
-            context.append(tok[1])
-            if len(context) > 30:
-                context = context[-30:]
-
-        elif tok[0] == "a_event":
-            href, title = tok[1], tok[2]
-            if not title or not current_year or not current_month:
-                context = []
+        for item in events:
+            ev = item.get("event", item)  # API wraps each event in {"event": {...}}
+            title = ev.get("title", "").strip()
+            if not title:
                 continue
 
-            url = "https://dellmed.utexas.edu" + href
-            if url in seen_urls:
-                context = []
-                continue
-            seen_urls.add(url)
-
-            # Pull date from recent context — look for "Oct 20", "Nov 3–5", etc.
-            ctx_text = " ".join(context)
-            day = None
-            dm = re.search(
-                r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})",
-                ctx_text, re.I
-            )
-            if dm:
-                mon_key = dm.group(1)[:3].capitalize()
-                if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]  # update month in case page skips h2
-                day = int(dm.group(2))
-
-            if not day:
-                # Fallback: last standalone number in context (day of month)
-                nums = re.findall(r"\b(\d{1,2})\b", ctx_text)
-                if nums:
-                    day = int(nums[-1])
-
-            if not day:
-                context = []
+            # Date — Localist uses "first_date" as YYYY-MM-DD
+            iso = (ev.get("first_date") or ev.get("date") or "")[:10]
+            if not iso or iso < today_str:
                 continue
 
-            iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
+            key = (title, iso)
+            if key in seen:
+                continue
+            seen.add(key)
 
-            # Time — look for "12–1 p.m.", "7:30–8:30 a.m.", etc.
+            url = ev.get("url") or "https://dellmed.utexas.edu/events"
+
+            # Time
             time_str = None
-            tm = re.search(
-                r"(\d{1,2}(?::\d{2})?\s*(?:[–\-]\s*\d{1,2}(?::\d{2})?)?\s*[ap]\.?m\.?)",
-                ctx_text, re.I
-            )
-            if tm:
-                time_str = tm.group(1).strip()
+            ts = ev.get("time") or ev.get("start_time") or ""
+            te = ev.get("end_time") or ""
+            if ts:
+                time_str = f"{ts}–{te}".strip("–") if te else ts
 
-            # Location — from text tokens immediately AFTER the link
+            # Location
             location = None
-            speaker = None
-            after = []
-            for j in range(i + 1, min(i + 20, len(tokens))):
-                if tokens[j][0] == "text":
-                    after.append(tokens[j][1])
-                elif tokens[j][0] == "a_event":
-                    break
-            for ln in after[:8]:
-                if not location and any(kw in ln for kw in [
-                    "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
-                    "Auditorium", "Building", "Center", "Hospital",
-                    "Medical Center", "DPRI", "Texas Union"
-                ]):
-                    location = ln
-                if not speaker and any(kw in ln for kw in [
-                    "M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"
-                ]):
-                    speaker = ln
+            loc = ev.get("location") or ev.get("address") or ev.get("room") or {}
+            if isinstance(loc, dict):
+                location = loc.get("name") or loc.get("address")
+            elif isinstance(loc, str):
+                location = loc
 
-            events.append({
+            # Speaker
+            speaker = None
+            ph = ev.get("photo_host") or ev.get("speaker") or ""
+            if ph:
+                speaker = ph
+
+            out.append({
                 "source":   "public",
                 "title":    title,
                 "url":      url,
                 "start":    iso,
-                "time":     time_str,
-                "location": location,
-                "speaker":  speaker,
+                "time":     time_str or None,
+                "location": location or None,
+                "speaker":  speaker or None,
             })
-            context = []
 
-    print(f"  Dell Med public scraper: {len(events)} events parsed", file=sys.stderr)
-    return events
+        # Check if there are more pages
+        total_pages = data.get("total_pages", 1)
+        if page >= total_pages:
+            break
+        page += 1
+
+    print(f"  Dell Med public API: {len(out)} events fetched", file=sys.stderr)
+    return out
 
 
 # ---------- UT Localist .ics parser ----------
