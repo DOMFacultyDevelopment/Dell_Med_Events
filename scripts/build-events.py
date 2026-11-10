@@ -21,7 +21,7 @@ OUT_JSON = DATA_DIR / "events.json"
 OUT_ICS = ROOT / "dell-med-events.ics"
 INTERNAL_JSON = DATA_DIR / "internal-events.json"
 
-UA = "Mozilla/5.0 (compatible; DellMedEventsBot/1.0; +https://github.com/michael-dean22/Dell_Med_Events)"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 MONTH_MAP = {
     "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6,
@@ -36,10 +36,10 @@ def fetch(url, timeout=30):
 
 
 # ---------- Dell Med public events scraper ----------
-# dellmed.utexas.edu/events renders events server-side.
-# Event links use ABSOLUTE URLs: https://dellmed.utexas.edu/events/slug
-# Filter links use: https://dellmed.utexas.edu/events?searchCriteria=...
-# The regex matches only slug-based absolute event URLs (no ? in path).
+# dellmed.utexas.edu/events (Craft CMS) renders events server-side.
+# Links may be relative (/events/slug) or absolute (https://dellmed.utexas.edu/events/slug).
+# Filter links use ?searchCriteria= and are excluded by requiring no "?" in the path.
+# Month headers are <h2>Month YYYY</h2>. Month changes mid-section appear in text nodes.
 
 def fetch_dellmed_public():
     try:
@@ -51,16 +51,22 @@ def fetch_dellmed_public():
     html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
                         flags=re.S | re.I)
 
+    # Diagnostic: confirm we got actual event content
+    if "/events/" not in html_clean:
+        print("WARN: Dell Med events page returned no event links — possible bot block", file=sys.stderr)
+        return []
+
     events = []
     seen_urls = set()
     current_year = None
     current_month = None
 
-    # Match absolute event URLs only — excludes ?searchCriteria= filter links
     tokens = []
     for m in re.finditer(
         r"<h2[^>]*>(.*?)</h2>"
-        r"|<a\s[^>]*href=\"(https://dellmed\.utexas\.edu/events/[^\"?]+)\"[^>]*>(.*?)</a>"
+        # Match both relative (/events/slug) and absolute (https://dellmed.utexas.edu/events/slug)
+        # Excludes filter links by requiring no "?" after the path
+        r"|<a\s[^>]*href=\"((?:https://dellmed\.utexas\.edu)?/events/[^\"?#]+)\"[^>]*>(.*?)</a>"
         r"|([^<]{2,})",
         html_clean, re.S | re.I
     ):
@@ -69,7 +75,10 @@ def fetch_dellmed_public():
         elif m.group(2) is not None:
             title = re.sub(r"<[^>]+>", "", m.group(3)).strip()
             if title:
-                tokens.append(("a_event", m.group(2), title))
+                href = m.group(2)
+                if not href.startswith("http"):
+                    href = "https://dellmed.utexas.edu" + href
+                tokens.append(("a_event", href, title))
         elif m.group(4) is not None:
             t = m.group(4).strip()
             if t:
@@ -87,16 +96,16 @@ def fetch_dellmed_public():
             context = []
 
         elif tok[0] == "text":
-            context.append(tok[1])
-            # Track month changes in text nodes (e.g. "Nov 10" before an event)
+            # Track mid-section month changes (e.g. "Nov 10" before an event, no h2)
             if current_year:
-                dm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2}", tok[1], re.I)
-                if dm:
-                    mon_key = dm.group(1)[:3].capitalize()
-                    if mon_key in MONTH_MAP:
-                        current_month = MONTH_MAP[mon_key]
-            if len(context) > 30:
-                context = context[-30:]
+                mm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d", tok[1], re.I)
+                if mm:
+                    mk = mm.group(1)[:3].capitalize()
+                    if mk in MONTH_MAP:
+                        current_month = MONTH_MAP[mk]
+            context.append(tok[1])
+            if len(context) > 20:
+                context = context[-20:]
 
         elif tok[0] == "a_event":
             href, title = tok[1], tok[2]
@@ -110,7 +119,7 @@ def fetch_dellmed_public():
 
             ctx_text = " ".join(context)
 
-            # Date from context
+            # Date: look for "Oct 20", "Nov 3" etc. in context
             day = None
             dm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})", ctx_text, re.I)
             if dm:
@@ -128,7 +137,6 @@ def fetch_dellmed_public():
 
             iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
 
-            # Time
             time_str = None
             tm = re.search(
                 r"(\d{1,2}(?::\d{2})?\s*(?:[–\-]\s*\d{1,2}(?::\d{2})?)?\s*[ap]\.?m\.?)",
@@ -137,20 +145,19 @@ def fetch_dellmed_public():
             if tm:
                 time_str = tm.group(1).strip()
 
-            # Location and speaker from tokens after this link
             location = None
             speaker = None
             after = []
-            for j in range(i + 1, min(i + 20, len(tokens))):
+            for j in range(i + 1, min(i + 15, len(tokens))):
                 if tokens[j][0] == "text":
                     after.append(tokens[j][1])
                 elif tokens[j][0] == "a_event":
                     break
-            for ln in after[:8]:
+            for ln in after[:5]:
                 if not location and any(kw in ln for kw in [
                     "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
                     "Auditorium", "Building", "Center", "Hospital",
-                    "DPRI", "Texas Union", "Dell Children", "UT Health"
+                    "DPRI", "Texas Union", "Dell Children", "UT Health", "AT&T"
                 ]):
                     location = ln
                 if not speaker and any(kw in ln for kw in ["M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"]):
