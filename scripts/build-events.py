@@ -29,8 +29,18 @@ MONTH_MAP = {
 }
 
 
+HEADERS = {
+    "User-Agent": UA,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "identity",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+}
+
+
 def fetch(url, timeout=30):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", errors="replace")
 
@@ -51,9 +61,14 @@ def fetch_dellmed_public():
     html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
                         flags=re.S | re.I)
 
+    # Debug: show first 500 chars of raw HTML so Action logs reveal what was fetched
+    print(f"  DEBUG html_clean[:500]: {html_clean[:500]!r}", file=sys.stderr)
+
     # Diagnostic: confirm we got actual event content
-    if "/events/" not in html_clean:
-        print("WARN: Dell Med events page returned no event links — possible bot block", file=sys.stderr)
+    event_link_count = html_clean.count("/events/")
+    print(f"  DEBUG '/events/' occurrences in html_clean: {event_link_count}", file=sys.stderr)
+    if event_link_count == 0:
+        print("WARN: Dell Med events page returned no event links — possible bot block or JS-rendered page", file=sys.stderr)
         return []
 
     events = []
