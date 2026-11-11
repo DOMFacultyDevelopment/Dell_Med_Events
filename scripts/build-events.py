@@ -12,7 +12,6 @@ import sys
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone, date
-from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -23,6 +22,15 @@ INTERNAL_JSON = DATA_DIR / "internal-events.json"
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
+BROWSER_HEADERS = {
+    "User-Agent": UA,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "identity",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+}
+
 MONTH_MAP = {
     "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6,
     "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
@@ -30,154 +38,152 @@ MONTH_MAP = {
 
 
 def fetch(url, timeout=30):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    req = urllib.request.Request(url, headers=BROWSER_HEADERS)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", errors="replace")
 
 
-# ---------- Dell Med public events scraper ----------
-# dellmed.utexas.edu/events (Craft CMS) renders events server-side.
-# Links may be relative (/events/slug) or absolute (https://dellmed.utexas.edu/events/slug).
-# Filter links use ?searchCriteria= and are excluded by requiring no "?" in the path.
-# Month headers are <h2>Month YYYY</h2>. Month changes mid-section appear in text nodes.
+# ---------- Dell Med public events ----------
+# dellmed.utexas.edu/events is an AEM page whose event list is rendered
+# by a Localist JS widget — urllib gets only the page shell with 32 nav/footer
+# /events/ links but no actual event entries.
+# Fix: scrape each known individual event page (server-rendered AEM) directly,
+# then supplement with a Localist API call for future events we don't know yet.
 
 def fetch_dellmed_public():
-    try:
-        html = fetch("https://dellmed.utexas.edu/events")
-    except Exception as e:
-        print(f"WARN: failed to fetch Dell Med public events: {e}", file=sys.stderr)
-        return []
-
-    html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
-                        flags=re.S | re.I)
-
-    # Debug: show total page length, link count, and the body section where events live
-    print(f"DEBUG total html length: {len(html)}", file=sys.stderr)
-    print(f"DEBUG '/events/' count in raw html: {html.count('/events/')}", file=sys.stderr)
-    print(f"DEBUG html[15000:18000]:\n{html[15000:18000]}", file=sys.stderr)
-
-    if "/events/" not in html_clean:
-        print("WARN: Dell Med events page returned no event links — possible bot block", file=sys.stderr)
-        return []
-
+    import time as _time
+    today = date.today().isoformat()
     events = []
-    seen_urls = set()
-    current_year = None
-    current_month = None
+    seen = set()
 
-    tokens = []
-    for m in re.finditer(
-        r"<h2[^>]*>(.*?)</h2>"
-        # Match both relative (/events/slug) and absolute (https://dellmed.utexas.edu/events/slug)
-        # Excludes filter links by requiring no "?" after the path
-        r"|<a\s[^>]*href=\"((?:https://dellmed\.utexas\.edu)?/events/[^\"?#]+)\"[^>]*>(.*?)</a>"
-        r"|([^<]{2,})",
-        html_clean, re.S | re.I
-    ):
-        if m.group(1) is not None:
-            tokens.append(("h2", re.sub(r"<[^>]+>", "", m.group(1)).strip()))
-        elif m.group(2) is not None:
-            title = re.sub(r"<[^>]+>", "", m.group(3)).strip()
-            if title:
-                href = m.group(2)
-                if not href.startswith("http"):
-                    href = "https://dellmed.utexas.edu" + href
-                tokens.append(("a_event", href, title))
-        elif m.group(4) is not None:
-            t = m.group(4).strip()
-            if t:
-                tokens.append(("text", t))
+    # --- Strategy 1: Localist JSON API (same platform as calendar.utexas.edu) ---
+    # dellmed.utexas.edu runs Localist. The API is at /api/2/events.
+    # Requires Accept: application/json header.
+    api_url = f"https://dellmed.utexas.edu/api/2/events?pp=100&order=time&days=90&_={int(_time.time())}"
+    try:
+        req = urllib.request.Request(api_url, headers={
+            **BROWSER_HEADERS,
+            "Accept": "application/json",
+        })
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode("utf-8", errors="replace"))
 
-    context = []
-    for i, tok in enumerate(tokens):
-        if tok[0] == "h2":
-            hm = re.match(r"([A-Za-z]+)\s+(\d{4})", tok[1])
-            if hm:
-                mon_key = hm.group(1)[:3].capitalize()
-                if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]
-                    current_year = int(hm.group(2))
-            context = []
+        raw_events = data.get("events", [])
+        print(f"  Localist API returned {len(raw_events)} event objects", file=sys.stderr)
 
-        elif tok[0] == "text":
-            # Track mid-section month changes (e.g. "Nov 10" before an event, no h2)
-            if current_year:
-                mm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d", tok[1], re.I)
-                if mm:
-                    mk = mm.group(1)[:3].capitalize()
-                    if mk in MONTH_MAP:
-                        current_month = MONTH_MAP[mk]
-            context.append(tok[1])
-            if len(context) > 20:
-                context = context[-20:]
-
-        elif tok[0] == "a_event":
-            href, title = tok[1], tok[2]
-            if not current_year or not current_month:
-                context = []
+        for item in raw_events:
+            ev = item.get("event", item)
+            title = ev.get("title", "").strip()
+            if not title:
                 continue
-            if href in seen_urls:
-                context = []
+            url = ev.get("url") or f"https://dellmed.utexas.edu/events/{ev.get('urlname','')}"
+            # Date
+            start_raw = ev.get("event_instances", [{}])[0].get("event_instance", {}).get("start") \
+                        or ev.get("first_date", "")
+            if not start_raw:
                 continue
-            seen_urls.add(href)
-
-            ctx_text = " ".join(context)
-
-            # Date: look for "Oct 20", "Nov 3" etc. in context
-            day = None
-            dm = re.search(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})", ctx_text, re.I)
-            if dm:
-                mon_key = dm.group(1)[:3].capitalize()
-                if mon_key in MONTH_MAP:
-                    current_month = MONTH_MAP[mon_key]
-                day = int(dm.group(2))
-            if not day:
-                nums = re.findall(r"\b(\d{1,2})\b", ctx_text)
-                if nums:
-                    day = int(nums[-1])
-            if not day:
-                context = []
+            iso = start_raw[:10]
+            if iso < today:
                 continue
-
-            iso = f"{current_year:04d}-{current_month:02d}-{day:02d}"
-
+            if url in seen:
+                continue
+            seen.add(url)
+            # Time
             time_str = None
-            tm = re.search(
-                r"(\d{1,2}(?::\d{2})?\s*(?:[–\-]\s*\d{1,2}(?::\d{2})?)?\s*[ap]\.?m\.?)",
-                ctx_text, re.I
-            )
-            if tm:
-                time_str = tm.group(1).strip()
-
-            location = None
-            speaker = None
-            after = []
-            for j in range(i + 1, min(i + 15, len(tokens))):
-                if tokens[j][0] == "text":
-                    after.append(tokens[j][1])
-                elif tokens[j][0] == "a_event":
-                    break
-            for ln in after[:5]:
-                if not location and any(kw in ln for kw in [
-                    "HDB", "HLB", "HTB", "Zoom", "Virtual", "Hybrid",
-                    "Auditorium", "Building", "Center", "Hospital",
-                    "DPRI", "Texas Union", "Dell Children", "UT Health", "AT&T"
-                ]):
-                    location = ln
-                if not speaker and any(kw in ln for kw in ["M.D.", "Ph.D.", "D.O.", "MPH", "M.Ed.", "MBA"]):
-                    speaker = ln
-
+            start_dt = ev.get("event_instances", [{}])[0].get("event_instance", {}).get("start", "")
+            if start_dt and "T" in start_dt:
+                try:
+                    dt = datetime.fromisoformat(start_dt.replace("Z", "+00:00"))
+                    time_str = dt.strftime("%-I:%M %p").lower()
+                except Exception:
+                    pass
+            location = (ev.get("location_name") or "").strip() or None
             events.append({
-                "source":   "public",
-                "title":    title,
-                "url":      href,
-                "start":    iso,
-                "time":     time_str,
+                "source": "public",
+                "title": title,
+                "url": url,
+                "start": iso,
+                "time": time_str,
                 "location": location,
-                "speaker":  speaker,
+                "speaker": None,
             })
-            context = []
 
+    except Exception as e:
+        print(f"  Localist API failed: {e}", file=sys.stderr)
+
+    # --- Strategy 2: Scrape individual known event pages as fallback ---
+    # These are the Nov–Dec 2026 events Mike confirmed are on the site.
+    # Individual event pages ARE server-rendered and return full HTML to urllib.
+    known_slugs = [
+        "mammogram-screenings-110226",
+        "peripan-echo-series-the-ace-study",
+        "research-nuts-bolts-animal-care-and-use-program",
+        "pediatric-grand-rounds-a-primer-on-occult-spinal-dysraphism",
+        "health-social-work-grand-rounds-health-equity",
+        "cpan-series-what-every-pcp-should-know-about-behavior-disorders-in-early-childhood",
+        "research-nuts-bolts-unanticipated-problems-11-12",
+        "research-nuts-bolts-clinical-trial-and-study-design",
+        "cpan-echo-series-psychological-vs-neuropsychological-assessment",
+        "htri-in-partnership-with-texas-biologics-open-house",
+        "peripan-echo-series-supporting-women-in-recovery-during-the-holiday-season",
+        "peds-cardio-ai-conference-2026",
+    ]
+
+    for slug in known_slugs:
+        url = f"https://dellmed.utexas.edu/events/{slug}"
+        if url in seen:
+            continue
+        try:
+            html = fetch(url)
+        except Exception as e:
+            print(f"  WARN: could not fetch {url}: {e}", file=sys.stderr)
+            continue
+
+        # Parse title
+        tm = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S | re.I)
+        title = re.sub(r"<[^>]+>", "", tm.group(1)).strip() if tm else slug.replace("-", " ").title()
+
+        # Parse date — AEM event pages have "Date: Weekday, Month D, YYYY"
+        iso = None
+        dm = re.search(
+            r"(?:Date|When)[:\s]*(?:\w+,\s*)?([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})",
+            html, re.I
+        )
+        if dm:
+            mon_key = dm.group(1)[:3].capitalize()
+            if mon_key in MONTH_MAP:
+                iso = f"{dm.group(3)}-{MONTH_MAP[mon_key]:02d}-{int(dm.group(2)):02d}"
+
+        if not iso or iso < today:
+            continue
+
+        # Parse time
+        time_str = None
+        tm2 = re.search(
+            r"(?:Time|When)[:\s]*(\d{1,2}(?::\d{2})?\s*[–\-]\s*\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?)",
+            html, re.I
+        )
+        if tm2:
+            time_str = tm2.group(1).strip()
+
+        # Parse location
+        location = None
+        lm = re.search(r"(?:Location|Where)[:\s]*([^\n<]{5,80})", html, re.I)
+        if lm:
+            location = lm.group(1).strip()
+
+        seen.add(url)
+        events.append({
+            "source": "public",
+            "title": title,
+            "url": url,
+            "start": iso,
+            "time": time_str,
+            "location": location,
+            "speaker": None,
+        })
+
+    events.sort(key=lambda e: e["start"])
     print(f"  Dell Med public scraper: {len(events)} events parsed", file=sys.stderr)
     return events
 
@@ -185,9 +191,7 @@ def fetch_dellmed_public():
 # ---------- UT Localist .ics parser ----------
 
 def parse_ics(text):
-    """Minimal ICS parser. Returns list of {title, start, end, url, location}."""
     events = []
-    # Unfold lines
     lines = []
     for raw in text.splitlines():
         if raw.startswith(" ") or raw.startswith("\t"):
@@ -211,7 +215,6 @@ def parse_ics(text):
 
 
 def ics_date_to_iso(s):
-    """ICS date can be YYYYMMDD or YYYYMMDDTHHMMSSZ."""
     s = s.strip()
     if "T" in s:
         s = s.split("T", 1)[0]
@@ -237,7 +240,6 @@ def fetch_ut_calendar():
         title = ev.get("SUMMARY", "").strip()
         if not title:
             continue
-        # Drop obvious noise / sports unless someone wants them; we keep them but tag source
         key = (title, iso)
         if key in seen:
             continue
@@ -254,7 +256,7 @@ def fetch_ut_calendar():
     return out
 
 
-# ---------- Internal events (manual JSON) ----------
+# ---------- Internal events ----------
 
 def load_internal():
     if not INTERNAL_JSON.exists():
@@ -306,10 +308,9 @@ def build_ics(events):
     for i, e in enumerate(events):
         d = e["start"].replace("-", "")
         end_d = (e.get("end") or e["start"]).replace("-", "")
-        # All-day events: DTEND should be the day after
         try:
-            sd = datetime.strptime(end_d, "%Y%m%d")
             from datetime import timedelta
+            sd = datetime.strptime(end_d, "%Y%m%d")
             ed = (sd + timedelta(days=1)).strftime("%Y%m%d")
         except Exception:
             ed = end_d
@@ -341,54 +342,52 @@ def build_ics(events):
     return "\r\n".join(out) + "\r\n"
 
 
+# ---------- Embed events into index.html ----------
 
+def _make_events_js(events):
+    raw = json.dumps(events, ensure_ascii=False, separators=(",", ":"))
+    return raw.replace("</script>", "<\\/script>")
 
-# ---------- Rebuild index.html with embedded events ----------
 
 def build_index_html(events, updated):
-    """
-    Reads index.html from the repo root and replaces the embedded ALL=
-    array with fresh event data. This makes the page work in SharePoint
-    iframes and other contexts where fetch() is blocked or uses the wrong
-    base URL.
-    """
-    import json as _json
     index_path = ROOT / "index.html"
     if not index_path.exists():
-        print("WARN: index.html not found, skipping embed", file=sys.stderr)
+        print("WARN: index.html not found", file=sys.stderr)
         return
-
     html = index_path.read_text(encoding="utf-8")
-
-    # Encode events safely for embedding in a <script> block
-    def clean(o):
-        if isinstance(o, str):
-            return o.replace("</script>", "<\\/script>")
-        if isinstance(o, dict):
-            return {k: clean(v) for k, v in o.items()}
-        if isinstance(o, list):
-            return [clean(i) for i in o]
-        return o
-
-    events_js = _json.dumps(clean(events), ensure_ascii=False, separators=(",", ":"))
-
-    # Replace the var ALL=...;  line (handles both empty [] and previously embedded data)
-    import re as _re
-    # Match var ALL= followed by any JSON array (including large multi-line ones)
-    # Use a non-greedy match anchored at ;
-    new_html = _re.sub(
-        r"var ALL=\[.*?\](?:\s*;|(?=\s*/\*))",
-        f"var ALL={events_js};",
-        html,
-        count=1,
-        flags=_re.DOTALL,
+    data = _make_events_js(events)
+    # index.html uses:  let EVENTS = [];
+    new_html = re.sub(
+        r"let EVENTS\s*=\s*\[.*?\]\s*;",
+        f"let EVENTS = {data};",
+        html, count=1, flags=re.DOTALL,
     )
-
     if new_html == html:
-        print("WARN: could not find var ALL= in index.html to replace", file=sys.stderr)
+        print("WARN: could not find 'let EVENTS = [];' in index.html", file=sys.stderr)
     else:
         index_path.write_text(new_html, encoding="utf-8")
-        print(f"Updated index.html with {len(events)} embedded events", file=sys.stderr)
+        print(f"  Updated index.html with {len(events)} embedded events", file=sys.stderr)
+
+
+def build_ticker_html(events, updated):
+    ticker_path = ROOT / "ticker.html"
+    if not ticker_path.exists():
+        print("WARN: ticker.html not found", file=sys.stderr)
+        return
+    html = ticker_path.read_text(encoding="utf-8")
+    data = _make_events_js(events)
+    # ticker.html uses:  let allEvents = [];
+    new_html = re.sub(
+        r"let allEvents\s*=\s*\[.*?\]\s*;",
+        f"let allEvents = {data};",
+        html, count=1, flags=re.DOTALL,
+    )
+    if new_html == html:
+        print("WARN: could not find 'let allEvents = [];' in ticker.html", file=sys.stderr)
+    else:
+        ticker_path.write_text(new_html, encoding="utf-8")
+        print(f"  Updated ticker.html with {len(events)} embedded events", file=sys.stderr)
+
 
 # ---------- Main ----------
 
@@ -400,9 +399,7 @@ def main():
     internal_events = load_internal()
     print(f"Internal:       {len(internal_events)} events", file=sys.stderr)
 
-    # Filter out the placeholder example
-    internal_events = [e for e in internal_events
-                       if not e["title"].startswith("Example:")]
+    internal_events = [e for e in internal_events if not e["title"].startswith("Example:")]
 
     today = date.today().isoformat()
     all_events = [e for e in public_events + internal_events + ut_events
@@ -418,15 +415,15 @@ def main():
         },
         "events": all_events,
     }
-    OUT_JSON.write_text(json.dumps(payload, indent=2))
+    OUT_JSON.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
     print(f"Wrote {OUT_JSON} ({len(all_events)} total events)", file=sys.stderr)
 
     ics = build_ics(all_events)
     OUT_ICS.write_text(ics)
     print(f"Wrote {OUT_ICS}", file=sys.stderr)
 
-    # Embed events into index.html so it works in SharePoint iframes
     build_index_html(all_events, payload["updated"])
+    build_ticker_html(all_events, payload["updated"])
 
 
 if __name__ == "__main__":
