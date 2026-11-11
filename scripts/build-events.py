@@ -51,8 +51,10 @@ def fetch_dellmed_public():
     html_clean = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", "", html,
                         flags=re.S | re.I)
 
-    # Print first 2000 chars of raw HTML so we can see exactly what the server returned
-    print(f"DEBUG raw html[:2000]:\n{html[:2000]}", file=sys.stderr)
+    # Debug: show total page length, link count, and the body section where events live
+    print(f"DEBUG total html length: {len(html)}", file=sys.stderr)
+    print(f"DEBUG '/events/' count in raw html: {html.count('/events/')}", file=sys.stderr)
+    print(f"DEBUG html[15000:18000]:\n{html[15000:18000]}", file=sys.stderr)
 
     if "/events/" not in html_clean:
         print("WARN: Dell Med events page returned no event links — possible bot block", file=sys.stderr)
