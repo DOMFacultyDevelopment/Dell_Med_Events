@@ -19,6 +19,7 @@ DATA_DIR = ROOT / "data"
 OUT_JSON = DATA_DIR / "events.json"
 OUT_ICS = ROOT / "dell-med-events.ics"
 INTERNAL_JSON = DATA_DIR / "internal-events.json"
+PUBLIC_JSON = DATA_DIR / "public-events.json"   # NEW: manually maintained fallback
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -44,11 +45,6 @@ def fetch(url, timeout=30):
 
 
 # ---------- Dell Med public events ----------
-# dellmed.utexas.edu/events is an AEM page whose event list is rendered
-# by a Localist JS widget — urllib gets only the page shell with 32 nav/footer
-# /events/ links but no actual event entries.
-# Fix: scrape each known individual event page (server-rendered AEM) directly,
-# then supplement with a Localist API call for future events we don't know yet.
 
 def fetch_dellmed_public():
     import time as _time
@@ -56,9 +52,7 @@ def fetch_dellmed_public():
     events = []
     seen = set()
 
-    # --- Strategy 1: Localist JSON API (same platform as calendar.utexas.edu) ---
-    # dellmed.utexas.edu runs Localist. The API is at /api/2/events.
-    # Requires Accept: application/json header.
+    # --- Strategy 1: Localist JSON API ---
     api_url = f"https://dellmed.utexas.edu/api/2/events?pp=100&order=time&days=90&_={int(_time.time())}"
     try:
         req = urllib.request.Request(api_url, headers={
@@ -77,7 +71,6 @@ def fetch_dellmed_public():
             if not title:
                 continue
             url = ev.get("url") or f"https://dellmed.utexas.edu/events/{ev.get('urlname','')}"
-            # Date
             start_raw = ev.get("event_instances", [{}])[0].get("event_instance", {}).get("start") \
                         or ev.get("first_date", "")
             if not start_raw:
@@ -88,7 +81,6 @@ def fetch_dellmed_public():
             if url in seen:
                 continue
             seen.add(url)
-            # Time
             time_str = None
             start_dt = ev.get("event_instances", [{}])[0].get("event_instance", {}).get("start", "")
             if start_dt and "T" in start_dt:
@@ -111,9 +103,7 @@ def fetch_dellmed_public():
     except Exception as e:
         print(f"  Localist API failed: {e}", file=sys.stderr)
 
-    # --- Strategy 2: Scrape individual known event pages as fallback ---
-    # These are the Nov–Dec 2026 events Mike confirmed are on the site.
-    # Individual event pages ARE server-rendered and return full HTML to urllib.
+    # --- Strategy 2: Scrape individual known event pages ---
     known_slugs = [
         "mammogram-screenings-110226",
         "peripan-echo-series-the-ace-study",
@@ -139,11 +129,9 @@ def fetch_dellmed_public():
             print(f"  WARN: could not fetch {url}: {e}", file=sys.stderr)
             continue
 
-        # Parse title
         tm = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S | re.I)
         title = re.sub(r"<[^>]+>", "", tm.group(1)).strip() if tm else slug.replace("-", " ").title()
 
-        # Parse date — AEM event pages have "Date: Weekday, Month D, YYYY"
         iso = None
         dm = re.search(
             r"(?:Date|When)[:\s]*(?:\w+,\s*)?([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})",
@@ -157,7 +145,6 @@ def fetch_dellmed_public():
         if not iso or iso < today:
             continue
 
-        # Parse time
         time_str = None
         tm2 = re.search(
             r"(?:Time|When)[:\s]*(\d{1,2}(?::\d{2})?\s*[–\-]\s*\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?)",
@@ -166,7 +153,6 @@ def fetch_dellmed_public():
         if tm2:
             time_str = tm2.group(1).strip()
 
-        # Parse location
         location = None
         lm = re.search(r"(?:Location|Where)[:\s]*([^\n<]{5,80})", html, re.I)
         if lm:
@@ -183,9 +169,51 @@ def fetch_dellmed_public():
             "speaker": None,
         })
 
+    # --- Strategy 3: Load from data/public-events.json (manually maintained fallback) ---
+    # This file is the safety net: when both scraping strategies return nothing
+    # (e.g. site blocks the GitHub Actions IP), events added here always appear.
+    # Format mirrors internal-events.json — see that file for reference.
+    scraped_count = len(events)
+    fallback_events = load_public_fallback(seen, today)
+    events.extend(fallback_events)
+    if fallback_events:
+        print(f"  Loaded {len(fallback_events)} events from public-events.json fallback", file=sys.stderr)
+
     events.sort(key=lambda e: e["start"])
-    print(f"  Dell Med public scraper: {len(events)} events parsed", file=sys.stderr)
+    print(f"  Dell Med public scraper: {len(events)} events parsed "
+          f"({scraped_count} scraped, {len(fallback_events)} from fallback)", file=sys.stderr)
     return events
+
+
+def load_public_fallback(seen_urls, today):
+    """Load manually maintained public events from data/public-events.json."""
+    if not PUBLIC_JSON.exists():
+        return []
+    try:
+        data = json.loads(PUBLIC_JSON.read_text())
+    except Exception as e:
+        print(f"  WARN: could not parse public-events.json: {e}", file=sys.stderr)
+        return []
+    out = []
+    for e in data.get("events", []):
+        if not e.get("start") or not e.get("title"):
+            continue
+        if e["start"] < today:
+            continue
+        url = e.get("url") or "https://dellmed.utexas.edu/events"
+        if url in seen_urls:
+            continue   # already got it from scraping
+        seen_urls.add(url)
+        out.append({
+            "source": "public",
+            "title": e["title"],
+            "url": url,
+            "start": e["start"],
+            "time": e.get("time"),
+            "location": e.get("location"),
+            "speaker": e.get("speaker"),
+        })
+    return out
 
 
 # ---------- UT Localist .ics parser ----------
@@ -342,7 +370,7 @@ def build_ics(events):
     return "\r\n".join(out) + "\r\n"
 
 
-# ---------- Embed events into index.html ----------
+# ---------- Embed events into HTML files ----------
 
 def _make_events_js(events):
     raw = json.dumps(events, ensure_ascii=False, separators=(",", ":"))
@@ -356,15 +384,21 @@ def build_index_html(events, updated):
         return
     html = index_path.read_text(encoding="utf-8")
     data = _make_events_js(events)
-    # index.html uses:  let EVENTS = [];
     new_html = re.sub(
         r"let EVENTS\s*=\s*\[.*?\]\s*;",
         f"let EVENTS = {data};",
         html, count=1, flags=re.DOTALL,
     )
     if new_html == html:
-        print("WARN: could not find 'let EVENTS = [];' in index.html", file=sys.stderr)
+        print("WARN: could not find 'let EVENTS = [...]' in index.html to replace", file=sys.stderr)
     else:
+        # Also ensure renderCalendar() fires immediately on load (before fetch completes)
+        if "renderCalendar();\nfetch('data/events.json" not in new_html:
+            new_html = new_html.replace(
+                "fetch('data/events.json?ts=' + Date.now())",
+                "renderCalendar();\nfetch('data/events.json?ts=' + Date.now())",
+                1,
+            )
         index_path.write_text(new_html, encoding="utf-8")
         print(f"  Updated index.html with {len(events)} embedded events", file=sys.stderr)
 
@@ -376,14 +410,13 @@ def build_ticker_html(events, updated):
         return
     html = ticker_path.read_text(encoding="utf-8")
     data = _make_events_js(events)
-    # ticker.html uses:  let allEvents = [];
     new_html = re.sub(
         r"let allEvents\s*=\s*\[.*?\]\s*;",
         f"let allEvents = {data};",
         html, count=1, flags=re.DOTALL,
     )
     if new_html == html:
-        print("WARN: could not find 'let allEvents = [];' in ticker.html", file=sys.stderr)
+        print("WARN: could not find 'let allEvents = [...]' in ticker.html to replace", file=sys.stderr)
     else:
         ticker_path.write_text(new_html, encoding="utf-8")
         print(f"  Updated ticker.html with {len(events)} embedded events", file=sys.stderr)
