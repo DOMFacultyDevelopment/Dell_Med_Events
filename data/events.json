@@ -1,11 +1,229 @@
 {
-  "updated": "2026-11-11T13:49:09.880650+00:00",
+  "updated": "2026-11-10T22:39:45.065496+00:00",
   "counts": {
-    "public": 0,
-    "internal": 200,
-    "ut": 1514
+    "public": 7,
+    "internal": 202,
+    "ut": 1523
   },
   "events": [
+    {
+      "source": "ut",
+      "title": "\"AnxieTEA\"SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/anxieteashare-community-meeting",
+      "start": "2026-11-10",
+      "location": "Longhorn Wellness Center, SSB 1.106"
+    },
+    {
+      "source": "ut",
+      "title": "\"Connecting to Cultures\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/connecting-to-cultures-share-community-meeting-6783",
+      "start": "2026-11-10",
+      "location": "Nneka Waturuocha Student Lounge, GWB 2.116"
+    },
+    {
+      "source": "ut",
+      "title": "\"Heavy Hearts Collective: Support for Sadness & Depression\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/heavy-hearts-collective-support-for-sadness-depression-share-community-meeting",
+      "start": "2026-11-10",
+      "location": "CMHC @ WCP - WCP 1.102, WCP 1.102"
+    },
+    {
+      "source": "ut",
+      "title": "Adraint Bereal: As It Appears",
+      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
+      "start": "2026-11-10",
+      "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "public",
+      "title": "CPAN Series: What Every PCP Should Know About Behavior Disorders in Early Childhood",
+      "url": "https://dellmed.utexas.edu/events/cpan-series-what-every-pcp-should-know-about-behavior-disorders-in-early-childhood",
+      "start": "2026-11-10",
+      "time": "12–1 p.m.",
+      "location": "Virtual",
+      "speaker": null
+    },
+    {
+      "source": "ut",
+      "title": "Career Storytelling Workshop",
+      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
+      "start": "2026-11-10",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Christian Faculty and Staff Network",
+      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
+      "start": "2026-11-10",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2026-11-10",
+      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "E+E Mainstage Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
+      "start": "2026-11-10",
+      "location": "Texas Union Eastwoods Room (2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
+      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
+      "start": "2026-11-10",
+      "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
+      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
+      "start": "2026-11-10",
+      "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Filming for RTF 366K Project",
+      "url": "https://calendar.utexas.edu/event/filming-for-rtf-366k-project",
+      "start": "2026-11-10",
+      "location": "Jesse H. Jones Communication Center - Building A (CMA), CMA 2.306"
+    },
+    {
+      "source": "ut",
+      "title": "Fortlandia",
+      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
+      "start": "2026-11-10",
+      "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Graduate Job Search Working Group",
+      "url": "https://calendar.utexas.edu/event/graduate-job-search-working-group",
+      "start": "2026-11-10",
+      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2026-11-10",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "internal",
+      "title": "IT Office Hour (DPRI)",
+      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/10",
+      "start": "2026-11-10",
+      "time": "8:00am – 12:00 pm",
+      "location": "",
+      "speaker": null,
+      "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Longhorns in Sustainability: A Career Panel",
+      "url": "https://calendar.utexas.edu/event/longhorns-in-sustainability-a-career-panel-5580",
+      "start": "2026-11-10",
+      "location": "Robert B. Rowling Hall (RRH), Crum Auditorium (RRH 1.200)"
+    },
+    {
+      "source": "ut",
+      "title": "Managing Up, Across, and Forward",
+      "url": "https://calendar.utexas.edu/event/managing-up-across-and-forward",
+      "start": "2026-11-10",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
+      "title": "McCombs Summer Institute (MSI)",
+      "url": "https://calendar.utexas.edu/event/mccombs-summer-institute-msi",
+      "start": "2026-11-10",
+      "location": "CBA 2.564 Big Bend"
+    },
+    {
+      "source": "ut",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
+      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
+      "start": "2026-11-10",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Strategies for Getting-Out-The-Vote (GOTV): Early Voting and Election Day Planning",
+      "url": "https://calendar.utexas.edu/event/strategies-for-getting-out-the-vote-gotv-early-voting-and-election-day-planning",
+      "start": "2026-11-10",
+      "location": "SRH 3.B10"
+    },
+    {
+      "source": "ut",
+      "title": "Study Sessions",
+      "url": "https://calendar.utexas.edu/event/study-sessions-1758",
+      "start": "2026-11-10",
+      "location": "Student Services Building (SSB), 2.106"
+    },
+    {
+      "source": "internal",
+      "title": "Talent Acquisition Office Hours",
+      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/10",
+      "start": "2026-11-10",
+      "time": "11:00am – 12:00 pm",
+      "location": "",
+      "speaker": null,
+      "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Two Wrongs Can Sometimes Make a Right: The Environmental Benefits of Market Power in Oil",
+      "url": "https://calendar.utexas.edu/event/two-wrongs-can-sometimes-make-a-right-the-environmental-benefits-of-market-power-in-oil",
+      "start": "2026-11-10",
+      "location": "Live Stream Online (Zoom and YouTube)"
+    },
+    {
+      "source": "ut",
+      "title": "UT Energy Symposium: Two Wrongs Can Sometimes Make a Right: The Environmental Benefits of Market Power in Oil",
+      "url": "https://calendar.utexas.edu/event/ut-energy-symposium-two-wrongs-can-sometimes-make-a-right-the-environmental-benefits-of-market-power-in-oil",
+      "start": "2026-11-10",
+      "location": ", EER 3.646"
+    },
+    {
+      "source": "ut",
+      "title": "UTMRC Meeting",
+      "url": "https://calendar.utexas.edu/event/utmrc-meeting",
+      "start": "2026-11-10",
+      "location": "University Teaching Center (UTC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Grambling State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-grambling-state",
+      "start": "2026-11-10",
+      "location": "Austin, Texas, Moody Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Soccer vs Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-vanderbilt-1288",
+      "start": "2026-11-10",
+      "location": "Pensacola, Fla., Ashton Brosnaham Soccer Complex"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
+      "start": "2026-11-10",
+      "location": "Lincoln, Neb., Sid and Hazel Dillon Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs ITF Weston W35",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
+      "start": "2026-11-10",
+      "location": "Weston, Fla., Weston Raquet Club"
+    },
     {
       "source": "ut",
       "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
@@ -22,7 +240,7 @@
     },
     {
       "source": "ut",
-      "title": "&quot\\;Am I Good Enough?&quot\\; Making Sense of Imposter Syndrome",
+      "title": "&quot;Am I Good Enough?&quot; Making Sense of Imposter Syndrome",
       "url": "https://calendar.utexas.edu/event/quotam-i-good-enoughquot-making-sense-of-imposter-syndrome",
       "start": "2026-11-11",
       "location": "Virtual Event"
@@ -39,7 +257,7 @@
       "title": "AI Drop By",
       "url": "https://calendar.utexas.edu/event/ai-drop-by-3789",
       "start": "2026-11-11",
-      "location": "Perry-Casta\u00f1eda Library (PCL), PCL Lobby"
+      "location": "Perry-Castañeda Library (PCL), PCL Lobby"
     },
     {
       "source": "ut",
@@ -57,21 +275,21 @@
     },
     {
       "source": "ut",
-      "title": "BioFair - Bioscience &amp\\; Biotech Virtual Career Fair",
+      "title": "BioFair - Bioscience &amp; Biotech Virtual Career Fair",
       "url": "https://calendar.utexas.edu/event/biofair-bioscience-amp-biotech-virtual-career-fair",
       "start": "2026-11-11",
       "location": "Virtual"
     },
     {
       "source": "ut",
-      "title": "BioFair Panel: Exploring Careers in BioScience\\, Biotechnology &amp\\; Biomedical Industries",
+      "title": "BioFair Panel: Exploring Careers in BioScience, Biotechnology &amp; Biomedical Industries",
       "url": "https://calendar.utexas.edu/event/biofair-panel-exploring-careers-in-bioscience-biotechnology-amp-biomedical-industries",
       "start": "2026-11-11",
       "location": "Virtual"
     },
     {
       "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "title": "Cactus Cafe Songwriters&#039; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-11-11",
       "location": "Cactus Cafe"
@@ -109,14 +327,14 @@
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026260/",
       "start": "2026-11-11",
-      "time": "4:00pm \u2013 5:00 pm",
+      "time": "4:00pm – 5:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Economic Humanities: What\u2019s That?",
+      "title": "Economic Humanities: What’s That?",
       "url": "https://calendar.utexas.edu/event/economic-humanities-whats-that",
       "start": "2026-11-11",
       "location": "WCH 4.118"
@@ -126,14 +344,14 @@
       "title": "Epic Reporting Training Sessions",
       "url": "https://intranet.dellmed.utexas.edu/event/1060411/2026/11/11",
       "start": "2026-11-11",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-11",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -161,7 +379,7 @@
     },
     {
       "source": "ut",
-      "title": "Film Screening + Conversation with Adriana Corral\\, Janaye Brown\\, & Dr. Cherise Smith",
+      "title": "Film Screening + Conversation with Adriana Corral, Janaye Brown, & Dr. Cherise Smith",
       "url": "https://calendar.utexas.edu/event/film-screening-conversation-with-adriana-corral-janaye-brown-dr-cherise-smith",
       "start": "2026-11-11",
       "location": "Art Building (ART), 1.102"
@@ -189,7 +407,7 @@
     },
     {
       "source": "ut",
-      "title": "History\u2019s Dead-Hand Grip: Politics\\, Statecraft\\, and \u201cLessons\u201d of the Past",
+      "title": "History’s Dead-Hand Grip: Politics, Statecraft, and “Lessons” of the Past",
       "url": "https://calendar.utexas.edu/event/historys-dead-hand-grip-politics-statecraft-and-lessons-of-the-past",
       "start": "2026-11-11",
       "location": "SRH 3.122, The LBJ School of Public Affairs"
@@ -206,14 +424,14 @@
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/11/11",
       "start": "2026-11-11",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-11",
       "location": null
@@ -276,7 +494,7 @@
     },
     {
       "source": "ut",
-      "title": "War\\, Innovation & Resilience: Ukraine's Economy",
+      "title": "War, Innovation & Resilience: Ukraine's Economy",
       "url": "https://calendar.utexas.edu/event/war-innovation-resilience-how-ukraines-economy-is-responding-and-repositioning-for-the-future",
       "start": "2026-11-11",
       "location": null
@@ -342,7 +560,7 @@
       "title": "Brand Implementation Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1059681/2026/11/12",
       "start": "2026-11-12",
-      "time": "2:00pm \u2013 3:00 pm",
+      "time": "2:00pm – 3:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -384,7 +602,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-12",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -422,7 +640,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/12",
       "start": "2026-11-12",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -436,7 +654,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-12",
       "location": null
@@ -447,6 +665,15 @@
       "url": "https://calendar.utexas.edu/event/reu-101",
       "start": "2026-11-12",
       "location": null
+    },
+    {
+      "source": "public",
+      "title": "Research Nuts & Bolts: Unanticipated Problems",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-unanticipated-problems-11-12",
+      "start": "2026-11-12",
+      "time": "10–11 a.m.",
+      "location": "Zoom",
+      "speaker": "Kristen Crabtree"
     },
     {
       "source": "ut",
@@ -460,24 +687,17 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/12",
       "start": "2026-11-12",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers present Assessment Approaches to Experiential Learning",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational Developers present Assessment Approaches to Experiential Learning",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-present-assessment-approaches-to-experiential-learning",
       "start": "2026-11-12",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Soccer vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-soccer-vs-arkansas-9320",
-      "start": "2026-11-12",
-      "location": "Pensacola, Fla., Ashton Brosnaham Soccer Complex"
     },
     {
       "source": "ut",
@@ -509,7 +729,7 @@
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - Liz Byrnes (Tufts University): &quot\\;Beyond the Drug: What Really Shapes Outcomes After Prenatal Oxycodone in a Preclinical Model&quot\\;",
+      "title": "WCAAR Weekly Meeting - Liz Byrnes (Tufts University): &quot;Beyond the Drug: What Really Shapes Outcomes After Prenatal Oxycodone in a Preclinical Model&quot;",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-liz-byrnes-tufts-university-quotbeyond-the-drug-what-really-shapes-outcomes-after-prenatal-oxycodone-in-a-preclinical-modelquot",
       "start": "2026-11-12",
       "location": "SEAY Library - Room 4.244"
@@ -607,7 +827,7 @@
     },
     {
       "source": "ut",
-      "title": "Critter&#039\\;s Craft Collective",
+      "title": "Critter&#039;s Craft Collective",
       "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
       "start": "2026-11-13",
       "location": "SSB"
@@ -621,7 +841,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-13",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -684,7 +904,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-13",
       "location": null
@@ -712,24 +932,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Diving Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-diving-invitational-2748",
-      "start": "2026-11-13",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Track & Field / Cross Country vs NCAA South Central Regional",
       "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-ncaa-south-central-regional",
       "start": "2026-11-13",
       "location": "College Station, Texas, Watts Cross Country Course"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Diving Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-diving-invitational-5629",
-      "start": "2026-11-13",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -747,7 +953,7 @@
     },
     {
       "source": "ut",
-      "title": "45th Annual Madrigal Dinner: The Princess\u2019s Bargain",
+      "title": "45th Annual Madrigal Dinner: The Princess’s Bargain",
       "url": "https://calendar.utexas.edu/event/45th-annual-madrigal-dinner-the-princesss-bargain",
       "start": "2026-11-14",
       "location": "Shirley Bird Perry Ballroom"
@@ -775,7 +981,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-14",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -803,14 +1009,14 @@
     },
     {
       "source": "ut",
-      "title": "Jazz Band\\, Ensemble &amp\\;amp\\; Orchestra",
+      "title": "Jazz Band, Ensemble &amp;amp; Orchestra",
       "url": "https://calendar.utexas.edu/event/jazz-band-ensemble-ampamp-orchestra-3571",
       "start": "2026-11-14",
       "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
     },
     {
       "source": "ut",
-      "title": "Leila Sunier &amp\\; Jessica Healey Live at The Cactus Cafe!",
+      "title": "Leila Sunier &amp; Jessica Healey Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/leila-sunier-amp-jessica-healey-live-at-the-cactus-cafe",
       "start": "2026-11-14",
       "location": "Cactus Cafe"
@@ -831,7 +1037,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-14",
       "location": null
@@ -848,7 +1054,7 @@
       "title": "UWC Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
       "start": "2026-11-14",
-      "location": "Perry-Casta\u00f1eda Library (PCL), Learning Commons"
+      "location": "Perry-Castañeda Library (PCL), Learning Commons"
     },
     {
       "source": "ut",
@@ -866,24 +1072,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Diving Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-diving-invitational-7655",
-      "start": "2026-11-14",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Basketball vs Tarleton State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tarleton-state-5536",
       "start": "2026-11-14",
       "location": "Austin, Texas, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Diving Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-diving-invitational-1730",
-      "start": "2026-11-14",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -901,7 +1093,7 @@
     },
     {
       "source": "ut",
-      "title": "45th Annual Madrigal Dinner: The Princess\u2019s Bargain",
+      "title": "45th Annual Madrigal Dinner: The Princess’s Bargain",
       "url": "https://calendar.utexas.edu/event/45th-annual-madrigal-dinner-the-princesss-bargain",
       "start": "2026-11-15",
       "location": "Shirley Bird Perry Ballroom"
@@ -929,7 +1121,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-15",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -957,7 +1149,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-15",
       "location": null
@@ -1041,14 +1233,14 @@
     },
     {
       "source": "ut",
-      "title": "E+E Film &amp\\; Media Committee Meeting",
+      "title": "E+E Film &amp; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-16",
       "location": "Texas Union Asian Culture Room (4.224)"
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-16",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -1090,7 +1282,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-16",
       "location": null
@@ -1121,7 +1313,7 @@
       "title": "Writing & Research Rodeos",
       "url": "https://calendar.utexas.edu/event/writing-research-rodeos-2373",
       "start": "2026-11-16",
-      "location": "Perry-Casta\u00f1eda Library (PCL), University Writing Center (PCL 2.330A)"
+      "location": "Perry-Castañeda Library (PCL), University Writing Center (PCL 2.330A)"
     },
     {
       "source": "ut",
@@ -1205,7 +1397,7 @@
       "title": "Department of Family Medicine Grand Rounds",
       "url": "https://intranet.dellmed.utexas.edu/event/870076/",
       "start": "2026-11-17",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1219,7 +1411,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-17",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -1229,7 +1421,7 @@
       "title": "Extraordinary Learning & Teaching, Fall 2026",
       "url": "https://intranet.dellmed.utexas.edu/event/1031957/",
       "start": "2026-11-17",
-      "time": "5:15pm \u2013 6:30 pm",
+      "time": "5:15pm – 6:30 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1260,7 +1452,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/17",
       "start": "2026-11-17",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1291,7 +1483,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2026/11/17",
       "start": "2026-11-17",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1305,7 +1497,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-17",
       "location": null
@@ -1343,17 +1535,10 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/17",
       "start": "2026-11-17",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "UT Energy Symposium: Exploring the Biophysical Limits of the Energy Transition: An Integrated Assessment Model Analysis Using MEDEAS",
-      "url": "https://calendar.utexas.edu/event/ut-energy-symposium-exploring-the-biophysical-limits-of-the-energy-transition-an-integrated-assessment-model-analysis-using-medeas",
-      "start": "2026-11-17",
-      "location": null
     },
     {
       "source": "ut",
@@ -1406,7 +1591,7 @@
     },
     {
       "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "title": "Cactus Cafe Songwriters&#039; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-11-18",
       "location": "Cactus Cafe"
@@ -1455,14 +1640,14 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-18",
       "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
-      "title": "Fall 2027 Admissions Overview and Q&amp\\;A",
+      "title": "Fall 2027 Admissions Overview and Q&amp;A",
       "url": "https://calendar.utexas.edu/event/fall-2027-admissions-overview-and-qampa",
       "start": "2026-11-18",
       "location": null
@@ -1507,7 +1692,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/11/18",
       "start": "2026-11-18",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1542,7 +1727,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-18",
       "location": null
@@ -1570,7 +1755,7 @@
     },
     {
       "source": "ut",
-      "title": "SLC Hosted Research Seminar: Dr. Chris Rhodes\\, Texas State University",
+      "title": "SLC Hosted Research Seminar: Dr. Chris Rhodes, Texas State University",
       "url": "https://calendar.utexas.edu/event/slc-hosted-research-seminar-dr-chris-rhodes-texas-state-university",
       "start": "2026-11-18",
       "location": null
@@ -1608,7 +1793,7 @@
       "title": "UT GIS Day 2026",
       "url": "https://calendar.utexas.edu/event/ut-gis-day-2026",
       "start": "2026-11-18",
-      "location": "Perry-Casta\u00f1eda Library (PCL), Scholars Lab Data Lab 2.202"
+      "location": "Perry-Castañeda Library (PCL), Scholars Lab Data Lab 2.202"
     },
     {
       "source": "ut",
@@ -1668,7 +1853,7 @@
     },
     {
       "source": "ut",
-      "title": "Ableton Education Sessions \u2014 Austin",
+      "title": "Ableton Education Sessions — Austin",
       "url": "https://calendar.utexas.edu/event/ableton-education-sessions-austin-3256",
       "start": "2026-11-19",
       "location": null
@@ -1682,7 +1867,7 @@
     },
     {
       "source": "ut",
-      "title": "Art History Lecture Series \u2014 \u201cThe Rubens Vase and Jahangir: Mineral Diplomacy\\, Speculative Investment\\, and the Frisson of the Exotic\u201c by Yael Rice",
+      "title": "Art History Lecture Series — “The Rubens Vase and Jahangir: Mineral Diplomacy, Speculative Investment, and the Frisson of the Exotic“ by Yael Rice",
       "url": "https://calendar.utexas.edu/event/art-history-lecture-series-the-rubens-vase-and-jahangir-mineral-diplomacy-speculative-investment-and-the-frisson-of-the-exotic-by-yael-rice",
       "start": "2026-11-19",
       "location": ", Meyerson Conference Room (WCH 4.118)"
@@ -1692,7 +1877,7 @@
       "title": "Bi-Monthly Office of Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/11/19",
       "start": "2026-11-19",
-      "time": "1:30pm \u2013 2:30 pm",
+      "time": "1:30pm – 2:30 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1702,7 +1887,7 @@
       "title": "Brand Implementation Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1059681/2026/11/19",
       "start": "2026-11-19",
-      "time": "2:00pm \u2013 3:00 pm",
+      "time": "2:00pm – 3:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1733,14 +1918,14 @@
       "title": "EAP Monthly Mindfulness Workshop",
       "url": "https://intranet.dellmed.utexas.edu/event/1035364/",
       "start": "2026-11-19",
-      "time": "11:45am \u2013 12:15 pm",
+      "time": "11:45am – 12:15 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-19",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -1771,14 +1956,14 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/19",
       "start": "2026-11-19",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Lunch Workshop-Project Management 101 (Organizing\\, planning and prioritizing)",
+      "title": "Lunch Workshop-Project Management 101 (Organizing, planning and prioritizing)",
       "url": "https://calendar.utexas.edu/event/lunch-workshop-project-management-101-organizing-planning-and-prioritizing",
       "start": "2026-11-19",
       "location": "Texas Union Eastwoods Room"
@@ -1788,7 +1973,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/11/19",
       "start": "2026-11-19",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1816,7 +2001,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-19",
       "location": null
@@ -1829,8 +2014,17 @@
       "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN), Oscar G. Brockett Theatre"
     },
     {
+      "source": "public",
+      "title": "Research Nuts & Bolts: Clinical Trial and Study Design",
+      "url": "https://dellmed.utexas.edu/events/research-nuts-bolts-clinical-trial-and-study-design",
+      "start": "2026-11-19",
+      "time": "10–11 a.m.",
+      "location": "Zoom",
+      "speaker": "Brooke Lasher; Tamara Garza"
+    },
+    {
       "source": "ut",
-      "title": "Rethinking Religion\\, Violence\\, and Secularism",
+      "title": "Rethinking Religion, Violence, and Secularism",
       "url": "https://calendar.utexas.edu/event/tbd-788",
       "start": "2026-11-19",
       "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
@@ -1851,7 +2045,7 @@
     },
     {
       "source": "ut",
-      "title": "Strengthening Relationships: &quot\\;The Motivation Multiplier&quot\\;",
+      "title": "Strengthening Relationships: &quot;The Motivation Multiplier&quot;",
       "url": "https://calendar.utexas.edu/event/strengthening-relationships-quotthe-motivation-multiplierquot",
       "start": "2026-11-19",
       "location": "Virtual Event"
@@ -1861,7 +2055,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/19",
       "start": "2026-11-19",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -1952,7 +2146,7 @@
     },
     {
       "source": "ut",
-      "title": "Boomershack &amp\\; Alex Dupree Live at The Cactus Cafe!",
+      "title": "Boomershack &amp; Alex Dupree Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/boomershack-amp-alex-dupree-live-at-the-cactus-cafe",
       "start": "2026-11-20",
       "location": "Cactus Cafe"
@@ -1973,7 +2167,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-20",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2029,7 +2223,7 @@
     },
     {
       "source": "ut",
-      "title": "Mao\u2019s Cultural War: The Origins of the Cultural Revolution Revisited",
+      "title": "Mao’s Cultural War: The Origins of the Cultural Revolution Revisited",
       "url": "https://calendar.utexas.edu/event/maos-cultural-war-the-origins-of-the-cultural-revolution-revisited",
       "start": "2026-11-20",
       "location": "Garrison Hall (GAR), 1.102"
@@ -2039,14 +2233,14 @@
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/11/20",
       "start": "2026-11-20",
-      "time": "8:00am \u2013 9:00 am",
+      "time": "8:00am – 9:00 am",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-20",
       "location": null
@@ -2130,7 +2324,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-21",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2158,7 +2352,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-21",
       "location": null
@@ -2221,7 +2415,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-22",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2256,7 +2450,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-22",
       "location": null
@@ -2280,7 +2474,7 @@
       "title": "University of Texas Women's Basketball vs Ohio State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-ohio-state",
       "start": "2026-11-22",
-      "location": "Fort Worth, Texas, Ariat Arena"
+      "location": "Fort Worth, Texas, Dickies Arena"
     },
     {
       "source": "ut",
@@ -2319,14 +2513,14 @@
     },
     {
       "source": "ut",
-      "title": "E+E Film &amp\\; Media Committee Meeting",
+      "title": "E+E Film &amp; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-23",
       "location": "Texas Union Asian Culture Room (4.224)"
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-23",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2375,7 +2569,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-23",
       "location": null
@@ -2400,6 +2594,15 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-24",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "public",
+      "title": "CPAN ECHO Series: Psychological vs. Neuropsychological Assessment",
+      "url": "https://dellmed.utexas.edu/events/cpan-echo-series-psychological-vs-neuropsychological-assessment",
+      "start": "2026-11-24",
+      "time": "12–1 p.m.",
+      "location": "Virtual",
+      "speaker": null
     },
     {
       "source": "ut",
@@ -2431,7 +2634,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-24",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2462,21 +2665,21 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/24",
       "start": "2026-11-24",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Mama\u2019s Broke Reunion\u00a0Album Release Tour at The Cactus Cafe",
+      "title": "Mama’s Broke Reunion Album Release Tour at The Cactus Cafe",
       "url": "https://calendar.utexas.edu/event/mamas-broke-reunionalbum-release-tour-at-the-cactus-cafe",
       "start": "2026-11-24",
       "location": "Cactus Cafe"
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-24",
       "location": null
@@ -2486,7 +2689,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24",
       "start": "2026-11-24",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -2507,7 +2710,7 @@
     },
     {
       "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "title": "Cactus Cafe Songwriters&#039; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-11-25",
       "location": "Cactus Cafe"
@@ -2542,7 +2745,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-25",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2570,7 +2773,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-25",
       "location": null
@@ -2612,7 +2815,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-26",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2636,14 +2839,14 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/26",
       "start": "2026-11-26",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-26",
       "location": null
@@ -2660,7 +2863,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/26",
       "start": "2026-11-26",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -2702,14 +2905,14 @@
     },
     {
       "source": "ut",
-      "title": "Dolly Parton\u2019s Smoky Mountain Christmas Carol",
+      "title": "Dolly Parton’s Smoky Mountain Christmas Carol",
       "url": "https://calendar.utexas.edu/event/dolly-partons-smoky-mountain-christmas-carol",
       "start": "2026-11-27",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-27",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2751,7 +2954,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-27",
       "location": null
@@ -2800,7 +3003,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-28",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2828,7 +3031,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-28",
       "location": null
@@ -2863,7 +3066,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-29",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2898,7 +3101,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-29",
       "location": null
@@ -2947,14 +3150,14 @@
     },
     {
       "source": "ut",
-      "title": "E+E Film &amp\\; Media Committee Meeting",
+      "title": "E+E Film &amp; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-30",
       "location": "Texas Union Asian Culture Room (4.224)"
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-30",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -2981,6 +3184,15 @@
       "location": "Lady Bird Johnson Wildflower Center"
     },
     {
+      "source": "public",
+      "title": "HTRI in Partnership With Texas Biologics Open House",
+      "url": "https://dellmed.utexas.edu/events/htri-in-partnership-with-texas-biologics-open-house",
+      "start": "2026-11-30",
+      "time": "5–6:30 p.m.",
+      "location": "Health Discovery Building Auditorium (HDB 1.208)",
+      "speaker": null
+    },
+    {
       "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
@@ -2989,7 +3201,7 @@
     },
     {
       "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship \u2014 Applications Open",
+      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-30",
       "location": null
@@ -3000,13 +3212,6 @@
       "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting-6654",
       "start": "2026-11-30",
       "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "Texas Biologics HTRI Translational Science Open House",
-      "url": "https://calendar.utexas.edu/event/texas-biologics-htri-translational-science-open-house",
-      "start": "2026-11-30",
-      "location": "UTHA/Dell Medical School, Health Discovery Building"
     },
     {
       "source": "ut",
@@ -3027,14 +3232,14 @@
       "title": "Writing & Research Rodeo",
       "url": "https://calendar.utexas.edu/event/writing-research-rodeo",
       "start": "2026-11-30",
-      "location": "Perry-Casta\u00f1eda Library (PCL), PCL 2.330"
+      "location": "Perry-Castañeda Library (PCL), PCL 2.330"
     },
     {
       "source": "ut",
       "title": "Writing & Research Rodeos",
       "url": "https://calendar.utexas.edu/event/writing-research-rodeos",
       "start": "2026-11-30",
-      "location": "Perry-Casta\u00f1eda Library (PCL), University Writing Center (PCL 2.330A)"
+      "location": "Perry-Castañeda Library (PCL), University Writing Center (PCL 2.330A)"
     },
     {
       "source": "ut",
@@ -3076,7 +3281,7 @@
       "title": "Cybersecurity & Compliance Office Hour",
       "url": "https://intranet.dellmed.utexas.edu/event/751984/2026/12/01",
       "start": "2026-12-01",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3090,7 +3295,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-01",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -3128,7 +3333,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/01",
       "start": "2026-12-01",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3139,6 +3344,15 @@
       "url": "https://calendar.utexas.edu/event/mccombs-summer-institute-msi",
       "start": "2026-12-01",
       "location": "CBA 2.564 Big Bend"
+    },
+    {
+      "source": "public",
+      "title": "PeriPAN ECHO Series: Supporting Women in Recovery During the Holiday Season",
+      "url": "https://dellmed.utexas.edu/events/peripan-echo-series-supporting-women-in-recovery-during-the-holiday-season",
+      "start": "2026-12-01",
+      "time": "12–1 p.m.",
+      "location": "Virtual",
+      "speaker": null
     },
     {
       "source": "ut",
@@ -3152,7 +3366,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/01",
       "start": "2026-12-01",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3194,7 +3408,7 @@
     },
     {
       "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "title": "Cactus Cafe Songwriters&#039; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-12-02",
       "location": "Cactus Cafe"
@@ -3232,7 +3446,7 @@
       "title": "Datathon Series: Workshop 1",
       "url": "https://intranet.dellmed.utexas.edu/event/1060720/",
       "start": "2026-12-02",
-      "time": "9:30am \u2013 3:30 pm",
+      "time": "9:30am – 3:30 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3246,14 +3460,14 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-02",
       "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
-      "title": "Faculty Book Talk | Inside the Body of Black Feminism: Science\\, Race\\, Culture: In Conversation with Marcia Chatelain",
+      "title": "Faculty Book Talk | Inside the Body of Black Feminism: Science, Race, Culture: In Conversation with Marcia Chatelain",
       "url": "https://calendar.utexas.edu/event/faculty-book-talk-inside-the-body-of-black-feminism-science-race-culture-in-conversation-with-marcia-chatelain",
       "start": "2026-12-02",
       "location": "Gordon White Building (GWB), 2.206"
@@ -3298,7 +3512,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/02",
       "start": "2026-12-02",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3399,7 +3613,7 @@
       "title": "Bi-Monthly Office of Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/12/03",
       "start": "2026-12-03",
-      "time": "1:30pm \u2013 2:30 pm",
+      "time": "1:30pm – 2:30 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3409,7 +3623,7 @@
       "title": "Brand Implementation Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1059681/2026/12/03",
       "start": "2026-12-03",
-      "time": "2:00pm \u2013 3:00 pm",
+      "time": "2:00pm – 3:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3444,7 +3658,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-03",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -3482,7 +3696,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/03",
       "start": "2026-12-03",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3527,7 +3741,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/03",
       "start": "2026-12-03",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -3639,14 +3853,14 @@
     },
     {
       "source": "ut",
-      "title": "Critter&#039\\;s Craft Collective",
+      "title": "Critter&#039;s Craft Collective",
       "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
       "start": "2026-12-04",
       "location": "SSB"
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-04",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -3695,7 +3909,7 @@
     },
     {
       "source": "ut",
-      "title": "Mark Rubin\\, Jew of Oklahoma Live at The Cactus Cafe!",
+      "title": "Mark Rubin, Jew of Oklahoma Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/mark-rubin-jew-of-oklahoma-live-at-the-cactus-cafe",
       "start": "2026-12-04",
       "location": "Cactus Cafe"
@@ -3705,7 +3919,7 @@
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/12/04",
       "start": "2026-12-04",
-      "time": "8:00am \u2013 9:00 am",
+      "time": "8:00am – 9:00 am",
       "location": "",
       "speaker": null,
       "end": null
@@ -3736,7 +3950,7 @@
       "title": "UWC Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
       "start": "2026-12-04",
-      "location": "Perry-Casta\u00f1eda Library (PCL), Learning Commons"
+      "location": "Perry-Castañeda Library (PCL), Learning Commons"
     },
     {
       "source": "ut",
@@ -3775,6 +3989,13 @@
     },
     {
       "source": "ut",
+      "title": "Butler Holiday Concert",
+      "url": "https://calendar.utexas.edu/event/butler-holiday-concert-730",
+      "start": "2026-12-05",
+      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-05",
@@ -3789,7 +4010,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-05",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -3834,7 +4055,7 @@
       "title": "UWC Graduate Writing Retreat",
       "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
       "start": "2026-12-05",
-      "location": "Perry-Casta\u00f1eda Library (PCL), Learning Commons"
+      "location": "Perry-Castañeda Library (PCL), Learning Commons"
     },
     {
       "source": "ut",
@@ -3859,6 +4080,13 @@
     },
     {
       "source": "ut",
+      "title": "Butler Holiday Concert",
+      "url": "https://calendar.utexas.edu/event/butler-holiday-concert-730",
+      "start": "2026-12-06",
+      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-06",
@@ -3880,7 +4108,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-06",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -3932,7 +4160,7 @@
       "title": "University of Texas Women's Basketball vs TCU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tcu-2349",
       "start": "2026-12-06",
-      "location": "Fort Worth, Texas, Ariat Arena"
+      "location": "Fort Worth, Texas, Dickies Arena"
     },
     {
       "source": "ut",
@@ -3971,14 +4199,14 @@
     },
     {
       "source": "ut",
-      "title": "E+E Film &amp\\; Media Committee Meeting",
+      "title": "E+E Film &amp; Media Committee Meeting",
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-12-07",
       "location": "Texas Union Asian Culture Room (4.224)"
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-07",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4013,7 +4241,7 @@
     },
     {
       "source": "ut",
-      "title": "SLC Hosted Research Seminar - Dr. Jairo Diaz Amaya\\, RIT",
+      "title": "SLC Hosted Research Seminar - Dr. Jairo Diaz Amaya, RIT",
       "url": "https://calendar.utexas.edu/event/slc-hosted-research-seminar-dr-jairo-diaz-amaya-rit",
       "start": "2026-12-07",
       "location": null
@@ -4069,7 +4297,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-08",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4107,7 +4335,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/08",
       "start": "2026-12-08",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4145,7 +4373,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/08",
       "start": "2026-12-08",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4159,7 +4387,7 @@
     },
     {
       "source": "ut",
-      "title": "Writing\\, Procrastination and Resistance: How to Identify Your Writing Blocks and Move Through Them",
+      "title": "Writing, Procrastination and Resistance: How to Identify Your Writing Blocks and Move Through Them",
       "url": "https://calendar.utexas.edu/event/writing-procrastination-and-resistance-how-to-identify-your-writing-blocks-and-move-through-them",
       "start": "2026-12-08",
       "location": "Texas Union, Eastwoods Room"
@@ -4180,14 +4408,14 @@
     },
     {
       "source": "ut",
-      "title": "BCBS - Physical Health &amp\\; Wellness Webinar",
+      "title": "BCBS - Physical Health &amp; Wellness Webinar",
       "url": "https://calendar.utexas.edu/event/bcbs-physical-health-amp-wellness-webinar",
       "start": "2026-12-09",
       "location": "Virtual Event"
     },
     {
       "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
+      "title": "Cactus Cafe Songwriters&#039; Open Mic Hosted by Jake Farr",
       "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
       "start": "2026-12-09",
       "location": "Cactus Cafe"
@@ -4225,21 +4453,14 @@
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026267/",
       "start": "2026-12-09",
-      "time": "4:00pm \u2013 5:00 pm",
+      "time": "4:00pm – 5:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "End of Year Celebration",
-      "url": "https://calendar.utexas.edu/event/end-of-year-celebration-7969",
-      "start": "2026-12-09",
-      "location": "Student Services Building (SSB), Glenn Maloney Assembly Room (SSB G1.310)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-09",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4260,13 +4481,6 @@
     },
     {
       "source": "ut",
-      "title": "Genetics Education Webinar: Newborn Hearing Screening: From \u2018Did Not Pass\u2019 to Early Intervention",
-      "url": "https://calendar.utexas.edu/event/genetics-education-webinar-newborn-hearing-screening-from-did-not-pass-to-early-intervention",
-      "start": "2026-12-09",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-09",
@@ -4277,7 +4491,7 @@
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2026/12/09",
       "start": "2026-12-09",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4318,6 +4532,15 @@
       "location": "Midland, Texas"
     },
     {
+      "source": "public",
+      "title": "2026 Pediatric to Adult Cardio AI Conference: Digital Twins",
+      "url": "https://dellmed.utexas.edu/events/peds-cardio-ai-conference-2026",
+      "start": "2026-12-10",
+      "time": "All Day",
+      "location": "AT&T Executive Education and Conference Center",
+      "speaker": null
+    },
+    {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
@@ -4347,7 +4570,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-10",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4378,7 +4601,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/10",
       "start": "2026-12-10",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4395,21 +4618,21 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/10",
       "start": "2026-12-10",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Through the Seasons: A Year of Yoga\\, Meditation &amp\\; Sound Healing &quot\\;Silent Mindfulness Retreat: Honoring the Stillness of Winter&quot\\;",
+      "title": "Through the Seasons: A Year of Yoga, Meditation &amp; Sound Healing &quot;Silent Mindfulness Retreat: Honoring the Stillness of Winter&quot;",
       "url": "https://calendar.utexas.edu/event/through-the-seasons-a-year-of-yoga-meditation-amp-sound-healing-quotsilent-mindfulness-retreat-honoring-the-stillness-of-winterquot",
       "start": "2026-12-10",
       "location": "Robert B. Rowling Hall, RRH 5.210 Special Events Room, 300 W Martin Luther King Jr Blvd."
     },
     {
       "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers present CWACA: Cognition We Actually Care About",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational Developers present CWACA: Cognition We Actually Care About",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-present-cwaca-cognition-we-actually-care-about",
       "start": "2026-12-10",
       "location": null
@@ -4472,7 +4695,7 @@
     },
     {
       "source": "ut",
-      "title": "Beginner Two Step Lessons followed by Ori Moore &amp\\; The Lonesome Rangers",
+      "title": "Beginner Two Step Lessons followed by Ori Moore &amp; The Lonesome Rangers",
       "url": "https://calendar.utexas.edu/event/beginner-two-step-lessons-followed-by-ori-moore-amp-the-lonesome-rangers",
       "start": "2026-12-11",
       "location": "Cactus Cafe"
@@ -4493,7 +4716,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-11",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4612,7 +4835,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-12",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4703,7 +4926,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-13",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4794,7 +5017,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-14",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4871,7 +5094,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-15",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -4902,7 +5125,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/15",
       "start": "2026-12-15",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4912,7 +5135,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2026/12/15",
       "start": "2026-12-15",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4922,7 +5145,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/15",
       "start": "2026-12-15",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -4985,14 +5208,14 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-16",
       "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
-      "title": "Fall 2027 Admissions Overview and Q&amp\\;A",
+      "title": "Fall 2027 Admissions Overview and Q&amp;A",
       "url": "https://calendar.utexas.edu/event/fall-2027-admissions-overview-and-qampa",
       "start": "2026-12-16",
       "location": null
@@ -5023,7 +5246,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/16",
       "start": "2026-12-16",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5061,7 +5284,7 @@
       "title": "Bi-Monthly Office of Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/993169/2026/12/17",
       "start": "2026-12-17",
-      "time": "1:30pm \u2013 2:30 pm",
+      "time": "1:30pm – 2:30 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5082,7 +5305,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-17",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -5113,7 +5336,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/17",
       "start": "2026-12-17",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5137,7 +5360,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2026/12/17",
       "start": "2026-12-17",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5161,7 +5384,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/17",
       "start": "2026-12-17",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5196,7 +5419,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-18",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -5241,7 +5464,7 @@
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/12/18",
       "start": "2026-12-18",
-      "time": "8:00am \u2013 9:00 am",
+      "time": "8:00am – 9:00 am",
       "location": "",
       "speaker": null,
       "end": null
@@ -5276,7 +5499,7 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee\u2019s Pedagogical Legacy",
+      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-12-19",
       "location": "Visual Arts Center, Art Building (ART)"
@@ -5440,7 +5663,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/22",
       "start": "2026-12-22",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5457,7 +5680,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2026/12/22",
       "start": "2026-12-22",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5467,7 +5690,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/22",
       "start": "2026-12-22",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5582,7 +5805,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/24",
       "start": "2026-12-24",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5599,7 +5822,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/24",
       "start": "2026-12-24",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5805,7 +6028,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/29",
       "start": "2026-12-29",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5822,7 +6045,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/29",
       "start": "2026-12-29",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5895,7 +6118,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/12/30",
       "start": "2026-12-30",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5954,7 +6177,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/12/31",
       "start": "2026-12-31",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -5971,7 +6194,7 @@
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31",
       "start": "2026-12-31",
-      "time": "11:00am \u2013 12:00 pm",
+      "time": "11:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6170,7 +6393,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/05",
       "start": "2027-01-05",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6236,7 +6459,7 @@
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2027/01/06",
       "start": "2027-01-06",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6295,7 +6518,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/07",
       "start": "2027-01-07",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6543,7 +6766,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/12",
       "start": "2027-01-12",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6602,7 +6825,7 @@
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026268/",
       "start": "2027-01-13",
-      "time": "4:00pm \u2013 5:00 pm",
+      "time": "4:00pm – 5:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6626,7 +6849,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/13",
       "start": "2027-01-13",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6685,7 +6908,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/14",
       "start": "2027-01-14",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6713,7 +6936,7 @@
     },
     {
       "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fDevelopers Webinar",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational Developers Webinar",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationaldevelopers-webinar-8400",
       "start": "2027-01-14",
       "location": null
@@ -6765,7 +6988,7 @@
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2027/01/15",
       "start": "2027-01-15",
-      "time": "8:00am \u2013 9:00 am",
+      "time": "8:00am – 9:00 am",
       "location": "",
       "speaker": null,
       "end": null
@@ -6821,7 +7044,7 @@
     },
     {
       "source": "ut",
-      "title": "S\u014d Percussion with Caroline Shaw and Ringdown - Who Turns Out The Light",
+      "title": "Sō Percussion with Caroline Shaw and Ringdown - Who Turns Out The Light",
       "url": "https://calendar.utexas.edu/event/so-percussion-with-caroline-shaw-and-ringdown-who-turns-out-the-light",
       "start": "2027-01-16",
       "location": "Bates Recital Hall, Music Building (MRH)"
@@ -6978,7 +7201,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/19",
       "start": "2027-01-19",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -6988,7 +7211,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/01/19",
       "start": "2027-01-19",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7054,7 +7277,7 @@
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2027/01/20",
       "start": "2027-01-20",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7106,7 +7329,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/21",
       "start": "2027-01-21",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7123,7 +7346,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/01/21",
       "start": "2027-01-21",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7175,7 +7398,7 @@
       "title": "Dell Med Staff Connect: Meet. Share. Build Connections.",
       "url": "https://intranet.dellmed.utexas.edu/event/1060523/",
       "start": "2027-01-22",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7322,7 +7545,7 @@
     },
     {
       "source": "ut",
-      "title": "Ebonee Thomas\\, flute | Wilhelm Magner\\, viola | Emily Levin\\, harp",
+      "title": "Ebonee Thomas, flute | Wilhelm Magner, viola | Emily Levin, harp",
       "url": "https://calendar.utexas.edu/event/ebonee-thomas-flute-wilhelm-magner-viola-emily-levin-harp-1874",
       "start": "2027-01-24",
       "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
@@ -7427,7 +7650,7 @@
     },
     {
       "source": "ut",
-      "title": "Carlos Enrique Santelli\\, tenor &amp\\;amp\\; Rick Rowley\\, piano",
+      "title": "Carlos Enrique Santelli, tenor &amp;amp; Rick Rowley, piano",
       "url": "https://calendar.utexas.edu/event/carlos-enrique-santelli-tenor-ampamp-rick-rowley-piano",
       "start": "2027-01-26",
       "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
@@ -7458,7 +7681,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/26",
       "start": "2027-01-26",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7468,7 +7691,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/01/26",
       "start": "2027-01-26",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7541,7 +7764,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/01/27",
       "start": "2027-01-27",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7593,7 +7816,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/01/28",
       "start": "2027-01-28",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7628,7 +7851,7 @@
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Bea Maclaine (Jacobvitz Lab) &amp\\; Talyor Simmons (HJ Lee Lab)",
+      "title": "WCAAR Weekly Meeting -  Bea Maclaine (Jacobvitz Lab) &amp; Talyor Simmons (HJ Lee Lab)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-bea-maclaine-jacobvitz-lab-amp-talyor-simmons-hj-lee-lab",
       "start": "2027-01-28",
       "location": "HDB 1.208"
@@ -7680,7 +7903,7 @@
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2027/01/29",
       "start": "2027-01-29",
-      "time": "8:00am \u2013 9:00 am",
+      "time": "8:00am – 9:00 am",
       "location": "",
       "speaker": null,
       "end": null
@@ -7757,7 +7980,7 @@
     },
     {
       "source": "ut",
-      "title": "Mir\u00f3 Quartet",
+      "title": "Miró Quartet",
       "url": "https://calendar.utexas.edu/event/miro-quartet-2605",
       "start": "2027-01-30",
       "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
@@ -7921,7 +8144,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/02",
       "start": "2027-02-02",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -7994,17 +8217,10 @@
       "title": "Office of Faculty Academic Affairs: Wednesday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/739952/2027/02/03",
       "start": "2027-02-03",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Percussion Ensemble",
-      "url": "https://calendar.utexas.edu/event/percussion-ensemble-8885",
-      "start": "2027-02-03",
-      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -8018,7 +8234,7 @@
       "title": "Talk: by Mark Oppenheimer",
       "url": "https://calendar.utexas.edu/event/talk-by-mark-oppenheimer",
       "start": "2027-02-03",
-      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
+      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 — University of Texas at Austin"
     },
     {
       "source": "ut",
@@ -8053,14 +8269,14 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/04",
       "start": "2027-02-04",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Managing Up\\, Across\\, and Forward",
+      "title": "Managing Up, Across, and Forward",
       "url": "https://calendar.utexas.edu/event/managing-up-across-and-forward",
       "start": "2027-02-04",
       "location": "Virtual Event"
@@ -8088,7 +8304,7 @@
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Paige Harden (UT Austin)",
+      "title": "WCAAR Weekly Meeting -  Paige Harden (UT Austin)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-paige-harden-ut-austin",
       "start": "2027-02-04",
       "location": "HDB 1.208"
@@ -8315,7 +8531,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/09",
       "start": "2027-02-09",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8374,7 +8590,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/10",
       "start": "2027-02-10",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8426,7 +8642,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/11",
       "start": "2027-02-11",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8447,7 +8663,7 @@
     },
     {
       "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202fpresent Human(e) Learning in Digital Spaces Developers Webinar",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational present Human(e) Learning in Digital Spaces Developers Webinar",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationalpresent-humane-learning-in-digital-spaces-developers-webinar",
       "start": "2027-02-11",
       "location": null
@@ -8695,7 +8911,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/16",
       "start": "2027-02-16",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8705,7 +8921,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/02/16",
       "start": "2027-02-16",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8771,7 +8987,7 @@
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026269/",
       "start": "2027-02-17",
-      "time": "4:00pm \u2013 5:00 pm",
+      "time": "4:00pm – 5:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8837,7 +9053,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/18",
       "start": "2027-02-18",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -8847,7 +9063,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/02/18",
       "start": "2027-02-18",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9109,7 +9325,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/23",
       "start": "2027-02-23",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9119,7 +9335,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/02/23",
       "start": "2027-02-23",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9192,7 +9408,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/02/24",
       "start": "2027-02-24",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9209,7 +9425,7 @@
       "title": "Talk: Bryan Kirschen on Ladino in the Americas",
       "url": "https://calendar.utexas.edu/event/talk-bryan-kirschen-on-ladino-in-the-americas",
       "start": "2027-02-24",
-      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
+      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 — University of Texas at Austin"
     },
     {
       "source": "ut",
@@ -9251,14 +9467,14 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/02/25",
       "start": "2027-02-25",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan’s Party",
       "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
       "start": "2027-02-25",
       "location": "McCullough Theatre, Performing Arts Center (PAC)"
@@ -9342,7 +9558,7 @@
     },
     {
       "source": "ut",
-      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan’s Party",
       "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
       "start": "2027-02-26",
       "location": "McCullough Theatre, Performing Arts Center (PAC)"
@@ -9412,7 +9628,7 @@
     },
     {
       "source": "ut",
-      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan’s Party",
       "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
       "start": "2027-02-27",
       "location": "McCullough Theatre, Performing Arts Center (PAC)"
@@ -9482,7 +9698,7 @@
     },
     {
       "source": "ut",
-      "title": "Indian Ink Theatre Company - Mrs. Krishnan\u2019s Party",
+      "title": "Indian Ink Theatre Company - Mrs. Krishnan’s Party",
       "url": "https://calendar.utexas.edu/event/indian-ink-theatre-company-mrs-krishnans-party",
       "start": "2027-02-28",
       "location": "McCullough Theatre, Performing Arts Center (PAC)"
@@ -9611,7 +9827,7 @@
       "title": "Cybersecurity & Compliance Office Hour",
       "url": "https://intranet.dellmed.utexas.edu/event/751984/2027/03/02",
       "start": "2027-03-02",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9635,7 +9851,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/02",
       "start": "2027-03-02",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9771,7 +9987,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/04",
       "start": "2027-03-04",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -9806,10 +10022,10 @@
     },
     {
       "source": "ut",
-      "title": "Anna Zajacova\\, Professor\\, Sociology\\, University of Western Ontario",
+      "title": "Anna Zajacova, Professor, Sociology, University of Western Ontario",
       "url": "https://calendar.utexas.edu/event/anna-zajacova-professor-sociology-university-of-western-ontario",
       "start": "2027-03-05",
-      "location": "RLP. 1.302 E \u2014 University of Texas at Austin"
+      "location": "RLP. 1.302 E — University of Texas at Austin"
     },
     {
       "source": "ut",
@@ -9998,7 +10214,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/09",
       "start": "2027-03-09",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10064,7 +10280,7 @@
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026270/",
       "start": "2027-03-10",
-      "time": "4:00pm \u2013 5:00 pm",
+      "time": "4:00pm – 5:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10081,7 +10297,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/03/10",
       "start": "2027-03-10",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10133,7 +10349,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/11",
       "start": "2027-03-11",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10147,7 +10363,7 @@
     },
     {
       "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202f present Igniting Curiosity: Assessing Learning for a Lifetime",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational  present Igniting Curiosity: Assessing Learning for a Lifetime",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducational-present-igniting-curiosity-assessing-learning-for-a-lifetime",
       "start": "2027-03-11",
       "location": null
@@ -10161,7 +10377,7 @@
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Yeonha Ju (Fenno Lab)",
+      "title": "WCAAR Weekly Meeting -  Yeonha Ju (Fenno Lab)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-yeonha-ju-fenno-lab",
       "start": "2027-03-11",
       "location": "HDB 1.204"
@@ -10297,7 +10513,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/16",
       "start": "2027-03-16",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10307,7 +10523,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/03/16",
       "start": "2027-03-16",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10366,7 +10582,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/18",
       "start": "2027-03-18",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10376,7 +10592,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/03/18",
       "start": "2027-03-18",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10561,7 +10777,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/23",
       "start": "2027-03-23",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10571,7 +10787,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/03/23",
       "start": "2027-03-23",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10623,7 +10839,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/03/24",
       "start": "2027-03-24",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10654,14 +10870,14 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/25",
       "start": "2027-03-25",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
     },
     {
       "source": "ut",
-      "title": "Lim\u00f3n Dance Company",
+      "title": "Limón Dance Company",
       "url": "https://calendar.utexas.edu/event/limon-dance-company",
       "start": "2027-03-25",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
@@ -10696,14 +10912,14 @@
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Donegan Lab",
+      "title": "WCAAR Weekly Meeting -  Donegan Lab",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-donegan-lab",
       "start": "2027-03-25",
       "location": "HDB 1.208"
     },
     {
       "source": "ut",
-      "title": "Bluey\u2019s Big Play",
+      "title": "Bluey’s Big Play",
       "url": "https://calendar.utexas.edu/event/blueys-big-play",
       "start": "2027-03-26",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
@@ -10752,7 +10968,7 @@
     },
     {
       "source": "ut",
-      "title": "Bluey\u2019s Big Play",
+      "title": "Bluey’s Big Play",
       "url": "https://calendar.utexas.edu/event/blueys-big-play",
       "start": "2027-03-27",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
@@ -10794,7 +11010,7 @@
     },
     {
       "source": "ut",
-      "title": "Bluey\u2019s Big Play",
+      "title": "Bluey’s Big Play",
       "url": "https://calendar.utexas.edu/event/blueys-big-play",
       "start": "2027-03-28",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
@@ -10832,7 +11048,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/30",
       "start": "2027-03-30",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -10884,7 +11100,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/01",
       "start": "2027-04-01",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11010,7 +11226,7 @@
     },
     {
       "source": "ut",
-      "title": "Cirque Kalabant\u00e9 - WOW: World of Words",
+      "title": "Cirque Kalabanté - WOW: World of Words",
       "url": "https://calendar.utexas.edu/event/cirque-kalabante-wow-world-of-words",
       "start": "2027-04-05",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
@@ -11048,7 +11264,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/06",
       "start": "2027-04-06",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11086,7 +11302,7 @@
       "title": "DSPC Discovery and Investigation Seminar Series",
       "url": "https://intranet.dellmed.utexas.edu/event/1026271/",
       "start": "2027-04-07",
-      "time": "4:00pm \u2013 5:00 pm",
+      "time": "4:00pm – 5:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11103,7 +11319,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/07",
       "start": "2027-04-07",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11134,7 +11350,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/08",
       "start": "2027-04-08",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11148,14 +11364,14 @@
     },
     {
       "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System\u202fEducational\u202f present Beyond the AI Answer: Designing Assessment with Students",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational  present Beyond the AI Answer: Designing Assessment with Students",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducational-present-beyond-the-ai-answer-designing-assessment-with-students",
       "start": "2027-04-08",
       "location": null
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Yuri Blednov",
+      "title": "WCAAR Weekly Meeting -  Yuri Blednov",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-yuri-blednov-1652",
       "start": "2027-04-08",
       "location": "HDB 1.208"
@@ -11319,7 +11535,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/13",
       "start": "2027-04-13",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11336,7 +11552,7 @@
       "title": "2026-2027 Rapoport Fellows Colloquium",
       "url": "https://calendar.utexas.edu/event/2026-2027-rapoport-fellows-colloquium",
       "start": "2027-04-14",
-      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 \u2014 University of Texas at Austin"
+      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 — University of Texas at Austin"
     },
     {
       "source": "ut",
@@ -11378,7 +11594,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/15",
       "start": "2027-04-15",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11388,7 +11604,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/04/15",
       "start": "2027-04-15",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11416,10 +11632,10 @@
     },
     {
       "source": "ut",
-      "title": "Lindsay Kobayashi\\, Associate Professor\\, University of Michigan",
+      "title": "Lindsay Kobayashi, Associate Professor, University of Michigan",
       "url": "https://calendar.utexas.edu/event/lindsay-kobayashinbspassociate-professor-university-of-michigan",
       "start": "2027-04-16",
-      "location": "RLP 1.302 E \u2014 University of Texas at Austin"
+      "location": "RLP 1.302 E — University of Texas at Austin"
     },
     {
       "source": "ut",
@@ -11507,7 +11723,7 @@
     },
     {
       "source": "ut",
-      "title": "3rd International Conference on Stem Cells\\, Regenerative Medicine & Tissue Engineering",
+      "title": "3rd International Conference on Stem Cells, Regenerative Medicine & Tissue Engineering",
       "url": "https://calendar.utexas.edu/event/3rd-international-conference-on-stem-cells-regenerative-medicine-tissue-engineering",
       "start": "2027-04-19",
       "location": "Milan, Italy, Milan, Italy"
@@ -11545,7 +11761,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/20",
       "start": "2027-04-20",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11555,7 +11771,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/04/20",
       "start": "2027-04-20",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11600,7 +11816,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/21",
       "start": "2027-04-21",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11652,7 +11868,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/22",
       "start": "2027-04-22",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11687,7 +11903,7 @@
     },
     {
       "source": "ut",
-      "title": "WCAAR Weekly Meeting - \u00a0Marisa Roberto (Scripps)",
+      "title": "WCAAR Weekly Meeting -  Marisa Roberto (Scripps)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-marisa-roberto-scripps",
       "start": "2027-04-22",
       "location": "HDB 1.208"
@@ -11735,81 +11951,11 @@
       "location": "Lexington, Ky."
     },
     {
-      "source": "ut",
-      "title": "All My Relations Collective - Skeleton Canoe",
-      "url": "https://calendar.utexas.edu/event/all-my-relations-collective-skeleton-canoe",
-      "start": "2027-04-24",
-      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-8678",
-      "start": "2027-04-24",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship Match Play",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-match-play",
-      "start": "2027-04-24",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-24",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Rowing vs Stanford",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-stanford",
-      "start": "2027-04-24",
-      "location": "Austin, Texas, Lady Bird Lake"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs SEC Tournament",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
-      "start": "2027-04-24",
-      "location": "Lexington, Ky."
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-5751",
-      "start": "2027-04-25",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship Match Play",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-match-play-6967",
-      "start": "2027-04-25",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-25",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-26",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/27",
       "start": "2027-04-27",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11819,7 +11965,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/04/27",
       "start": "2027-04-27",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11829,7 +11975,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/29",
       "start": "2027-04-29",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11839,7 +11985,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/04",
       "start": "2027-05-04",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11849,7 +11995,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/05",
       "start": "2027-05-05",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11859,7 +12005,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/06",
       "start": "2027-05-06",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11869,7 +12015,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/11",
       "start": "2027-05-11",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11879,7 +12025,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/13",
       "start": "2027-05-13",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11889,7 +12035,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/18",
       "start": "2027-05-18",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11899,7 +12045,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/05/18",
       "start": "2027-05-18",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11909,7 +12055,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/19",
       "start": "2027-05-19",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11919,7 +12065,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/20",
       "start": "2027-05-20",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11929,7 +12075,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/05/20",
       "start": "2027-05-20",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11939,7 +12085,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/25",
       "start": "2027-05-25",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11949,7 +12095,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/05/25",
       "start": "2027-05-25",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11959,7 +12105,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/27",
       "start": "2027-05-27",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11969,7 +12115,7 @@
       "title": "Cybersecurity & Compliance Office Hour",
       "url": "https://intranet.dellmed.utexas.edu/event/751984/2027/06/01",
       "start": "2027-06-01",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11979,7 +12125,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/01",
       "start": "2027-06-01",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11989,7 +12135,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/06/02",
       "start": "2027-06-02",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -11999,7 +12145,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/03",
       "start": "2027-06-03",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12009,7 +12155,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/08",
       "start": "2027-06-08",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12019,7 +12165,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/10",
       "start": "2027-06-10",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12029,7 +12175,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/15",
       "start": "2027-06-15",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12039,7 +12185,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/06/15",
       "start": "2027-06-15",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12049,7 +12195,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/06/16",
       "start": "2027-06-16",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12059,7 +12205,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/17",
       "start": "2027-06-17",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12069,7 +12215,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/06/17",
       "start": "2027-06-17",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12079,7 +12225,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/22",
       "start": "2027-06-22",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12089,7 +12235,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/06/22",
       "start": "2027-06-22",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12099,7 +12245,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/24",
       "start": "2027-06-24",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12109,7 +12255,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/06/29",
       "start": "2027-06-29",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12119,7 +12265,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/06/30",
       "start": "2027-06-30",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12129,7 +12275,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/01",
       "start": "2027-07-01",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12139,7 +12285,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/06",
       "start": "2027-07-06",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12149,7 +12295,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/08",
       "start": "2027-07-08",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12159,7 +12305,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/13",
       "start": "2027-07-13",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12169,7 +12315,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/07/14",
       "start": "2027-07-14",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12179,7 +12325,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/15",
       "start": "2027-07-15",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12189,7 +12335,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/07/15",
       "start": "2027-07-15",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12199,7 +12345,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/20",
       "start": "2027-07-20",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12209,7 +12355,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/07/20",
       "start": "2027-07-20",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12219,7 +12365,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/22",
       "start": "2027-07-22",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12229,7 +12375,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/27",
       "start": "2027-07-27",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12239,7 +12385,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/07/27",
       "start": "2027-07-27",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12249,7 +12395,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/07/28",
       "start": "2027-07-28",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12259,7 +12405,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/07/29",
       "start": "2027-07-29",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12269,7 +12415,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/03",
       "start": "2027-08-03",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12279,7 +12425,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/05",
       "start": "2027-08-05",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12289,7 +12435,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/10",
       "start": "2027-08-10",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12299,7 +12445,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/08/11",
       "start": "2027-08-11",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12309,7 +12455,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/12",
       "start": "2027-08-12",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12319,7 +12465,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/17",
       "start": "2027-08-17",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12329,7 +12475,7 @@
       "title": "Peds Faculty Promotion Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1038604/2027/08/17",
       "start": "2027-08-17",
-      "time": "4:30pm \u2013 6:00 pm",
+      "time": "4:30pm – 6:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12339,7 +12485,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/19",
       "start": "2027-08-19",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12349,7 +12495,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/08/19",
       "start": "2027-08-19",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12359,7 +12505,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/24",
       "start": "2027-08-24",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12369,7 +12515,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/08/24",
       "start": "2027-08-24",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12379,7 +12525,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/08/25",
       "start": "2027-08-25",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12389,7 +12535,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/26",
       "start": "2027-08-26",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12399,7 +12545,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/08/31",
       "start": "2027-08-31",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12409,7 +12555,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/02",
       "start": "2027-09-02",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12419,7 +12565,7 @@
       "title": "Cybersecurity & Compliance Office Hour",
       "url": "https://intranet.dellmed.utexas.edu/event/751984/2027/09/07",
       "start": "2027-09-07",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12429,7 +12575,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/07",
       "start": "2027-09-07",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12439,7 +12585,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/09/08",
       "start": "2027-09-08",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12449,7 +12595,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/09",
       "start": "2027-09-09",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12459,7 +12605,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/14",
       "start": "2027-09-14",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12469,7 +12615,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/16",
       "start": "2027-09-16",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12479,7 +12625,7 @@
       "title": "Medical Education Research Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/766328/2027/09/16",
       "start": "2027-09-16",
-      "time": "12:00pm \u2013 1:00 pm",
+      "time": "12:00pm – 1:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12489,7 +12635,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/21",
       "start": "2027-09-21",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12499,7 +12645,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/09/22",
       "start": "2027-09-22",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12509,7 +12655,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/23",
       "start": "2027-09-23",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12519,7 +12665,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/28",
       "start": "2027-09-28",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12529,7 +12675,7 @@
       "title": "Quality Improvement Coaching Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1039334/2027/09/28",
       "start": "2027-09-28",
-      "time": "1:00pm \u2013 2:00 pm",
+      "time": "1:00pm – 2:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12539,7 +12685,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/09/30",
       "start": "2027-09-30",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12549,7 +12695,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/10/05",
       "start": "2027-10-05",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12559,7 +12705,7 @@
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/10/06",
       "start": "2027-10-06",
-      "time": "3:00pm \u2013 4:00 pm",
+      "time": "3:00pm – 4:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12569,7 +12715,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/10/07",
       "start": "2027-10-07",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12579,7 +12725,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/10/12",
       "start": "2027-10-12",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12589,7 +12735,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/10/14",
       "start": "2027-10-14",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
@@ -12599,7 +12745,7 @@
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/10/19",
       "start": "2027-10-19",
-      "time": "8:00am \u2013 12:00 pm",
+      "time": "8:00am – 12:00 pm",
       "location": "",
       "speaker": null,
       "end": null
