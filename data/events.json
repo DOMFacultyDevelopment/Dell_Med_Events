@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-12T14:52:11.221850+00:00",
+  "updated": "2026-11-12T23:21:20.086107+00:00",
   "counts": {
     "public": 6,
     "internal": 197,
-    "ut": 1484
+    "ut": 1489
   },
   "events": [
     {
@@ -11515,6 +11515,13 @@
     },
     {
       "source": "ut",
+      "title": "The Lord of the Rings: The Two Towers in Concert",
+      "url": "https://calendar.utexas.edu/event/the-lord-of-the-rings-the-two-towers-in-concert",
+      "start": "2027-04-24",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs Arkansas",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-8678",
       "start": "2027-04-24",
@@ -11547,6 +11554,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
       "start": "2027-04-24",
       "location": "Lexington, Ky."
+    },
+    {
+      "source": "ut",
+      "title": "The Lord of the Rings: The Two Towers in Concert",
+      "url": "https://calendar.utexas.edu/event/the-lord-of-the-rings-the-two-towers-in-concert",
+      "start": "2027-04-25",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11637,6 +11651,27 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-04-28",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-28",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-28",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-28",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
     },
     {
       "source": "internal",
