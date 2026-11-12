@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-12T00:16:09.900044+00:00",
+  "updated": "2026-11-12T14:52:11.221850+00:00",
   "counts": {
     "public": 6,
     "internal": 197,
-    "ut": 1478
+    "ut": 1484
   },
   "events": [
     {
@@ -5820,7 +5820,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Basketball vs Florida",
+      "title": "University of Texas Men's Basketball vs Florida - presented by State Farm",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
       "start": "2027-01-02",
       "location": "Austin, Texas, Moody Center"
@@ -11571,10 +11571,31 @@
     },
     {
       "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-26",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs SEC Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
       "start": "2027-04-26",
       "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
+      "start": "2027-04-27",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-27",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -11595,6 +11616,27 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Houston Christian",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-houston-christian-8575",
+      "start": "2027-04-27",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-27",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-04-28",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
