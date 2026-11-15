@@ -1,169 +1,15 @@
 {
-  "updated": "2026-11-14T22:08:02.570820+00:00",
+  "updated": "2026-11-15T13:41:24.475874+00:00",
   "counts": {
     "public": 5,
     "internal": 194,
-    "ut": 1473
+    "ut": 1472
   },
   "events": [
     {
       "source": "ut",
       "title": "45th Annual Madrigal Dinner: The Princess’s Bargain",
       "url": "https://calendar.utexas.edu/event/45th-annual-madrigal-dinner-the-princesss-bargain",
-      "start": "2026-11-14",
-      "location": "Shirley Bird Perry Ballroom"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-14",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-11-14",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-11-14",
-      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-14",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-11-14",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-11-14",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Hot Science Cool Talks: Birds are Smarter!",
-      "url": "https://calendar.utexas.edu/event/hot-science-cool-talks-birds-are-smarter",
-      "start": "2026-11-14",
-      "location": "Robert A. Welch Hall (WEL), 2.224 and Grand Hallway"
-    },
-    {
-      "source": "ut",
-      "title": "Jazz Band\\, Ensemble &amp\\;amp\\; Orchestra",
-      "url": "https://calendar.utexas.edu/event/jazz-band-ensemble-ampamp-orchestra-3571",
-      "start": "2026-11-14",
-      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Leila Sunier &amp\\; Jessica Healey Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/leila-sunier-amp-jessica-healey-live-at-the-cactus-cafe",
-      "start": "2026-11-14",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Leila Sunier Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/leila-sunier-live-at-the-cactus-cafe",
-      "start": "2026-11-14",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Singers",
-      "url": "https://calendar.utexas.edu/event/longhorn-singers-9019",
-      "start": "2026-11-14",
-      "location": ", William C. Powers Student Activity Center Auditorium"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-11-14",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Pulse",
-      "url": "https://calendar.utexas.edu/event/pulse",
-      "start": "2026-11-14",
-      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN), Oscar G. Brockett Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "UWC Graduate Writing Retreat",
-      "url": "https://calendar.utexas.edu/event/uwc-graduate-writing-retreat-6646",
-      "start": "2026-11-14",
-      "location": "Perry-Castañeda Library (PCL), Learning Commons"
-    },
-    {
-      "source": "ut",
-      "title": "University Writing Center Graduate Writing Retreat",
-      "url": "https://calendar.utexas.edu/event/university-writing-center-graduate-writing-retreat-3084",
-      "start": "2026-11-14",
-      "location": "University Writing Center , PCL 2.330"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Football at LSU",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-football-at-lsu",
-      "start": "2026-11-14",
-      "location": "Baton Rouge, La., Tiger Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Diving Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-diving-invitational-7655",
-      "start": "2026-11-14",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Basketball vs Tarleton State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-tarleton-state-5536",
-      "start": "2026-11-14",
-      "location": "Austin, Texas, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Diving Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-diving-invitational-1730",
-      "start": "2026-11-14",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Lincoln W15",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-lincoln-w15",
-      "start": "2026-11-14",
-      "location": "Lincoln, Neb., Sid and Hazel Dillon Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs ITF Weston W35",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-itf-weston-w35",
-      "start": "2026-11-14",
-      "location": "Weston, Fla., Weston Raquet Club"
-    },
-    {
-      "source": "ut",
-      "title": "45th Annual Madrigal Dinner: The Princess’s Bargain",
-      "url": "https://calendar.utexas.edu/event/45th-annual-madrigal-dinner-the-princesss-bargain",
       "start": "2026-11-15",
       "location": "Shirley Bird Perry Ballroom"
     },
@@ -180,6 +26,13 @@
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-15",
       "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
+    },
+    {
+      "source": "ut",
+      "title": "Carillon Concert",
+      "url": "https://calendar.utexas.edu/event/carillon-concert",
+      "start": "2026-11-15",
+      "location": ", The University of Texas at Austin Tower"
     },
     {
       "source": "ut",
@@ -299,6 +152,13 @@
       "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-hosts-ut-womens-prayer-group-5134",
       "start": "2026-11-16",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "College of Fine Arts Faculty International Research Panel",
+      "url": "https://calendar.utexas.edu/event/college-of-fine-arts-faculty-international-research-panel",
+      "start": "2026-11-16",
+      "location": "E. William Doty Fine Arts Building (DFA), Fine Arts Library, DFA 3rd floor"
     },
     {
       "source": "ut",
@@ -435,6 +295,13 @@
     },
     {
       "source": "ut",
+      "title": "Beyond the Classroom: Why Global Learning Matters",
+      "url": "https://calendar.utexas.edu/event/beyond-the-classroom-why-global-learning-matters",
+      "start": "2026-11-17",
+      "location": "E. William Doty Fine Arts Building (DFA), Fine Arts Library, DFA 3rd floor"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-17",
@@ -484,6 +351,13 @@
       "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
       "start": "2026-11-17",
       "location": "Texas Union Eastwoods Room (2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "Exhibition Tour and Performance: Butler School of Music String Quartet responds to As It Appears",
+      "url": "https://calendar.utexas.edu/event/exhibition-tour-and-performance-butler-school-of-music-string-quartet-responds-to-asitappears",
+      "start": "2026-11-17",
+      "location": "Visual Arts Center, Art Building (ART), Visual Arts Center"
     },
     {
       "source": "ut",
@@ -632,6 +506,13 @@
     },
     {
       "source": "ut",
+      "title": "UTMRC: Stop the Bleed Training",
+      "url": "https://calendar.utexas.edu/event/utmrc-stop-the-bleed-training-2936",
+      "start": "2026-11-17",
+      "location": "University Teaching Center (UTC)"
+    },
+    {
+      "source": "ut",
       "title": "UTNY Information Session",
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-11-17",
@@ -671,6 +552,13 @@
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2026-11-18",
       "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "CPDS: Faculty Scholarship Success Stories Lunch &amp\\; Learn",
+      "url": "https://calendar.utexas.edu/event/cpds-faculty-scholarship-success-stories-lunch-amp-learn",
+      "start": "2026-11-18",
+      "location": "NUR 5.178"
     },
     {
       "source": "ut",
@@ -4565,6 +4453,13 @@
     },
     {
       "source": "ut",
+      "title": "Lincoln Financial - It&#039\\;s your future. Save for it.",
+      "url": "https://calendar.utexas.edu/event/lincoln-financial-it039s-your-future-save-for-it",
+      "start": "2026-12-18",
+      "location": "Virtual Event"
+    },
+    {
+      "source": "ut",
       "title": "Longhorn Recovery Circle",
       "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
       "start": "2026-12-18",
@@ -5836,6 +5731,13 @@
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-11",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "M.F.A. in Design Info Session",
+      "url": "https://calendar.utexas.edu/event/mfa-in-design-info-session-8420",
+      "start": "2027-01-11",
+      "location": ", Online"
     },
     {
       "source": "ut",
@@ -7496,6 +7398,13 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-02-06",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Anna LaMare\\, Dillon Hasten\\, and Lyal Strickland Live at The Cactus Cafe!",
+      "url": "https://calendar.utexas.edu/event/anna-lamare-dillon-hasten-and-lyal-strickland-live-at-the-cactus-cafe",
+      "start": "2027-02-06",
+      "location": "Cactus Cafe"
     },
     {
       "source": "ut",
@@ -11237,6 +11146,13 @@
     },
     {
       "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-04-28",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-28",
@@ -11255,6 +11171,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
       "start": "2027-04-28",
       "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-04-29",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11293,6 +11216,13 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-david-root-uc-boulder-5050",
       "start": "2027-04-29",
       "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-04-30",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11338,6 +11268,13 @@
     },
     {
       "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-05-01",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
       "title": "Rosas Dance Company - Il Cimento dell’Armonia e dell’Inventione",
       "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
       "start": "2027-05-01",
@@ -11363,6 +11300,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
       "start": "2027-05-01",
       "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-05-02",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -11529,6 +11473,13 @@
     },
     {
       "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-05-07",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball at Oklahoma",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-oklahoma-6813",
       "start": "2027-05-07",
@@ -11560,6 +11511,48 @@
       "title": "University of Texas Women's Tennis vs NCAA First and Second Rounds",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ncaa-first-and-second-rounds-9558",
       "start": "2027-05-07",
+      "location": "TBA"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Oklahoma",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-oklahoma-835",
+      "start": "2027-05-08",
+      "location": "Norman, Okla., Kimrey Family Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs NCAA First and Second Rounds",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-first-and-second-rounds-2881",
+      "start": "2027-05-08",
+      "location": "TBA"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-08",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-auburn-2260",
+      "start": "2027-05-08",
+      "location": "Auburn, Ala., Jane B. Moore Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Rowing vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-sec-championship-5807",
+      "start": "2027-05-09",
+      "location": "Oak Ridge, Tenn."
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs NCAA Regional Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-ncaa-regional-championship-3122",
+      "start": "2027-05-10",
       "location": "TBA"
     },
     {
