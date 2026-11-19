@@ -1,308 +1,11 @@
 {
-  "updated": "2026-11-18T15:22:09.949184+00:00",
+  "updated": "2026-11-19T00:02:11.862209+00:00",
   "counts": {
     "public": 5,
-    "internal": 189,
-    "ut": 1434
+    "internal": 188,
+    "ut": 1419
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"Bevo's Broken Hearts Club\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/bevos-broken-hearts-club-share-community-meeting-6296",
-      "start": "2026-11-18",
-      "location": "Longhorn Wellness Center, SSB 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "\"InvisiBUDDIES: Navigating Life with Invisible Disabilities\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/invisibuddies-navigating-life-with-invisible-disabilities-share-community-meeting",
-      "start": "2026-11-18",
-      "location": "Disability Cultural Center - Conference room (SSB)"
-    },
-    {
-      "source": "ut",
-      "title": "\"We'll Be(v)O-kay: Overcoming Worries about the Future\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/well-bevo-kay-overcoming-worries-about-the-future-share-community-meeting",
-      "start": "2026-11-18",
-      "location": "CMHC @ WCP - WCP 1.102"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-18",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Spring ESL Classes",
-      "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
-      "start": "2026-11-18",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Art History Lecture Series — “The Rubens Vase and Jahangir: Mineral Diplomacy\\, Speculative Investment\\, and the Frisson of the Exotic“ by Yael Rice",
-      "url": "https://calendar.utexas.edu/event/art-history-lecture-series-the-rubens-vase-and-jahangir-mineral-diplomacy-speculative-investment-and-the-frisson-of-the-exotic-by-yael-rice",
-      "start": "2026-11-18",
-      "location": ", Meyerson Conference Room (WCH 4.118)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-11-18",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "CPDS: Faculty Scholarship Success Stories Lunch &amp\\; Learn",
-      "url": "https://calendar.utexas.edu/event/cpds-faculty-scholarship-success-stories-lunch-amp-learn",
-      "start": "2026-11-18",
-      "location": "NUR 5.178"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-11-18",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2026-11-18",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-11-18",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-11-18",
-      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Credit Scores & Reports Workshop",
-      "url": "https://calendar.utexas.edu/event/credit-scores-reports-workshop",
-      "start": "2026-11-18",
-      "location": "Main Building (MAI), 1J (Texas One Stop Classroom)"
-    },
-    {
-      "source": "ut",
-      "title": "Ethics and Oversight Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
-      "start": "2026-11-18",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "Executive Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
-      "start": "2026-11-18",
-      "location": "NUR 5.174"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-18",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fall 2027 Admissions Overview and Q&amp\\;A",
-      "url": "https://calendar.utexas.edu/event/fall-2027-admissions-overview-and-qampa",
-      "start": "2026-11-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-11-18",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Financial Planning Certificate Program",
-      "url": "https://calendar.utexas.edu/event/financial-planning-certificate-program-9383",
-      "start": "2026-11-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-11-18",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Freeman Scholars Info Session and Student Panel",
-      "url": "https://calendar.utexas.edu/event/freeman-scholars-info-session-and-student-panel",
-      "start": "2026-11-18",
-      "location": "Peter T. Flawn Academic Center (FAC), 328"
-    },
-    {
-      "source": "ut",
-      "title": "GSC Monthly Meeting",
-      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
-      "start": "2026-11-18",
-      "location": "NUR 4.180"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S. South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth-4729",
-      "start": "2026-11-18",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2026-11-18",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (HDB & Zoom)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864130/2026/11/18",
-      "start": "2026-11-18",
-      "time": "3:00pm – 4:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Info Session on Submitting Your Proposal for the Reimagining Professional Development Award",
-      "url": "https://calendar.utexas.edu/event/info-session-on-submitting-your-proposal-for-the-reimagining-professional-development-award",
-      "start": "2026-11-18",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "MSIS Graduate Information Session",
-      "url": "https://calendar.utexas.edu/event/msis-graduate-information-session",
-      "start": "2026-11-18",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "Open Resources for Language Learning: Showcases and Discussion",
-      "url": "https://calendar.utexas.edu/event/open-resources-for-language-learning-showcases-and-discussion-3728",
-      "start": "2026-11-18",
-      "location": "Patton Hall (RLP), 1.302D"
-    },
-    {
-      "source": "ut",
-      "title": "Parekh India Impact Prize Info Session & Application Launch",
-      "url": "https://calendar.utexas.edu/event/parekh-india-impact-prize-info-session-application-launch",
-      "start": "2026-11-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-11-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Public Assembly",
-      "url": "https://calendar.utexas.edu/event/public-assembly",
-      "start": "2026-11-18",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Pulse",
-      "url": "https://calendar.utexas.edu/event/pulse",
-      "start": "2026-11-18",
-      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN), Oscar G. Brockett Theatre"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-11-18",
-      "location": "Benson Latin American Collection, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "SLC Hosted Research Seminar: Dr. Chris Rhodes\\, Texas State University",
-      "url": "https://calendar.utexas.edu/event/slc-hosted-research-seminar-dr-chris-rhodes-texas-state-university",
-      "start": "2026-11-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Study Sessions",
-      "url": "https://calendar.utexas.edu/event/study-sessions-1758",
-      "start": "2026-11-18",
-      "location": "Student Services Building (SSB), 2.106"
-    },
-    {
-      "source": "ut",
-      "title": "Tea & Tawla",
-      "url": "https://calendar.utexas.edu/event/tea-tawla",
-      "start": "2026-11-18",
-      "location": "Patton Hall (RLP), 1.302D"
-    },
-    {
-      "source": "ut",
-      "title": "The State of Food Security at Home and Abroad",
-      "url": "https://calendar.utexas.edu/event/the-state-of-food-security-at-home-and-abroad",
-      "start": "2026-11-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UT GIS Day 2026",
-      "url": "https://calendar.utexas.edu/event/ut-gis-day-2026",
-      "start": "2026-11-18",
-      "location": "Perry-Castañeda Library (PCL), Scholars Lab Data Lab 2.202"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-18",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA Singles and Doubles Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-individuals",
-      "start": "2026-11-18",
-      "location": "Athens, Ga., Dan Magill Tennis Complex"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs Texas Swimming Invitational",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-swimming-invitational",
-      "start": "2026-11-18",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs NCAA Individual Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ncaa-individual-championships",
-      "start": "2026-11-18",
-      "location": "Athens, Ga., Dan Magill Tennis Complex"
-    },
     {
       "source": "ut",
       "title": "\"Black Sheep: Outsiders Together\" SHARE Community Meeting",
@@ -340,17 +43,17 @@
     },
     {
       "source": "ut",
+      "title": "AI Ideas: Drop-in Hours",
+      "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
+      "start": "2026-11-19",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "AI\\, Race\\, and Chinese Gaming Technologies",
       "url": "https://calendar.utexas.edu/event/ai-race-and-chinese-gaming-technologies",
       "start": "2026-11-19",
       "location": "Dealey Center for New Media (DMC), 5.208"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-19",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -409,13 +112,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-19",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -513,13 +209,6 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-19",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Pulse",
-      "url": "https://calendar.utexas.edu/event/pulse",
-      "start": "2026-11-19",
-      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN), Oscar G. Brockett Theatre"
     },
     {
       "source": "public",
@@ -654,6 +343,13 @@
     },
     {
       "source": "ut",
+      "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
+      "url": "https://calendar.utexas.edu/event/lgbtqia-mental-wellness-share-community-meeting",
+      "start": "2026-11-20",
+      "location": "COLA Student Well-Being Center, JES A-223A"
+    },
+    {
+      "source": "ut",
       "title": "AHA BLS Provider (CPR)",
       "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-3971",
       "start": "2026-11-20",
@@ -662,7 +358,7 @@
     {
       "source": "ut",
       "title": "AHA BLS Provider (CPR) Certification",
-      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-242",
+      "url": "https://calendar.utexas.edu/event/aha-bls-provider-cpr-certification-6517",
       "start": "2026-11-20",
       "location": "Nursing School (NUR)"
     },
@@ -679,13 +375,6 @@
       "url": "https://calendar.utexas.edu/event/actors-from-the-london-stage-much-ado-about-nothing",
       "start": "2026-11-20",
       "location": "McCullough Theatre, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-20",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -714,13 +403,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-20",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-20",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -786,6 +468,13 @@
       "location": "Lady Bird Johnson Wildflower Center"
     },
     {
+      "source": "ut",
+      "title": "Mao’s Cultural War: The Origins of the Cultural Revolution Revisited",
+      "url": "https://calendar.utexas.edu/event/maos-cultural-war-the-origins-of-the-cultural-revolution-revisited",
+      "start": "2026-11-20",
+      "location": "Garrison Hall (GAR), 1.102"
+    },
+    {
       "source": "internal",
       "title": "Office of Faculty Academic Affairs: Friday Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1018487/2026/11/20",
@@ -801,13 +490,6 @@
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-20",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Pulse",
-      "url": "https://calendar.utexas.edu/event/pulse",
-      "start": "2026-11-20",
-      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN), Oscar G. Brockett Theatre"
     },
     {
       "source": "ut",
@@ -874,13 +556,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-21",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-21",
@@ -892,13 +567,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-21",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-21",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -965,17 +633,17 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Track & Field / Cross Country vs NCAA Cross Country Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-ncaa-cross-country-championships",
+      "start": "2026-11-21",
+      "location": "Terre Haute, Ind., LaVern Gibson Championship Cross Country Course"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs NCAA Individual Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ncaa-individual-championships",
       "start": "2026-11-21",
       "location": "Athens, Ga., Dan Magill Tennis Complex"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-22",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -990,13 +658,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-22",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-22",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1063,13 +724,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-23",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-11-23",
@@ -1109,13 +763,6 @@
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-23",
       "location": "Texas Union Asian Culture Room (4.224)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-23",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1189,13 +836,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-24",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-11-24",
@@ -1233,10 +873,10 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
+      "title": "E+E Mainstage Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
       "start": "2026-11-24",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "location": "Texas Union Eastwoods Room (2.102)"
     },
     {
       "source": "ut",
@@ -1309,13 +949,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-25",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-11-25",
@@ -1362,13 +995,6 @@
       "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
       "start": "2026-11-25",
       "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-25",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1421,10 +1047,10 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-26",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "title": "Rules and Procedures Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "start": "2026-11-25",
+      "location": null
     },
     {
       "source": "ut",
@@ -1446,13 +1072,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-26",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-26",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1539,13 +1158,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-27",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-11-27",
@@ -1567,10 +1179,10 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
+      "title": "Dolly Parton’s Smoky Mountain Christmas Carol",
+      "url": "https://calendar.utexas.edu/event/dolly-partons-smoky-mountain-christmas-carol",
       "start": "2026-11-27",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
     },
     {
       "source": "ut",
@@ -1644,13 +1256,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-28",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-28",
@@ -1662,13 +1267,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-28",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-28",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1728,13 +1326,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-29",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-29",
@@ -1746,13 +1337,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-11-29",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-29",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1819,13 +1403,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-30",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-11-30",
@@ -1865,13 +1442,6 @@
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-11-30",
       "location": "Texas Union Asian Culture Room (4.224)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-30",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -1982,13 +1552,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-01",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-01",
@@ -2034,10 +1597,10 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
+      "title": "E+E Mainstage Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
       "start": "2026-12-01",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "location": "Texas Union Eastwoods Room (2.102)"
     },
     {
       "source": "ut",
@@ -2147,13 +1710,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-02",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-02",
@@ -2231,13 +1787,6 @@
       "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
       "start": "2026-12-02",
       "location": "NUR 5.174"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-02",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -2321,6 +1870,13 @@
     },
     {
       "source": "ut",
+      "title": "Rules and Procedures Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
+      "start": "2026-12-02",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Social Contract in the Age of AI: The Future of Skills\\, Jobs\\, and Entrepreneurship",
       "url": "https://calendar.utexas.edu/event/social-contract-in-the-age-of-ai-the-future-of-skills-jobs-and-entrepreneurship",
       "start": "2026-12-02",
@@ -2384,10 +1940,10 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
+      "title": "AI Ideas: Drop-in Hours",
+      "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
       "start": "2026-12-03",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "location": null
     },
     {
       "source": "ut",
@@ -2443,13 +1999,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-03",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-03",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -2648,13 +2197,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-04",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-04",
@@ -2694,13 +2236,6 @@
       "url": "https://calendar.utexas.edu/event/critter039s-craft-collective",
       "start": "2026-12-04",
       "location": "SSB"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-04",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -2833,13 +2368,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-05",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Buena Vista Social Club",
       "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
       "start": "2026-12-05",
@@ -2872,13 +2400,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-05",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-05",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -2945,13 +2466,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-06",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Buena Vista Social Club",
       "url": "https://calendar.utexas.edu/event/buena-vista-social-club",
       "start": "2026-12-06",
@@ -2991,13 +2505,6 @@
       "url": "https://calendar.utexas.edu/event/december-public-art-tour-landmarks-at-night",
       "start": "2026-12-06",
       "location": "Skyspace, Student Activity Center (SAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-06",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -3057,13 +2564,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-07",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-07",
@@ -3110,13 +2610,6 @@
       "url": "https://calendar.utexas.edu/event/ee-film-amp-media-committee-meeting",
       "start": "2026-12-07",
       "location": "Texas Union Asian Culture Room (4.224)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-07",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -3183,13 +2676,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-08",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-08",
@@ -3225,10 +2711,10 @@
     },
     {
       "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
+      "title": "E+E Mainstage Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
       "start": "2026-12-08",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "location": "Texas Union Eastwoods Room (2.102)"
     },
     {
       "source": "ut",
@@ -3343,13 +2829,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-09",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-09",
@@ -3420,13 +2899,6 @@
       "url": "https://calendar.utexas.edu/event/end-of-year-celebration-7969",
       "start": "2026-12-09",
       "location": "Student Services Building (SSB), Glenn Maloney Assembly Room (SSB G1.310)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-09",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -3533,13 +3005,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-10",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-10",
@@ -3579,13 +3044,6 @@
       "url": "https://calendar.utexas.edu/event/end-of-semester-postdoc-celebration",
       "start": "2026-12-10",
       "location": "TX Union Underground"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-10",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -3714,13 +3172,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-11",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-11",
@@ -3753,13 +3204,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-11",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-11",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -3875,13 +3319,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-12",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Blue October",
       "url": "https://calendar.utexas.edu/event/blue-october",
       "start": "2026-12-12",
@@ -3907,13 +3344,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-12",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-12",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -3987,13 +3417,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-13",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Austin Chamber Music Center - A Charlie Brown Christmas",
       "url": "https://calendar.utexas.edu/event/austin-chamber-music-center-a-charlie-brown-christmas",
       "start": "2026-12-13",
@@ -4026,13 +3449,6 @@
       "url": "https://calendar.utexas.edu/event/distant-worlds-music-from-final-fantasy",
       "start": "2026-12-13",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-13",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4106,13 +3522,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-14",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-14",
@@ -4145,13 +3554,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-14",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-14",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4211,13 +3613,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-15",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-15",
@@ -4250,13 +3645,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-15",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-15",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4332,13 +3720,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-16",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-16",
@@ -4385,13 +3766,6 @@
       "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
       "start": "2026-12-16",
       "location": "NUR 5.174"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-16",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4454,10 +3828,10 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
+      "title": "AI Ideas: Drop-in Hours",
+      "url": "https://calendar.utexas.edu/event/ai-ideas-drop-in-hours",
       "start": "2026-12-17",
-      "location": "Visual Arts Center, Art Building (ART)"
+      "location": null
     },
     {
       "source": "ut",
@@ -4496,13 +3870,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-17",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-17",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4599,13 +3966,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-18",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-18",
@@ -4638,13 +3998,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-18",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-18",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4714,13 +4067,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-19",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-19",
@@ -4732,13 +4078,6 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-19",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-12-19",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4767,13 +4106,6 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-19",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-20",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4826,13 +4158,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-21",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-21",
@@ -4879,13 +4204,6 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-21",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-22",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -4975,13 +4293,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-23",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-23",
@@ -5052,13 +4363,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-24",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-24",
@@ -5121,13 +4425,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-25",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-25",
@@ -5177,13 +4474,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-26",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-12-26",
@@ -5216,13 +4506,6 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-26",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-27",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5265,13 +4548,6 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-27",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-28",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5321,13 +4597,6 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-28",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-29",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5404,13 +4673,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-harvard",
       "start": "2026-12-29",
       "location": "Austin, Texas, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-30",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5501,13 +4763,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-12-31",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2026-12-31",
@@ -5577,13 +4832,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-01",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2027-01-01",
@@ -5633,13 +4881,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-02",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-02",
@@ -5675,13 +4916,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-03",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-03",
@@ -5714,13 +4948,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-south-carolina-9782",
       "start": "2027-01-03",
       "location": "Austin, Texas, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-04",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5773,13 +5000,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-05",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Apply: Spring ESL Classes",
       "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
       "start": "2027-01-05",
@@ -5829,13 +5049,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-06",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -5926,13 +5139,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-07",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-07",
@@ -5989,13 +5195,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-07",
       "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-08",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6083,13 +5282,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-09",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-09",
@@ -6122,13 +5314,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-ole-miss-8128",
       "start": "2027-01-09",
       "location": "Oxford, Mississippi"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-10",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6171,13 +5356,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-kentucky",
       "start": "2027-01-10",
       "location": "Lexington, Ky., Memorial Coliseum"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-11",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6230,13 +5408,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-12",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-12",
@@ -6286,13 +5457,6 @@
       "url": "https://calendar.utexas.edu/event/sunset-reset-6479",
       "start": "2027-01-12",
       "location": "Skyspace, Student Activity Center (SAC), William C. Powers, Jr. Student Activity Center, Third floor, Rooftop Garden"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-13",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6369,13 +5533,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-auburn-2874",
       "start": "2027-01-13",
       "location": "Austin, Texas, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-14",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6459,13 +5616,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-15",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-15",
@@ -6532,13 +5682,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-16",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-16",
@@ -6585,13 +5728,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-oklahoma-4269",
       "start": "2027-01-16",
       "location": "Austin, Texas, Moody Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-17",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6651,13 +5787,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-18",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2027-01-18",
@@ -6704,13 +5833,6 @@
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-18",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-19",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6773,13 +5895,6 @@
       "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
       "start": "2027-01-19",
       "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-20",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6853,13 +5968,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-lsu-7444",
       "start": "2027-01-20",
       "location": "Baton Rouge, Louisiana"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-21",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -6953,13 +6061,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-22",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-22",
@@ -7019,13 +6120,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Eddie Reese Showdown",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-eddie-reese-showdown",
-      "start": "2027-01-22",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Basketball at Texas A&M  - Cotton Holdings Lone Star Showdown",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-texas-am",
       "start": "2027-01-22",
@@ -7044,13 +6138,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-kickoff",
       "start": "2027-01-22",
       "location": "Austin, Texas, Texas Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-23",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7096,13 +6183,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs Eddie Reese Showdown",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-eddie-reese-showdown",
-      "start": "2027-01-23",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs Eddie Reese Showdown",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-eddie-reese-showdown",
       "start": "2027-01-23",
@@ -7114,13 +6194,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-baylor-or-byu-4278",
       "start": "2027-01-23",
       "location": "Austin, Texas, Texas Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-24",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7163,13 +6236,6 @@
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-24",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-25",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7226,13 +6292,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-southwestern-intercollegiate",
       "start": "2027-01-25",
       "location": "Westlake Village, California"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-26",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7305,13 +6364,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-27",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-01-27",
@@ -7375,13 +6427,6 @@
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-27",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-28",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7462,13 +6507,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-south-carolina-1478",
       "start": "2027-01-28",
       "location": "Columbia, South Carolina"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-29",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7580,13 +6618,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-30",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-01-30",
@@ -7643,24 +6674,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs The Sterkel Classic",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-the-sterkel-classic-4780",
-      "start": "2027-01-30",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs The Sterkel Classic",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-the-sterkel-classic-1224",
       "start": "2027-01-30",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-01-31",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7720,13 +6737,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-01",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2027-02-01",
@@ -7773,13 +6783,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-therese-hession-regional-challenge-2856",
       "start": "2027-02-01",
       "location": "Palos Verdes, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-02",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7832,13 +6835,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-therese-hession-regional-challenge-8820",
       "start": "2027-02-02",
       "location": "Palos Verdes, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-03",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -7915,13 +6911,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-04",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-04",
@@ -7978,13 +6967,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-4197",
       "start": "2027-02-04",
       "location": "Waimea, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-05",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8058,13 +7040,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-06",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Anna LaMare\\, Dillon Hasten\\, and Lyal Strickland Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/anna-lamare-dillon-hasten-and-lyal-strickland-live-at-the-cactus-cafe",
       "start": "2027-02-06",
@@ -8114,13 +7089,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-07",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-07",
@@ -8160,13 +7128,6 @@
       "url": "https://calendar.utexas.edu/event/wind-ensemble-9834",
       "start": "2027-02-07",
       "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-08",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8216,13 +7177,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-national-indoors",
       "start": "2027-02-08",
       "location": "Ann Arbor, Mich./Columbus, Ohio"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-09",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8282,13 +7236,6 @@
       "url": "https://calendar.utexas.edu/event/wind-symphony-ampamp-symphony-band-5280",
       "start": "2027-02-09",
       "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-10",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8358,13 +7305,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-11",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-11",
@@ -8431,13 +7371,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-12",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-12",
@@ -8487,13 +7420,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-13",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-13",
@@ -8533,13 +7459,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-alice-and-john-wallace-classic",
       "start": "2027-02-13",
       "location": "Palm Desert, Calif."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-14",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8596,13 +7515,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-3526",
       "start": "2027-02-14",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-15",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8666,13 +7578,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-7815",
       "start": "2027-02-15",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-16",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8745,13 +7650,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-17",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-02-17",
@@ -8818,24 +7716,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Men's Swimming and Diving vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-sec-championship-8197",
-      "start": "2027-02-17",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-7003",
       "start": "2027-02-17",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-18",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -8929,13 +7813,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-19",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-19",
@@ -9013,13 +7890,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-20",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-20",
@@ -9059,13 +7929,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-6467",
       "start": "2027-02-20",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-21",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9118,13 +7981,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-22",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2027-02-22",
@@ -9157,13 +8013,6 @@
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-22",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-23",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9219,13 +8068,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-lamar-2510",
       "start": "2027-02-23",
       "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-24",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9299,13 +8141,6 @@
       "url": "https://calendar.utexas.edu/event/talk-bryan-kirschen-on-ladino-in-the-americas",
       "start": "2027-02-24",
       "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 — University of Texas at Austin"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-25",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9403,13 +8238,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-26",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-26",
@@ -9484,13 +8312,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-last-chance-meet",
       "start": "2027-02-26",
       "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-27",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9571,13 +8392,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-02-28",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-28",
@@ -9648,13 +8462,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-03-01",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Afternoon Yoga",
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2027-03-01",
@@ -9715,13 +8522,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-darius-rucker-intercollegiate-8230",
       "start": "2027-03-01",
       "location": "Hilton Head, S.C."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-03-02",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9801,13 +8601,6 @@
     },
     {
       "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-03-03",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
       "title": "Assembly Committee Meetings",
       "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
       "start": "2027-03-03",
@@ -9875,13 +8668,6 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-darius-rucker-intercollegiate-7421",
       "start": "2027-03-03",
       "location": "Hilton Head, S.C."
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-03-04",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -9962,13 +8748,6 @@
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-greg-fonzo-ut-austin",
       "start": "2027-03-04",
       "location": "HDB 1.208"
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2027-03-05",
-      "location": "Visual Arts Center, Art Building (ART)"
     },
     {
       "source": "ut",
@@ -10612,13 +9391,6 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship-5587",
-      "start": "2027-03-19",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
       "title": "Beetlejuice",
       "url": "https://calendar.utexas.edu/event/beetlejuice-6663",
       "start": "2027-03-20",
@@ -11070,6 +9842,153 @@
       "location": "HDB 1.208"
     },
     {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-02",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-04-02",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Twilight in Concert",
+      "url": "https://calendar.utexas.edu/event/twilight-in-concert-7064",
+      "start": "2027-04-02",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Alabama",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-alabama",
+      "start": "2027-04-02",
+      "location": "Tuscaloosa, Ala., Sewell-Thomas Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-arkansas",
+      "start": "2027-04-02",
+      "location": "Fayetteville, Ark., Bogle Park"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis at Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-tennessee-7515",
+      "start": "2027-04-02",
+      "location": "Knoxville, Tenn., Goodfriend Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Harry Ransom Center Gala",
+      "url": "https://calendar.utexas.edu/event/harry-ransom-center-gala",
+      "start": "2027-04-03",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "TeamSync: Stroke Team Simulation for Transitions of Care",
+      "url": "https://calendar.utexas.edu/event/teamsync-stroke-team-simulation-for-transitions-of-care",
+      "start": "2027-04-03",
+      "location": "Virtual"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Alabama",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-alabama-7660",
+      "start": "2027-04-03",
+      "location": "Tuscaloosa, Ala., Sewell-Thomas Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at Haskins Award Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-haskins-award-invitational-8645",
+      "start": "2027-04-03",
+      "location": "Augusta, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis at Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-at-tennessee-2806",
+      "start": "2027-04-03",
+      "location": "Knoxville, Tenn., Dr. Robert L. Barksdale Tennis Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-arkansas-4794",
+      "start": "2027-04-03",
+      "location": "Fayetteville, Ark., Bogle Park"
+    },
+    {
+      "source": "ut",
+      "title": "Swan Lake by International Ballet Stars",
+      "url": "https://calendar.utexas.edu/event/swan-lake-by-international-ballet-stars",
+      "start": "2027-04-04",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at Haskins Award Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-haskins-award-invitational-5576",
+      "start": "2027-04-04",
+      "location": "Augusta, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-arkansas-3835",
+      "start": "2027-04-04",
+      "location": "Fayetteville, Ark., Bogle Park"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs Kentucky",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-kentucky",
+      "start": "2027-04-04",
+      "location": "Austin, Texas, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Cirque Kalabanté - WOW: World of Words",
+      "url": "https://calendar.utexas.edu/event/cirque-kalabante-wow-world-of-words",
+      "start": "2027-04-05",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-05",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs Women's Collegiate Challenge",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-womens-collegiate-challenge",
+      "start": "2027-04-05",
+      "location": "Birmingham, Ala."
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
+      "start": "2027-04-06",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-06",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/06",
@@ -11078,6 +9997,27 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs UT Arlington",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-ut-arlington-7392",
+      "start": "2027-04-06",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs Women's Collegiate Challenge",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-womens-collegiate-challenge-9435",
+      "start": "2027-04-06",
+      "location": "Birmingham, Ala."
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-04-07",
+      "location": "WCP 2.302"
     },
     {
       "source": "internal",
@@ -11090,6 +10030,13 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-07",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/07",
@@ -11098,6 +10045,27 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-07",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-07",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-08",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -11110,6 +10078,174 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-08",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational  present Beyond the AI Answer: Designing Assessment with Students",
+      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducational-present-beyond-the-ai-answer-designing-assessment-with-students",
+      "start": "2027-04-08",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting -  Yuri Blednov",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-yuri-blednov-1652",
+      "start": "2027-04-08",
+      "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-08",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-09",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Joint Waggoner/Department of Neuroscience Seminar: Patricia Janak (Johns Hopkins)",
+      "url": "https://calendar.utexas.edu/event/joint-waggonerdepartment-of-neuroscience-seminar-patricia-janak-johns-hopkins",
+      "start": "2027-04-09",
+      "location": "NHB 1.720"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-04-09",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee",
+      "start": "2027-04-09",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-missouri",
+      "start": "2027-04-09",
+      "location": "Austin, Texas, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis at Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-florida-922",
+      "start": "2027-04-09",
+      "location": "Gainesville, Fla., Alfred A. Ring Tennis Complex"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-09",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee-6897",
+      "start": "2027-04-10",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Rowing vs Longhorn Invite",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-longhorn-invite-4178",
+      "start": "2027-04-10",
+      "location": "Austin, Texas, Lake Walter E. Long"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-missouri-3692",
+      "start": "2027-04-10",
+      "location": "Austin, Texas, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-10",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Tennessee",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee-8525",
+      "start": "2027-04-11",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Mississippi State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-mississippi-state-1483",
+      "start": "2027-04-11",
+      "location": "Austin, Texas, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Missouri",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-missouri-464",
+      "start": "2027-04-11",
+      "location": "Austin, Texas, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis at Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-auburn-7118",
+      "start": "2027-04-11",
+      "location": "Auburn, Ala., Yarbrough Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Water for Elephants",
+      "url": "https://calendar.utexas.edu/event/water-for-elephants",
+      "start": "2027-04-11",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-12",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at The Ford Collegiate",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-the-ford-collegiate-3325",
+      "start": "2027-04-12",
+      "location": "Richmond Hill, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
+      "start": "2027-04-13",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-13",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/13",
@@ -11118,6 +10254,55 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Incarnate Word",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-incarnate-word",
+      "start": "2027-04-13",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at The Ford Collegiate",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-the-ford-collegiate-1455",
+      "start": "2027-04-13",
+      "location": "Richmond Hill, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "2026-2027 Rapoport Fellows Colloquium",
+      "url": "https://calendar.utexas.edu/event/2026-2027-rapoport-fellows-colloquium",
+      "start": "2027-04-14",
+      "location": "Schusterman Center for Jewish Studies, Patton Hall (RLP) 2.402 — University of Texas at Austin"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-04-14",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-14",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-14",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-15",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -11140,6 +10325,153 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-15",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-16",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Interprofessional Health Showcase 2027",
+      "url": "https://calendar.utexas.edu/event/interprofessional-health-showcase-2027",
+      "start": "2027-04-16",
+      "location": "Student Union"
+    },
+    {
+      "source": "ut",
+      "title": "Lindsay Kobayashi\\, Associate Professor\\, University of Michigan",
+      "url": "https://calendar.utexas.edu/event/lindsay-kobayashinbspassociate-professor-university-of-michigan",
+      "start": "2027-04-16",
+      "location": "RLP 1.302 E — University of Texas at Austin"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-04-16",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-florida",
+      "start": "2027-04-16",
+      "location": "Gainesville, Fla., Condron Family Ballpark"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-lsu",
+      "start": "2027-04-16",
+      "location": "Baton Rouge, La., Tiger Park"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs SEC Championship Stroke Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-sec-championship-stroke-play-9642",
+      "start": "2027-04-16",
+      "location": "Belleair, Fla."
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-florida-1775",
+      "start": "2027-04-17",
+      "location": "Gainesville, Fla., Condron Family Ballpark"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-lsu-8111",
+      "start": "2027-04-17",
+      "location": "Baton Rouge, La., Tiger Park"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs SEC Championship Stroke Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-sec-championship-stroke-play-3403",
+      "start": "2027-04-17",
+      "location": "Belleair, Fla."
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-florida-409",
+      "start": "2027-04-18",
+      "location": "Gainesville, Fla., Condron Family Ballpark"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Florida",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-florida-7503",
+      "start": "2027-04-18",
+      "location": "Gainseville, Fla., Alfred A. Ring Tennis Complex"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-lsu-2510",
+      "start": "2027-04-18",
+      "location": "Baton Rouge, La., Tiger Park"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs SEC Championship Stroke Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-sec-championship-stroke-play-7588",
+      "start": "2027-04-18",
+      "location": "Belleair, Fla."
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs Oklahoma",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-oklahoma-4913",
+      "start": "2027-04-18",
+      "location": "Austin, Texas, Headington Family Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "3rd International Conference on Stem Cells\\, Regenerative Medicine & Tissue Engineering",
+      "url": "https://calendar.utexas.edu/event/3rd-international-conference-on-stem-cells-regenerative-medicine-tissue-engineering",
+      "start": "2027-04-19",
+      "location": "Milan, Italy, Milan, Italy"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-19",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs SEC Championship Match Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-sec-championship-match-play",
+      "start": "2027-04-19",
+      "location": "Belleair, Fla."
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
+      "start": "2027-04-20",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-20",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/20",
@@ -11160,6 +10492,48 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
+      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
+      "start": "2027-04-20",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Texas State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-texas-state-3188",
+      "start": "2027-04-20",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs SEC Championship Match Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-sec-championship-match-play-5691",
+      "start": "2027-04-20",
+      "location": "Belleair, Fla."
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-04-21",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "GSC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
+      "start": "2027-04-21",
+      "location": "NUR 4.180"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-21",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/04/21",
@@ -11170,6 +10544,48 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-21",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-5572",
+      "start": "2027-04-21",
+      "location": "Saint Simons Island, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-21",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs SEC Tournament",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
+      "start": "2027-04-21",
+      "location": "Baton Rouge, La."
+    },
+    {
+      "source": "ut",
+      "title": "Envy and History: Demonic Causes of Historical Change in Late Antiquity",
+      "url": "https://calendar.utexas.edu/event/tbd-8667",
+      "start": "2027-04-22",
+      "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-22",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/22",
@@ -11178,6 +10594,188 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-22",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-5095",
+      "start": "2027-04-22",
+      "location": "Saint Simons Island, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-22",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs SEC Tournament",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
+      "start": "2027-04-22",
+      "location": "Baton Rouge, La."
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting -  Marisa Roberto (Scripps)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-marisa-roberto-scripps",
+      "start": "2027-04-22",
+      "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-23",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-04-23",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas",
+      "start": "2027-04-23",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-5854",
+      "start": "2027-04-23",
+      "location": "Saint Simons Island, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-23",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs SEC Tournament",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
+      "start": "2027-04-23",
+      "location": "Baton Rouge, La."
+    },
+    {
+      "source": "ut",
+      "title": "All My Relations Collective - Skeleton Canoe",
+      "url": "https://calendar.utexas.edu/event/all-my-relations-collective-skeleton-canoe",
+      "start": "2027-04-24",
+      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN)"
+    },
+    {
+      "source": "ut",
+      "title": "The Lord of the Rings: The Two Towers in Concert",
+      "url": "https://calendar.utexas.edu/event/the-lord-of-the-rings-the-two-towers-in-concert",
+      "start": "2027-04-24",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-8678",
+      "start": "2027-04-24",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf vs SEC Championship Match Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-match-play",
+      "start": "2027-04-24",
+      "location": "Saint Simons Island, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-24",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Rowing vs Stanford",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-stanford",
+      "start": "2027-04-24",
+      "location": "Austin, Texas, Lady Bird Lake"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis vs SEC Tournament",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
+      "start": "2027-04-24",
+      "location": "Baton Rouge, La."
+    },
+    {
+      "source": "ut",
+      "title": "The Lord of the Rings: The Two Towers in Concert",
+      "url": "https://calendar.utexas.edu/event/the-lord-of-the-rings-the-two-towers-in-concert",
+      "start": "2027-04-25",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Arkansas",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-5751",
+      "start": "2027-04-25",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf vs SEC Championship Match Play",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-match-play-6967",
+      "start": "2027-04-25",
+      "location": "Saint Simons Island, Georgia"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-25",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-26",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-26",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
+      "start": "2027-04-27",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-27",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -11200,6 +10798,69 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Houston Christian",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-houston-christian-8575",
+      "start": "2027-04-27",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-27",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-04-28",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-04-28",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-28",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-28",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-28",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-04-29",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-29",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/29",
@@ -11208,6 +10869,167 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-04-29",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-29",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting - David Root (UC Boulder)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-david-root-uc-boulder-5050",
+      "start": "2027-04-29",
+      "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-04-30",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-04-30",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-04-30",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Rosas Dance Company - Il Cimento dell’Armonia e dell’Inventione",
+      "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
+      "start": "2027-04-30",
+      "location": "McCullough Theatre, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-vanderbilt",
+      "start": "2027-04-30",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-04-30",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Mississippi State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mississippi-state-4849",
+      "start": "2027-04-30",
+      "location": "Austin, Texas, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-05-01",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Rosas Dance Company - Il Cimento dell’Armonia e dell’Inventione",
+      "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
+      "start": "2027-05-01",
+      "location": "McCullough Theatre, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "UTNY Spring '28 Application Deadline",
+      "url": "https://calendar.utexas.edu/event/utny-spring-28-application-deadline",
+      "start": "2027-05-01",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-vanderbilt-70",
+      "start": "2027-05-01",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-01",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Death Becomes Her",
+      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
+      "start": "2027-05-02",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Vanderbilt",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-vanderbilt-6707",
+      "start": "2027-05-02",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-02",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball vs Mississippi State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mississippi-state-2393",
+      "start": "2027-05-02",
+      "location": "Austin, Texas, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-05-03",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-03",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Campus Open Recovery",
+      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
+      "start": "2027-05-04",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-05-04",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -11220,6 +11042,34 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "University of Texas Baseball vs UTSA",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-utsa-5070",
+      "start": "2027-05-04",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-04",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Assembly Committee Meetings",
+      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
+      "start": "2027-05-05",
+      "location": "WCP 2.302"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-05-05",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/05",
@@ -11230,6 +11080,20 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-05-05",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-05",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/06",
@@ -11238,6 +11102,27 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Oklahoma",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-oklahoma-4263",
+      "start": "2027-05-06",
+      "location": "Norman, Okla., Kimrey Family Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs SEC Championships",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
+      "start": "2027-05-06",
+      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Auburn",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-auburn",
+      "start": "2027-05-06",
+      "location": "Auburn, Ala., Jane B. Moore Field"
     },
     {
       "source": "internal",
