@@ -1,25 +1,11 @@
 {
-  "updated": "2026-11-20T00:25:18.437742+00:00",
+  "updated": "2026-11-20T15:05:43.772028+00:00",
   "counts": {
     "public": 4,
     "internal": 182,
-    "ut": 1410
+    "ut": 1453
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "\"Hooked on Self-Compassion\" SHARE Community Meeting",
-      "url": "https://calendar.utexas.edu/event/hooked-on-self-compassion-share-community-meeting",
-      "start": "2026-11-20",
-      "location": "Longhorn Wellness Center, SSB 1.106"
-    },
-    {
-      "source": "ut",
-      "title": "\"I Really Wanna Know...\" A Performance-Conversation About Loneliness and Belonging",
-      "url": "https://calendar.utexas.edu/event/i-really-wanna-know-a-performance-conversation-about-loneliness-and-belonging-7900",
-      "start": "2026-11-20",
-      "location": "F. Loren Winship Drama Building (WIN), 2.180"
-    },
     {
       "source": "ut",
       "title": "\"LGBTQIA+ Mental Wellness\" SHARE Community Meeting",
@@ -124,13 +110,6 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-11-20",
       "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "Harvest Moon 2026 | Texas Cowboys Benefit Concert",
-      "url": "https://calendar.utexas.edu/event/harvest-moon-2026-texas-cowboys-benefit-concert",
-      "start": "2026-11-20",
-      "location": "Republic Square Park"
     },
     {
       "source": "ut",
@@ -389,7 +368,7 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Volleyball vs SEC Volleyball Tournament",
+      "title": "University of Texas Volleyball vs (5) Tennessee\\, (12) Arkansas or (13) Oklahoma",
       "url": "https://calendar.utexas.edu/event/university-of-texas-volleyball-vs-sec-volleyball-tournament-7389",
       "start": "2026-11-22",
       "location": "Savannah, Ga., Enmarket Arena"
@@ -663,13 +642,6 @@
     },
     {
       "source": "ut",
-      "title": "Ethics and Oversight Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
-      "start": "2026-11-25",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
       "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-25",
@@ -768,6 +740,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "No WCAAR Meeting - Thanksgiving",
+      "url": "https://calendar.utexas.edu/event/no-wcaar-meeting-thanksgiving",
+      "start": "2026-11-26",
+      "location": null
     },
     {
       "source": "ut",
@@ -1019,13 +998,6 @@
     },
     {
       "source": "ut",
-      "title": "Outlander in Concert",
-      "url": "https://calendar.utexas.edu/event/outlander-in-concert",
-      "start": "2026-11-29",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-29",
@@ -1093,6 +1065,13 @@
       "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
       "start": "2026-11-30",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Fall 2026 Information Session: Internal Transfer",
+      "url": "https://calendar.utexas.edu/event/fall-2026-information-session-internal-transfer",
+      "start": "2026-11-30",
+      "location": "Zoom Meeting"
     },
     {
       "source": "ut",
@@ -1269,6 +1248,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-01",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hana Fleur Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/hana-fleur-live-at-the-cactus-cafe",
       "start": "2026-12-01",
@@ -1336,6 +1322,13 @@
       "title": "UTES - Consecutive Record-Breaking Years for Corporate Clean Energy Deals",
       "url": "https://calendar.utexas.edu/event/utes-consecutive-record-breaking-years-for-corporate-clean-energy-deals",
       "start": "2026-12-01",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "AI & Research: AI for Generating Research Code",
+      "url": "https://calendar.utexas.edu/event/ai-research-ai-for-generating-research-code",
+      "start": "2026-12-02",
       "location": null
     },
     {
@@ -1413,13 +1406,6 @@
     },
     {
       "source": "ut",
-      "title": "Ethics and Oversight Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
-      "start": "2026-12-02",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
       "title": "Executive Committee Meeting",
       "url": "https://calendar.utexas.edu/event/executive-committee-meeting",
       "start": "2026-12-02",
@@ -1459,6 +1445,13 @@
       "url": "https://calendar.utexas.edu/event/fundamentals-of-ai-for-teaching-and-learning-using-ai-tools-to-manage-canvas-content",
       "start": "2026-12-02",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-02",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -1674,6 +1667,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-03",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-03",
@@ -1799,6 +1799,13 @@
     },
     {
       "source": "ut",
+      "title": "WCAAR Weekly Meeting -Lisa Wang (Pierce Lab)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-lisa-wang-pierce-lab",
+      "start": "2026-12-03",
+      "location": "SEAY Library - Room 4.244"
+    },
+    {
+      "source": "ut",
       "title": "WCAAR Weekly Meeting -TBD",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-tbd",
       "start": "2026-12-03",
@@ -1894,6 +1901,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-04",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-04",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -2054,6 +2068,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-05",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Luminations",
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-05",
@@ -2156,6 +2177,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-06",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-06",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -2285,6 +2313,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-07",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-07",
@@ -2296,6 +2331,13 @@
       "url": "https://calendar.utexas.edu/event/slc-hosted-research-seminar-dr-jairo-diaz-amaya-rit",
       "start": "2026-12-07",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "AI in a Day",
+      "url": "https://calendar.utexas.edu/event/ai-in-a-day-66",
+      "start": "2026-12-08",
+      "location": "Texas Union Building (UNB), Ballroom"
     },
     {
       "source": "ut",
@@ -2373,6 +2415,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-08",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-08",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -2560,6 +2609,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-09",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-09",
@@ -2595,6 +2651,13 @@
       "url": "https://calendar.utexas.edu/event/utny-information-session-993",
       "start": "2026-12-09",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Basketball vs Jackson State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-jackson-state",
+      "start": "2026-12-09",
+      "location": "Austin, Texas, Moody Center"
     },
     {
       "source": "ut",
@@ -2674,6 +2737,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-10",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-10",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -2844,6 +2914,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-11",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-11",
@@ -2984,6 +3061,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-12",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Guy Forsyth Live at The Cactus Cafe!",
       "url": "https://calendar.utexas.edu/event/guy-forsyth-live-at-the-cactus-cafe",
       "start": "2026-12-12",
@@ -3089,6 +3173,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-13",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Luminations",
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-13",
@@ -3187,6 +3278,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-14",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-14",
@@ -3264,6 +3362,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-15",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-15",
@@ -3288,13 +3393,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2026-12-15",
-      "location": null
     },
     {
       "source": "internal",
@@ -3406,6 +3504,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-16",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-16",
@@ -3500,6 +3605,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-17",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-17",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -3624,6 +3736,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-18",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-18",
@@ -3704,6 +3823,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-19",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Luminations",
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-19",
@@ -3753,6 +3879,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-20",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Luminations",
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-20",
@@ -3795,6 +3928,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-21",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-21",
@@ -3834,6 +3974,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-22",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-22",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -3944,6 +4091,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-23",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-23",
@@ -3976,6 +4130,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2026-12-24",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-24",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4034,6 +4195,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-25",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-25",
@@ -4083,6 +4251,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-26",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Luminations",
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-26",
@@ -4118,6 +4293,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-27",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Luminations",
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-27",
@@ -4150,6 +4332,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-28",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-28",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4192,6 +4381,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2026-12-29",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-29",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4285,6 +4481,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-30",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-30",
@@ -4344,6 +4547,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2026-12-31",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-31",
@@ -4378,6 +4588,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Basketball at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-georgia",
+      "start": "2026-12-31",
+      "location": "Athens, Ga., Stegeman Coliseum"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-01",
@@ -4396,6 +4613,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-01-01",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-01",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4448,6 +4672,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-02",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball vs Florida - presented by State Farm",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
       "start": "2027-01-02",
@@ -4480,6 +4711,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-03",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-03",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4525,6 +4763,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-04",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-04",
@@ -4557,6 +4802,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-05",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-05",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4626,6 +4878,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-06",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-06",
@@ -4692,6 +4951,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-07",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-07",
@@ -4748,6 +5014,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-08",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-08",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -4842,6 +5115,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-09",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball at Ole Miss",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-ole-miss-8128",
       "start": "2027-01-09",
@@ -4877,10 +5157,24 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-10",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis vs Ohio State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ohio-state",
       "start": "2027-01-10",
       "location": "Austin, Texas, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball at Kentucky",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-kentucky",
+      "start": "2027-01-10",
+      "location": "Lexington, Ky., Memorial Coliseum"
     },
     {
       "source": "ut",
@@ -4919,6 +5213,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-11",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-11",
@@ -4951,6 +5252,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-12",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-12",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -5037,6 +5345,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-13",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-13",
@@ -5093,6 +5408,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-14",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-14",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -5169,6 +5491,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-15",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-15",
@@ -5242,6 +5571,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-16",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Sō Percussion with Caroline Shaw and Ringdown - Who Turns Out The Light",
       "url": "https://calendar.utexas.edu/event/so-percussion-with-caroline-shaw-and-ringdown-who-turns-out-the-light",
       "start": "2027-01-16",
@@ -5281,6 +5617,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-17",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-17",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -5354,6 +5697,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-18",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-18",
@@ -5389,6 +5739,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-19",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-19",
@@ -5413,13 +5770,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-01-19",
-      "location": null
     },
     {
       "source": "ut",
@@ -5479,6 +5829,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-20",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-20",
@@ -5531,6 +5888,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-21",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-21",
@@ -5579,13 +5943,6 @@
     },
     {
       "source": "ut",
-      "title": "Successfully Navigating Conflict",
-      "url": "https://calendar.utexas.edu/event/successfully-navigating-conflict",
-      "start": "2027-01-21",
-      "location": "Virtual Event"
-    },
-    {
-      "source": "ut",
       "title": "WCAAR Weekly Meeting - Erin Calipari (Vanderbilt)",
       "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-erin-calipari-vanderbilt",
       "start": "2027-01-21",
@@ -5631,6 +5988,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-22",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-22",
@@ -5656,6 +6020,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-eddie-reese-showdown",
       "start": "2027-01-22",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball at Texas A&M  - Cotton Holdings Lone Star Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-at-texas-am",
+      "start": "2027-01-22",
+      "location": "College Station, Texas, Reed Arena"
     },
     {
       "source": "ut",
@@ -5698,6 +6069,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-23",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-23",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -5778,6 +6156,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-24",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Phantom of the Opera",
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-24",
@@ -5834,6 +6219,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-25",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-25",
@@ -5887,6 +6279,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-26",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-26",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -5973,6 +6372,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-27",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-27",
@@ -6022,6 +6428,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-28",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-28",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -6105,6 +6518,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-29",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-01-29",
@@ -6143,13 +6563,6 @@
     },
     {
       "source": "ut",
-      "title": "Spring Health IPE Day",
-      "url": "https://calendar.utexas.edu/event/spring-health-ipe-day",
-      "start": "2027-01-29",
-      "location": null
-    },
-    {
-      "source": "ut",
       "title": "Terrence McNally Festival",
       "url": "https://calendar.utexas.edu/event/terrence-mcnally-festival",
       "start": "2027-01-29",
@@ -6178,10 +6591,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Tennis vs Arizona State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-arizona-state",
+      "title": "University of Texas Women's Swimming and Diving vs Texas A&M",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-texas-am-2407",
       "start": "2027-01-29",
-      "location": "Austin, Texas, Weller Tennis Center"
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "ut",
@@ -6210,6 +6623,13 @@
       "url": "https://calendar.utexas.edu/event/fortlandia-6277",
       "start": "2027-01-30",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-30",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -6283,6 +6703,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-01-31",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Phantom of the Opera",
       "url": "https://calendar.utexas.edu/event/phantom-of-the-opera",
       "start": "2027-01-31",
@@ -6339,6 +6766,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-01",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-01",
@@ -6378,6 +6812,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-02",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-02",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -6454,6 +6895,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-03",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-03",
@@ -6510,6 +6958,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-04",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-04",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -6586,6 +7041,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-05",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-05",
@@ -6656,6 +7118,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-06",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Golf at Amer Ari Invitational",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-amer-ari-invitational-5966",
       "start": "2027-02-06",
@@ -6698,6 +7167,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-07",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Tennis vs ITA National Indoor Championships",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ita-national-indoors",
       "start": "2027-02-07",
@@ -6709,13 +7185,6 @@
       "url": "https://calendar.utexas.edu/event/wicked-part-one-in-concert",
       "start": "2027-02-07",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Wind Ensemble",
-      "url": "https://calendar.utexas.edu/event/wind-ensemble-9834",
-      "start": "2027-02-07",
-      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
     },
     {
       "source": "ut",
@@ -6744,6 +7213,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-08",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-08",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -6789,6 +7265,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-09",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-09",
@@ -6810,6 +7293,13 @@
       "url": "https://calendar.utexas.edu/event/sunset-reset-85",
       "start": "2027-02-09",
       "location": "Skyspace, Student Activity Center (SAC), William C. Powers, Jr. Student Activity Center, Third floor, Rooftop Garden"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Arkansas - presented by State Farm",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-arkansas-9109",
+      "start": "2027-02-09",
+      "location": "Austin, Texas, Moody Center"
     },
     {
       "source": "ut",
@@ -6859,6 +7349,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-10",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-10",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -6914,6 +7411,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-11",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-11",
@@ -6945,17 +7449,17 @@
     },
     {
       "source": "ut",
-      "title": "Symphony Orchestra",
-      "url": "https://calendar.utexas.edu/event/symphony-orchestra-3706",
-      "start": "2027-02-11",
-      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
-    },
-    {
-      "source": "ut",
       "title": "UT System Academy of Distinguished Teachers and UT System Educational present Human(e) Learning in Digital Spaces Developers Webinar",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducationalpresent-humane-learning-in-digital-spaces-developers-webinar",
       "start": "2027-02-11",
       "location": null
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting: Luana Carvalho (Loyola University)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-luana-carvalho-loyola-university",
+      "start": "2027-02-11",
+      "location": "HDB 1.208"
     },
     {
       "source": "ut",
@@ -6977,6 +7481,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-12",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-12",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -7036,6 +7547,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-13",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball at Vanderbilt",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-vanderbilt-6180",
       "start": "2027-02-13",
@@ -7078,6 +7596,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-14",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "The Legend of Korra in Concert",
       "url": "https://calendar.utexas.edu/event/the-legend-of-korra-in-concert",
       "start": "2027-02-14",
@@ -7096,6 +7621,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ita-national-indoors",
       "start": "2027-02-14",
       "location": "Clemson/Columbia, S.C."
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Basketball vs Texas A&M  - Cotton Holdings Lone Star Showdown",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-texas-am-9844",
+      "start": "2027-02-14",
+      "location": "Austin, Texas, Moody Center"
     },
     {
       "source": "ut",
@@ -7141,6 +7673,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-15",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-15",
@@ -7169,6 +7708,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-7815",
+      "start": "2027-02-15",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-02-16",
@@ -7187,6 +7733,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-16",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-16",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -7214,13 +7767,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-02-16",
-      "location": null
     },
     {
       "source": "ut",
@@ -7297,6 +7843,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-17",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-17",
@@ -7346,6 +7899,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-18",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-18",
@@ -7377,6 +7937,13 @@
       "url": "https://calendar.utexas.edu/event/tbd-5709",
       "start": "2027-02-18",
       "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "No WCAAR Weekly Meeting",
+      "url": "https://calendar.utexas.edu/event/no-wcaar-weekly-meeting",
+      "start": "2027-02-18",
+      "location": null
     },
     {
       "source": "ut",
@@ -7422,6 +7989,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-19",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-19",
@@ -7464,6 +8038,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-1216",
+      "start": "2027-02-19",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "40th Anniversary Screening of The Princess Bride - An Inconceivable Evening with Cary Elwes",
       "url": "https://calendar.utexas.edu/event/40th-anniversary-screening-of-the-princess-bride-an-inconceivable-evening-with-cary-elwes",
       "start": "2027-02-20",
@@ -7492,6 +8073,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-20",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs Clemson",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-clemson",
       "start": "2027-02-20",
@@ -7513,6 +8101,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs SEC Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-sec-championship-6467",
+      "start": "2027-02-20",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-02-21",
@@ -7531,6 +8126,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-21",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-21",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -7590,6 +8192,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-22",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-02-22",
@@ -7615,6 +8224,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-23",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-23",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -7694,6 +8310,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-24",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hell's Kitchen",
       "url": "https://calendar.utexas.edu/event/hells-kitchen",
       "start": "2027-02-24",
@@ -7750,6 +8373,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-25",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-25",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -7847,6 +8477,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-26",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hell's Kitchen",
       "url": "https://calendar.utexas.edu/event/hells-kitchen",
       "start": "2027-02-26",
@@ -7931,6 +8568,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-27",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hell's Kitchen",
       "url": "https://calendar.utexas.edu/event/hells-kitchen",
       "start": "2027-02-27",
@@ -7998,6 +8642,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-02-28",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-02-28",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8078,6 +8729,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-01",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hell's Kitchen",
       "url": "https://calendar.utexas.edu/event/hells-kitchen",
       "start": "2027-03-01",
@@ -8141,6 +8799,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-02",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8231,6 +8896,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-03",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hell's Kitchen",
       "url": "https://calendar.utexas.edu/event/hells-kitchen",
       "start": "2027-03-03",
@@ -8273,17 +8945,17 @@
     },
     {
       "source": "ut",
-      "title": "Chloe Kimes Live at The Cactus Cafe!",
-      "url": "https://calendar.utexas.edu/event/chloe-kimes-live-at-the-cactus-cafe",
-      "start": "2027-03-04",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-04",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-04",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8332,6 +9004,13 @@
     },
     {
       "source": "ut",
+      "title": "WCAAR Weekly Meeting -  Greg Fonzo (UT Austin)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-greg-fonzo-ut-austin",
+      "start": "2027-03-04",
+      "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-03-05",
@@ -8357,6 +9036,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-05",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-05",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8423,6 +9109,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-06",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs Loyola Marymount",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-loyola-marymount-4101",
       "start": "2027-03-06",
@@ -8448,6 +9141,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-07",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-07",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8486,6 +9186,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-08",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-08",
@@ -8518,6 +9225,13 @@
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-09",
       "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-09",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8604,6 +9318,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-10",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-10",
@@ -8625,13 +9346,6 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-03-10",
       "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "St. David’s CHPR 25th Annual Conference",
-      "url": "https://calendar.utexas.edu/event/st-davids-chpr-25th-annual-conference",
-      "start": "2027-03-10",
-      "location": "Thompson Conference Center"
     },
     {
       "source": "ut",
@@ -8660,6 +9374,13 @@
       "url": "https://calendar.utexas.edu/event/tbd-5653",
       "start": "2027-03-11",
       "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-11",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8715,6 +9436,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-12",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-12",
@@ -8757,10 +9485,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Tennis at Mississippi State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-mississippi-state-8358",
-      "start": "2027-03-12",
-      "location": "Starkville, Miss., A.J. Pitts Tennis Centre"
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-13",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8792,6 +9520,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-14",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs Murray State",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-murray-state-1312",
       "start": "2027-03-14",
@@ -8820,6 +9555,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-15",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-15",
@@ -8831,6 +9573,13 @@
       "url": "https://calendar.utexas.edu/event/campus-open-recovery",
       "start": "2027-03-16",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-16",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8858,13 +9607,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-03-16",
-      "location": null
     },
     {
       "source": "ut",
@@ -8896,6 +9638,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-17",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-17",
@@ -8914,6 +9663,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship",
       "start": "2027-03-17",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-18",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -8969,6 +9725,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship-7998",
       "start": "2027-03-18",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-19",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9028,17 +9791,17 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-20",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball at LSU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-lsu-1195",
       "start": "2027-03-20",
       "location": "Baton Rouge, La., Alex Box Stadium, Skip Bertman Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Kentucky",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-kentucky-175",
-      "start": "2027-03-20",
-      "location": "Austin, Texas, Texas Tennis Center"
     },
     {
       "source": "ut",
@@ -9070,6 +9833,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-21",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball at LSU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-lsu-6571",
       "start": "2027-03-21",
@@ -9091,10 +9861,10 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Tennis at Georgia",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-georgia",
-      "start": "2027-03-21",
-      "location": "Athens, Ga., Dan Magill Tennis Complex"
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-22",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9123,6 +9893,13 @@
       "url": "https://calendar.utexas.edu/event/campus-open-recovery",
       "start": "2027-03-23",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-23",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9188,6 +9965,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-24",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-24",
@@ -9216,6 +10000,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-ncaa-championship",
       "start": "2027-03-24",
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-25",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9257,6 +10048,13 @@
     },
     {
       "source": "ut",
+      "title": "University of Texas Men's Swimming and Diving vs NCAA Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-vs-ncaa-championship-4386",
+      "start": "2027-03-25",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Tennis at Texas A&M",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-at-texas-am-7900",
       "start": "2027-03-25",
@@ -9282,6 +10080,13 @@
       "url": "https://calendar.utexas.edu/event/blueys-big-play",
       "start": "2027-03-26",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-26",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9334,6 +10139,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-27",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs South Carolina",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-south-carolina-4375",
       "start": "2027-03-27",
@@ -9376,10 +10188,24 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-28",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Softball vs Alabama",
       "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-alabama-8441",
       "start": "2027-03-28",
       "location": "Austin, Texas, Red & Charline McCombs Field"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-29",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9394,6 +10220,13 @@
       "url": "https://calendar.utexas.edu/event/campus-open-recovery",
       "start": "2027-03-30",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-30",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9435,6 +10268,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-31",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-31",
@@ -9446,6 +10286,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-03-31",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-01",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9484,6 +10331,20 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-arkansas",
       "start": "2027-04-01",
       "location": "Fayetteville, Ark., Billingsley Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting -  Payton Kahanek (Orisini Lab) &amp\\; Karen Lindquist (Messing Lab)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-payton-kahanek-orisini-lab-amp-karen-lindquist-messing-lab",
+      "start": "2027-04-01",
+      "location": "HDB 1.208"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-02",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9529,6 +10390,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-03",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Harry Ransom Center Gala",
       "url": "https://calendar.utexas.edu/event/harry-ransom-center-gala",
       "start": "2027-04-03",
@@ -9571,6 +10439,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-04",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Swan Lake by International Ballet Stars",
       "url": "https://calendar.utexas.edu/event/swan-lake-by-international-ballet-stars",
       "start": "2027-04-04",
@@ -9606,10 +10481,24 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-05",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-05",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "UT Energy Week 2027",
+      "url": "https://calendar.utexas.edu/event/ut-energy-week-2027",
+      "start": "2027-04-05",
+      "location": "Rowling Hall, 300 W. Martin Luther King Jr. Blvd, Austin, TX, 78705"
     },
     {
       "source": "ut",
@@ -9627,6 +10516,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-06",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-06",
@@ -9641,6 +10537,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "UT Energy Week 2027",
+      "url": "https://calendar.utexas.edu/event/ut-energy-week-2027",
+      "start": "2027-04-06",
+      "location": "Rowling Hall, 300 W. Martin Luther King Jr. Blvd, Austin, TX, 78705"
     },
     {
       "source": "ut",
@@ -9682,6 +10585,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-07",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-07",
@@ -9706,10 +10616,24 @@
     },
     {
       "source": "ut",
+      "title": "UT Energy Week 2027",
+      "url": "https://calendar.utexas.edu/event/ut-energy-week-2027",
+      "start": "2027-04-07",
+      "location": "Rowling Hall, 300 W. Martin Luther King Jr. Blvd, Austin, TX, 78705"
+    },
+    {
+      "source": "ut",
       "title": "Water for Elephants",
       "url": "https://calendar.utexas.edu/event/water-for-elephants",
       "start": "2027-04-07",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-08",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9737,6 +10661,13 @@
     },
     {
       "source": "ut",
+      "title": "UT Energy Week 2027",
+      "url": "https://calendar.utexas.edu/event/ut-energy-week-2027",
+      "start": "2027-04-08",
+      "location": "Rowling Hall, 300 W. Martin Luther King Jr. Blvd, Austin, TX, 78705"
+    },
+    {
+      "source": "ut",
       "title": "UT System Academy of Distinguished Teachers and UT System Educational  present Beyond the AI Answer: Designing Assessment with Students",
       "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducational-present-beyond-the-ai-answer-designing-assessment-with-students",
       "start": "2027-04-08",
@@ -9758,17 +10689,17 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-09",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-09",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Joint Waggoner/Department of Neuroscience Seminar: Patricia Janak (Johns Hopkins)",
-      "url": "https://calendar.utexas.edu/event/joint-waggonerdepartment-of-neuroscience-seminar-patricia-janak-johns-hopkins",
-      "start": "2027-04-09",
-      "location": "NHB 1.720"
     },
     {
       "source": "ut",
@@ -9814,6 +10745,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-10",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball vs Tennessee",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tennessee-6897",
       "start": "2027-04-10",
@@ -9839,6 +10777,13 @@
       "url": "https://calendar.utexas.edu/event/water-for-elephants",
       "start": "2027-04-10",
       "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-11",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9877,6 +10822,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-12",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-12",
@@ -9902,6 +10854,13 @@
       "url": "https://calendar.utexas.edu/event/campus-open-recovery",
       "start": "2027-04-13",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-13",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -9957,6 +10916,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-14",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-04-14",
@@ -9968,6 +10934,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-04-14",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-15",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -10009,6 +10982,13 @@
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-04-15",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-16",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -10068,6 +11048,13 @@
     },
     {
       "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-17",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Baseball at Florida",
       "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-florida-1775",
       "start": "2027-04-17",
@@ -10086,6 +11073,13 @@
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-sec-championship-stroke-play-3403",
       "start": "2027-04-17",
       "location": "Belleair, Fla."
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-18",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -10117,17 +11111,17 @@
     },
     {
       "source": "ut",
-      "title": "University of Texas Women's Tennis vs Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-oklahoma-4913",
-      "start": "2027-04-18",
-      "location": "Austin, Texas, Headington Family Tennis Center"
-    },
-    {
-      "source": "ut",
       "title": "3rd International Conference on Stem Cells\\, Regenerative Medicine & Tissue Engineering",
       "url": "https://calendar.utexas.edu/event/3rd-international-conference-on-stem-cells-regenerative-medicine-tissue-engineering",
       "start": "2027-04-19",
       "location": "Milan, Italy, Milan, Italy"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-19",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -10149,6 +11143,13 @@
       "url": "https://calendar.utexas.edu/event/campus-open-recovery",
       "start": "2027-04-20",
       "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-04-20",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "ut",
@@ -10176,13 +11177,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-04-20",
-      "location": null
     },
     {
       "source": "ut",
@@ -10214,24 +11208,10 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
       "start": "2027-04-21",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "GSC Monthly Meeting",
-      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
-      "start": "2027-04-21",
-      "location": "NUR 4.180"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-21",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
     },
     {
       "source": "internal",
@@ -10244,48 +11224,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-04-21",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-5572",
-      "start": "2027-04-21",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-21",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs SEC Tournament",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
-      "start": "2027-04-21",
-      "location": "Baton Rouge, La."
-    },
-    {
-      "source": "ut",
-      "title": "Envy and History: Demonic Causes of Historical Change in Late Antiquity",
-      "url": "https://calendar.utexas.edu/event/tbd-8667",
-      "start": "2027-04-22",
-      "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-22",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/22",
@@ -10294,188 +11232,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-04-22",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-5095",
-      "start": "2027-04-22",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-22",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs SEC Tournament",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
-      "start": "2027-04-22",
-      "location": "Baton Rouge, La."
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting -  Marisa Roberto (Scripps)",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-marisa-roberto-scripps",
-      "start": "2027-04-22",
-      "location": "HDB 1.208"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-23",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-04-23",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas",
-      "start": "2027-04-23",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-5854",
-      "start": "2027-04-23",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-23",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs SEC Tournament",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
-      "start": "2027-04-23",
-      "location": "Baton Rouge, La."
-    },
-    {
-      "source": "ut",
-      "title": "All My Relations Collective - Skeleton Canoe",
-      "url": "https://calendar.utexas.edu/event/all-my-relations-collective-skeleton-canoe",
-      "start": "2027-04-24",
-      "location": "Oscar G. Brockett Theatre, F. Loren Winship Drama Building (WIN)"
-    },
-    {
-      "source": "ut",
-      "title": "The Lord of the Rings: The Two Towers in Concert",
-      "url": "https://calendar.utexas.edu/event/the-lord-of-the-rings-the-two-towers-in-concert",
-      "start": "2027-04-24",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-8678",
-      "start": "2027-04-24",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship Match Play",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-match-play",
-      "start": "2027-04-24",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-24",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Rowing vs Stanford",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-stanford",
-      "start": "2027-04-24",
-      "location": "Austin, Texas, Lady Bird Lake"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs SEC Tournament",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-sec-tournament",
-      "start": "2027-04-24",
-      "location": "Baton Rouge, La."
-    },
-    {
-      "source": "ut",
-      "title": "The Lord of the Rings: The Two Towers in Concert",
-      "url": "https://calendar.utexas.edu/event/the-lord-of-the-rings-the-two-towers-in-concert",
-      "start": "2027-04-25",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Arkansas",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-arkansas-5751",
-      "start": "2027-04-25",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Golf vs SEC Championship Match Play",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-vs-sec-championship-match-play-6967",
-      "start": "2027-04-25",
-      "location": "Saint Simons Island, Georgia"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-25",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-26",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-26",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-04-27",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-27",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -10498,76 +11254,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Houston Christian",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-houston-christian-8575",
-      "start": "2027-04-27",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-27",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-04-28",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-04-28",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Death Becomes Her",
-      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
-      "start": "2027-04-28",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-28",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-04-28",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-28",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Death Becomes Her",
-      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
-      "start": "2027-04-29",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-29",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/04/29",
@@ -10576,167 +11262,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-04-29",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-29",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting - David Root (UC Boulder)",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-david-root-uc-boulder-5050",
-      "start": "2027-04-29",
-      "location": "HDB 1.208"
-    },
-    {
-      "source": "ut",
-      "title": "Death Becomes Her",
-      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
-      "start": "2027-04-30",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-04-30",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-04-30",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Rosas Dance Company - Il Cimento dell’Armonia e dell’Inventione",
-      "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
-      "start": "2027-04-30",
-      "location": "McCullough Theatre, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-vanderbilt",
-      "start": "2027-04-30",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-04-30",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs Mississippi State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mississippi-state-4849",
-      "start": "2027-04-30",
-      "location": "Austin, Texas, Red & Charline McCombs Field"
-    },
-    {
-      "source": "ut",
-      "title": "Death Becomes Her",
-      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
-      "start": "2027-05-01",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "Rosas Dance Company - Il Cimento dell’Armonia e dell’Inventione",
-      "url": "https://calendar.utexas.edu/event/rosas-dance-company-il-cimento-dellarmonia-e-dellinventione",
-      "start": "2027-05-01",
-      "location": "McCullough Theatre, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "UTNY Spring '28 Application Deadline",
-      "url": "https://calendar.utexas.edu/event/utny-spring-28-application-deadline",
-      "start": "2027-05-01",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-vanderbilt-70",
-      "start": "2027-05-01",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-01",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Death Becomes Her",
-      "url": "https://calendar.utexas.edu/event/death-becomes-her-1141",
-      "start": "2027-05-02",
-      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Vanderbilt",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-vanderbilt-6707",
-      "start": "2027-05-02",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-02",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs Mississippi State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-mississippi-state-2393",
-      "start": "2027-05-02",
-      "location": "Austin, Texas, Red & Charline McCombs Field"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-03",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-03",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-05-04",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-04",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -10749,41 +11274,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "University of Texas Baseball vs UTSA",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-utsa-5070",
-      "start": "2027-05-04",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-04",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-05-05",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-05-05",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-05",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (HDB & Zoom)",
       "url": "https://intranet.dellmed.utexas.edu/event/864130/2027/05/05",
@@ -10792,27 +11282,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-05-05",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-05",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-06",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -10825,153 +11294,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-05-06",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball at Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-oklahoma-4263",
-      "start": "2027-05-06",
-      "location": "Norman, Okla., Kimrey Family Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-06",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball at Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-auburn",
-      "start": "2027-05-06",
-      "location": "Auburn, Ala., Jane B. Moore Field"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-07",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-05-07",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball at Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-oklahoma-6813",
-      "start": "2027-05-07",
-      "location": "Norman, Okla., Kimrey Family Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA First and Second Rounds",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-first-and-second-rounds-2881",
-      "start": "2027-05-07",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-07",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball at Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-auburn-156",
-      "start": "2027-05-07",
-      "location": "Auburn, Ala., Jane B. Moore Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis vs NCAA First and Second Rounds",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-vs-ncaa-first-and-second-rounds-9558",
-      "start": "2027-05-07",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball at Oklahoma",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-oklahoma-835",
-      "start": "2027-05-08",
-      "location": "Norman, Okla., Kimrey Family Stadium"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs NCAA First and Second Rounds",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ncaa-first-and-second-rounds-2881",
-      "start": "2027-05-08",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs SEC Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-sec-championships-9867",
-      "start": "2027-05-08",
-      "location": "Nashville, Tenn., Bronlwee O. Currey Jr. Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball at Auburn",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-auburn-2260",
-      "start": "2027-05-08",
-      "location": "Auburn, Ala., Jane B. Moore Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Rowing vs SEC Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-sec-championship-5807",
-      "start": "2027-05-09",
-      "location": "Oak Ridge, Tenn."
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-10",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "T3 Interprofessional Team Development Program",
-      "url": "https://calendar.utexas.edu/event/t3-interprofessional-team-development-program-8249",
-      "start": "2027-05-10",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs NCAA Regional Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-ncaa-regional-championship-3122",
-      "start": "2027-05-10",
-      "location": "TBA"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-05-11",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-05-11",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/05/11",
@@ -10980,27 +11302,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "T3 Interprofessional Team Development Program",
-      "url": "https://calendar.utexas.edu/event/t3-interprofessional-team-development-program-8249",
-      "start": "2027-05-11",
-      "location": "Virtual"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Sam Houston",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-sam-houston-7593",
-      "start": "2027-05-11",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs NCAA Regional Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-ncaa-regional-championship-7801",
-      "start": "2027-05-11",
-      "location": "TBA"
     },
     {
       "source": "internal",
