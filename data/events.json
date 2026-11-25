@@ -1,138 +1,11 @@
 {
-  "updated": "2026-11-24T17:13:52.246913+00:00",
+  "updated": "2026-11-25T02:01:41.983899+00:00",
   "counts": {
-    "public": 4,
-    "internal": 181,
-    "ut": 1444
+    "public": 3,
+    "internal": 179,
+    "ut": 1430
   },
   "events": [
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-24",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Spring ESL Classes",
-      "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
-      "start": "2026-11-24",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "public",
-      "title": "CPAN ECHO Series: Psychological vs. Neuropsychological Assessment",
-      "url": "https://dellmed.utexas.edu/events/cpan-echo-series-psychological-vs-neuropsychological-assessment",
-      "start": "2026-11-24",
-      "time": "12–1 p.m.",
-      "location": "Virtual",
-      "speaker": null
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-11-24",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Christian Faculty and Staff Network",
-      "url": "https://calendar.utexas.edu/event/christian-faculty-and-staff-network-4823",
-      "start": "2026-11-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-11-24",
-      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "E+E Mainstage Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ee-mainstage-committee-meeting",
-      "start": "2026-11-24",
-      "location": "Texas Union Eastwoods Room (2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-24",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-11-24",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-11-24",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S. South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth-4729",
-      "start": "2026-11-24",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2026-11-24",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "internal",
-      "title": "IT Office Hour (DPRI)",
-      "url": "https://intranet.dellmed.utexas.edu/event/864131/2026/11/24",
-      "start": "2026-11-24",
-      "time": "8:00am – 12:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
-    {
-      "source": "ut",
-      "title": "Mama’s Broke Reunion Album Release Tour at The Cactus Cafe",
-      "url": "https://calendar.utexas.edu/event/mamas-broke-reunionalbum-release-tour-at-the-cactus-cafe",
-      "start": "2026-11-24",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-11-24",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-11-24",
-      "location": "Benson Latin American Collection, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "internal",
-      "title": "Talent Acquisition Office Hours",
-      "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/11/24",
-      "start": "2026-11-24",
-      "time": "11:00am – 12:00 pm",
-      "location": "",
-      "speaker": null,
-      "end": null
-    },
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
@@ -1468,13 +1341,6 @@
       "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
       "start": "2026-12-03",
       "location": "SSB 3.214"
-    },
-    {
-      "source": "ut",
-      "title": "Reddit AMA featuring UTIG's Team REASON",
-      "url": "https://calendar.utexas.edu/event/reddit-ama-featuring-utigs-team-reason",
-      "start": "2026-12-03",
-      "location": "JJ Pickle Campus ROC BLDG. 196,  2.102"
     },
     {
       "source": "ut",
@@ -11012,6 +10878,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-03-24",
+      "location": "Center for Students in Recovery, WCP 2.112"
     },
     {
       "source": "ut",
