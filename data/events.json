@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-26T01:41:25.206893+00:00",
+  "updated": "2026-11-26T16:37:19.433414+00:00",
   "counts": {
     "public": 3,
     "internal": 179,
-    "ut": 1426
+    "ut": 1442
   },
   "events": [
     {
@@ -8980,6 +8980,13 @@
     },
     {
       "source": "ut",
+      "title": "Ainadamar",
+      "url": "https://calendar.utexas.edu/event/ainadamar",
+      "start": "2027-02-18",
+      "location": "McCullough Theatre, Performing Arts Center (PAC), McCullough Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-18",
@@ -9091,6 +9098,13 @@
     },
     {
       "source": "ut",
+      "title": "Ainadamar",
+      "url": "https://calendar.utexas.edu/event/ainadamar",
+      "start": "2027-02-19",
+      "location": "McCullough Theatre, Performing Arts Center (PAC), McCullough Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-19",
@@ -9196,6 +9210,13 @@
     },
     {
       "source": "ut",
+      "title": "Ainadamar",
+      "url": "https://calendar.utexas.edu/event/ainadamar",
+      "start": "2027-02-20",
+      "location": "McCullough Theatre, Performing Arts Center (PAC), McCullough Theatre"
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2027-02-20",
@@ -9270,6 +9291,13 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-02-21",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Ainadamar",
+      "url": "https://calendar.utexas.edu/event/ainadamar",
+      "start": "2027-02-21",
+      "location": "McCullough Theatre, Performing Arts Center (PAC), McCullough Theatre"
     },
     {
       "source": "ut",
@@ -10711,6 +10739,13 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2027-03-10",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-10",
@@ -10786,6 +10821,34 @@
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
     },
     {
+      "source": "ut",
+      "title": "Comics and Zines: Staff Picks from the Benson Collection",
+      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
+      "start": "2027-03-11",
+      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
+    },
+    {
+      "source": "ut",
+      "title": "Gemeinschaft of the Nonhuman: Spinoza in the Weimar Democratic Crisis",
+      "url": "https://calendar.utexas.edu/event/tbd-5653",
+      "start": "2027-03-11",
+      "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-11",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-03-11",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/11",
@@ -10794,6 +10857,55 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-03-11",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-11",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "UT System Academy of Distinguished Teachers and UT System Educational  present Igniting Curiosity: Assessing Learning for a Lifetime",
+      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducational-present-igniting-curiosity-assessing-learning-for-a-lifetime",
+      "start": "2027-03-11",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs Nanea Cup",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-cup",
+      "start": "2027-03-11",
+      "location": "Kailua-Kona, Hawaii"
+    },
+    {
+      "source": "ut",
+      "title": "WCAAR Weekly Meeting -  Yeonha Ju (Fenno Lab)",
+      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-yeonha-ju-fenno-lab",
+      "start": "2027-03-11",
+      "location": "HDB 1.204"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-12",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball vs Murray State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-murray-state",
+      "start": "2027-03-12",
+      "location": "Austin, Texas, UFCU Disch-Falk Field"
     },
     {
       "source": "internal",
