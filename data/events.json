@@ -1,150 +1,24 @@
 {
-  "updated": "2026-11-25T16:57:31.652994+00:00",
+  "updated": "2026-11-26T01:41:25.206893+00:00",
   "counts": {
     "public": 3,
     "internal": 179,
-    "ut": 1447
+    "ut": 1426
   },
   "events": [
     {
       "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
-      "start": "2026-11-25",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Apply: Spring ESL Classes",
-      "url": "https://calendar.utexas.edu/event/apply-spring-esl-classes-3270",
-      "start": "2026-11-25",
-      "location": "Texas Global (N24)"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2026-11-25",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cactus Cafe Songwriters&#039\\; Open Mic Hosted by Jake Farr",
-      "url": "https://calendar.utexas.edu/event/cactus-cafe-songwriters039-open-mic-hosted-by-jake-farr",
-      "start": "2026-11-25",
-      "location": "Cactus Cafe"
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2026-11-25",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2026-11-25",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Career Storytelling Workshop",
-      "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
-      "start": "2026-11-25",
-      "location": "Peter T. Flawn Academic Center (FAC) 2.134 Conference Room"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2026-11-25",
-      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Ethics and Oversight Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/ethics-and-oversight-committee-meeting",
-      "start": "2026-11-25",
-      "location": "WCP 2.102 (Student Gov. Office)"
-    },
-    {
-      "source": "ut",
-      "title": "Experimental Seeing: Russell Lee’s Pedagogical Legacy",
-      "url": "https://calendar.utexas.edu/event/experimental-seeing-russell-lees-pedagogical-legacy-2240",
-      "start": "2026-11-25",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fieldwork Projects: Constructed Realities: A Slice of Time-Art Through Student Visions",
-      "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
-      "start": "2026-11-25",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Fortlandia",
-      "url": "https://calendar.utexas.edu/event/fortlandia-6277",
-      "start": "2026-11-25",
-      "location": "Lady Bird Johnson Wildflower Center"
-    },
-    {
-      "source": "ut",
-      "title": "How to Grow the Cowpea: Survival Strategies from the U.S. South",
-      "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth-4729",
-      "start": "2026-11-25",
-      "location": "Visual Arts Center, Art Building (ART)"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2026-11-25",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
-      "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
-      "start": "2026-11-25",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Public Assembly",
-      "url": "https://calendar.utexas.edu/event/public-assembly",
-      "start": "2026-11-25",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
-      "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
-      "start": "2026-11-25",
-      "location": "Benson Latin American Collection, Ann Hartness Reading Room (SRH 1.106)"
-    },
-    {
-      "source": "ut",
-      "title": "Rules and Procedures Committee Meeting",
-      "url": "https://calendar.utexas.edu/event/rules-and-procedures-committee-meeting",
-      "start": "2026-11-25",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "The 2026 WSG Finance Internship Competition",
-      "url": "https://calendar.utexas.edu/event/the-2026-wsg-finance-internship-competition",
-      "start": "2026-11-25",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Adraint Bereal: As It Appears",
-      "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-26",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Apply for the 2027-28 TEX-E Fellowship | Priority deadline Dec 1",
+      "url": "https://calendar.utexas.edu/event/apply-for-the-2027-28-tex-e-fellowship-priority-deadline-dec-1",
+      "start": "2026-11-26",
+      "location": null
     },
     {
       "source": "ut",
@@ -214,6 +88,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-11-26",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-26",
@@ -270,6 +151,13 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-11-27",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Apply for the 2027-28 TEX-E Fellowship | Priority deadline Dec 1",
+      "url": "https://calendar.utexas.edu/event/apply-for-the-2027-28-tex-e-fellowship-priority-deadline-dec-1",
+      "start": "2026-11-27",
+      "location": null
     },
     {
       "source": "ut",
@@ -350,6 +238,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-11-27",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-27",
@@ -399,6 +294,13 @@
     },
     {
       "source": "ut",
+      "title": "Apply for the 2027-28 TEX-E Fellowship | Priority deadline Dec 1",
+      "url": "https://calendar.utexas.edu/event/apply-for-the-2027-28-tex-e-fellowship-priority-deadline-dec-1",
+      "start": "2026-11-28",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-28",
@@ -445,6 +347,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-11-28",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-11-28",
+      "location": null
     },
     {
       "source": "ut",
@@ -490,6 +399,13 @@
     },
     {
       "source": "ut",
+      "title": "Apply for the 2027-28 TEX-E Fellowship | Priority deadline Dec 1",
+      "url": "https://calendar.utexas.edu/event/apply-for-the-2027-28-tex-e-fellowship-priority-deadline-dec-1",
+      "start": "2026-11-29",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Career Storytelling Workshop",
       "url": "https://calendar.utexas.edu/event/career-storytelling-workshop",
       "start": "2026-11-29",
@@ -536,6 +452,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-11-29",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-11-29",
+      "location": null
     },
     {
       "source": "ut",
@@ -592,6 +515,13 @@
       "url": "https://calendar.utexas.edu/event/afternoon-yoga",
       "start": "2026-11-30",
       "location": "Center for Students in Recovery, WCP 2.112, 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Apply for the 2027-28 TEX-E Fellowship | Priority deadline Dec 1",
+      "url": "https://calendar.utexas.edu/event/apply-for-the-2027-28-tex-e-fellowship-priority-deadline-dec-1",
+      "start": "2026-11-30",
+      "location": null
     },
     {
       "source": "ut",
@@ -688,6 +618,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-11-30",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "PowerHouse Texas 2027 Energy Policy Fellowship — Applications Open",
       "url": "https://calendar.utexas.edu/event/powerhouse-texas-2027-energy-policy-fellowship-applications-open",
       "start": "2026-11-30",
@@ -762,6 +699,13 @@
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-01",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Apply for the 2027-28 TEX-E Fellowship | Priority deadline Dec 1",
+      "url": "https://calendar.utexas.edu/event/apply-for-the-2027-28-tex-e-fellowship-priority-deadline-dec-1",
+      "start": "2026-12-01",
+      "location": null
     },
     {
       "source": "ut",
@@ -901,6 +845,13 @@
       "url": "https://calendar.utexas.edu/event/mccombs-summer-institute-msi",
       "start": "2026-12-01",
       "location": "CBA 2.564 Big Bend"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-01",
+      "location": null
     },
     {
       "source": "public",
@@ -1153,6 +1104,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-02",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-12-02",
@@ -1397,6 +1355,13 @@
       "url": "https://calendar.utexas.edu/event/neurodivergent-voices-a-drop-in-support-group-for-students-who-identify-as-nd",
       "start": "2026-12-03",
       "location": "SSB 3.214"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-03",
+      "location": null
     },
     {
       "source": "ut",
@@ -1658,6 +1623,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-04",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-04",
@@ -1819,6 +1791,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-05",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-05",
@@ -1973,6 +1952,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-06",
@@ -2110,6 +2096,13 @@
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2026-12-07",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-07",
+      "location": null
     },
     {
       "source": "ut",
@@ -2267,6 +2260,13 @@
       "url": "https://calendar.utexas.edu/event/mfa-in-design-info-session-1437",
       "start": "2026-12-08",
       "location": ", Online"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-08",
+      "location": null
     },
     {
       "source": "ut",
@@ -2468,6 +2468,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-09",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Public Assembly",
       "url": "https://calendar.utexas.edu/event/public-assembly",
       "start": "2026-12-09",
@@ -2631,6 +2638,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-10",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-10",
+      "location": null
     },
     {
       "source": "ut",
@@ -2833,6 +2847,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-11",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Retirement Income Planning by VOYA",
       "url": "https://calendar.utexas.edu/event/retirement-income-planning-by-voya",
       "start": "2026-12-11",
@@ -2987,6 +3008,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-12",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-12",
@@ -3110,6 +3138,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-13",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-13",
+      "location": null
     },
     {
       "source": "ut",
@@ -3239,6 +3274,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-14",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Revolutions and Constitutions: Nation-Building in the Americas after 1776",
       "url": "https://calendar.utexas.edu/event/revolutions-and-constitutions-nation-building-in-the-americas-after-1776",
       "start": "2026-12-14",
@@ -3351,6 +3393,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-15",
+      "location": null
     },
     {
       "source": "internal",
@@ -3524,6 +3573,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-16",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs Little Rock",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-little-rock",
       "start": "2026-12-16",
@@ -3656,6 +3712,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-17",
+      "location": null
     },
     {
       "source": "ut",
@@ -3805,6 +3868,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-18",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Swimming and Diving vs Vanderbilt",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-vanderbilt",
       "start": "2026-12-18",
@@ -3875,6 +3945,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-19",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Women's Basketball vs Duke",
       "url": "https://calendar.utexas.edu/event/university-of-texas-womens-basketball-vs-duke",
       "start": "2026-12-19",
@@ -3935,6 +4012,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-20",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-20",
+      "location": null
     },
     {
       "source": "ut",
@@ -4008,6 +4092,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-21",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-22",
@@ -4078,6 +4169,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-22",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-22",
+      "location": null
     },
     {
       "source": "internal",
@@ -4199,6 +4297,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-23",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-24",
@@ -4255,6 +4360,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-24",
+      "location": null
     },
     {
       "source": "ut",
@@ -4331,6 +4443,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-25",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-25",
@@ -4387,6 +4506,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-26",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2026-12-27",
@@ -4440,6 +4566,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-27",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-27",
+      "location": null
     },
     {
       "source": "ut",
@@ -4503,6 +4636,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-28",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-28",
+      "location": null
     },
     {
       "source": "ut",
@@ -4576,6 +4716,13 @@
       "url": "https://calendar.utexas.edu/event/luminations-145",
       "start": "2026-12-29",
       "location": "Lady Bird Johnson Wildflower Center"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-29",
+      "location": null
     },
     {
       "source": "internal",
@@ -4690,6 +4837,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-30",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2026-12-30",
@@ -4769,6 +4923,13 @@
       "location": "Lady Bird Johnson Wildflower Center"
     },
     {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2026-12-31",
+      "location": null
+    },
+    {
       "source": "internal",
       "title": "Talent Acquisition Office Hours",
       "url": "https://intranet.dellmed.utexas.edu/event/1017682/2026/12/31",
@@ -4843,6 +5004,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-01",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-01",
@@ -4892,6 +5060,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-02",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball vs Florida - presented by State Farm",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-vs-florida-2423",
       "start": "2027-01-02",
@@ -4938,6 +5113,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth-4729",
       "start": "2027-01-03",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-03",
+      "location": null
     },
     {
       "source": "ut",
@@ -5011,6 +5193,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-04",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "Adraint Bereal: As It Appears",
       "url": "https://calendar.utexas.edu/event/adraint-bereal-as-it-appears-6538",
       "start": "2027-01-05",
@@ -5074,6 +5263,13 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-05",
+      "location": null
     },
     {
       "source": "ut",
@@ -5164,6 +5360,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-06",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "SMART Recovery",
       "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
       "start": "2027-01-06",
@@ -5239,6 +5442,13 @@
       "source": "ut",
       "title": "Immersive Python Workshop 2027",
       "url": "https://calendar.utexas.edu/event/immersive-python-workshop-2027",
+      "start": "2027-01-07",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
       "start": "2027-01-07",
       "location": null
     },
@@ -5335,6 +5545,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-08",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Swimming and Diving at SMU",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-swimming-and-diving-at-smu",
       "start": "2027-01-08",
@@ -5412,6 +5629,13 @@
     },
     {
       "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-09",
+      "location": null
+    },
+    {
+      "source": "ut",
       "title": "University of Texas Men's Basketball at Ole Miss",
       "url": "https://calendar.utexas.edu/event/university-of-texas-mens-basketball-at-ole-miss-8128",
       "start": "2027-01-09",
@@ -5465,6 +5689,13 @@
       "url": "https://calendar.utexas.edu/event/how-to-grow-the-cowpea-survival-strategies-from-the-ussouth-4729",
       "start": "2027-01-10",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-10",
+      "location": null
     },
     {
       "source": "ut",
@@ -5542,6 +5773,13 @@
       "url": "https://calendar.utexas.edu/event/mfa-in-design-info-session-8420",
       "start": "2027-01-11",
       "location": ", Online"
+    },
+    {
+      "source": "ut",
+      "title": "Openminds NextGen 2027 Applications are OPEN!",
+      "url": "https://calendar.utexas.edu/event/openminds-nextgen-2027-applications-are-open",
+      "start": "2027-01-11",
+      "location": null
     },
     {
       "source": "ut",
@@ -10473,13 +10711,6 @@
     },
     {
       "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-03-10",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
       "title": "Comics and Zines: Staff Picks from the Benson Collection",
       "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
       "start": "2027-03-10",
@@ -10555,34 +10786,6 @@
       "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
     },
     {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-03-11",
-      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Gemeinschaft of the Nonhuman: Spinoza in the Weimar Democratic Crisis",
-      "url": "https://calendar.utexas.edu/event/tbd-5653",
-      "start": "2027-03-11",
-      "location": "Texas Union Building (UNB), Eastwoods Room (UNB 2.102)"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-11",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-03-11",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/11",
@@ -10591,251 +10794,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-03-11",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-11",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "UT System Academy of Distinguished Teachers and UT System Educational  present Igniting Curiosity: Assessing Learning for a Lifetime",
-      "url": "https://calendar.utexas.edu/event/ut-system-academy-of-distinguished-teachers-and-ut-systemeducational-present-igniting-curiosity-assessing-learning-for-a-lifetime",
-      "start": "2027-03-11",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Nanea Cup",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-cup",
-      "start": "2027-03-11",
-      "location": "Kailua-Kona, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "WCAAR Weekly Meeting -  Yeonha Ju (Fenno Lab)",
-      "url": "https://calendar.utexas.edu/event/wcaar-weekly-meeting-yeonha-ju-fenno-lab",
-      "start": "2027-03-11",
-      "location": "HDB 1.204"
-    },
-    {
-      "source": "ut",
-      "title": "Comics and Zines: Staff Picks from the Benson Collection",
-      "url": "https://calendar.utexas.edu/event/comics-and-zines-staff-picks-from-the-benson-collection",
-      "start": "2027-03-12",
-      "location": "Benson Latin American Collection, Nettie Lee Benson Latin American Collection, Second Floor Gallery Space"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-12",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-03-12",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Longhorn Recovery Circle",
-      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
-      "start": "2027-03-12",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-03-12",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-12",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Murray State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-murray-state",
-      "start": "2027-03-12",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs Florida",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-florida-8349",
-      "start": "2027-03-12",
-      "location": "Austin, Texas, Red & Charline McCombs Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Track & Field / Cross Country vs NCAA Indoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-ncaa-indoor-championships",
-      "start": "2027-03-12",
-      "location": "Fayetteville, Ark., Randal Tyson Track Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Nanea Cup",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-cup-5537",
-      "start": "2027-03-12",
-      "location": "Kailua-Kona, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis at Mississippi State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-mississippi-state-8358",
-      "start": "2027-03-12",
-      "location": "Starkville, Miss., A.J. Pitts Tennis Centre"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-13",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-13",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Murray State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-murray-state-9990",
-      "start": "2027-03-13",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Men's Tennis vs Alabama",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-alabama-6022",
-      "start": "2027-03-13",
-      "location": "Austin, Texas, Texas Tennis Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs Florida",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-florida-8747",
-      "start": "2027-03-13",
-      "location": "Austin, Texas, Red & Charline McCombs Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Track & Field / Cross Country vs NCAA Indoor Championships",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-track-field-cross-country-vs-ncaa-indoor-championships-4000",
-      "start": "2027-03-13",
-      "location": "Fayetteville, Ark., Randal Tyson Track Center"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Nanea Cup",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-cup-5643",
-      "start": "2027-03-13",
-      "location": "Kailua-Kona, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-14",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-14",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Murray State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-murray-state-1312",
-      "start": "2027-03-14",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Softball vs Florida",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-vs-florida-3697",
-      "start": "2027-03-14",
-      "location": "Austin, Texas, Red & Charline McCombs Field"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Golf vs Nanea Cup",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-nanea-cup-2475",
-      "start": "2027-03-14",
-      "location": "Kailua-Kona, Hawaii"
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Tennis at Alabama",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-alabama-2985",
-      "start": "2027-03-14",
-      "location": "Tuscaloosa, Ala., Roberta Alison Baumgardner Tennis Facility"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-15",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-03-15",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-15",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "Campus Open Recovery",
-      "url": "https://calendar.utexas.edu/event/campus-open-recovery",
-      "start": "2027-03-16",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-16",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-03-16",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
       "source": "internal",
@@ -10858,97 +10816,6 @@
       "end": null
     },
     {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "TAMALES - Texas Assistive Technology Makers Alliance",
-      "url": "https://calendar.utexas.edu/event/tamales-texas-assistive-technology-makers-alliance",
-      "start": "2027-03-16",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Baseball vs Tarleton State",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-vs-tarleton-state-9834",
-      "start": "2027-03-16",
-      "location": "Austin, Texas, UFCU Disch-Falk Field"
-    },
-    {
-      "source": "ut",
-      "title": "Assembly Committee Meetings",
-      "url": "https://calendar.utexas.edu/event/assembly-committee-meetings",
-      "start": "2027-03-17",
-      "location": "WCP 2.302"
-    },
-    {
-      "source": "ut",
-      "title": "Cannabis Recovery",
-      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
-      "start": "2027-03-17",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "GSC Monthly Meeting",
-      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
-      "start": "2027-03-17",
-      "location": "NUR 4.180"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-17",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-03-17",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
-      "source": "ut",
-      "title": "SMART Recovery",
-      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
-      "start": "2027-03-17",
-      "location": "Center for Students in Recovery, WCP 2.112"
-    },
-    {
-      "source": "ut",
-      "title": "Spring Graduate Course - Battery Systems Engineering",
-      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
-      "start": "2027-03-17",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship",
-      "start": "2027-03-17",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
-    },
-    {
-      "source": "ut",
-      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
-      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
-      "start": "2027-03-18",
-      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
-    },
-    {
-      "source": "ut",
-      "title": "Hullabaloo Hooray: The History of Texas Spirit",
-      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
-      "start": "2027-03-18",
-      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
-    },
-    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/18",
@@ -10967,20 +10834,6 @@
       "location": "",
       "speaker": null,
       "end": null
-    },
-    {
-      "source": "ut",
-      "title": "No WCAAR Meeting - Spring Break",
-      "url": "https://calendar.utexas.edu/event/no-wcaar-meeting-spring-break",
-      "start": "2027-03-18",
-      "location": null
-    },
-    {
-      "source": "ut",
-      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
-      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship-7998",
-      "start": "2027-03-18",
-      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
     },
     {
       "source": "internal",
