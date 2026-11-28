@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-28T01:15:00.651805+00:00",
+  "updated": "2026-11-28T15:15:40.913879+00:00",
   "counts": {
     "public": 3,
     "internal": 177,
-    "ut": 1441
+    "ut": 1491
   },
   "events": [
     {
@@ -756,6 +756,13 @@
       "url": "https://calendar.utexas.edu/event/fieldwork-projects-constructed-realities-a-slice-of-time-art-through-student-visions-1654",
       "start": "2026-12-02",
       "location": "Visual Arts Center, Art Building (ART)"
+    },
+    {
+      "source": "ut",
+      "title": "Financial Affairs Committee Meeting",
+      "url": "https://calendar.utexas.edu/event/financial-affairs-committee-meeting",
+      "start": "2026-12-02",
+      "location": null
     },
     {
       "source": "ut",
@@ -8973,6 +8980,13 @@
     },
     {
       "source": "ut",
+      "title": "Jazz Band\\, Ensemble &amp\\;amp\\; Orchestra",
+      "url": "https://calendar.utexas.edu/event/jazz-band-ensemble-ampamp-orchestra-3870",
+      "start": "2027-02-20",
+      "location": "Bates Recital Hall, Music Building (MRH), Bates Recital Hall"
+    },
+    {
+      "source": "ut",
       "title": "Spring Graduate Course - Battery Systems Engineering",
       "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
       "start": "2027-02-20",
@@ -10888,6 +10902,20 @@
     },
     {
       "source": "ut",
+      "title": "Cannabis Recovery",
+      "url": "https://calendar.utexas.edu/event/cannabis-recovery-5606",
+      "start": "2027-03-17",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "GSC Monthly Meeting",
+      "url": "https://calendar.utexas.edu/event/gsc-monthly-meeting",
+      "start": "2027-03-17",
+      "location": "NUR 4.180"
+    },
+    {
+      "source": "ut",
       "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
       "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
       "start": "2027-03-17",
@@ -10898,6 +10926,41 @@
       "title": "Hullabaloo Hooray: The History of Texas Spirit",
       "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
       "start": "2027-03-17",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-03-17",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-17",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship",
+      "start": "2027-03-17",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-18",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-03-18",
       "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
     },
     {
@@ -10921,6 +10984,272 @@
       "end": null
     },
     {
+      "source": "ut",
+      "title": "No WCAAR Meeting - Spring Break",
+      "url": "https://calendar.utexas.edu/event/no-wcaar-meeting-spring-break",
+      "start": "2027-03-18",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-03-18",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-18",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Ole Miss",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-ole-miss-2495",
+      "start": "2027-03-18",
+      "location": "Austin, Texas, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship-7998",
+      "start": "2027-03-18",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-19",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-03-19",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Longhorn Recovery Circle",
+      "url": "https://calendar.utexas.edu/event/longhorn-recovery-circle-1410",
+      "start": "2027-03-19",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "SMART Recovery",
+      "url": "https://calendar.utexas.edu/event/smart-recovery-1188",
+      "start": "2027-03-19",
+      "location": "Center for Students in Recovery, WCP 2.112"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-19",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-lsu",
+      "start": "2027-03-19",
+      "location": "Baton Rouge, La., Alex Box Stadium, Skip Bertman Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Tennessee Lady Volunteers",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-tennessee-lady-volunteers",
+      "start": "2027-03-19",
+      "location": "Knoxville, Tenn., Sherri Parker Lee Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship-5587",
+      "start": "2027-03-19",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis at South Carolina",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-south-carolina",
+      "start": "2027-03-19",
+      "location": "Columbia, S.C., Carolina Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "Beetlejuice",
+      "url": "https://calendar.utexas.edu/event/beetlejuice-6663",
+      "start": "2027-03-20",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-20",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-20",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-lsu-1195",
+      "start": "2027-03-20",
+      "location": "Baton Rouge, La., Alex Box Stadium, Skip Bertman Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Tennis vs Kentucky",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-tennis-vs-kentucky-175",
+      "start": "2027-03-20",
+      "location": "Austin, Texas, Texas Tennis Center"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Rowing vs San Diego Crew Classic",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-san-diego-crew-classic-7562",
+      "start": "2027-03-20",
+      "location": "San Diego, Calif., Crown Point on Mission Bay"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Tennessee Lady Volunteers",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-tennessee-lady-volunteers-3746",
+      "start": "2027-03-20",
+      "location": "Knoxville, Tenn., Sherri Parker Lee Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Swimming and Diving vs NCAA Championship",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-swimming-and-diving-vs-ncaa-championship-8506",
+      "start": "2027-03-20",
+      "location": "Austin, Texas, Lee and Joe Jamail Texas Swimming Center"
+    },
+    {
+      "source": "ut",
+      "title": "Beetlejuice",
+      "url": "https://calendar.utexas.edu/event/beetlejuice-6663",
+      "start": "2027-03-21",
+      "location": "Bass Concert Hall, Performing Arts Center (PAC)"
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-21",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-21",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at LSU",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-lsu-6571",
+      "start": "2027-03-21",
+      "location": "Baton Rouge, La., Alex Box Stadium, Skip Bertman Field"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Rowing vs San Diego Crew Classic",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-rowing-vs-san-diego-crew-classic-3755",
+      "start": "2027-03-21",
+      "location": "San Diego, Calif., Crown Point on Mission Bay"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Softball at Tennessee Lady Volunteers",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-softball-at-tennessee-lady-volunteers-649",
+      "start": "2027-03-21",
+      "location": "Knoxville, Tenn., Sherri Parker Lee Stadium"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Tennis at Georgia",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-tennis-at-georgia",
+      "start": "2027-03-21",
+      "location": "Athens, Ga., Dan Magill Tennis Complex"
+    },
+    {
+      "source": "ut",
+      "title": "AI\\, Genomics &amp\\; Biosecurity Conference",
+      "url": "https://calendar.utexas.edu/event/ai-genomics-amp-biosecurity-conference",
+      "start": "2027-03-22",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-22",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-03-22",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
+      "source": "ut",
+      "title": "Spring Graduate Course - Battery Systems Engineering",
+      "url": "https://calendar.utexas.edu/event/spring-graduate-course-battery-systems-engineering",
+      "start": "2027-03-22",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at Valspar Collegiate Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-valspar-collegiate-invitational-7579",
+      "start": "2027-03-22",
+      "location": "Palm City, Florida"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs Charles Schwab Women's Collegiate",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-charles-schwab-womens-collegiate",
+      "start": "2027-03-22",
+      "location": "Fort Worth, Texas"
+    },
+    {
+      "source": "ut",
+      "title": "AI\\, Genomics &amp\\; Biosecurity Conference",
+      "url": "https://calendar.utexas.edu/event/ai-genomics-amp-biosecurity-conference",
+      "start": "2027-03-23",
+      "location": null
+    },
+    {
+      "source": "ut",
+      "title": "Gloria Anzaldúa’s Borderlands / La Frontera: A 40-Year Legacy Exhibition",
+      "url": "https://calendar.utexas.edu/event/gloria-anzalduas-borderlands-la-frontera-a-40-year-legacy-exhibition",
+      "start": "2027-03-23",
+      "location": "Benson Latin American Collection, Rare Books Reading Room, SRH 1.101"
+    },
+    {
+      "source": "ut",
+      "title": "Hullabaloo Hooray: The History of Texas Spirit",
+      "url": "https://calendar.utexas.edu/event/hullabaloo-hooray-the-history-of-texas-spirit",
+      "start": "2027-03-23",
+      "location": "H.J. Lutcher Stark Center for Physical Culture & Sports, NEZ 5.700"
+    },
+    {
       "source": "internal",
       "title": "IT Office Hour (DPRI)",
       "url": "https://intranet.dellmed.utexas.edu/event/864131/2027/03/23",
@@ -10939,6 +11268,27 @@
       "location": "",
       "speaker": null,
       "end": null
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Baseball at Texas State",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-baseball-at-texas-state-9880",
+      "start": "2027-03-23",
+      "location": "San Marcos, Texas, Bobcat Ballpark"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Men's Golf at Valspar Collegiate Invitational",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-mens-golf-at-valspar-collegiate-invitational-6363",
+      "start": "2027-03-23",
+      "location": "Palm City, Florida"
+    },
+    {
+      "source": "ut",
+      "title": "University of Texas Women's Golf vs Charles Schwab Women's Collegiate",
+      "url": "https://calendar.utexas.edu/event/university-of-texas-womens-golf-vs-charles-schwab-womens-collegiate-4570",
+      "start": "2027-03-23",
+      "location": "Fort Worth, Texas"
     },
     {
       "source": "internal",
